@@ -1,0 +1,815 @@
+#EXTM3U 
+
+
+#EXTINF:0,-DEPORTES-
+
+#EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Basico
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://c2.staticflickr.com/6/5698/21150836481_f3ec4a08f0_o.png" group-title="DEPORTES",Teletrak
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?xtreamiptv.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="DEPORTES",Sporting Tv HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="DEPORTES",Sporting Tv SD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,-INFANTILES-
+
+#EXTINF:-1 tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="INFANTILES" ,-----INFANTILES-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",Cachupum! Tv
+http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4477/square_150x150-2.jpg" group-title="INFANTILES",Trailer Tv Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,-AUTOS-
+
+#EXTINF:-1 tvg-logo="http://talleresgavira.es/wp-content/uploads/2016/08/icono_neumaticos.png" group-title="AUTOS" ,-----AUTOS-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvP1JSd.png" group-title="AUTOS", Mundo Auto HD
+https://593b04c4c5670.streamlock.net/8702/8702/master.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,-CHILE-
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN 
+http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega HD
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8?iptvgratis?chile.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
+http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",Canal 13  
+http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",Canal 13 
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",Canal 13 
+http://csm-e-ces1saexaws101j8-69gkd5l1dcoj.yospace.13.cl/csm/live/108031140/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
+http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream1/chunks.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
+http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream2/chunks.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
+http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream3/chunks.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV Gran Valparaiso HD
+http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red  
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
+https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b829163.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red  
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
+#EXTINF:-1 tvg-logo="http://www.cnnchile.com/sites/default/files/default_images/750px-CNN_Chile_Logo.svg_.png" group-title="CHILE",CNN 
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://www.cnnchile.com/sites/default/files/default_images/750px-CNN_Chile_Logo.svg_.png" group-title="CHILE",CNN 
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1178_7_9658.png" group-title="CHILE",Canal 24
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EqfxvtV.png" group-title="CHILE",Ahora Noticias
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BvIDfdb.png" group-title="CHILE",Canal 13 Movil 
+http://cdn.ztreaming.com/t13vivo3/mobile.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BvIDfdb.png" group-title="CHILE",Canal 13 Movil 
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.TVCHILE.png.a134e9433d393cad2f30517439400be9.png" group-title="CHILE",Tv Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvn.cl/incoming/tvncultopng-2536004/ALTERNATES/w460h260/TVNCulto.png" group-title="CHILE",TVN de Culto
+http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/59283217415649134b4d2241/playout/index-f2-v1-a1.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b9jUASs.png" group-title="CHILE",TVN Kids
+http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/index-v1-a1.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/musica20170317/201703171554/gfx/twitcar-tvnmusica.png" group-title="CHILE",TVN Musica
+http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SmIgka0.png" group-title="CHILE", Fm Hot HD
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SmIgka0.png" group-title="CHILE", Fm Hot 
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="CHILE",Maxima Tv HD 
+http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/YFxjfwm.png" group-title="CHILE",TV HD Chiguayante
+http://tv.portalfoxmix.club:1935/8046/8046/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ctn2B3v.png" group-title="CHILE",31 Tendencias Prime
+http://v2.tustreaming.cl/tustreaming/live7/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CHILE",Tv Pop HD
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png" group-title="CHILE",Niu Media HD
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w876534093_b1500000_slesp.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://www.arabtv.cl/wp-content/uploads/2016/08/logo_header.png" group-title="CHILE",Arab Tv HD
+http://149.56.17.92:1935/8404/8404/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 1 HD 
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 2 SD 
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+
+#EXTINF:0,-REGIONALES-
+
+#EXTINF:-1 tvg-logo="http://www.logo.com.py/imagenes_db/GAL-6828621010_1390810510.jpg" group-title="REGIONALES" ,-----REGIONALES-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://chilevisual.tv/radioonline/images/logo.png" group-title="REGIONALES",CHILEVISUAL
+http://v3.tustreaming.cl/chilevisual/live1/event-999999.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3782557/logo_desierto%20de%20atacama%20tv.png" group-title="REGIONALES", Desierto de Atacama TV 
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/apEd49LOyxs/maxresdefault.jpg" group-title="REGIONALES",UTA RTV
+https://593b04c4c5670.streamlock.net/uta/uta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://diarioelficticio.files.wordpress.com/2012/07/logo-atv.png" group-title="REGIONALES",Atacama TV 
+http://v2.tustreaming.cl/tustreaming/live2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/2454/square_150x150-2.jpg" group-title="REGIONALES",Arica Tv
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w1256972144_b848000.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cap_zpsaosigst3.png" group-title="REGIONALES",Cappissima Multimedial Arica
+http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/2440/square_150x150-2.jpg" group-title="REGIONALES",AM Tv Antofagasta
+http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1487255043.png" group-title="REGIONALES",Antofagasta Tv Antofagasta
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1499498801_b1428000.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso HD
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O82YpXFWCbo/hqdefault_live.jpg" group-title="REGIONALES",MARGA MARGA TV
+http://edge1.cl.grupoz.cl/margamargatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="REGIONALES",Canal 5 Linares
+http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.cl/canal-2-television-san-antonio.jpg?170413035848" group-title="REGIONALES",Canal 2 San Antonio
+http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://quintatv.cl/wp-content/uploads/2017/05/logo-negro.png" group-title="REGIONALES",Quinta Tv
+https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/LOGO_GIROVISUAL.jpg" group-title="REGIONALES",Giro Visual Quinta Region
+http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
+http://v2.tustreaming.cl/tustreaming/live4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.cl/canal-isb-iglesia-san-bernardo.jpg?160315114433" group-title="REGIONALES", ISB San Bernardo Santiago 
+http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://www.pintanatv.cl/wp-content/uploads/2018/01/logo.png" group-title="REGIONALES",La Pintana Tv Santiago
+http://edge1.cl.grupoz.cl/lapintana/live/chunklist_w1192466643.m3u8
+#EXTINF:-1 tvg-logo="http://www.canal57.cl/logocanal57web14.png" group-title="REGIONALES", Canal San Sebastian 57 Melipilla
+http://xcanal_cssx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noticiascolchagua.cl/wp-content/uploads/2014/05/plastificado.png" group-title="REGIONALES", CNC Colchagua Santa Cruz
+http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmaule.cl/1.png" group-title="REGIONALES",Tv Maule
+https://590c5dc5c3271.streamlock.net/dante271/dante271/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/campus_zps8hgdc5lg.png" group-title="REGIONALES",Campus Tv Talca
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.datovision.cl/images/11111.png" group-title="REGIONALES", DATOVISION Cachapoal
+http://tv.portalfoxmix.club:1935/dato33/dato33/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.diarioelcentro.cl//imagenes/logo-centrotv.png" group-title="REGIONALES", TV Centro Talca
+http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4909/square_150x150-2.jpg" group-title="REGIONALES",Romeral Tv 
+http://video.crearchile.info:8080/live/daemrome.mp4/chunklist_w78476331.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AJLlDp0clHA3g9C5FCCH4qTsDEvVIj-BVy-1KSR92A=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Sextavision Rancagua
+http://cl.streaminghd.cl/carlos132/carlos132/chunklist_w1205226236.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-U0-0d7OM5eU/ViFUXvTQ45I/AAAAAAAAREs/6QvvYLi_mkM/s1600/logo%2Bnegro.png" group-title="REGIONALES",Telecauquenes
+http://videostreaming.cl:8080/live/telecau/chunklist_w402953196.m3u8
+#EXTINF:-1 tvg-logo="http://www.nosmagazine.cl/wp-content/uploads/2015/02/LOGO-CANAL-letra.jpg" group-title="REGIONALES",Contivision Nacional HD Constitucion 
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w717136630_b428000.m3u8
+#EXTINF:-1 tvg-logo="http://www.nosmagazine.cl/wp-content/uploads/2015/02/LOGO-CANAL-letra.jpg" group-title="REGIONALES",Contivision Internacional HD Constitucion 
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w471505472_b828000.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mEW5hnh06kk/Wn9iDwBJ__I/AAAAAAAAgvs/bC-yY_Bj6tg4vkWwuxvb30Q4_rDt34TQwCK8BGAs/s225/2018-02-10.png" group-title="REGIONALES",Nuble Tv
+https://593b04c4c5670.streamlock.net/tvdaniel/tvdaniel/chunklist_w687739368.m3u8
+#EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="REGIONALES",Canal 21 Chillan
+http://v3.tustreaming.cl/canal21chillan/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.televida.cl/images/nuevo_logotelevida.png" group-title="REGIONALES",Televida Chillan
+http://evo.eltelon.com:1935/live/televida/chunklist_w1191743482.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/206897428/logo_c9r_400x400.jpg" group-title="REGIONALES",Canal 9 Bio Bio Concepcion HD
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/220px-TVUConcepcionLogo.png" group-title="REGIONALES",TVU Concepcion
+http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv4-television-lota.jpg?170609113315" group-title="REGIONALES",Tv 4 Lota
+http://evo.eltelon.com:1935/live/tv4-television/chunklist_w236013474.m3u8
+#EXTINF:-1 tvg-logo="http://rtvcanal.cl/wp-content/uploads/2017/09/LOGO-RTV-2-300x135.png" group-title="REGIONALES",CANAL 2 RENAICO
+http://servicioamerica.com:1935/8410/8410/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.noticiascorraleras.cl/imagenes/logo_autonomatv.png" group-title="REGIONALES",Universidad Autonoma Temuco
+http://v3.tustreaming.cl/tvautonoma/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.canal33.cl/assets/images/logo.png" group-title="REGIONALES",Canal 33 Temuco
+http://190.107.176.55:1935/live/canal-33/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchileyelmundo.xyz/logos/Tec%20Tv.png" group-title="REGIONALES",TEC Television Temuco
+http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
+#EXTINF:-1 tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png" group-title="REGIONALES",Ufrovision Temuco
+http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9a1FPhbG4jTkL7yFwFKw-E6nYuT7PIoKIBTip5SlcfhWp-dnZ" group-title="REGIONALES",ATV valdivia
+http://190.107.176.55:1935/live/atv-valdivia/chunklist_w636312347.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvinet.cl/template/images/logosn.png" group-title="REGIONALES",INET Osorno
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w2082687867_b828000.m3u8
+#EXTINF:-1 tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="REGIONALES",CANAL 54 LATINO
+http://video.crearchile.info:8080/live/mp4:latina.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",VISION TV FRUTILLAR
+http://stmv3.srvstm.com/visiontv/visiontv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mTyANR.png" group-title="REGIONALES",RTV Canal 2 Castro
+http://streaminglivehd.com:1935/8034/8034/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1285432961/LogoChiloETV.png" group-title="REGIONALES",Canal 75 Castro
+http://streaminglivehd.com:1935/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chilwe.cl/images/proyectos/min/proy_9.jpg" group-title="REGIONALES",Canal 2 Quellon
+http://wow1.cl.digitalproserver.com:1935/tvquellon/tvquellonvivo/tvquellon.smil/chunklist_w1413171841_b1128000.m3u8
+#EXTINF:-1 tvg-logo="http://radiogenial.cl/wp-content/uploads/2017/01/LOGO_20GENIAL_202014_20PARA_20FONDO_20claro.png" group-title="REGIONALES",Radio Genial Tv Coyhaique
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="REGIONALES",Rocco Tv Coyhaique
+http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/c11.png" group-title="REGIONALES",Canal 11 Aysen
+https://v3.tustreaming.cl/canal11aysen/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:-1 tvg-logo="http://tv-hd.cl/soberania-tv-magallanes-y-antartica.jpg?170126082940" group-title="REGIONALES",Soberania Tv Punta Arenas 
+http://evo.eltelon.com:1935/live/soberania/chunklist_w1320335487.m3u8
+#EXTINF:-1 tvg-logo="http://www.itvpatagonia.com/joomla/images/FotosArticulos/Itv.png" group-title="REGIONALES",ITV Punta Arenas 
+http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WXhBnNv.png" group-title="REGIONALES",El Pinguino Tv Punta Arenas 
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://www.novasur.cl/sites/default/files/web_umag_tv.png" group-title="REGIONALES", UMAGTV Punta Arenas 
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4954/square_150x150-2.jpg" group-title="REGIONALES", UMAGTV Punta Arenas 2
+http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
+
+#EXTINF:0,-RECITALES-
+
+#EXTINF:-1 tvg-logo="http://trinityriverside.org/wp-content/uploads/2013/09/Music-Recital-Logo.jpg" group-title="Recitales" ,-----Recitales-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Noche de Brujas
+https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_noche_de_brujas_120215_2200k.m3u8
+#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Villa Cari単o/Los Vikings
+https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_villa_carino_y_viking_031215_2200k.m3u8
+#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Los Bunkers
+https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_los_bunkers_031215_2200k.m3u8
+#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Los Jaivas
+https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_los_jaivas_031215_2200k.m3u8
+#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Nano Stern
+https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_nano_stern_120215_2200k.m3u8
+#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Manuel Garcia
+https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_manuel_garcia_031215_2200k.m3u8
+
+#EXTINF:0,-MUSICA-
+
+#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="MUSICA" ,-----MUSICA-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA",PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA",PortalFoxMix Tv 
+rtmp://tv.portalfoxmix.club/portalfoxmix/portalfoxmix
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3784036/logo_gufo%20rock%20latino.png" group-title="MUSICA",Gufo Rock Latino 
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3784037/logo_gufo%20retro.png" group-title="MUSICA",Gufo Retro 
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3784038/logo_gufo%20indies.png" group-title="MUSICA",Gufo Indie 
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.nosmagazine.cl/wp-content/uploads/2015/02/LOGO-CANAL-letra.jpg",Contivision Musica
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/chunklist_w215703189_b828000.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4478/square_150x150-2.jpg" group-title="MUSICA",Pandero Music
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4479/square_150x150-2.jpg" group-title="MUSICA",Pandero Music Chile
+http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+#EXTINF:-1 tvg-logo="http://www.fmdelosrecuerdos.cl/envivocanal/img/logohead.png" group-title="MUSICA",Canal de los Recuerdos 
+http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/597/250" group-title="MUSICA",Rock Nacional TV
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+
+#EXTINF:0,-RADIOTV-
+
+#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/2/b/k/g/q/m/tv-web-logo-color-md.png" group-title="RADIOTV" ,-----RADIOTV-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cDwnurz.png" group-title="RADIOTV",Carnaval Tv HD
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist_w684197806_b1428000.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cDwnurz.png" group-title="RADIOTV",Carnaval Tv SD
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist_w684197806_b428000.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv HD
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv SD
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
+#EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
+http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOTV",AE Radio Tv 
+http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/injuvfm.png" group-title="RADIOTV",Injuv Tv
+http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://www.icso.cl/wp-content/uploads/2015/10/logo_futuro2.png" group-title="RADIOTV",Radio Futuro Tv
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/s98741q_zps0vnfywxj.png" group-title="RADIOTV", Radio Tiempo Tv 
+http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/84184_zpsd0gzhp6h.png" group-title="RADIOTV", Radio Duna Tv
+http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo-zero-light_zpstwvtq006.png" group-title="RADIOTV", Radio Zero Tv 
+http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/mqdefault_zpsdijxexti.jpg" group-title="RADIOTV", Radio La Clave Tv
+http://unlimited6-cl.dps.live/laclavetv/laclavetv.smil/laclavetv/livestream2/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://www.adnradio.cl/im/logo100.gif" group-title="RADIOTV", Radio ADN Tv
+http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://files.csvrenca.webnode.cl/200001127-92f9593f5c/Radio-Cooperativa.jpg" group-title="RADIOTV", Radio Cooperativa Tv 
+http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1  tvg-logo="http://iptvchile.xyz/Logos/TeVe/Tele13_Radio_zpspn4m8raf.png" group-title="RADIOTV", Tele13 Radio Tv
+http://cdn.ztreaming.com/t13radio/mobile.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/uploads/media/4199/poster_300x300-2.jpg" group-title="RADIOTV",Radio Polar Tv
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png" group-title="RADIOTV",Radio Camila Tv
+http://190.107.176.55:1935/live/archi-camila/chunklist_w555256191.m3u8
+#EXTINF:0 tvg-logo="http://www.romantica.cl/wp-content/themes/radio-romantica-2016/images/logo-romantica-solo.png" group-title="RADIOTV",Radio Romantica Tv
+http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-logo="http://www.infinita.cl/wp-content/themes/infinita/img/logo.png" group-title="RADIOTV",Radio Infinita Tv
+http://movilstream.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4835/square_150x150-2.jpg" group-title="RADIOTV",Radio Agricultura Tv
+https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4900/square_150x150-2.jpg" group-title="RADIOTV",Radio Congreso Tv
+http://190.107.176.55:1935/live/archi-congreso/chunklist_w810766943.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4918/square_150x150-2.jpg" group-title="RADIOTV",Radio Camila Tv
+http://190.107.176.55:1935/live/archi-camila/chunklist_w1113935567.m3u8
+#EXTINF:-1 tvg-logo="http://www.pauta.cl/pauta/site/artic/20180307/imag/foto_0000000420180307152149/logo2.png" group-title="RADIOTV",Pauta HD
+http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV LA SERENA
+http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
+http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
+
+#EXTINF:0,-RADIOS-
+
+#EXTINF:-1 tvg-logo="http://www.radioglobohonduras.com/img-mic.png" group-title="RADIOS" ,-----RADIOS-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Imagina (88.1 FM)
+http://14073.live.streamtheworld.com/IMAGINAAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Canal 95 (88.1 FM Antofagasta)
+http://sonando.us.digitalproserver.com/canal95_aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Nostalgica (88.1 FM Copiapo)
+http://unlimited1-us.dps.live/nostalgica/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Bio Bio Temuco (88.1 FM Temuco)
+http://ice.dallas.digitalproserver.com/biotemu
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Concierto (88.5 FM)
+http://19793.live.streamtheworld.com/CONCIERTOAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Amiga (88.5 FM Vallenar)
+http://184.154.173.147:8021/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", FM OK (89.3 FM Antofagasta)
+http://streaming.fmokey.cl:8000/FmOkAT.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS",Futuro (88.9 FM)
+http://19793.live.streamtheworld.com/FUTUROAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Nuevo Mundo (88.9 FM Ovalle)
+http://190.82.105.90:8012/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", FM Mas (89.1 Arica)
+http://cast.radioservicios.cl:8026/fmmas
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Diferencia (FM 89.3 Salamanca)
+http://latitudmedia.cl:8930/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Duna (89.7 FM)
+http://unlimited11-cl.dps.live/duna/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Ñuble (89.7 FM Chillan)
+http://173.233.72.82:9358/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Carnaval (89.9 FM Viña del Mar)
+http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Bio Bio Valdivia (88.9 FM Valdivia)
+https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Colo-colo (90.1 FM)
+http://186.103.213.249:9988
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Pudahuel (90.5 FM)
+http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Alegria del Transporte (90.9 FM Calama)
+http://s6.medionline.cl:9364/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Maray (90.9 FM Copiapo)
+http://184.154.173.147:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Mirador (90.9 FM Lautaro)
+http://demo.dyndns.biz:8016/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Digital FM (91.1 FM)
+http://mimix.mercurio.cl:8000/digitalfm
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", El Conquistador (91.3 FM)
+http://195.154.167.62:9314/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", ADN Radio (91.7 FM)
+http://19173.live.streamtheworld.com/ADNAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Centro FM (91.7 FM Gorbea)
+http://s00.midns.net:8040/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Agricultura (92.1 FM)
+http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Cariñosa (92.1 FM)
+http://stream5.eltelon.com/carinosa-chillan.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Sur (92.1 FM Los Angeles)
+http://ww3.radiosur.cl:5074/rsur
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radioactiva (92.5 FM)
+http://18233.live.streamtheworld.com/ACTIVAAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Romina (92.5 FM Antofagasta)
+http://198.50.154.235:10246/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio ? (? FM ?)
+http://167.114.208.100:9844/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Entretenida FM (92.5 FM Vilcun)
+http://atanua.broadcastchile.cl:7000/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Nuevo Amanecer (93.3 FM Fresia)
+http://server1.oklanet.cl:8006/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", La Clave (92.9 FM)
+http://tunein.digitalproserver.com/laclavebb.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Universo (93.7 FM)
+http://unlimited1-us.dps.live/universo/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Amanecer (93.7 FM Caldera)
+http://107.155.120.114:9954/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Centinela (93.9 FM Yumbel)
+http://s3.medionline.cl:9964
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Magistral (93.9 FM Galvarino)
+http://www.magistralfm.cl:9110/galvarino
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Rock and Pop (94.1 FM)
+http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Genesis (94.1 FM Andacollo)
+http://stream5.eltelon.com/genesis-andacollo.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Rinconada (94.3 FM Mejillones)
+http://server4.radiostreaming.cl:8062/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Almeyda (94.3 FM Diego de Almagro)
+http://192.99.18.164:9974/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Bio Bio Valparaiso (96.7 FM Valparaiso)
+https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio La Discusion (94.7 FM Chillan)
+http://stream5.eltelon.com/radio-la-discusion.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Universal (94.7 FM Pitrufquen)
+http://s01.midns.net/universal-aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Maxima (94.9 FM)
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Amanda (94.9 FM Buin)
+http://amanda.cmtelcom.com/amanda128
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Bio Bio Puerto Montt (94.9 Puerto Montt)
+https://unlimited3-cl.dps.live/biobiopuertomontt/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Udec (95.1 FM Concepcion)
+http://radio.udec.cl:8000/radioudec
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Candela FM (95.3 FM)
+http://unlimited11-cl.dps.live/candela/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Coyhaique (95.3 FM Coyhaique)
+http://stream5.eltelon.com/radio-coyhaique.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Atractiva (FM 95.3 Concepcion)
+http://5.9.65.9:8062/atractiva
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", FM Tiempo (95.9 FM)
+http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Universidad de Tarapaca (95.9 FM Arica)
+http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Estilo (FM 95.9 Coyhaique)
+http://s6.jcwebnew.com:7870/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Araucana (95.9 FM Temuco)
+http://s6.medionline.cl:9180/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Beethoven (96.5 FM)
+http://tunein.digitalproserver.com/beethovenbb.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Genesis (96.5 FM Curacautin)
+http://stream5.eltelon.com/genesis.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Carnaval Antofagasta (96.5 FM)
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Loactual (96.7 FM Calama)
+http://rs.comtic.net:8000/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Bio Bio Los Angeles (96.7 FM Los Angeles)
+http://ice.dallas.digitalproserver.com/biola
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio San Bartolome (96.7 FM La Serena)
+http://stream5.eltelon.com/san-bartolome.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Uno (97.1 FM)
+http://17933.live.streamtheworld.com/RADIO_UNOAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio FM7 (Calama 97.3 - Antofagasta 89.7)
+http://198.50.154.235:10258/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Zero (97.7 FM)
+http://tunein.digitalproserver.com/zerobb.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Sol (97.7 FM Antofagasta)
+http://online.radiosol.cl:8000/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Sol Austral (97.7 FM Aysen)
+http://184.154.173.147:8019/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Ventisqueros (97.7 FM Coyhaique)
+http://stream5.eltelon.com:8000/ventisqueros.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Bio Bio Concepcion (98.1 FM Concepcion)
+https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Camila (98.3 FM Los Angeles)
+http://190.107.176.55:1935/live/archi-camila/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS",FM Dos (98.5 FM)
+http://18913.live.streamtheworld.com/FMDOSAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Positiva (98.5 FM Temuco)
+http://mimix.mercurio.cl:8000/temuco2
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio El Conquistador (98.9 FM Concepcion)
+http://s02.midns.net:8028/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Digital FM (99.1 FM Punta Arenas)
+http://mimix.mercurio.cl:8000/digitalfm
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Marcela (99.1 FM Huasco)
+http://stream5.eltelon.com/archi-marcela.aac?type=.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Carolina (99.3 FM)
+http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Arcoiris (99.3 FM Coyhaique)
+http://s6.jcwebnew.com:8120/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Positiva (FM 99.5 Valdivia)
+http://mimix.mercurio.cl:8000/valdivia2
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Caramelo (99.5 FM Los Angeles)
+http://sc6.digitalproserver.com:8120/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Bio Bio Santiago (99.7 FM)
+http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Universidad de Antofagasta (99.9 FM)
+http://185.105.4.100/proxy/radioua?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Infinita (100.1 FM)
+http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Andina (100.1 FM Arica)
+http://46.4.33.73:5000/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Paula FM (100.5 FM)
+http://unlimited1-us.dps.live/radiopaula/go/audio/now/livestream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Nueva Genial (100.5 FM Coyhaique)
+http://s6.jcwebnew.com:7555/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Mejillones FM (100.9 FM)
+http://s6.medionline.cl:8006/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Festiva (100.9 FM Copiapo)
+http://s6.jcwebnew.com:8070/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS",Radio Corazon (101.3 FM)
+http://14003.live.streamtheworld.com/CORAZONAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Los 40 Principales (101.7 FM)
+http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Oasis (102.1 FM)
+http://mp3.oasisfm.cl/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio U. de Chile (102.5 FM)
+http://167.114.208.100:9886/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Madero (102.5 FM Antofagasta)
+http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Montecarlo (102.7 FM)
+http://montecarloradiostation2.better-than.tv/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio La Voz De Yungay (102.7 FM Ñuble)
+http://stream5.eltelon.com/archi-yungay.aac?type=.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Las Nieves (102.9 FM Puerto Aysen)
+http://s6.jcwebnew.com:7060/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Okey (103.1 FM Copiapo)
+http://streaming.fmokey.cl:8000/FmOkCP.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Centro FM (103.3 FM Antofagasta)
+http://stream5.eltelon.com/centro.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio UCV FM (103.5 FM Valparaiso)
+http://sonando.us.digitalproserver.com/ucvradio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Contacto (103.9 FM Talagante)
+http://s02.midns.net:8697/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Romantica (104.1 FM)
+http://unlimited1-us.dps.live/romantica/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Disney (104.9 FM)
+http://unlimited2-us.dps.live/disney/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio 1049 (FM 104.9 Pucon)
+http://audio.streaminghd.cl:8034/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Sonar (105.3)
+http://mp3.sonarfm.cl/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Pinamar (105.3 FM La Serena)
+http://s02.midns.net:8034/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Positiva (FM 105.5 FM Concepcion)
+http://mimix.mercurio.cl:8000/concepcion2
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Extrema (106.1 FM Puerto Saavedra)
+http://stream5.eltelon.com/radio-extrema.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Bio Bio Osorno (106.5 FM Osorno)
+https://unlimited3-cl.dps.live/biobioosorno/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Cooperativa (106.7 FM)
+http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Plus FM (106.9 FM Antofagasta)
+http://sonando.us.digitalproserver.com/fmplus_aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Dixi (106.9 FM)
+http://192.99.150.234:9940
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Esperanza (106.9 FM Temuco)
+http://s6.jcwebnew.com:7800/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Popular (107.3 FM Coihueco :lib)
+http://192.99.150.234:9920/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Creaciones (107.5 FM Temuco)
+http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", NIU Radio
+http://live-origin.us.niu.cl/niu_radio.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS",NIU POP
+http://live-origin.us.niu.cl/niu_pop.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS",NIU Indie
+http://live-origin.us.niu.cl/niu_indie.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", NIU Rock
+http://live-origin.us.niu.cl/niu_rock.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", NIU CL
+http://live-origin.us.niu.cl/niu_cl.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS",NIU 80s
+http://live-origin.us.niu.cl/niu_80s.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS",NIU 90s
+http://live-origin.us.niu.cl/niu_90s.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Niu LIVE
+http://live-origin.us.niu.cl/niu_live.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Galaxia (Online)
+http://sscl.denialstream.com:8830/;stream/1.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Anglo Latina (Online)
+http://streaming.radioanglolatina.com:8012/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Celeste (Online - Copiapo)
+http://s6.jcwebnew.com:7970/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Aternativa FM (Online - Huasco)
+http://107.155.120.114:9944/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Concepcion (Online)
+http://ip.audiostreaming.cl:9764/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", UCT Radio Temuco (Online)
+http://audio.uctradio.cl/radio
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Camara de Diputados (Online)
+http://www.radiocamara.cl:8000/;stream.mp3/1
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Santiago (Orquestada) (690 AM)
+http://104.156.61.134:7036/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Santiago (Romantica) (690 AM)
+http://104.156.61.134:7028/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Santiago (Online) (690 AM)
+http://200.24.229.253:8290/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Santiago (Tropical) (690 AM)
+http://104.156.61.134:7032/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Nuevo Mundo (930 AM)
+http://190.82.105.90:8012/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Llacolen (1600 AM Concepcion)
+http://sc.digitalproserver.com:9532/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Portales (1180 AM)
+http://s6.jcwebnew.com:8060/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Primavera | San Antonio (Online)
+http://server2.mundonline.cl:9312/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Valentin Letelier (Valparaiso) | Online
+http://192.198.83.230:9304/;
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS",Radio Ritoque (Valparaiso)
+http://sonando.us.digitalproserver.com/ritoquefm_aac
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1152/PNG/512/1486506243-mic-microphone-radio-mic-recording-speak_81442.png" group-title="RADIOS", Radio Festival de Viña del Mar
+http://www.festival.cl:8000/listen.pls
+
+#EXTINF:0,-UOCT-
+
+#EXTINF:-1 tvg-logo="http://www.uoct.cl/wp-content/files_mf/342478conoce_UOCT.png" group-title="UOCT" ,-----UOCT-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Isidora Goyenechea-Vitacura
+http://200.75.19.171/uoct/55/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Tobalaba-Apoquindo
+http://200.75.19.171/uoct/30/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Providencia-Salvador
+http://200.75.19.171/uoct/19/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Macul-Grecia
+http://200.75.19.171/uoct/33/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Las Condes-La Dehesa
+http://200.75.19.171/uoct/31/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Bellavista-Arzobispo
+http://200.75.19.171/uoct/66/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Apoquindo-Las Condes
+http://200.75.19.171/uoct/29/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Vespucio-Camino del Inca
+http://200.75.19.171/uoct/54/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Apoquindo-Manquehue
+http://200.75.19.171/uoct/43/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Andres Bello-Nueva Tajamar
+http://200.75.19.171/uoct/42/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Diagonal Oriente - A. Vespucio
+http://200.75.19.171/uoct/10/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Apoquindo – Camino el Alba
+http://200.75.19.171/uoct/13/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO El Cerro - Los Conquistadores
+http://200.75.19.171/uoct/2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO General Velásquez-Arica
+http://200.75.19.171/uoct/21/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Alameda-Matucana
+http://200.75.19.171/uoct/38/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO General Bonilla - Teniente Cruz
+http://200.75.19.171/uoct/9/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO San Pablo - Neptuno
+http://200.75.19.171/uoct/3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Manuel Rodríguez-Toesca
+http://200.75.19.171/uoct/32/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Lira- Diagonal Paraguay
+http://200.75.19.171/uoct/26/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Alameda-Cumming
+http://200.75.19.171/uoct/16/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Alameda-Brasil
+http://200.75.19.171/uoct/18/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Agustinas – San Martín
+http://200.75.19.171/uoct/27/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Alameda – Santa Rosa
+http://200.75.19.171/uoct/37/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Alameda-V.Mackena
+http://200.75.19.171/uoct/36/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Alameda - Manuel Rodríguez
+http://200.75.19.171/uoct/12/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Vicuña Mackenna - Santa Isabel
+http://200.75.19.171/uoct/7/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Alameda - Nataniel Cox
+http://200.75.19.171/uoct/17/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Vespucio-Pedro Fontova
+http://200.75.19.171/uoct/50/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Vespucio-Vicuña Mackenna
+http://200.75.19.171/uoct/41/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Vespucio-Gran Avenida
+http://200.75.19.171/uoct/40/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Vespucio-Santa Rosa
+http://200.75.19.171/uoct/39/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT",UOCT SANTIAGO Isabel Riquelme - Bascuñán Guerrero
+http://200.75.19.171/uoct/6/playlist.m3u8
