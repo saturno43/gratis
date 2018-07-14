@@ -614,6 +614,10 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 
 #EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="ARGENTINA" ,-----ARGENTINA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA",Cronica Tv
+https://g1.proy-slo.transport.edge-access.net/a15/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/A24-logonuevo.svg" group-title="ARGENTINA",A24
+https://g4.proy-slo.transport.edge-access.net/b04/ngrp:a24-100056_all/a24-100056_720p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="ARGENTINA",13 Max HD
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/07/Canal9-Litoral-Logo-300x300.jpg" group-title="ARGENTINA",Canal 9 Litoral
