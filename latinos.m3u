@@ -1,29 +1,5 @@
 #EXTM3U 
 
-#EXTINF:0,-RUSSIA 2018-
-
-#EXTINF:-1 tvg-logo="http://himna-himne.50webs.com/zastave/Russia.png" group-title="RUSSIA 2018" ,-----RUSSIA 2018-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",CN3 Pinamar Argentina SD
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",RCN Colombia HD
-https://rcnhd.cdn.net.co/live02/hd_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",RCN Colombia HD
-http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",TVN Chile HD 
-http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Mega Chile HD
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13 Chile SD 
-http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13 Chile SD
-http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13 Chile SD
-http://csm-e-ces1saexaws101j8-661hgz2zvhzy.yospace.13.cl/csm/live/108031140/2.m3u8Id=CH13M
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Univision Deportes
-https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1200.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Univision TDN
-http://51.15.226.205:1935/live/udn/playlist.m3u8
 
 #EXTINF:0,-DEPORTES-
 
