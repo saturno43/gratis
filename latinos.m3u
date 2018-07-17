@@ -2163,6 +2163,77 @@ https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSICA",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Dance
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Hip Hop/R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Kidz Only
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",R&B/Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Today's Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1182611551/soyrock_400x400.jpg" group-title="MUSICA",Soy Rock
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
