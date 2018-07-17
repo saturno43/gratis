@@ -4,12 +4,12 @@
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES" ,Fight Time
-http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.solowrestling.com/uploads/RESEM51428fightnetwork.jpg" group-title="DEPORTES" ,Fight Network
-http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1502.1405279704.png" group-title="DEPORTES" ,Fitness Tv
 https://v3.tustreaming.cl/mbrhls/fitnesstv/s1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.solowrestling.com/uploads/RESEM51428fightnetwork.jpg" group-title="DEPORTES" ,Fight Network
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES" ,Fight Time
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Basico
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://c2.staticflickr.com/6/5698/21150836481_f3ec4a08f0_o.png" group-title="DEPORTES",Teletrak
@@ -20,14 +20,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/PxyIZNW.png" group-title="DEPORTES",Deport Tv
 https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/thumb.59b567df3dae4_Telecaribe2017.png.c1292098a94c25dcf3ea7c0163d11eae.png" group-title="DEPORTES",Telecaribe Deportes HD 2
-https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://purapotencia.com/wp-content/uploads/2014/12/logo%20(1).png" group-title="DEPORTES",CableOnda Sports 
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://purapotencia.com/wp-content/uploads/2014/12/logo%20(1).png" group-title="DEPORTES",CableOnda Sports FC
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title="DEPORTES",Todo Deportes 
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="DEPORTES", Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="DEPORTES",Sevilla FC
