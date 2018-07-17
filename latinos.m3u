@@ -1,11 +1,9 @@
 #EXTM3U 
 
-
 #EXTINF:0,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png" group-title="DEPORTES",Univision Deportes
 https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1200.m3u8
 #EXTINF:-1 tvg-logo="http://alcymedia.com/wp-content/uploads/2017/08/movistardeportestv.png" group-title="DEPORTES",Movistar Deportes Peru
