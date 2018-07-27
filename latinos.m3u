@@ -573,6 +573,8 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 
 #EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="ARGENTINA" ,-----ARGENTINA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="ARGENTINA", Net Tv
+https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA",Cronica Tv
 https://g1.proy-slo.transport.edge-access.net/a15/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/A24-logonuevo.svg" group-title="ARGENTINA",A24
@@ -2279,7 +2281,7 @@ http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8?iptvg
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo-zero-light_zpstwvtq006.png" group-title="RADIOTV", Radio Zero Tv 
 http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/mqdefault_zpsdijxexti.jpg" group-title="RADIOTV", Radio La Clave Tv
-http://unlimited6-cl.dps.live/laclavetv/laclavetv.smil/laclavetv/livestream2/chunks.m3u8?
+http://unlimited5-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.adnradio.cl/im/logo100.gif" group-title="RADIOTV", Radio ADN Tv
 http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://files.csvrenca.webnode.cl/200001127-92f9593f5c/Radio-Cooperativa.jpg" group-title="RADIOTV", Radio Cooperativa Tv 
@@ -2405,8 +2407,12 @@ http://v3.tustreaming.cl/canal21chillan/live1/playlist.m3u8
 http://evo.eltelon.com:1935/live/televida/chunklist_w1191743482.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/206897428/logo_c9r_400x400.jpg" group-title="REGIONALES",Canal 9 Bio Bio Concepcion HD
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEMwh5l6_HgChB-wHaWV3RSURdzGWTFZN_IHA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Tv8 Concepcion
+https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/220px-TVUConcepcionLogo.png" group-title="REGIONALES",TVU Concepcion
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv4-television-lota.jpg?170609113315" group-title="REGIONALES",TVU 2 Concepcion
+https://unlimited6-cl.dps.live/tvu2/tvu2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/tv4-television-lota.jpg?170609113315" group-title="REGIONALES",Tv 4 Lota
 http://evo.eltelon.com:1935/live/tv4-television/chunklist_w236013474.m3u8
 #EXTINF:-1 tvg-logo="http://rtvcanal.cl/wp-content/uploads/2017/09/LOGO-RTV-2-300x135.png" group-title="REGIONALES",CANAL 2 RENAICO
