@@ -2201,6 +2201,18 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playl
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
 http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV hits
+http://81.200.50.4/hls/MTV_Hits_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV Live
+http://81.200.50.4/hls/MTV_Live_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV Europe
+http://81.200.50.4/hls/MTV_Europe_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV Dance
+http://81.200.50.4/hls/MTV_Dance_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV Rocks
+http://81.200.50.4/hls/MTV_Rocks_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="MUSICA",VH1
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
 
 #EXTINF:0,-VIDEOMIX-
 
