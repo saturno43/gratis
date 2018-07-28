@@ -25,6 +25,20 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="DEPORTES",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?xtreamiptv.m3u8
 
+#EXTINF:-1 group-title="DEPORTES",Nova Sport 1 HD
+http://81.200.50.4/hls/Nova_Sport_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="DEPORTES",Nova Sport 2 HD
+http://81.200.50.4/hls/Nova_Sport_2_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="DEPORTES",INF:-1,Golf Channel HD
+http://81.200.50.4/hls/Golf_Channel_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="DEPORTES",Arena Sport 1
+http://81.200.50.4/hls/Arena_Sport_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="DEPORTES",Arena Sport 2 HD
+http://81.200.50.4/hls/Arena_Sport_2_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eurosport 1 HD
+http://81.200.50.4/hls/Eurosport_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eurosport 2
+http://81.200.50.4/hls/Eurosport2_nejtv_portable_low.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3d/04/48/3d044840c4e4fcde682970174c6fca1e.png" group-title="DEPORTES",CBC Sport
 http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="DEPORTES",YAS Sports
