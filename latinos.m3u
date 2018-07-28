@@ -1,5 +1,16 @@
 #EXTM3U 
 
+#EXTINF:0,-TOMORROWLAND-
+
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/6r64yb.jpg" group-title="TOMORROWLAND", Tomorrowland 2018 Channel 1 (Mainstage)
+https://tomorrowland18-live.secure.footprint.net/egress/ahandler/tomorrowland18/main/main.isml/main.m3u8
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/6r64yb.jpg" group-title="TOMORROWLAND", Tomorrowland 2018 Channel 2 (Freedom)
+https://tomorrowland18-live.secure.footprint.net/egress/ahandler/tomorrowland18/freedom/freedom.isml/freedom.m3u8
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/6r64yb.jpg" group-title="TOMORROWLAND", Tomorrowland 2018 Channel 3 (Garden Of Madness)
+https://tomorrowland18-live.secure.footprint.net/egress/ahandler/tomorrowland18/madness/madness.isml/madness.m3u8
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/6r64yb.jpg" group-title="TOMORROWLAND", Tomorrowland 2018 Channel 4 (Organ Of Harmony)
+https://tomorrowland18-live.secure.footprint.net/egress/ahandler/tomorrowland18/organ/organ.isml/organ.m3u8
+
 #EXTINF:0,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
