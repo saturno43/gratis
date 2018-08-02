@@ -1,5 +1,10 @@
 #EXTM3U 
 
+#EXTINF:0,-WACKEN2018-
+
+#EXTINF:-1 tvg-logo="https://images.sk-static.com/images/media/profile_images/events/32097929/huge_avatar" group-title="WACKEN2018", Wacken Open Air 2018
+https://streaming-magenta-music-360.akamaized.net/hls/live/573870/magentamusik1/magentamusik1_3/magentamusik1.m3u8
+
 #EXTINF:0,-TOMORROWLAND-
 
 #EXTINF:-1 tvg-logo="http://i0.wp.com/nanevmusic.com/wp-content/uploads/2018/04/22792231_10155367228629177_7297969170890724877_o.jpg?fit=890%2C9999" group-title="TOMORROWLAND", Tomorrowland 2018 Channel 1 (Mainstage)
