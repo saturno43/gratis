@@ -3,11 +3,11 @@
 
 #EXTINF:0,-LOLLAPALOOZA CHICAGO-
 
-#EXTINF:-1 tvg-logo="https://images.sk-static.com/images/media/profile_images/events/32097929/huge_avatar" group-title="LOLLAPALOOZA CHICAGO",Channel 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/4c/9b/2d4c9ba733bc362d029ff475f4ac0421.png" group-title="LOLLAPALOOZA CHICAGO",Channel 1
 https://liveredbulltv02-i.akamaihd.net/hls/live/691217/2018LollaPriCh1wADS/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://images.sk-static.com/images/media/profile_images/events/32097929/huge_avatar" group-title="LOLLAPALOOZA CHICAGO",Channel 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/4c/9b/2d4c9ba733bc362d029ff475f4ac0421.png" group-title="LOLLAPALOOZA CHICAGO",Channel 2
 https://liveredbulltv02-i.akamaihd.net/hls/live/689057/2018LollaSecCh2/master_6660.m3u8
-#EXTINF:-1 tvg-logo="https://images.sk-static.com/images/media/profile_images/events/32097929/huge_avatar" group-title="LOLLAPALOOZA CHICAGO",Channel 3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/4c/9b/2d4c9ba733bc362d029ff475f4ac0421.png" group-title="LOLLAPALOOZA CHICAGO",Channel 3
 https://liveredbulltv02-i.akamaihd.net/hls/live/689054/2018LollaPriCh3/master.m3u8
 
 #EXTINF:0,-WACKEN2018-
