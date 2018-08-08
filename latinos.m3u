@@ -4,6 +4,44 @@
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1CDF ESTADIO HD group-title="DEPORTES",CDF ESTADIO HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/89.ts
+#EXTINF:-1CDF P. HD group-title="DEPORTES",CDF P. HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/95.ts
+#EXTINF:-1CDF Premium HD group-title="DEPORTES",CDF Premium HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/90.ts
+#EXTINF:-1CDO Premium HD group-title="DEPORTES",CDO Premium HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/96.ts
+#EXTINF:-1Fox Sports 1 group-title="DEPORTES",Fox Sports 1
+http://167.114.174.164:25461/live/suport837/premieriptv1/139.ts
+#EXTINF:-1Fox Sports 1 Sur group-title="DEPORTES",Fox Sports 1 Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/140.ts
+#EXTINF:-1Fox Sports 1 Sur FHD group-title="DEPORTES",Fox Sports 1 Sur FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/36.ts
+#EXTINF:-1Fox Sports 2 group-title="DEPORTES",Fox Sports 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/141.ts
+#EXTINF:-1Fox Sports 2 Sur group-title="DEPORTES",Fox Sports 2 Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/142.ts
+#EXTINF:-1Fox Sports 2 Sur FHD group-title="DEPORTES",Fox Sports 2 Sur FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/38.ts
+#EXTINF:-1Fox Sports 3 group-title="DEPORTES",Fox Sports 3
+http://167.114.174.164:25461/live/suport837/premieriptv1/143.ts
+#EXTINF:-1Fox Sports 3 Sur group-title="DEPORTES",Fox Sports 3 Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/144.ts
+#EXTINF:-1Fox Sports 3 Sur FHD group-title="DEPORTES",Fox Sports 3 Sur FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/40.ts
+#EXTINF:-1Fox Sports DEPORTES HD group-title="DEPORTES",Fox Sports DEPORTES HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/145.ts
+#EXTINF:-1Fox Sports Premium HD group-title="DEPORTES",Fox Sports Premium HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/146.ts
+#EXTINF:-1DEPORTES - Espn group-title="DEPORTES",DEPORTES - Espn
+http://167.114.174.164:25461/live/suport837/premieriptv1/863.ts
+#EXTINF:-1DEPORTES - Espn 1 group-title="DEPORTES",DEPORTES - Espn 1
+http://167.114.174.164:25461/live/suport837/premieriptv1/870.ts
+#EXTINF:-1DEPORTES - Espn 2 group-title="DEPORTES",DEPORTES - Espn 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/869.ts
+#EXTINF:-1DEPORTES - ESPN SUR group-title="DEPORTES",DEPORTES - ESPN SUR
+http://167.114.174.164:25461/live/suport837/premieriptv1/860.ts
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1502.1405279704.png" group-title="DEPORTES" ,Fitness Tv
 https://v3.tustreaming.cl/mbrhls/fitnesstv/s1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.solowrestling.com/uploads/RESEM51428fightnetwork.jpg" group-title="DEPORTES" ,Fight Network
