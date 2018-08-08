@@ -1132,6 +1132,8 @@ http://arcamediastream.net:1935/8374/8374/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.worldcupbrazil.net/wp-content/uploads/2013/10/honduras.png" group-title="HONDURAS" ,-----HONDURAS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="http://nacerenhonduras.com/wp-content/uploads/2012/02/Televicentro_online_150x1201.jpg",Televicentro
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1 group-title="HONDURAS" tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png",Campus HD
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 #EXTINF:-1 tvg-logo="http://imgur.com/SVFUP73.jpeg" group-title="HONDURAS",Azteca Honduras
