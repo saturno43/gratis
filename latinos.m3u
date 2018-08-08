@@ -788,7 +788,7 @@ http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chil
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/110247/logo_television%20nacional%20de%20ecuador2.png" group-title="ECUADOR",TVN
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_03/large.TVC-Televicentro.png.fbd251673e2ccdda9d53b176fdc2a506.png" group-title="ECUADOR",TVC HD
-http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b1265536.m3u8
 #EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Hechos-Ecuador.jpg" group-title="ECUADOR",Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/canela.jpg" group-title="ECUADOR",Canela tv
