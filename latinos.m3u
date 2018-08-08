@@ -1,20 +1,5 @@
 #EXTM3U 
 
-
-#EXTINF:0,-LOLLAPALOOZA CHICAGO-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/4c/9b/2d4c9ba733bc362d029ff475f4ac0421.png" group-title="LOLLAPALOOZA CHICAGO",Channel 1
-https://liveredbulltv02-i.akamaihd.net/hls/live/691217/2018LollaPriCh1wADS/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/4c/9b/2d4c9ba733bc362d029ff475f4ac0421.png" group-title="LOLLAPALOOZA CHICAGO",Channel 2
-https://liveredbulltv02-i.akamaihd.net/hls/live/689057/2018LollaSecCh2/master_6660.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/4c/9b/2d4c9ba733bc362d029ff475f4ac0421.png" group-title="LOLLAPALOOZA CHICAGO",Channel 3
-https://liveredbulltv02-i.akamaihd.net/hls/live/689054/2018LollaPriCh3/master.m3u8
-
-#EXTINF:0,-WACKEN2018-
-
-#EXTINF:-1 tvg-logo="https://images.sk-static.com/images/media/profile_images/events/32097929/huge_avatar" group-title="WACKEN2018", Wacken Open Air 2018
-https://streaming-magenta-music-360.akamaized.net/hls/live/573870/magentamusik1/magentamusik1_3/magentamusik1.m3u8
-
 #EXTINF:0,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
@@ -1132,8 +1117,10 @@ http://arcamediastream.net:1935/8374/8374/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.worldcupbrazil.net/wp-content/uploads/2013/10/honduras.png" group-title="HONDURAS" ,-----HONDURAS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="http://nacerenhonduras.com/wp-content/uploads/2012/02/Televicentro_online_150x1201.jpg",Televicentro
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png",TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canal5HN2017.png/230px-Canal5HN2017.png",El Lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 #EXTINF:-1 group-title="HONDURAS" tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png",Campus HD
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 #EXTINF:-1 tvg-logo="http://imgur.com/SVFUP73.jpeg" group-title="HONDURAS",Azteca Honduras
