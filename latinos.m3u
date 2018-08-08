@@ -129,6 +129,1461 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/380px-Pac-12_logo.svg.png" group-title="DEPORTES",Pac 12 Washington
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?xtreamiptv.m3u8
 
+#EXTINF:0,-DEMO-
+
+#EXTINF:-113C group-title="DEMO",13C
+http://167.114.174.164:25461/live/suport837/premieriptv1/91.ts
+#EXTINF:-124 Horas Tvn group-title="DEMO",24 Horas Tvn
+http://167.114.174.164:25461/live/suport837/premieriptv1/92.ts
+#EXTINF:-1A&E FHD group-title="DEMO",A&E FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/3.ts
+#EXTINF:-1AMC FHD group-title="DEMO",AMC FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/4.ts
+#EXTINF:-1America TV group-title="DEMO",America TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/109.ts
+#EXTINF:-1America TV ARG group-title="DEMO",America TV ARG
+http://167.114.174.164:25461/live/suport837/premieriptv1/203.ts
+#EXTINF:-1Animal Planet FHD group-title="DEMO",Animal Planet FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/5.ts
+#EXTINF:-1ATV group-title="DEMO",ATV
+http://167.114.174.164:25461/live/suport837/premieriptv1/110.ts
+#EXTINF:-1Atv Plus group-title="DEMO",Atv Plus
+http://167.114.174.164:25461/live/suport837/premieriptv1/111.ts
+#EXTINF:-1AXN FHD group-title="DEMO",AXN FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/6.ts
+#EXTINF:-1Baby TV group-title="DEMO",Baby TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/167.ts
+#EXTINF:-1Boing group-title="DEMO",Boing
+http://167.114.174.164:25461/live/suport837/premieriptv1/168.ts
+#EXTINF:-1Boomerang group-title="DEMO",Boomerang
+http://167.114.174.164:25461/live/suport837/premieriptv1/169.ts
+#EXTINF:-1C5N group-title="DEMO",C5N
+http://167.114.174.164:25461/live/suport837/premieriptv1/204.ts
+#EXTINF:-1CableDEMO group-title="DEMO",CableDEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/199.ts
+#EXTINF:-1Cali Tv group-title="DEMO",Cali Tv
+http://167.114.174.164:25461/live/suport837/premieriptv1/182.ts
+#EXTINF:-1Canal 10 HD group-title="DEMO",Canal 10 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/226.ts
+#EXTINF:-1Canal 13 group-title="DEMO",Canal 13
+http://167.114.174.164:25461/live/suport837/premieriptv1/93.ts
+#EXTINF:-1Canal 13 HD group-title="DEMO",Canal 13 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/94.ts
+#EXTINF:-1Canal 26 group-title="DEMO",Canal 26
+http://167.114.174.164:25461/live/suport837/premieriptv1/205.ts
+#EXTINF:-1Canal 4 Jujuy group-title="DEMO",Canal 4 Jujuy
+http://167.114.174.164:25461/live/suport837/premieriptv1/207.ts
+#EXTINF:-1Canal 7 Mendoza group-title="DEMO",Canal 7 Mendoza
+http://167.114.174.164:25461/live/suport837/premieriptv1/208.ts
+#EXTINF:-1Canal 9 Nueve group-title="DEMO",Canal 9 Nueve
+http://167.114.174.164:25461/live/suport837/premieriptv1/209.ts
+#EXTINF:-1Canal CNC Medellin group-title="DEMO",Canal CNC Medellin
+http://167.114.174.164:25461/live/suport837/premieriptv1/183.ts
+#EXTINF:-1Canal Rural group-title="DEMO",Canal Rural
+http://167.114.174.164:25461/live/suport837/premieriptv1/212.ts
+#EXTINF:-1Canal Rural 2 group-title="DEMO",Canal Rural 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/213.ts
+#EXTINF:-1Canal Tele 12 group-title="DEMO",Canal Tele 12
+http://167.114.174.164:25461/live/suport837/premieriptv1/227.ts
+#EXTINF:-1Canal Trece 13 group-title="DEMO",Canal Trece 13
+http://167.114.174.164:25461/live/suport837/premieriptv1/214.ts
+#EXTINF:-1Canal Uno HD group-title="DEMO",Canal Uno HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/184.ts
+#EXTINF:-1Capital TV group-title="DEMO",Capital TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/112.ts
+#EXTINF:-1Caracol FHD group-title="DEMO",Caracol FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/10.ts
+#EXTINF:-1Caracol HD2 group-title="DEMO",Caracol HD2
+http://167.114.174.164:25461/live/suport837/premieriptv1/120.ts
+#EXTINF:-1Cartoon Network group-title="DEMO",Cartoon Network
+http://167.114.174.164:25461/live/suport837/premieriptv1/170.ts
+#EXTINF:-1Cartoon Network FHD group-title="DEMO",Cartoon Network FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/11.ts
+#EXTINF:-1CBS Sports Network HD group-title="DEMO",CBS Sports Network HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/121.ts
+#EXTINF:-1CDF ESTADIO HD group-title="DEMO",CDF ESTADIO HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/89.ts
+#EXTINF:-1CDF P. HD group-title="DEMO",CDF P. HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/95.ts
+#EXTINF:-1CDF Premium HD group-title="DEMO",CDF Premium HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/90.ts
+#EXTINF:-1CDO Premium HD group-title="DEMO",CDO Premium HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/96.ts
+#EXTINF:-1DEMOvision group-title="DEMO",DEMOvision
+http://167.114.174.164:25461/live/suport837/premieriptv1/97.ts
+#EXTINF:-1Cinecanal FHD group-title="DEMO",Cinecanal FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/12.ts
+#EXTINF:-1City Tv group-title="DEMO",City Tv
+http://167.114.174.164:25461/live/suport837/premieriptv1/185.ts
+#EXTINF:-1Claro Sports group-title="DEMO",Claro Sports
+http://167.114.174.164:25461/live/suport837/premieriptv1/122.ts
+#EXTINF:-1Claro Sports Latinoamérica FHD group-title="DEMO",Claro Sports Latinoamérica FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/14.ts
+#EXTINF:-1CNN group-title="DEMO",CNN
+http://167.114.174.164:25461/live/suport837/premieriptv1/98.ts
+#EXTINF:-1CNT Sport group-title="DEMO",CNT Sport
+http://167.114.174.164:25461/live/suport837/premieriptv1/123.ts
+#EXTINF:-1Comedy Central. FHD group-title="DEMO",Comedy Central. FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/15.ts
+#EXTINF:-1Concert Channel FHD group-title="DEMO",Concert Channel FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/16.ts
+#EXTINF:-1CosmoVision group-title="DEMO",CosmoVision
+http://167.114.174.164:25461/live/suport837/premieriptv1/186.ts
+#EXTINF:-1DeporTV group-title="DEMO",DeporTV
+http://167.114.174.164:25461/live/suport837/premieriptv1/124.ts
+#EXTINF:-1DHE FHD group-title="DEMO",DHE FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/17.ts
+#EXTINF:-1DirecTV Sports group-title="DEMO",DirecTV Sports
+http://167.114.174.164:25461/live/suport837/premieriptv1/125.ts
+#EXTINF:-1DirecTV Sports 2 group-title="DEMO",DirecTV Sports 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/126.ts
+#EXTINF:-1DirecTV Sports Plus group-title="DEMO",DirecTV Sports Plus
+http://167.114.174.164:25461/live/suport837/premieriptv1/127.ts
+#EXTINF:-1Discovery Channel FHD group-title="DEMO",Discovery Channel FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/18.ts
+#EXTINF:-1Discovery Home & Health FHD group-title="DEMO",Discovery Home & Health FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/19.ts
+#EXTINF:-1Discovery Kids group-title="DEMO",Discovery Kids
+http://167.114.174.164:25461/live/suport837/premieriptv1/171.ts
+#EXTINF:-1Discovery Kids FHD group-title="DEMO",Discovery Kids FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/20.ts
+#EXTINF:-1Discovery Theater FHD group-title="DEMO",Discovery Theater FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/21.ts
+#EXTINF:-1Discovery World FHD group-title="DEMO",Discovery World FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/22.ts
+#EXTINF:-1Disney Channel‎ group-title="DEMO",Disney Channel‎
+http://167.114.174.164:25461/live/suport837/premieriptv1/172.ts
+#EXTINF:-1Disney FHD group-title="DEMO",Disney FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/23.ts
+#EXTINF:-1Disney Junior‎ group-title="DEMO",Disney Junior‎
+http://167.114.174.164:25461/live/suport837/premieriptv1/173.ts
+#EXTINF:-1Disney XD group-title="DEMO",Disney XD
+http://167.114.174.164:25461/live/suport837/premieriptv1/174.ts
+#EXTINF:-1El Garage TV group-title="DEMO",El Garage TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/128.ts
+#EXTINF:-1El Gourmet FHD group-title="DEMO",El Gourmet FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/24.ts
+#EXTINF:-1El Tiempo group-title="DEMO",El Tiempo
+http://167.114.174.164:25461/live/suport837/premieriptv1/187.ts
+#EXTINF:-1ESPN 1 group-title="DEMO",ESPN 1
+http://167.114.174.164:25461/live/suport837/premieriptv1/129.ts
+#EXTINF:-1ESPN 1 Sur group-title="DEMO",ESPN 1 Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/130.ts
+#EXTINF:-1ESPN 2 group-title="DEMO",ESPN 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/131.ts
+#EXTINF:-1ESPN 2 Sur group-title="DEMO",ESPN 2 Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/132.ts
+#EXTINF:-1ESPN 2 SUR FHD group-title="DEMO",ESPN 2 SUR FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/25.ts
+#EXTINF:-1ESPN 3 group-title="DEMO",ESPN 3
+http://167.114.174.164:25461/live/suport837/premieriptv1/133.ts
+#EXTINF:-1ESPN 3 Sur group-title="DEMO",ESPN 3 Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/134.ts
+#EXTINF:-1Espn DEMO group-title="DEMO",Espn DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/230.ts
+#EXTINF:-1ESPN Plus group-title="DEMO",ESPN Plus
+http://167.114.174.164:25461/live/suport837/premieriptv1/135.ts
+#EXTINF:-1ESPN Plus Sur group-title="DEMO",ESPN Plus Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/136.ts
+#EXTINF:-1ESPN PLUS SUR FHD group-title="DEMO",ESPN PLUS SUR FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/26.ts
+#EXTINF:-1Etc TV group-title="DEMO",Etc TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/99.ts
+#EXTINF:-1Eurosport 1 HD group-title="DEMO",Eurosport 1 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/137.ts
+#EXTINF:-1Eurosport 2 group-title="DEMO",Eurosport 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/138.ts
+#EXTINF:-1Fox DEMO group-title="DEMO",Fox DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/231.ts
+#EXTINF:-1Fox FHD group-title="DEMO",Fox FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/27.ts
+#EXTINF:-1Fox Life FHD group-title="DEMO",Fox Life FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/28.ts
+#EXTINF:-1Fox Premium Action FHD group-title="DEMO",Fox Premium Action FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/29.ts
+#EXTINF:-1Fox Premium Cinema FHD group-title="DEMO",Fox Premium Cinema FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/30.ts
+#EXTINF:-1Fox Premium Comedy FHD group-title="DEMO",Fox Premium Comedy FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/31.ts
+#EXTINF:-1Fox Premium Family FHD group-title="DEMO",Fox Premium Family FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/32.ts
+#EXTINF:-1Fox Premium Movies FHD group-title="DEMO",Fox Premium Movies FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/33.ts
+#EXTINF:-1Fox Premium Series FHD group-title="DEMO",Fox Premium Series FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/34.ts
+#EXTINF:-1Fox Sports 1 group-title="DEMO",Fox Sports 1
+http://167.114.174.164:25461/live/suport837/premieriptv1/139.ts
+#EXTINF:-1Fox Sports 1 Sur group-title="DEMO",Fox Sports 1 Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/140.ts
+#EXTINF:-1Fox Sports 1 Sur FHD group-title="DEMO",Fox Sports 1 Sur FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/36.ts
+#EXTINF:-1Fox Sports 2 group-title="DEMO",Fox Sports 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/141.ts
+#EXTINF:-1Fox Sports 2 Sur group-title="DEMO",Fox Sports 2 Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/142.ts
+#EXTINF:-1Fox Sports 2 Sur FHD group-title="DEMO",Fox Sports 2 Sur FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/38.ts
+#EXTINF:-1Fox Sports 3 group-title="DEMO",Fox Sports 3
+http://167.114.174.164:25461/live/suport837/premieriptv1/143.ts
+#EXTINF:-1Fox Sports 3 Sur group-title="DEMO",Fox Sports 3 Sur
+http://167.114.174.164:25461/live/suport837/premieriptv1/144.ts
+#EXTINF:-1Fox Sports 3 Sur FHD group-title="DEMO",Fox Sports 3 Sur FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/40.ts
+#EXTINF:-1Fox Sports DEMO HD group-title="DEMO",Fox Sports DEMO HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/145.ts
+#EXTINF:-1Fox Sports Premium HD group-title="DEMO",Fox Sports Premium HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/146.ts
+#EXTINF:-1FX FHD group-title="DEMO",FX FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/41.ts
+#EXTINF:-1FX Movies FHD group-title="DEMO",FX Movies FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/42.ts
+#EXTINF:-1FX MX FHD group-title="DEMO",FX MX FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/43.ts
+#EXTINF:-1GloboVision group-title="DEMO",GloboVision
+http://167.114.174.164:25461/live/suport837/premieriptv1/160.ts
+#EXTINF:-1Gol DEMO group-title="DEMO",Gol DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/113.ts
+#EXTINF:-1Gol DEMOP group-title="DEMO",Gol DEMOP
+http://167.114.174.164:25461/live/suport837/premieriptv1/147.ts
+#EXTINF:-1Golden FHD group-title="DEMO",Golden FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/44.ts
+#EXTINF:-1Golden Premier FHD group-title="DEMO",Golden Premier FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/45.ts
+#EXTINF:-1Golf Channel group-title="DEMO",Golf Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/148.ts
+#EXTINF:-1HBO 2 FHD group-title="DEMO",HBO 2 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/47.ts
+#EXTINF:-1HBO FAMILY FHD group-title="DEMO",HBO FAMILY FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/48.ts
+#EXTINF:-1HBO FHD group-title="DEMO",HBO FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/49.ts
+#EXTINF:-1Hbo Plus FHD group-title="DEMO",Hbo Plus FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/50.ts
+#EXTINF:-1HBO Signature FHD group-title="DEMO",HBO Signature FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/51.ts
+#EXTINF:-1History Channel FHD group-title="DEMO",History Channel FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/52.ts
+#EXTINF:-1Investigation Discovery FHD group-title="DEMO",Investigation Discovery FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/54.ts
+#EXTINF:-1La Red HD group-title="DEMO",La Red HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/100.ts
+#EXTINF:-1Latina group-title="DEMO",Latina
+http://167.114.174.164:25461/live/suport837/premieriptv1/114.ts
+#EXTINF:-1Max Prime FHD group-title="DEMO",Max Prime FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/56.ts
+#EXTINF:-1Max Up FHD group-title="DEMO",Max Up FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/57.ts
+#EXTINF:-1Mega CL group-title="DEMO",Mega CL
+http://167.114.174.164:25461/live/suport837/premieriptv1/101.ts
+#EXTINF:-1Mega HD group-title="DEMO",Mega HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/102.ts
+#EXTINF:-1Montecarlo TV group-title="DEMO",Montecarlo TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/228.ts
+#EXTINF:-1Monterrico TV group-title="DEMO",Monterrico TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/149.ts
+#EXTINF:-1Movistar DEMO group-title="DEMO",Movistar DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/115.ts
+#EXTINF:-1MTV FHD group-title="DEMO",MTV FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/58.ts
+#EXTINF:-1MTV LIVE FHD group-title="DEMO",MTV LIVE FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/59.ts
+#EXTINF:-1Nat Geo Kids FHD group-title="DEMO",Nat Geo Kids FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/60.ts
+#EXTINF:-1Nat Geo Kids MX FHD group-title="DEMO",Nat Geo Kids MX FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/61.ts
+#EXTINF:-1Nat Geo Wild FHD group-title="DEMO",Nat Geo Wild FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/62.ts
+#EXTINF:-1Natgeo Kids group-title="DEMO",Natgeo Kids
+http://167.114.174.164:25461/live/suport837/premieriptv1/175.ts
+#EXTINF:-1National Geographic  FHD group-title="DEMO",National Geographic  FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/63.ts
+#EXTINF:-1Nba TV group-title="DEMO",Nba TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/150.ts
+#EXTINF:-1Nick 2 group-title="DEMO",Nick 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/176.ts
+#EXTINF:-1Nick 2 FHD group-title="DEMO",Nick 2 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/64.ts
+#EXTINF:-1Nick Jr group-title="DEMO",Nick Jr
+http://167.114.174.164:25461/live/suport837/premieriptv1/177.ts
+#EXTINF:-1Nickelodeon group-title="DEMO",Nickelodeon
+http://167.114.174.164:25461/live/suport837/premieriptv1/178.ts
+#EXTINF:-1Nickelodeon FHD group-title="DEMO",Nickelodeon FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/65.ts
+#EXTINF:-1Nicktoons group-title="DEMO",Nicktoons
+http://167.114.174.164:25461/live/suport837/premieriptv1/179.ts
+#EXTINF:-1NiuTV group-title="DEMO",NiuTV
+http://167.114.174.164:25461/live/suport837/premieriptv1/103.ts
+#EXTINF:-1NTN24 group-title="DEMO",NTN24
+http://167.114.174.164:25461/live/suport837/premieriptv1/188.ts
+#EXTINF:-1Paka Paka group-title="DEMO",Paka Paka
+http://167.114.174.164:25461/live/suport837/premieriptv1/200.ts
+#EXTINF:-1Panamericana group-title="DEMO",Panamericana
+http://167.114.174.164:25461/live/suport837/premieriptv1/116.ts
+#EXTINF:-1Paramount FHD group-title="DEMO",Paramount FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/66.ts
+#EXTINF:-1Pasiones FHD group-title="DEMO",Pasiones FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/67.ts
+#EXTINF:-1DEMO Magico group-title="DEMO",DEMO Magico
+http://167.114.174.164:25461/live/suport837/premieriptv1/117.ts
+#EXTINF:-1Plus TV group-title="DEMO",Plus TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/118.ts
+#EXTINF:-1Rec TV group-title="DEMO",Rec TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/104.ts
+#EXTINF:-1Red  Tv group-title="DEMO",Red  Tv
+http://167.114.174.164:25461/live/suport837/premieriptv1/189.ts
+#EXTINF:-1Senal DEMO group-title="DEMO",Senal DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/190.ts
+#EXTINF:-1Sony FHD group-title="DEMO",Sony FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/68.ts
+#EXTINF:-1Space FHD group-title="DEMO",Space FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/69.ts
+#EXTINF:-1Starz Cinema FHD group-title="DEMO",Starz Cinema FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/78.ts
+#EXTINF:-1Starz Encore Black FHD group-title="DEMO",Starz Encore Black FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/80.ts
+#EXTINF:-1Starz Encore Classic FHD group-title="DEMO",Starz Encore Classic FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/81.ts
+#EXTINF:-1Starz Encore FHD group-title="DEMO",Starz Encore FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/83.ts
+#EXTINF:-1Starz Kids & Family FHD group-title="DEMO",Starz Kids & Family FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/86.ts
+#EXTINF:-1Starz West FHD group-title="DEMO",Starz West FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/87.ts
+#EXTINF:-1Sundance FHD group-title="DEMO",Sundance FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/70.ts
+#EXTINF:-1T13 Movil group-title="DEMO",T13 Movil
+http://167.114.174.164:25461/live/suport837/premieriptv1/105.ts
+#EXTINF:-1TBS FHD group-title="DEMO",TBS FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/71.ts
+#EXTINF:-1Teleamiga group-title="DEMO",Teleamiga
+http://167.114.174.164:25461/live/suport837/premieriptv1/191.ts
+#EXTINF:-1TeleAntioquia group-title="DEMO",TeleAntioquia
+http://167.114.174.164:25461/live/suport837/premieriptv1/192.ts
+#EXTINF:-1Telecafe group-title="DEMO",Telecafe
+http://167.114.174.164:25461/live/suport837/premieriptv1/193.ts
+#EXTINF:-1TeleCaribe group-title="DEMO",TeleCaribe
+http://167.114.174.164:25461/live/suport837/premieriptv1/194.ts
+#EXTINF:-1TeleCaribe DEMO group-title="DEMO",TeleCaribe DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/195.ts
+#EXTINF:-1Telefe group-title="DEMO",Telefe
+http://167.114.174.164:25461/live/suport837/premieriptv1/220.ts
+#EXTINF:-1Telemax group-title="DEMO",Telemax
+http://167.114.174.164:25461/live/suport837/premieriptv1/221.ts
+#EXTINF:-1TeleMedellin group-title="DEMO",TeleMedellin
+http://167.114.174.164:25461/live/suport837/premieriptv1/196.ts
+#EXTINF:-1TeleSUR Tv group-title="DEMO",TeleSUR Tv
+http://167.114.174.164:25461/live/suport837/premieriptv1/161.ts
+#EXTINF:-1Teletrak TV group-title="DEMO",Teletrak TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/151.ts
+#EXTINF:-1Televen group-title="DEMO",Televen
+http://167.114.174.164:25461/live/suport837/premieriptv1/162.ts
+#EXTINF:-1TeleVid group-title="DEMO",TeleVid
+http://167.114.174.164:25461/live/suport837/premieriptv1/197.ts
+#EXTINF:-1Tiin group-title="DEMO",Tiin
+http://167.114.174.164:25461/live/suport837/premieriptv1/180.ts
+#EXTINF:-1TNT FHD group-title="DEMO",TNT FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/72.ts
+#EXTINF:-1Tnt Series FHD group-title="DEMO",Tnt Series FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/73.ts
+#EXTINF:-1TNT Sports DEMO group-title="DEMO",TNT Sports DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/152.ts
+#EXTINF:-1Todo DEMO TV (TDTV) group-title="DEMO",Todo DEMO TV (TDTV)
+http://167.114.174.164:25461/live/suport837/premieriptv1/153.ts
+#EXTINF:-1Tooncast group-title="DEMO",Tooncast
+http://167.114.174.164:25461/live/suport837/premieriptv1/181.ts
+#EXTINF:-1TR Telered group-title="DEMO",TR Telered
+http://167.114.174.164:25461/live/suport837/premieriptv1/223.ts
+#EXTINF:-1Travel & Living (TLC) FHD group-title="DEMO",Travel & Living (TLC) FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/74.ts
+#EXTINF:-1Trece HD group-title="DEMO",Trece HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/198.ts
+#EXTINF:-1Trece Max group-title="DEMO",Trece Max
+http://167.114.174.164:25461/live/suport837/premieriptv1/224.ts
+#EXTINF:-1TV DEMO group-title="DEMO",TV DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/119.ts
+#EXTINF:-1TVC DEMO group-title="DEMO",TVC DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/154.ts
+#EXTINF:-1TVes group-title="DEMO",TVes
+http://167.114.174.164:25461/live/suport837/premieriptv1/163.ts
+#EXTINF:-1TyC Sports group-title="DEMO",TyC Sports
+http://167.114.174.164:25461/live/suport837/premieriptv1/155.ts
+#EXTINF:-1UCV HD group-title="DEMO",UCV HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/108.ts
+#EXTINF:-1UFC group-title="DEMO",UFC
+http://167.114.174.164:25461/live/suport837/premieriptv1/201.ts
+#EXTINF:-1Univision UDN group-title="DEMO",Univision UDN
+http://167.114.174.164:25461/live/suport837/premieriptv1/156.ts
+#EXTINF:-1Venevision group-title="DEMO",Venevision
+http://167.114.174.164:25461/live/suport837/premieriptv1/164.ts
+#EXTINF:-1Venevision Plus group-title="DEMO",Venevision Plus
+http://167.114.174.164:25461/live/suport837/premieriptv1/165.ts
+#EXTINF:-1VPI TV group-title="DEMO",VPI TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/166.ts
+#EXTINF:-1VTV (DEMO) group-title="DEMO",VTV (DEMO)
+http://167.114.174.164:25461/live/suport837/premieriptv1/157.ts
+#EXTINF:-1Warner FHD group-title="DEMO",Warner FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/75.ts
+#EXTINF:-1Win Sports group-title="DEMO",Win Sports
+http://167.114.174.164:25461/live/suport837/premieriptv1/158.ts
+#EXTINF:-1Win Sports FHD group-title="DEMO",Win Sports FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/76.ts
+#EXTINF:-1Win Sports HD group-title="DEMO",Win Sports HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/159.ts
+#EXTINF:-1Latin American Sports group-title="DEMO",Latin American Sports
+http://167.114.174.164:25461/live/suport837/premieriptv1/233.ts
+#EXTINF:-1A24 group-title="DEMO",A24
+http://167.114.174.164:25461/live/suport837/premieriptv1/249.ts
+#EXTINF:-1Canal 4 Esquel group-title="DEMO",Canal 4 Esquel
+http://167.114.174.164:25461/live/suport837/premieriptv1/248.ts
+#EXTINF:-1Canal 9 Salta group-title="DEMO",Canal 9 Salta
+http://167.114.174.164:25461/live/suport837/premieriptv1/247.ts
+#EXTINF:-1Canal Ciudad group-title="DEMO",Canal Ciudad
+http://167.114.174.164:25461/live/suport837/premieriptv1/246.ts
+#EXTINF:-1CN3 Pinamar group-title="DEMO",CN3 Pinamar
+http://167.114.174.164:25461/live/suport837/premieriptv1/245.ts
+#EXTINF:-1Cronica group-title="DEMO",Cronica
+http://167.114.174.164:25461/live/suport837/premieriptv1/244.ts
+#EXTINF:-1Kzo TV group-title="DEMO",Kzo TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/243.ts
+#EXTINF:-1Ln group-title="DEMO",Ln
+http://167.114.174.164:25461/live/suport837/premieriptv1/242.ts
+#EXTINF:-1TN Buenos Aires group-title="DEMO",TN Buenos Aires
+http://167.114.174.164:25461/live/suport837/premieriptv1/241.ts
+#EXTINF:-1TV Publica group-title="DEMO",TV Publica
+http://167.114.174.164:25461/live/suport837/premieriptv1/240.ts
+#EXTINF:-1#0 HD group-title="DEMO",#0 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/387.ts
+#EXTINF:-124 Horas group-title="DEMO",24 Horas
+http://167.114.174.164:25461/live/suport837/premieriptv1/386.ts
+#EXTINF:-124 Kitchen BR group-title="BRASIL",24 Kitchen BR
+http://167.114.174.164:25461/live/suport837/premieriptv1/420.ts
+#EXTINF:-124/7 DEMO group-title="DEMO",24/7 DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/620.ts
+#EXTINF:-1A&E group-title="DEMO",A&E
+http://167.114.174.164:25461/live/suport837/premieriptv1/385.ts
+
+#EXTINF:-1AXN HD group-title="DEMO",AXN HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/381.ts
+#EXTINF:-1Axn White HD group-title="DEMO",Axn White HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/380.ts
+#EXTINF:-1AYM Sports group-title="DEMO",AYM Sports
+http://167.114.174.164:25461/live/suport837/premieriptv1/426.ts
+#EXTINF:-1Az Corazon FHD group-title="DEMO",Az Corazon FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/262.ts
+#EXTINF:-1Az Mundo FHD group-title="DEMO",Az Mundo FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/261.ts
+#EXTINF:-1Bein LaLiga HD group-title="DEMO",Bein LaLiga HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/390.ts
+#EXTINF:-1Bein Sport 1 HD group-title="DEMO",Bein Sport 1 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/449.ts
+#EXTINF:-1Bein Sport 10 HD group-title="DEMO",Bein Sport 10 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/448.ts
+#EXTINF:-1Bein Sport 2 HD group-title="DEMO",Bein Sport 2 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/447.ts
+#EXTINF:-1Bein Sport 3 HD group-title="DEMO",Bein Sport 3 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/446.ts
+#EXTINF:-1Bein Sport 4 HD group-title="DEMO",Bein Sport 4 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/445.ts
+#EXTINF:-1Bein Sport 5 HD group-title="DEMO",Bein Sport 5 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/444.ts
+#EXTINF:-1Bein Sport 6 HD group-title="DEMO",Bein Sport 6 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/443.ts
+#EXTINF:-1Bein Sport 7 HD group-title="DEMO",Bein Sport 7 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/442.ts
+#EXTINF:-1Bein Sport 8 HD group-title="DEMO",Bein Sport 8 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/441.ts
+#EXTINF:-1Bein Sport 9 HD group-title="DEMO",Bein Sport 9 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/440.ts
+#EXTINF:-1Bein Sports  group-title="DEMO",Bein Sports 
+http://167.114.174.164:25461/live/suport837/premieriptv1/389.ts
+#EXTINF:-1Bein Sports Spain group-title="DEMO",Bein Sports Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/388.ts
+#EXTINF:-1BoxNation HD group-title="DEMO",BoxNation HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/439.ts
+#EXTINF:-1Cable Onda Sports group-title="DEMO",Cable Onda Sports
+http://167.114.174.164:25461/live/suport837/premieriptv1/453.ts
+#EXTINF:-1CableDEMO FHD group-title="DEMO",CableDEMO FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/260.ts
+#EXTINF:-1Claro Sports 2 group-title="DEMO",Claro Sports 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/451.ts
+#EXTINF:-1Claro Sports DEMO FHD group-title="DEMO",Claro Sports DEMO FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/259.ts
+#EXTINF:-1Claro Sports Latinoam group-title="DEMO",Claro Sports Latinoam
+http://167.114.174.164:25461/live/suport837/premieriptv1/258.ts
+#EXTINF:-1CNT Sport EC group-title="DEMO",CNT Sport EC
+http://167.114.174.164:25461/live/suport837/premieriptv1/521.ts
+#EXTINF:-1Comedy Central HD group-title="DEMO",Comedy Central HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/378.ts
+#EXTINF:-1Crimen Investigation group-title="DEMO",Crimen Investigation
+http://167.114.174.164:25461/live/suport837/premieriptv1/351.ts
+#EXTINF:-1Cuatro HD group-title="DEMO",Cuatro HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/377.ts
+#EXTINF:-1Decasa group-title="DEMO",Decasa
+http://167.114.174.164:25461/live/suport837/premieriptv1/376.ts
+#EXTINF:-1DeporTV (DEMO) group-title="DEMO",DeporTV (DEMO)
+http://167.114.174.164:25461/live/suport837/premieriptv1/452.ts
+
+#EXTINF:-1Movistar  Xtra HD group-title="DEMO",Movistar  Xtra HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/367.ts
+#EXTINF:-1Movistar Accion HD group-title="DEMO",Movistar Accion HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/366.ts
+#EXTINF:-1Movistar Comedia HD group-title="DEMO",Movistar Comedia HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/365.ts
+#EXTINF:-1Movistar DEMO 1 HD group-title="DEMO",Movistar DEMO 1 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/364.ts
+#EXTINF:-1Movistar Estrenos HD group-title="DEMO",Movistar Estrenos HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/363.ts
+#EXTINF:-1Movistar Formula 1 HD Spain group-title="DEMO",Movistar Formula 1 HD Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/625.ts
+#EXTINF:-1Movistar Futbol group-title="DEMO",Movistar Futbol
+http://167.114.174.164:25461/live/suport837/premieriptv1/362.ts
+#EXTINF:-1Movistar Futbol HD group-title="DEMO",Movistar Futbol HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/361.ts
+#EXTINF:-1Movistar Futbol Spain group-title="DEMO",Movistar Futbol Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/624.ts
+#EXTINF:-1Movistar Golf Spain group-title="DEMO",Movistar Golf Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/623.ts
+#EXTINF:-1Movistar Motogp group-title="DEMO",Movistar Motogp
+http://167.114.174.164:25461/live/suport837/premieriptv1/360.ts
+#EXTINF:-1Movistar MotoGT Spain group-title="DEMO",Movistar MotoGT Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/622.ts
+#EXTINF:-1Movistar Series HD group-title="DEMO",Movistar Series HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/359.ts
+#EXTINF:-1Movistar Series Xtra HD group-title="DEMO",Movistar Series Xtra HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/358.ts
+
+#EXTINF:-1Aladdin group-title="DEMO",Aladdin
+http://167.114.174.164:25461/live/suport837/premieriptv1/661.ts
+#EXTINF:-1Alf group-title="DEMO",Alf
+http://167.114.174.164:25461/live/suport837/premieriptv1/714.ts
+#EXTINF:-1AMC group-title="DEMO",AMC
+http://167.114.174.164:25461/live/suport837/premieriptv1/803.ts
+#EXTINF:-1Animal Planet group-title="DEMO",Animal Planet
+http://167.114.174.164:25461/live/suport837/premieriptv1/746.ts
+#EXTINF:-1Animaniacs group-title="DEMO",Animaniacs
+http://167.114.174.164:25461/live/suport837/premieriptv1/715.ts
+#EXTINF:-1Arnold group-title="DEMO",Arnold
+http://167.114.174.164:25461/live/suport837/premieriptv1/687.ts
+#EXTINF:-1AXN group-title="DEMO",AXN
+http://167.114.174.164:25461/live/suport837/premieriptv1/802.ts
+#EXTINF:-1Az Clic group-title="DEMO",Az Clic
+http://167.114.174.164:25461/live/suport837/premieriptv1/855.ts
+#EXTINF:-1Az Corazon group-title="DEMO",Az Corazon
+http://167.114.174.164:25461/live/suport837/premieriptv1/852.ts
+#EXTINF:-1Azteca 7 group-title="DEMO",Azteca 7
+http://167.114.174.164:25461/live/suport837/premieriptv1/851.ts
+#EXTINF:-1Azteca Cinema group-title="DEMO",Azteca Cinema
+http://167.114.174.164:25461/live/suport837/premieriptv1/801.ts
+#EXTINF:-1Azteca Mundo group-title="DEMO",Azteca Mundo
+http://167.114.174.164:25461/live/suport837/premieriptv1/745.ts
+#EXTINF:-1Azteca Plus group-title="DEMO",Azteca Plus
+http://167.114.174.164:25461/live/suport837/premieriptv1/850.ts
+#EXTINF:-1Azteca Uno group-title="DEMO",Azteca Uno
+http://167.114.174.164:25461/live/suport837/premieriptv1/849.ts
+#EXTINF:-1Bandamax group-title="DEMO",Bandamax
+http://167.114.174.164:25461/live/suport837/premieriptv1/723.ts
+#EXTINF:-1Batman group-title="DEMO",Batman
+http://167.114.174.164:25461/live/suport837/premieriptv1/713.ts
+#EXTINF:-1BBC World group-title="DEMO",BBC World
+http://167.114.174.164:25461/live/suport837/premieriptv1/651.ts
+#EXTINF:-1Ben 10 group-title="DEMO",Ben 10
+http://167.114.174.164:25461/live/suport837/premieriptv1/712.ts
+#EXTINF:-1Ben y Holly group-title="DEMO",Ben y Holly
+http://167.114.174.164:25461/live/suport837/premieriptv1/660.ts
+#EXTINF:-1Bewitched Hechizada group-title="DEMO",Bewitched Hechizada
+http://167.114.174.164:25461/live/suport837/premieriptv1/711.ts
+#EXTINF:-1Bob Esponja group-title="DEMO",Bob Esponja
+http://167.114.174.164:25461/live/suport837/premieriptv1/710.ts
+#EXTINF:-1Bobs Burgers group-title="DEMO",Bobs Burgers
+http://167.114.174.164:25461/live/suport837/premieriptv1/709.ts
+#EXTINF:-1Bonao Tv group-title="DEMO",Bonao Tv
+http://167.114.174.164:25461/live/suport837/premieriptv1/643.ts
+
+#EXTINF:-1Caballeros del zodiaco group-title="DEMO",Caballeros del zodiaco
+http://167.114.174.164:25461/live/suport837/premieriptv1/708.ts
+#EXTINF:-1Caillou group-title="DEMO",Caillou
+http://167.114.174.164:25461/live/suport837/premieriptv1/659.ts
+#EXTINF:-1Canal 19 group-title="DEMO",Canal 19
+http://167.114.174.164:25461/live/suport837/premieriptv1/642.ts
+#EXTINF:-1Canal 5 Mexico group-title="DEMO",Canal 5 Mexico
+http://167.114.174.164:25461/live/suport837/premieriptv1/848.ts
+#EXTINF:-1Canal Antiestres group-title="DEMO",Canal Antiestres
+http://167.114.174.164:25461/live/suport837/premieriptv1/859.ts
+#EXTINF:-1Canal Once group-title="DEMO",Canal Once
+http://167.114.174.164:25461/live/suport837/premieriptv1/831.ts
+#EXTINF:-1Candy Candy group-title="DEMO",Candy Candy
+http://167.114.174.164:25461/live/suport837/premieriptv1/707.ts
+#EXTINF:-1Caracol HD group-title="DEMO",Caracol HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/847.ts
+#EXTINF:-1Caracol Internacional group-title="DEMO",Caracol Internacional
+http://167.114.174.164:25461/live/suport837/premieriptv1/822.ts
+#EXTINF:-1Cat-Dog group-title="DEMO",Cat-Dog
+http://167.114.174.164:25461/live/suport837/premieriptv1/706.ts
+#EXTINF:-1Chuggington group-title="DEMO",Chuggington
+http://167.114.174.164:25461/live/suport837/premieriptv1/658.ts
+#EXTINF:-1Cine Dinamita group-title="DEMO",Cine Dinamita
+http://167.114.174.164:25461/live/suport837/premieriptv1/800.ts
+#EXTINF:-1Cine Latino group-title="DEMO",Cine Latino
+http://167.114.174.164:25461/live/suport837/premieriptv1/799.ts
+#EXTINF:-1Cinecanal group-title="DEMO",Cinecanal
+http://167.114.174.164:25461/live/suport837/premieriptv1/798.ts
+#EXTINF:-1Cinema group-title="DEMO",Cinema
+http://167.114.174.164:25461/live/suport837/premieriptv1/755.ts
+#EXTINF:-1Cinema Dinamita group-title="DEMO",Cinema Dinamita
+http://167.114.174.164:25461/live/suport837/premieriptv1/754.ts
+#EXTINF:-1Cinemax group-title="DEMO",Cinemax
+http://167.114.174.164:25461/live/suport837/premieriptv1/797.ts
+#EXTINF:-1CNN en Espanol group-title="DEMO",CNN en Espanol
+http://167.114.174.164:25461/live/suport837/premieriptv1/650.ts
+#EXTINF:-1CNN Iinternacional group-title="DEMO",CNN Iinternacional
+http://167.114.174.164:25461/live/suport837/premieriptv1/649.ts
+#EXTINF:-1Color Vision 9 group-title="DEMO",Color Vision 9
+http://167.114.174.164:25461/live/suport837/premieriptv1/641.ts
+#EXTINF:-1Comedy Central group-title="DEMO",Comedy Central
+http://167.114.174.164:25461/live/suport837/premieriptv1/796.ts
+#EXTINF:-1Coraje group-title="DEMO",Coraje
+http://167.114.174.164:25461/live/suport837/premieriptv1/705.ts
+#EXTINF:-1Danny Phantom group-title="DEMO",Danny Phantom
+http://167.114.174.164:25461/live/suport837/premieriptv1/704.ts
+#EXTINF:-1De Pelicula group-title="DEMO",De Pelicula
+http://167.114.174.164:25461/live/suport837/premieriptv1/795.ts
+#EXTINF:-1DHE group-title="DEMO",DHE
+http://167.114.174.164:25461/live/suport837/premieriptv1/794.ts
+#EXTINF:-1Digimon Adventure group-title="DEMO",Digimon Adventure
+http://167.114.174.164:25461/live/suport837/premieriptv1/702.ts
+#EXTINF:-1Digital 15 HD group-title="DEMO",Digital 15 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/640.ts
+#EXTINF:-1Dinotren group-title="DEMO",Dinotren
+http://167.114.174.164:25461/live/suport837/premieriptv1/657.ts
+#EXTINF:-1Discovery Channel group-title="DEMO",Discovery Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/744.ts
+#EXTINF:-1Discovery Civilization group-title="DEMO",Discovery Civilization
+http://167.114.174.164:25461/live/suport837/premieriptv1/743.ts
+#EXTINF:-1Discovery Home & Health group-title="DEMO",Discovery Home & Health
+http://167.114.174.164:25461/live/suport837/premieriptv1/742.ts
+#EXTINF:-1Discovery Home and Health group-title="DEMO",Discovery Home and Health
+http://167.114.174.164:25461/live/suport837/premieriptv1/741.ts
+#EXTINF:-1Discovery Science group-title="DEMO",Discovery Science
+http://167.114.174.164:25461/live/suport837/premieriptv1/740.ts
+#EXTINF:-1Discovery Theater group-title="DEMO",Discovery Theater
+http://167.114.174.164:25461/live/suport837/premieriptv1/739.ts
+#EXTINF:-1Discovery Travel & Living (TLC) group-title="DEMO",Discovery Travel & Living (TLC)
+http://167.114.174.164:25461/live/suport837/premieriptv1/738.ts
+#EXTINF:-1Discovery Turbo group-title="DEMO",Discovery Turbo
+http://167.114.174.164:25461/live/suport837/premieriptv1/737.ts
+#EXTINF:-1Discovery World group-title="DEMO",Discovery World
+http://167.114.174.164:25461/live/suport837/premieriptv1/736.ts
+#EXTINF:-1Distrito Comedia group-title="DEMO",Distrito Comedia
+http://167.114.174.164:25461/live/suport837/premieriptv1/846.ts
+#EXTINF:-1Dora la exploradora group-title="DEMO",Dora la exploradora
+http://167.114.174.164:25461/live/suport837/premieriptv1/656.ts
+#EXTINF:-1DW group-title="DEMO",DW
+http://167.114.174.164:25461/live/suport837/premieriptv1/735.ts
+#EXTINF:-1Edd y Eddy group-title="DEMO",Edd y Eddy
+http://167.114.174.164:25461/live/suport837/premieriptv1/701.ts
+#EXTINF:-1el Barbaro group-title="DEMO",el Barbaro
+http://167.114.174.164:25461/live/suport837/premieriptv1/703.ts
+#EXTINF:-1El Chapulin Colorado group-title="DEMO",El Chapulin Colorado
+http://167.114.174.164:25461/live/suport837/premieriptv1/700.ts
+#EXTINF:-1El Chavo Animado group-title="DEMO",El Chavo Animado
+http://167.114.174.164:25461/live/suport837/premieriptv1/699.ts
+#EXTINF:-1El Chavo del 8 group-title="DEMO",El Chavo del 8
+http://167.114.174.164:25461/live/suport837/premieriptv1/698.ts
+#EXTINF:-1El coche fantastico group-title="DEMO",El coche fantastico
+http://167.114.174.164:25461/live/suport837/premieriptv1/697.ts
+#EXTINF:-1El Correcaminos group-title="DEMO",El Correcaminos
+http://167.114.174.164:25461/live/suport837/premieriptv1/696.ts
+#EXTINF:-1El financiero bloomberg group-title="DEMO",El financiero bloomberg
+http://167.114.174.164:25461/live/suport837/premieriptv1/845.ts
+#EXTINF:-1El Gourmet group-title="DEMO",El Gourmet
+http://167.114.174.164:25461/live/suport837/premieriptv1/825.ts
+#EXTINF:-1El laboratorio de Dexter group-title="DEMO",El laboratorio de Dexter
+http://167.114.174.164:25461/live/suport837/premieriptv1/695.ts
+#EXTINF:-1El Pajaro Loco group-title="DEMO",El Pajaro Loco
+http://167.114.174.164:25461/live/suport837/premieriptv1/694.ts
+#EXTINF:-1El Principe del Rap group-title="DEMO",El Principe del Rap
+http://167.114.174.164:25461/live/suport837/premieriptv1/693.ts
+#EXTINF:-1El tunel del tiempo group-title="DEMO",El tunel del tiempo
+http://167.114.174.164:25461/live/suport837/premieriptv1/692.ts
+#EXTINF:-1ENCODE-MAXPRIME group-title="DEMO",ENCODE-MAXPRIME
+http://167.114.174.164:25461/live/suport837/premieriptv1/879.ts
+#EXTINF:-1DEMO - Caracol HD group-title="DEMO",DEMO - Caracol HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/866.ts
+#EXTINF:-1DEMO - DIRECTV Sports   Plus group-title="DEMO",DEMO - DIRECTV Sports   Plus
+http://167.114.174.164:25461/live/suport837/premieriptv1/865.ts
+#EXTINF:-1DEMO - DIRECTV Sports 1 group-title="DEMO",DEMO - DIRECTV Sports 1
+http://167.114.174.164:25461/live/suport837/premieriptv1/864.ts
+#EXTINF:-1DEMO - Discovery Theater group-title="DEMO",DEMO - Discovery Theater
+http://167.114.174.164:25461/live/suport837/premieriptv1/894.ts
+#EXTINF:-1DEMO - Espn group-title="DEMO",DEMO - Espn
+http://167.114.174.164:25461/live/suport837/premieriptv1/863.ts
+#EXTINF:-1DEMO - Espn 1 group-title="DEMO",DEMO - Espn 1
+http://167.114.174.164:25461/live/suport837/premieriptv1/870.ts
+#EXTINF:-1DEMO - Espn 2 group-title="DEMO",DEMO - Espn 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/869.ts
+#EXTINF:-1DEMO - ESPN SUR group-title="DEMO",DEMO - ESPN SUR
+http://167.114.174.164:25461/live/suport837/premieriptv1/860.ts
+#EXTINF:-1DEMO - FOX Series group-title="DEMO",DEMO - FOX Series
+http://167.114.174.164:25461/live/suport837/premieriptv1/888.ts
+#EXTINF:-1DEMO - FOX Sports 1 group-title="DEMO",DEMO - FOX Sports 1
+http://167.114.174.164:25461/live/suport837/premieriptv1/892.ts
+#EXTINF:-1DEMO - FOX Sports 2 group-title="DEMO",DEMO - FOX Sports 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/868.ts
+#EXTINF:-1DEMO - FOX Sports 3 group-title="DEMO",DEMO - FOX Sports 3
+http://167.114.174.164:25461/live/suport837/premieriptv1/867.ts
+#EXTINF:-1DEMO - HBO group-title="DEMO",DEMO - HBO
+http://167.114.174.164:25461/live/suport837/premieriptv1/885.ts
+#EXTINF:-1DEMO - HBO 2 group-title="DEMO",DEMO - HBO 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/884.ts
+#EXTINF:-1DEMO - HBO Signature group-title="DEMO",DEMO - HBO Signature
+http://167.114.174.164:25461/live/suport837/premieriptv1/881.ts
+#EXTINF:-1DEMO - Nick Jr. group-title="DEMO",DEMO - Nick Jr.
+http://167.114.174.164:25461/live/suport837/premieriptv1/876.ts
+#EXTINF:-1DEMO - RCN HD group-title="DEMO",DEMO - RCN HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/875.ts
+#EXTINF:-1DEMO - RCN HD2 group-title="DEMO",DEMO - RCN HD2
+http://167.114.174.164:25461/live/suport837/premieriptv1/874.ts
+#EXTINF:-1DEMO - Win Sports group-title="DEMO",DEMO - Win Sports
+http://167.114.174.164:25461/live/suport837/premieriptv1/861.ts
+#EXTINF:-1DEMO- FXM group-title="DEMO",DEMO- FXM
+http://167.114.174.164:25461/live/suport837/premieriptv1/886.ts
+#EXTINF:-1DEMO-AMC group-title="DEMO",DEMO-AMC
+http://167.114.174.164:25461/live/suport837/premieriptv1/898.ts
+#EXTINF:-1DEMO-CARACOLHD2 group-title="DEMO",DEMO-CARACOLHD2
+http://167.114.174.164:25461/live/suport837/premieriptv1/897.ts
+#EXTINF:-1DEMO-CARACOLINTERNACIONAL group-title="DEMO",DEMO-CARACOLINTERNACIONAL
+http://167.114.174.164:25461/live/suport837/premieriptv1/896.ts
+#EXTINF:-1DEMO-DIRECTCSPORTS2 group-title="DEMO",DEMO-DIRECTCSPORTS2
+http://167.114.174.164:25461/live/suport837/premieriptv1/887.ts
+#EXTINF:-1DEMO-DISCOVERYKIDS group-title="DEMO",DEMO-DISCOVERYKIDS
+http://167.114.174.164:25461/live/suport837/premieriptv1/895.ts
+#EXTINF:-1DEMO-ESPN3 group-title="DEMO",DEMO-ESPN3
+http://167.114.174.164:25461/live/suport837/premieriptv1/862.ts
+#EXTINF:-1DEMO-ESPNPLUS group-title="DEMO",DEMO-ESPNPLUS
+http://167.114.174.164:25461/live/suport837/premieriptv1/893.ts
+#EXTINF:-1DEMO-FOXACTION group-title="DEMO",DEMO-FOXACTION
+http://167.114.174.164:25461/live/suport837/premieriptv1/891.ts
+#EXTINF:-1DEMO-FOXCOMEDY group-title="DEMO",DEMO-FOXCOMEDY
+http://167.114.174.164:25461/live/suport837/premieriptv1/890.ts
+#EXTINF:-1DEMO-FOXLIFE group-title="DEMO",DEMO-FOXLIFE
+http://167.114.174.164:25461/live/suport837/premieriptv1/889.ts
+#EXTINF:-1DEMO-HBOFAMILY group-title="DEMO",DEMO-HBOFAMILY
+http://167.114.174.164:25461/live/suport837/premieriptv1/883.ts
+#EXTINF:-1DEMO-HBOPLUS group-title="DEMO",DEMO-HBOPLUS
+http://167.114.174.164:25461/live/suport837/premieriptv1/882.ts
+#EXTINF:-1DEMO-MAX group-title="DEMO",DEMO-MAX
+http://167.114.174.164:25461/live/suport837/premieriptv1/880.ts
+#EXTINF:-1DEMO-MAXUP group-title="DEMO",DEMO-MAXUP
+http://167.114.174.164:25461/live/suport837/premieriptv1/878.ts
+#EXTINF:-1DEMO-NATGEOWILD group-title="DEMO",DEMO-NATGEOWILD
+http://167.114.174.164:25461/live/suport837/premieriptv1/877.ts
+#EXTINF:-1DEMO-STUDIOUNIVERSAL group-title="DEMO",DEMO-STUDIOUNIVERSAL
+http://167.114.174.164:25461/live/suport837/premieriptv1/873.ts
+#EXTINF:-1DEMO-SYFY group-title="DEMO",DEMO-SYFY
+http://167.114.174.164:25461/live/suport837/premieriptv1/872.ts
+#EXTINF:-1DEMO-TNTSERIES group-title="DEMO",DEMO-TNTSERIES
+http://167.114.174.164:25461/live/suport837/premieriptv1/871.ts
+#EXTINF:-1Encore group-title="DEMO",Encore
+http://167.114.174.164:25461/live/suport837/premieriptv1/751.ts
+#EXTINF:-1Encore Action group-title="DEMO",Encore Action
+http://167.114.174.164:25461/live/suport837/premieriptv1/750.ts
+#EXTINF:-1Entertainment E! group-title="DEMO",Entertainment E!
+http://167.114.174.164:25461/live/suport837/premieriptv1/844.ts
+#EXTINF:-1DEMO - Claro Cinema group-title="DEMO",DEMO - Claro Cinema
+http://167.114.174.164:25461/live/suport837/premieriptv1/666.ts
+#EXTINF:-1DEMO - El Canal De Las Estrellas MX group-title="DEMO",DEMO - El Canal De Las Estrellas MX
+http://167.114.174.164:25461/live/suport837/premieriptv1/662.ts
+#EXTINF:-1Euronews. group-title="DEMO",Euronews.
+http://167.114.174.164:25461/live/suport837/premieriptv1/645.ts
+#EXTINF:-1Fantasias animadas de ayer y hoy group-title="DEMO",Fantasias animadas de ayer y hoy
+http://167.114.174.164:25461/live/suport837/premieriptv1/691.ts
+#EXTINF:-1Film&Arts group-title="DEMO",Film&Arts
+http://167.114.174.164:25461/live/suport837/premieriptv1/747.ts
+#EXTINF:-1Food Network group-title="DEMO",Food Network
+http://167.114.174.164:25461/live/suport837/premieriptv1/826.ts
+#EXTINF:-1Foro TV group-title="DEMO",Foro TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/827.ts
+#EXTINF:-1Fox group-title="DEMO",Fox
+http://167.114.174.164:25461/live/suport837/premieriptv1/793.ts
+#EXTINF:-1Fox Life group-title="DEMO",Fox Life
+http://167.114.174.164:25461/live/suport837/premieriptv1/843.ts
+#EXTINF:-1Fox News group-title="DEMO",Fox News
+http://167.114.174.164:25461/live/suport837/premieriptv1/648.ts
+#EXTINF:-1Fox Premium Action group-title="DEMO",Fox Premium Action
+http://167.114.174.164:25461/live/suport837/premieriptv1/791.ts
+#EXTINF:-1Fox Premium Cinema group-title="DEMO",Fox Premium Cinema
+http://167.114.174.164:25461/live/suport837/premieriptv1/790.ts
+#EXTINF:-1Fox Premium Classics group-title="DEMO",Fox Premium Classics
+http://167.114.174.164:25461/live/suport837/premieriptv1/789.ts
+#EXTINF:-1Fox Premium Comedy group-title="DEMO",Fox Premium Comedy
+http://167.114.174.164:25461/live/suport837/premieriptv1/788.ts
+#EXTINF:-1Fox Premium Family group-title="DEMO",Fox Premium Family
+http://167.114.174.164:25461/live/suport837/premieriptv1/787.ts
+#EXTINF:-1Fox Premium Movies group-title="DEMO",Fox Premium Movies
+http://167.114.174.164:25461/live/suport837/premieriptv1/786.ts
+#EXTINF:-1Fox Premium Series group-title="DEMO",Fox Premium Series
+http://167.114.174.164:25461/live/suport837/premieriptv1/785.ts
+#EXTINF:-1France 24 group-title="DEMO",France 24
+http://167.114.174.164:25461/live/suport837/premieriptv1/842.ts
+#EXTINF:-1Frecuencia Latina group-title="DEMO",Frecuencia Latina
+http://167.114.174.164:25461/live/suport837/premieriptv1/841.ts
+#EXTINF:-1Futurama group-title="DEMO",Futurama
+http://167.114.174.164:25461/live/suport837/premieriptv1/690.ts
+#EXTINF:-1FX group-title="DEMO",FX
+http://167.114.174.164:25461/live/suport837/premieriptv1/784.ts
+#EXTINF:-1FX Movies (FXM) group-title="DEMO",FX Movies (FXM)
+http://167.114.174.164:25461/live/suport837/premieriptv1/783.ts
+#EXTINF:-1Gala Tv group-title="DEMO",Gala Tv
+http://167.114.174.164:25461/live/suport837/premieriptv1/858.ts
+#EXTINF:-1GalaVision group-title="DEMO",GalaVision
+http://167.114.174.164:25461/live/suport837/premieriptv1/840.ts
+#EXTINF:-1Garfield group-title="DEMO",Garfield
+http://167.114.174.164:25461/live/suport837/premieriptv1/689.ts
+#EXTINF:-1Glitz group-title="DEMO",Glitz
+http://167.114.174.164:25461/live/suport837/premieriptv1/839.ts
+#EXTINF:-1Gol DEMO PE group-title="DEMO",Gol DEMO PE
+http://167.114.174.164:25461/live/suport837/premieriptv1/627.ts
+#EXTINF:-1Golden group-title="DEMO",Golden
+http://167.114.174.164:25461/live/suport837/premieriptv1/782.ts
+#EXTINF:-1Golden Edge group-title="DEMO",Golden Edge
+http://167.114.174.164:25461/live/suport837/premieriptv1/781.ts
+#EXTINF:-1Golden Plus group-title="DEMO",Golden Plus
+http://167.114.174.164:25461/live/suport837/premieriptv1/780.ts
+#EXTINF:-1H2 group-title="DEMO",H2
+http://167.114.174.164:25461/live/suport837/premieriptv1/734.ts
+#EXTINF:-1Halcones Galacticos group-title="DEMO",Halcones Galacticos
+http://167.114.174.164:25461/live/suport837/premieriptv1/688.ts
+#EXTINF:-1HBO group-title="DEMO",HBO
+http://167.114.174.164:25461/live/suport837/premieriptv1/779.ts
+#EXTINF:-1HBO 2 group-title="DEMO",HBO 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/778.ts
+#EXTINF:-1HBO Family group-title="DEMO",HBO Family
+http://167.114.174.164:25461/live/suport837/premieriptv1/777.ts
+#EXTINF:-1HBO Latino group-title="DEMO",HBO Latino
+http://167.114.174.164:25461/live/suport837/premieriptv1/752.ts
+#EXTINF:-1HBO Plus group-title="DEMO",HBO Plus
+http://167.114.174.164:25461/live/suport837/premieriptv1/776.ts
+#EXTINF:-1HBO Signature group-title="DEMO",HBO Signature
+http://167.114.174.164:25461/live/suport837/premieriptv1/775.ts
+#EXTINF:-1History Channel group-title="DEMO",History Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/733.ts
+#EXTINF:-1HLN group-title="DEMO",HLN
+http://167.114.174.164:25461/live/suport837/premieriptv1/647.ts
+#EXTINF:-1Hmx (El Canal del Hombre) group-title="DEMO",Hmx (El Canal del Hombre)
+http://167.114.174.164:25461/live/suport837/premieriptv1/854.ts
+#EXTINF:-1Hola TV group-title="DEMO",Hola TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/838.ts
+#EXTINF:-1Htv group-title="DEMO",Htv
+http://167.114.174.164:25461/live/suport837/premieriptv1/721.ts
+
+#EXTINF:-1I.sat group-title="DEMO",I.sat
+http://167.114.174.164:25461/live/suport837/premieriptv1/774.ts
+#EXTINF:-1Imagen TV group-title="DEMO",Imagen TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/830.ts
+#EXTINF:-1Ingenio Tv group-title="DEMO",Ingenio Tv
+http://167.114.174.164:25461/live/suport837/premieriptv1/853.ts
+#EXTINF:-1Investigation Discovery group-title="DEMO",Investigation Discovery
+http://167.114.174.164:25461/live/suport837/premieriptv1/732.ts
+
+#EXTINF:-1Jimmy Neutron group-title="DEMO",Jimmy Neutron
+http://167.114.174.164:25461/live/suport837/premieriptv1/686.ts
+#EXTINF:-1Johnny Bravo group-title="DEMO",Johnny Bravo
+http://167.114.174.164:25461/live/suport837/premieriptv1/685.ts
+#EXTINF:-1La familia Addams group-title="DEMO",La familia Addams
+http://167.114.174.164:25461/live/suport837/premieriptv1/684.ts
+#EXTINF:-1La Familia Monster group-title="DEMO",La Familia Monster
+http://167.114.174.164:25461/live/suport837/premieriptv1/683.ts
+#EXTINF:-1La Familia P. Luche group-title="DEMO",La Familia P. Luche
+http://167.114.174.164:25461/live/suport837/premieriptv1/682.ts
+#EXTINF:-1La Pantera Rosa group-title="DEMO",La Pantera Rosa
+http://167.114.174.164:25461/live/suport837/premieriptv1/681.ts
+#EXTINF:-1La rosa de Guadalupe group-title="DEMO",La rosa de Guadalupe
+http://167.114.174.164:25461/live/suport837/premieriptv1/680.ts
+#EXTINF:-1La vaca y el pollito group-title="DEMO",La vaca y el pollito
+http://167.114.174.164:25461/live/suport837/premieriptv1/679.ts
+#EXTINF:-1La Voz De Maria group-title="DEMO",La Voz De Maria
+http://167.114.174.164:25461/live/suport837/premieriptv1/639.ts
+#EXTINF:-1Las Estrellas group-title="DEMO",Las Estrellas
+http://167.114.174.164:25461/live/suport837/premieriptv1/821.ts
+#EXTINF:-1Lifetime group-title="DEMO",Lifetime
+http://167.114.174.164:25461/live/suport837/premieriptv1/820.ts
+
+#EXTINF:-1Los Picapiedra group-title="DEMO",Los Picapiedra
+http://167.114.174.164:25461/live/suport837/premieriptv1/678.ts
+#EXTINF:-1Los Pitufos group-title="DEMO",Los Pitufos
+http://167.114.174.164:25461/live/suport837/premieriptv1/677.ts
+#EXTINF:-1Los Supersonicos group-title="DEMO",Los Supersonicos
+http://167.114.174.164:25461/live/suport837/premieriptv1/676.ts
+#EXTINF:-1LUNA TV CANAL 53 group-title="DEMO",LUNA TV CANAL 53
+http://167.114.174.164:25461/live/suport837/premieriptv1/638.ts
+#EXTINF:-1Malcolm in the middle group-title="DEMO",Malcolm in the middle
+http://167.114.174.164:25461/live/suport837/premieriptv1/675.ts
+#EXTINF:-1Mas Chic group-title="DEMO",Mas Chic
+http://167.114.174.164:25461/live/suport837/premieriptv1/824.ts
+#EXTINF:-1Max group-title="DEMO",Max
+http://167.114.174.164:25461/live/suport837/premieriptv1/753.ts
+#EXTINF:-1Max Prime group-title="DEMO",Max Prime
+http://167.114.174.164:25461/live/suport837/premieriptv1/773.ts
+#EXTINF:-1Max Prime Este group-title="DEMO",Max Prime Este
+http://167.114.174.164:25461/live/suport837/premieriptv1/772.ts
+#EXTINF:-1Max Up group-title="DEMO",Max Up
+http://167.114.174.164:25461/live/suport837/premieriptv1/771.ts
+#EXTINF:-1Mazinger Z group-title="DEMO",Mazinger Z
+http://167.114.174.164:25461/live/suport837/premieriptv1/674.ts
+#EXTINF:-1Mexiquense TV group-title="DEMO",Mexiquense TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/726.ts
+#EXTINF:-1Mi Bella genio group-title="DEMO",Mi Bella genio
+http://167.114.174.164:25461/live/suport837/premieriptv1/673.ts
+#EXTINF:-1Mi DEMO group-title="DEMO",Mi DEMO
+http://167.114.174.164:25461/live/suport837/premieriptv1/722.ts
+#EXTINF:-1Milenio TV group-title="DEMO",Milenio TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/829.ts
+#EXTINF:-1MTV group-title="DEMO",MTV
+http://167.114.174.164:25461/live/suport837/premieriptv1/720.ts
+#EXTINF:-1MTV Hits group-title="DEMO",MTV Hits
+http://167.114.174.164:25461/live/suport837/premieriptv1/719.ts
+#EXTINF:-1MTV Live group-title="DEMO",MTV Live
+http://167.114.174.164:25461/live/suport837/premieriptv1/718.ts
+#EXTINF:-1Multimedios Television group-title="DEMO",Multimedios Television
+http://167.114.174.164:25461/live/suport837/premieriptv1/857.ts
+#EXTINF:-1Multipremier group-title="DEMO",Multipremier
+http://167.114.174.164:25461/live/suport837/premieriptv1/770.ts
+#EXTINF:-1Music Top group-title="DEMO",Music Top
+http://167.114.174.164:25461/live/suport837/premieriptv1/728.ts
+#EXTINF:-1DEMOles - Concert Channel group-title="DEMO",DEMOles - Concert Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/665.ts
+#EXTINF:-1Nat-Geo Mundo group-title="DEMO",Nat-Geo Mundo
+http://167.114.174.164:25461/live/suport837/premieriptv1/729.ts
+#EXTINF:-1Natgeo group-title="DEMO",Natgeo
+http://167.114.174.164:25461/live/suport837/premieriptv1/731.ts
+#EXTINF:-1Natgeo Wild group-title="DEMO",Natgeo Wild
+http://167.114.174.164:25461/live/suport837/premieriptv1/730.ts
+#EXTINF:-1DEMO - Proyecto 40 (ADN 40) group-title="DEMO",DEMO - Proyecto 40 (ADN 40)
+http://167.114.174.164:25461/live/suport837/premieriptv1/644.ts
+#EXTINF:-1ONDA TV CANAL 10 group-title="DEMO",ONDA TV CANAL 10
+http://167.114.174.164:25461/live/suport837/premieriptv1/637.ts
+#EXTINF:-1Paramount Channel group-title="DEMO",Paramount Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/769.ts
+#EXTINF:-1Pasiones group-title="DEMO",Pasiones
+http://167.114.174.164:25461/live/suport837/premieriptv1/837.ts
+#EXTINF:-1Perdidos en el espacio group-title="DEMO",Perdidos en el espacio
+http://167.114.174.164:25461/live/suport837/premieriptv1/672.ts
+#EXTINF:-1Pinky y Cerebro group-title="DEMO",Pinky y Cerebro
+http://167.114.174.164:25461/live/suport837/premieriptv1/671.ts
+#EXTINF:-1Pokemon group-title="DEMO",Pokemon
+http://167.114.174.164:25461/live/suport837/premieriptv1/670.ts
+#EXTINF:-1Popeye group-title="DEMO",Popeye
+http://167.114.174.164:25461/live/suport837/premieriptv1/669.ts
+#EXTINF:-1Power Rangers group-title="DEMO",Power Rangers
+http://167.114.174.164:25461/live/suport837/premieriptv1/668.ts
+#EXTINF:-1RCN HD group-title="DEMO",RCN HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/836.ts
+#EXTINF:-1RCN Novelas group-title="DEMO",RCN Novelas
+http://167.114.174.164:25461/live/suport837/premieriptv1/835.ts
+#EXTINF:-1Ritmoson (RMS) group-title="DEMO",Ritmoson (RMS)
+http://167.114.174.164:25461/live/suport837/premieriptv1/725.ts
+#EXTINF:-1RT group-title="DEMO",RT
+http://167.114.174.164:25461/live/suport837/premieriptv1/646.ts
+#EXTINF:-1Rugrats group-title="DEMO",Rugrats
+http://167.114.174.164:25461/live/suport837/premieriptv1/667.ts
+#EXTINF:-1Scooby-Doo group-title="DEMO",Scooby-Doo
+http://167.114.174.164:25461/live/suport837/premieriptv1/664.ts
+#EXTINF:-1Showtime group-title="DEMO",Showtime
+http://167.114.174.164:25461/live/suport837/premieriptv1/828.ts
+#EXTINF:-1Sony group-title="DEMO",Sony
+http://167.114.174.164:25461/live/suport837/premieriptv1/768.ts
+#EXTINF:-1South Park group-title="DEMO",South Park
+http://167.114.174.164:25461/live/suport837/premieriptv1/663.ts
+#EXTINF:-1Space group-title="DEMO",Space
+http://167.114.174.164:25461/live/suport837/premieriptv1/767.ts
+#EXTINF:-1Starz group-title="DEMO",Starz
+http://167.114.174.164:25461/live/suport837/premieriptv1/749.ts
+#EXTINF:-1Starz Comedy group-title="DEMO",Starz Comedy
+http://167.114.174.164:25461/live/suport837/premieriptv1/748.ts
+#EXTINF:-1Starz Encore Action group-title="DEMO",Starz Encore Action
+http://167.114.174.164:25461/live/suport837/premieriptv1/792.ts
+#EXTINF:-1Studio Universal group-title="DEMO",Studio Universal
+http://167.114.174.164:25461/live/suport837/premieriptv1/766.ts
+#EXTINF:-1Sundance Channel group-title="DEMO",Sundance Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/765.ts
+#EXTINF:-1Super Tv 55 group-title="DEMO",Super Tv 55
+http://167.114.174.164:25461/live/suport837/premieriptv1/636.ts
+#EXTINF:-1SYFY group-title="DEMO",SYFY
+http://167.114.174.164:25461/live/suport837/premieriptv1/764.ts
+#EXTINF:-1Tbs Veryfunny group-title="DEMO",Tbs Veryfunny
+http://167.114.174.164:25461/live/suport837/premieriptv1/763.ts
+#EXTINF:-1TCM group-title="DEMO",TCM
+http://167.114.174.164:25461/live/suport837/premieriptv1/762.ts
+#EXTINF:-1Telecentro 13 group-title="DEMO",Telecentro 13
+http://167.114.174.164:25461/live/suport837/premieriptv1/635.ts
+#EXTINF:-1Teleformula group-title="DEMO",Teleformula
+http://167.114.174.164:25461/live/suport837/premieriptv1/834.ts
+#EXTINF:-1TeleFuturo group-title="DEMO",TeleFuturo
+http://167.114.174.164:25461/live/suport837/premieriptv1/634.ts
+#EXTINF:-1Telehit group-title="DEMO",Telehit
+http://167.114.174.164:25461/live/suport837/premieriptv1/724.ts
+#EXTINF:-1Telemicro Canal 5 group-title="DEMO",Telemicro Canal 5
+http://167.114.174.164:25461/live/suport837/premieriptv1/633.ts
+#EXTINF:-1Telemundo 25 (Denver) group-title="DEMO",Telemundo 25 (Denver)
+http://167.114.174.164:25461/live/suport837/premieriptv1/817.ts
+#EXTINF:-1Telemundo 39 (Dallas) group-title="DEMO",Telemundo 39 (Dallas)
+http://167.114.174.164:25461/live/suport837/premieriptv1/816.ts
+#EXTINF:-1Telemundo 44 (Chicago) group-title="DEMO",Telemundo 44 (Chicago)
+http://167.114.174.164:25461/live/suport837/premieriptv1/815.ts
+#EXTINF:-1Telemundo 47 (Houston) group-title="DEMO",Telemundo 47 (Houston)
+http://167.114.174.164:25461/live/suport837/premieriptv1/814.ts
+#EXTINF:-1Telemundo 47 (Nueva York) group-title="DEMO",Telemundo 47 (Nueva York)
+http://167.114.174.164:25461/live/suport837/premieriptv1/813.ts
+#EXTINF:-1Telemundo 51 (Fresno) group-title="DEMO",Telemundo 51 (Fresno)
+http://167.114.174.164:25461/live/suport837/premieriptv1/812.ts
+#EXTINF:-1Telemundo 51 (Miami) group-title="DEMO",Telemundo 51 (Miami)
+http://167.114.174.164:25461/live/suport837/premieriptv1/811.ts
+#EXTINF:-1Telemundo 52 (Los Angeles) group-title="DEMO",Telemundo 52 (Los Angeles)
+http://167.114.174.164:25461/live/suport837/premieriptv1/810.ts
+#EXTINF:-1Telemundo 60 (Boston) group-title="DEMO",Telemundo 60 (Boston)
+http://167.114.174.164:25461/live/suport837/premieriptv1/809.ts
+#EXTINF:-1Telemundo 60 (San Antonio) group-title="DEMO",Telemundo 60 (San Antonio)
+http://167.114.174.164:25461/live/suport837/premieriptv1/808.ts
+#EXTINF:-1Telemundo Internacional group-title="DEMO",Telemundo Internacional
+http://167.114.174.164:25461/live/suport837/premieriptv1/819.ts
+#EXTINF:-1Telemundo Internacional (Mexico) group-title="DEMO",Telemundo Internacional (Mexico)
+http://167.114.174.164:25461/live/suport837/premieriptv1/807.ts
+#EXTINF:-1Telemundo NY group-title="DEMO",Telemundo NY
+http://167.114.174.164:25461/live/suport837/premieriptv1/818.ts
+#EXTINF:-1TeleRadioAmerica 45 group-title="DEMO",TeleRadioAmerica 45
+http://167.114.174.164:25461/live/suport837/premieriptv1/632.ts
+#EXTINF:-1Teleritmo TV group-title="DEMO",Teleritmo TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/804.ts
+#EXTINF:-1TELESISTEMA 11 group-title="DEMO",TELESISTEMA 11
+http://167.114.174.164:25461/live/suport837/premieriptv1/631.ts
+#EXTINF:-1TeleUniverso group-title="DEMO",TeleUniverso
+http://167.114.174.164:25461/live/suport837/premieriptv1/630.ts
+#EXTINF:-1Televisa Monterrey group-title="DEMO",Televisa Monterrey
+http://167.114.174.164:25461/live/suport837/premieriptv1/806.ts
+#EXTINF:-1Televisa Tijuana group-title="DEMO",Televisa Tijuana
+http://167.114.174.164:25461/live/suport837/premieriptv1/805.ts
+#EXTINF:-1TL Novela group-title="DEMO",TL Novela
+http://167.114.174.164:25461/live/suport837/premieriptv1/832.ts
+#EXTINF:-1TLC group-title="DEMO",TLC
+http://167.114.174.164:25461/live/suport837/premieriptv1/761.ts
+#EXTINF:-1TNT group-title="DEMO",TNT
+http://167.114.174.164:25461/live/suport837/premieriptv1/760.ts
+#EXTINF:-1TNT Series group-title="DEMO",TNT Series
+http://167.114.174.164:25461/live/suport837/premieriptv1/759.ts
+#EXTINF:-1TOP Latino group-title="DEMO",TOP Latino
+http://167.114.174.164:25461/live/suport837/premieriptv1/727.ts
+#EXTINF:-1TruTV group-title="DEMO",TruTV
+http://167.114.174.164:25461/live/suport837/premieriptv1/758.ts
+#EXTINF:-1TVM group-title="DEMO",TVM
+http://167.114.174.164:25461/live/suport837/premieriptv1/856.ts
+#EXTINF:-1Unicable group-title="DEMO",Unicable
+http://167.114.174.164:25461/live/suport837/premieriptv1/833.ts
+#EXTINF:-1Unimas group-title="DEMO",Unimas
+http://167.114.174.164:25461/live/suport837/premieriptv1/823.ts
+#EXTINF:-1Universal Channel group-title="DEMO",Universal Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/757.ts
+#EXTINF:-1VH1 group-title="DEMO",VH1
+http://167.114.174.164:25461/live/suport837/premieriptv1/717.ts
+#EXTINF:-1VH1 Classic group-title="DEMO",VH1 Classic
+http://167.114.174.164:25461/live/suport837/premieriptv1/716.ts
+#EXTINF:-1Warner Channel group-title="DEMO",Warner Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/756.ts
+#EXTINF:-1YUNA VISION CANAL 10 group-title="DEMO",YUNA VISION CANAL 10
+http://167.114.174.164:25461/live/suport837/premieriptv1/629.ts
+#EXTINF:-1ZOL TV group-title="DEMO",ZOL TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/628.ts
+#EXTINF:-1CANAL 10 (URU) group-title="DEMO",CANAL 10 (URU)
+http://167.114.174.164:25461/live/suport837/premieriptv1/901.ts
+#EXTINF:-1CANAL 12 (URU) group-title="DEMO",CANAL 12 (URU)
+http://167.114.174.164:25461/live/suport837/premieriptv1/900.ts
+#EXTINF:-1CANAL 4 HD (URU) group-title="DEMO",CANAL 4 HD (URU)
+http://167.114.174.164:25461/live/suport837/premieriptv1/903.ts
+#EXTINF:-1DEMO - Gol Tv Spain group-title="DEMO",DEMO - Gol Tv Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/960.ts
+#EXTINF:-1DEMO - Movistar Futbol Spain group-title="DEMO",DEMO - Movistar Futbol Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/959.ts
+#EXTINF:-1DEMO - Movistar Golf Spain group-title="DEMO",DEMO - Movistar Golf Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/958.ts
+#EXTINF:-1DEMO - Movistar MotoGT Spain group-title="DEMO",DEMO - Movistar MotoGT Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/957.ts
+#EXTINF:-1DEMOs - Bein Sports Spain group-title="DEMO",DEMOs - Bein Sports Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/956.ts
+#EXTINF:-1DEMOs - Gol Tv Spain group-title="DEMO",DEMOs - Gol Tv Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/955.ts
+#EXTINF:-1DEMOs - Movistar Formula 1 HD Spain group-title="DEMO",DEMOs - Movistar Formula 1 HD Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/954.ts
+#EXTINF:-1DEMOs - Movistar Futbol Spain group-title="DEMO",DEMOs - Movistar Futbol Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/953.ts
+#EXTINF:-1DEMOs - Movistar Golf Spain group-title="DEMO",DEMOs - Movistar Golf Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/952.ts
+#EXTINF:-1DEMOs - Movistar MotoGT Spain group-title="DEMO",DEMOs - Movistar MotoGT Spain
+http://167.114.174.164:25461/live/suport837/premieriptv1/951.ts
+#EXTINF:-1ES: Eurosport 1 FHD group-title="DEMO",ES: Eurosport 1 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/950.ts
+#EXTINF:-1ES: EUROSPORT 2 group-title="DEMO",ES: EUROSPORT 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/949.ts
+#EXTINF:-1ES: Fox FHD group-title="DEMO",ES: Fox FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/948.ts
+#EXTINF:-1ES: Fox Life FHD group-title="DEMO",ES: Fox Life FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/947.ts
+#EXTINF:-1ES: Hollywood FHD group-title="DEMO",ES: Hollywood FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/946.ts
+#EXTINF:-1ES: LA 1 FHD group-title="DEMO",ES: LA 1 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/945.ts
+#EXTINF:-1ES: LA LIGA TV BAR FHD group-title="DEMO",ES: LA LIGA TV BAR FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/944.ts
+#EXTINF:-1ES: La Sexta FHD group-title="DEMO",ES: La Sexta FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/943.ts
+#EXTINF:-1ES: LaLiga 123 FHD group-title="DEMO",ES: LaLiga 123 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/942.ts
+#EXTINF:-1ES: Mega TV group-title="DEMO",ES: Mega TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/941.ts
+#EXTINF:-1ES: Odisea group-title="DEMO",ES: Odisea
+http://167.114.174.164:25461/live/suport837/premieriptv1/940.ts
+#EXTINF:-1ES: Paramount group-title="DEMO",ES: Paramount
+http://167.114.174.164:25461/live/suport837/premieriptv1/939.ts
+#EXTINF:-1ES: Real Madrid Channel group-title="DEMO",ES: Real Madrid Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/938.ts
+#EXTINF:-1ES: Real Madrid TV FHD group-title="DEMO",ES: Real Madrid TV FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/937.ts
+#EXTINF:-1ES: TNT FHD group-title="DEMO",ES: TNT FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/936.ts
+#EXTINF:-1ES: Toros Tv FHD group-title="DEMO",ES: Toros Tv FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/935.ts
+#EXTINF:-1ES:ANTENA 3 HD group-title="DEMO",ES:ANTENA 3 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/934.ts
+#EXTINF:-1ES:Canal  GOLF HD group-title="DEMO",ES:Canal  GOLF HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/933.ts
+#EXTINF:-1ES:Canal  LIGA HD group-title="DEMO",ES:Canal  LIGA HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/932.ts
+#EXTINF:-1ES:Canal DEMO 2 HD group-title="DEMO",ES:Canal DEMO 2 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/931.ts
+#EXTINF:-1ES:Canal DEMO HD group-title="DEMO",ES:Canal DEMO HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/930.ts
+#EXTINF:-1ES:Canal FUTBOL HD group-title="DEMO",ES:Canal FUTBOL HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/929.ts
+#EXTINF:-1ES:Canal TOROS HD group-title="DEMO",ES:Canal TOROS HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/928.ts
+#EXTINF:-1ES:DISNEY JUNIOR group-title="DEMO",ES:DISNEY JUNIOR
+http://167.114.174.164:25461/live/suport837/premieriptv1/927.ts
+#EXTINF:-1ES:FOX LIFE HD group-title="DEMO",ES:FOX LIFE HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/926.ts
+#EXTINF:-1ES:HISTORIA group-title="DEMO",ES:HISTORIA
+http://167.114.174.164:25461/live/suport837/premieriptv1/925.ts
+#EXTINF:-1ES:LA 1 HD group-title="DEMO",ES:LA 1 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/924.ts
+#EXTINF:-1ES.-#0 FHD group-title="DEMO",ES.-#0 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1115.ts
+#EXTINF:-1ES.-#0 HD group-title="DEMO",ES.-#0 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1114.ts
+#EXTINF:-1ES.-24 Horas group-title="DEMO",ES.-24 Horas
+http://167.114.174.164:25461/live/suport837/premieriptv1/1113.ts
+#EXTINF:-1ES.-40 TV group-title="DEMO",ES.-40 TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/1112.ts
+#EXTINF:-1ES.-A&E group-title="DEMO",ES.-A&E
+http://167.114.174.164:25461/live/suport837/premieriptv1/1111.ts
+#EXTINF:-1ES.-AMC group-title="DEMO",ES.-AMC
+http://167.114.174.164:25461/live/suport837/premieriptv1/1110.ts
+#EXTINF:-1ES.-Antena 3 FHD group-title="DEMO",ES.-Antena 3 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1109.ts
+#EXTINF:-1ES.-Atreseries FHD group-title="DEMO",ES.-Atreseries FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1108.ts
+#EXTINF:-1ES.-AXN FHD group-title="DEMO",ES.-AXN FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1107.ts
+#EXTINF:-1ES.-AXN HD group-title="DEMO",ES.-AXN HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1106.ts
+#EXTINF:-1ES.-AXN White FHD group-title="DEMO",ES.-AXN White FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1105.ts
+#EXTINF:-1ES.-AXN WHITE HD group-title="DEMO",ES.-AXN WHITE HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1104.ts
+#EXTINF:-1ES.-BABY TV group-title="DEMO",ES.-BABY TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/1103.ts
+#EXTINF:-1ES.-BARCA TV group-title="DEMO",ES.-BARCA TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/1102.ts
+#EXTINF:-1ES.-BeiN La Liga group-title="DEMO",ES.-BeiN La Liga
+http://167.114.174.164:25461/live/suport837/premieriptv1/1101.ts
+#EXTINF:-1ES.-beIN LA Liga FHD group-title="DEMO",ES.-beIN LA Liga FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1100.ts
+#EXTINF:-1ES.-beIN Laliga 1 HD Backup group-title="DEMO",ES.-beIN Laliga 1 HD Backup
+http://167.114.174.164:25461/live/suport837/premieriptv1/1099.ts
+#EXTINF:-1ES.-BeiN Laliga FHD group-title="DEMO",ES.-BeiN Laliga FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1098.ts
+#EXTINF:-1ES.-Bein Liga HD group-title="DEMO",ES.-Bein Liga HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1097.ts
+#EXTINF:-1ES.-beIN Sport FHD group-title="DEMO",ES.-beIN Sport FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1096.ts
+#EXTINF:-1ES.-Bein Sport HD group-title="DEMO",ES.-Bein Sport HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1095.ts
+#EXTINF:-1ES.-BeMad tv FHD group-title="DEMO",ES.-BeMad tv FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1094.ts
+#EXTINF:-1ES.-Boing group-title="DEMO",ES.-Boing
+http://167.114.174.164:25461/live/suport837/premieriptv1/1093.ts
+#EXTINF:-1ES.-Calle 13 FHD group-title="DEMO",ES.-Calle 13 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1092.ts
+#EXTINF:-1ES.-CALLE 13 HD group-title="DEMO",ES.-CALLE 13 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1091.ts
+#EXTINF:-1ES.-CANAL COCINA group-title="DEMO",ES.-CANAL COCINA
+http://167.114.174.164:25461/live/suport837/premieriptv1/1090.ts
+#EXTINF:-1ES.-Canal DCINE HD group-title="DEMO",ES.-Canal DCINE HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1089.ts
+#EXTINF:-1ES.-Canal De Las Estrellas group-title="DEMO",ES.-Canal De Las Estrellas
+http://167.114.174.164:25461/live/suport837/premieriptv1/1088.ts
+#EXTINF:-1ES.-CANAL DECASA group-title="DEMO",ES.-CANAL DECASA
+http://167.114.174.164:25461/live/suport837/premieriptv1/1087.ts
+#EXTINF:-1ES.-Canal ESTRENOS HD group-title="DEMO",ES.-Canal ESTRENOS HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1086.ts
+#EXTINF:-1ES.-Canal SERIES HD group-title="DEMO",ES.-Canal SERIES HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1085.ts
+#EXTINF:-1ES.-Canal SERIES XTRA HD group-title="DEMO",ES.-Canal SERIES XTRA HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1084.ts
+#EXTINF:-1ES.-Caza y pesca group-title="DEMO",ES.-Caza y pesca
+http://167.114.174.164:25461/live/suport837/premieriptv1/1083.ts
+#EXTINF:-1ES.-Caza Y Pesca FHD group-title="DEMO",ES.-Caza Y Pesca FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1082.ts
+#EXTINF:-1ES.-Clan Tve group-title="DEMO",ES.-Clan Tve
+http://167.114.174.164:25461/live/suport837/premieriptv1/1081.ts
+#EXTINF:-1ES.-Comedy Central FHD group-title="DEMO",ES.-Comedy Central FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1080.ts
+#EXTINF:-1ES.-COMEDY CENTRAL HD group-title="DEMO",ES.-COMEDY CENTRAL HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1079.ts
+#EXTINF:-1ES.-COSMO HD group-title="DEMO",ES.-COSMO HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1078.ts
+#EXTINF:-1ES.-Cosmo Tv FHD group-title="DEMO",ES.-Cosmo Tv FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1077.ts
+#EXTINF:-1ES.-Crimen Investigation group-title="DEMO",ES.-Crimen Investigation
+http://167.114.174.164:25461/live/suport837/premieriptv1/1076.ts
+#EXTINF:-1ES.-Cuatro FHD group-title="DEMO",ES.-Cuatro FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1075.ts
+#EXTINF:-1ES.-CUATRO HD group-title="DEMO",ES.-CUATRO HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1074.ts
+#EXTINF:-1ES.-DISCOVERY group-title="DEMO",ES.-DISCOVERY
+http://167.114.174.164:25461/live/suport837/premieriptv1/1073.ts
+#EXTINF:-1ES.-DISCOVERY CHANNEL HD group-title="DEMO",ES.-DISCOVERY CHANNEL HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1072.ts
+#EXTINF:-1ES.-Disney Channel FHD group-title="DEMO",ES.-Disney Channel FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1071.ts
+#EXTINF:-1ES.-DISNEY CHANNEL HD group-title="DEMO",ES.-DISNEY CHANNEL HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1070.ts
+#EXTINF:-1ES.-DISNEY XD group-title="DEMO",ES.-DISNEY XD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1069.ts
+#EXTINF:-1ES.-DIVINITY group-title="DEMO",ES.-DIVINITY
+http://167.114.174.164:25461/live/suport837/premieriptv1/1068.ts
+#EXTINF:-1ES.-DMAX group-title="DEMO",ES.-DMAX
+http://167.114.174.164:25461/live/suport837/premieriptv1/1067.ts
+#EXTINF:-1ES.-Energy group-title="DEMO",ES.-Energy
+http://167.114.174.164:25461/live/suport837/premieriptv1/1066.ts
+#EXTINF:-1ES.-EuroNews group-title="DEMO",ES.-EuroNews
+http://167.114.174.164:25461/live/suport837/premieriptv1/1065.ts
+#EXTINF:-1ES.-EUROSPORT 1 group-title="DEMO",ES.-EUROSPORT 1
+http://167.114.174.164:25461/live/suport837/premieriptv1/1064.ts
+#EXTINF:-1ES.-Eurosport 1 FHD group-title="DEMO",ES.-Eurosport 1 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1063.ts
+#EXTINF:-1ES.-EUROSPORT 2 group-title="DEMO",ES.-EUROSPORT 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/1062.ts
+#EXTINF:-1ES.-FDF group-title="DEMO",ES.-FDF
+http://167.114.174.164:25461/live/suport837/premieriptv1/1061.ts
+#EXTINF:-1ES.-Fox FHD group-title="DEMO",ES.-Fox FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1060.ts
+#EXTINF:-1ES.-FOX HD group-title="DEMO",ES.-FOX HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1059.ts
+#EXTINF:-1ES.-Fox Life FHD group-title="DEMO",ES.-Fox Life FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1058.ts
+#EXTINF:-1ES.-GOL Tv group-title="DEMO",ES.-GOL Tv
+http://167.114.174.164:25461/live/suport837/premieriptv1/1057.ts
+#EXTINF:-1ES.-Hollywood FHD group-title="DEMO",ES.-Hollywood FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1056.ts
+#EXTINF:-1ES.-HOLLYWOOD HD group-title="DEMO",ES.-HOLLYWOOD HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1055.ts
+#EXTINF:-1ES.-IBERALIA group-title="DEMO",ES.-IBERALIA
+http://167.114.174.164:25461/live/suport837/premieriptv1/1054.ts
+#EXTINF:-1ES.-LA 1 FHD group-title="DEMO",ES.-LA 1 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1053.ts
+#EXTINF:-1ES.-LA 2 HD group-title="DEMO",ES.-LA 2 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1052.ts
+#EXTINF:-1ES.-La Liga BAR HD group-title="DEMO",ES.-La Liga BAR HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1051.ts
+#EXTINF:-1ES.-LA LIGA TV BAR FHD group-title="DEMO",ES.-LA LIGA TV BAR FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1050.ts
+#EXTINF:-1ES.-La Sexta FHD group-title="DEMO",ES.-La Sexta FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1049.ts
+#EXTINF:-1ES.-LA SEXTA HD group-title="DEMO",ES.-LA SEXTA HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1048.ts
+#EXTINF:-1ES.-LaLiga 123 FHD group-title="DEMO",ES.-LaLiga 123 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1047.ts
+#EXTINF:-1ES.-M COMEDIA HD group-title="DEMO",ES.-M COMEDIA HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1046.ts
+#EXTINF:-1ES.-MEGA group-title="DEMO",ES.-MEGA
+http://167.114.174.164:25461/live/suport837/premieriptv1/1045.ts
+#EXTINF:-1ES.-Mega TV group-title="DEMO",ES.-Mega TV
+http://167.114.174.164:25461/live/suport837/premieriptv1/1044.ts
+#EXTINF:-1ES.-MEZZO LIVE HD group-title="DEMO",ES.-MEZZO LIVE HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1043.ts
+#EXTINF:-1ES.-Movistar  DEMO 2 FHD group-title="DEMO",ES.-Movistar  DEMO 2 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1042.ts
+#EXTINF:-1ES.-Movistar Accion FHD group-title="DEMO",ES.-Movistar Accion FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1041.ts
+#EXTINF:-1ES.-Movistar Accion HD group-title="DEMO",ES.-Movistar Accion HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1040.ts
+#EXTINF:-1ES.-Movistar Comedia FHD group-title="DEMO",ES.-Movistar Comedia FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1039.ts
+#EXTINF:-1ES.-Movistar DCine FHD group-title="DEMO",ES.-Movistar DCine FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1038.ts
+#EXTINF:-1ES.-Movistar DEMO 1 FHD group-title="DEMO",ES.-Movistar DEMO 1 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1037.ts
+#EXTINF:-1ES.-Movistar Estrenos FHD group-title="DEMO",ES.-Movistar Estrenos FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1036.ts
+#EXTINF:-1ES.-Movistar F1 FHD group-title="DEMO",ES.-Movistar F1 FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1035.ts
+#EXTINF:-1ES.-Movistar Futbol group-title="DEMO",ES.-Movistar Futbol
+http://167.114.174.164:25461/live/suport837/premieriptv1/1034.ts
+#EXTINF:-1ES.-Movistar Futbol FHD group-title="DEMO",ES.-Movistar Futbol FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1033.ts
+#EXTINF:-1ES.-Movistar Golf FHD group-title="DEMO",ES.-Movistar Golf FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1032.ts
+#EXTINF:-1ES.-Movistar Moto GP FHD group-title="DEMO",ES.-Movistar Moto GP FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1031.ts
+#EXTINF:-1ES.-MOVISTAR MOTOGP group-title="DEMO",ES.-MOVISTAR MOTOGP
+http://167.114.174.164:25461/live/suport837/premieriptv1/1030.ts
+#EXTINF:-1ES.-Movistar Partidazo FHD group-title="DEMO",ES.-Movistar Partidazo FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1029.ts
+#EXTINF:-1ES.-Movistar Partidazo HD (event only) group-title="DEMO",ES.-Movistar Partidazo HD (event only)
+http://167.114.174.164:25461/live/suport837/premieriptv1/1028.ts
+#EXTINF:-1ES.-Movistar Series FHD group-title="DEMO",ES.-Movistar Series FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1027.ts
+#EXTINF:-1ES.-Movistar Series Xtra FHD group-title="DEMO",ES.-Movistar Series Xtra FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1026.ts
+#EXTINF:-1ES.-Movistar Xtra FHD group-title="DEMO",ES.-Movistar Xtra FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1025.ts
+#EXTINF:-1ES.-Movistar XTRA HD group-title="DEMO",ES.-Movistar XTRA HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1024.ts
+#EXTINF:-1ES.-MTV ESPANA group-title="DEMO",ES.-MTV ESPANA
+http://167.114.174.164:25461/live/suport837/premieriptv1/1023.ts
+#EXTINF:-1ES.-NAT GEO WILD HD group-title="DEMO",ES.-NAT GEO WILD HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1022.ts
+#EXTINF:-1ES.-National Geographic FHD group-title="DEMO",ES.-National Geographic FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1021.ts
+#EXTINF:-1ES.-NATIONAL GEOGRAPHIC HD group-title="DEMO",ES.-NATIONAL GEOGRAPHIC HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1020.ts
+#EXTINF:-1ES.-National Geographic Wild FHD group-title="DEMO",ES.-National Geographic Wild FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1019.ts
+#EXTINF:-1ES.-NEOX group-title="DEMO",ES.-NEOX
+http://167.114.174.164:25461/live/suport837/premieriptv1/1018.ts
+#EXTINF:-1ES.-NICK Jr group-title="DEMO",ES.-NICK Jr
+http://167.114.174.164:25461/live/suport837/premieriptv1/1017.ts
+#EXTINF:-1ES.-NICKELODEON HD group-title="DEMO",ES.-NICKELODEON HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1016.ts
+#EXTINF:-1ES.-Nonstop People group-title="DEMO",ES.-Nonstop People
+http://167.114.174.164:25461/live/suport837/premieriptv1/1015.ts
+#EXTINF:-1ES.-NOVA group-title="DEMO",ES.-NOVA
+http://167.114.174.164:25461/live/suport837/premieriptv1/1014.ts
+#EXTINF:-1ES.-Odisea group-title="DEMO",ES.-Odisea
+http://167.114.174.164:25461/live/suport837/premieriptv1/1013.ts
+#EXTINF:-1ES.-PANDA group-title="DEMO",ES.-PANDA
+http://167.114.174.164:25461/live/suport837/premieriptv1/1012.ts
+#EXTINF:-1ES.-Paramount group-title="DEMO",ES.-Paramount
+http://167.114.174.164:25461/live/suport837/premieriptv1/1011.ts
+#EXTINF:-1ES.-Real Madrid Channel group-title="DEMO",ES.-Real Madrid Channel
+http://167.114.174.164:25461/live/suport837/premieriptv1/1010.ts
+#EXTINF:-1ES.-Real Madrid TV FHD group-title="DEMO",ES.-Real Madrid TV FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1009.ts
+#EXTINF:-1ES.-SUNDANCE FHD group-title="DEMO",ES.-SUNDANCE FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1008.ts
+#EXTINF:-1ES.-SYFY group-title="DEMO",ES.-SYFY
+http://167.114.174.164:25461/live/suport837/premieriptv1/1007.ts
+#EXTINF:-1ES.-Syfy FHD group-title="DEMO",ES.-Syfy FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/1006.ts
+#EXTINF:-1ES.-TAQUILLA 1 group-title="DEMO",ES.-TAQUILLA 1
+http://167.114.174.164:25461/live/suport837/premieriptv1/1005.ts
+#EXTINF:-1ES.-TAQUILLA 10 group-title="DEMO",ES.-TAQUILLA 10
+http://167.114.174.164:25461/live/suport837/premieriptv1/1004.ts
+#EXTINF:-1ES.-TAQUILLA 2 group-title="DEMO",ES.-TAQUILLA 2
+http://167.114.174.164:25461/live/suport837/premieriptv1/1003.ts
+#EXTINF:-1ES.-TAQUILLA 3 group-title="DEMO",ES.-TAQUILLA 3
+http://167.114.174.164:25461/live/suport837/premieriptv1/1002.ts
+#EXTINF:-1ES.-TAQUILLA 4 group-title="DEMO",ES.-TAQUILLA 4
+http://167.114.174.164:25461/live/suport837/premieriptv1/1001.ts
+#EXTINF:-1ES.-TAQUILLA 5 group-title="DEMO",ES.-TAQUILLA 5
+http://167.114.174.164:25461/live/suport837/premieriptv1/1000.ts
+#EXTINF:-1ES.-TAQUILLA 7 group-title="DEMO",ES.-TAQUILLA 7
+http://167.114.174.164:25461/live/suport837/premieriptv1/999.ts
+#EXTINF:-1ES.-TAQUILLA 8 group-title="DEMO",ES.-TAQUILLA 8
+http://167.114.174.164:25461/live/suport837/premieriptv1/998.ts
+#EXTINF:-1ES.-TAQUILLA 9 group-title="DEMO",ES.-TAQUILLA 9
+http://167.114.174.164:25461/live/suport837/premieriptv1/997.ts
+#EXTINF:-1ES.-TCM FHD group-title="DEMO",ES.-TCM FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/996.ts
+#EXTINF:-1ES.-TCM HD group-title="DEMO",ES.-TCM HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/995.ts
+#EXTINF:-1ES.-Telecinco FHD group-title="DEMO",ES.-Telecinco FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/994.ts
+#EXTINF:-1ES.-TELECINCO HD group-title="DEMO",ES.-TELECINCO HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/993.ts
+#EXTINF:-1ES.-TELEDEPORTE HD group-title="DEMO",ES.-TELEDEPORTE HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/992.ts
+#EXTINF:-1ES.-TNT group-title="DEMO",ES.-TNT
+http://167.114.174.164:25461/live/suport837/premieriptv1/991.ts
+#EXTINF:-1ES.-TNT FHD group-title="DEMO",ES.-TNT FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/990.ts
+#EXTINF:-1ES.-Toros Tv FHD group-title="DEMO",ES.-Toros Tv FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/989.ts
+#EXTINF:-1ES.-Viajar FHD group-title="DEMO",ES.-Viajar FHD
+http://167.114.174.164:25461/live/suport837/premieriptv1/988.ts
+#EXTINF:-1ES.-VIAJAR HD group-title="DEMO",ES.-VIAJAR HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/987.ts
+#EXTINF:-1ES.-XTRM group-title="DEMO",ES.-XTRM
+http://167.114.174.164:25461/live/suport837/premieriptv1/986.ts
+#EXTINF:-1Spain -  #0 HD group-title="DEMO",Spain -  #0 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/985.ts
+#EXTINF:-1Spain -  24 Horas group-title="DEMO",Spain -  24 Horas
+http://167.114.174.164:25461/live/suport837/premieriptv1/984.ts
+#EXTINF:-1Spain -  A&E group-title="DEMO",Spain -  A&E
+http://167.114.174.164:25461/live/suport837/premieriptv1/983.ts
+#EXTINF:-1Spain -  Andalucia Turismo group-title="DEMO",Spain -  Andalucia Turismo
+http://167.114.174.164:25461/live/suport837/premieriptv1/982.ts
+#EXTINF:-1Spain -  Antena 3 HD group-title="DEMO",Spain -  Antena 3 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/981.ts
+#EXTINF:-1Spain -  Aragon group-title="DEMO",Spain -  Aragon
+http://167.114.174.164:25461/live/suport837/premieriptv1/980.ts
+#EXTINF:-1Spain -  AXN HD group-title="DEMO",Spain -  AXN HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/979.ts
+#EXTINF:-1Spain -  Axn White HD group-title="DEMO",Spain -  Axn White HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/978.ts
+#EXTINF:-1Spain -  Clan Tve group-title="DEMO",Spain -  Clan Tve
+http://167.114.174.164:25461/live/suport837/premieriptv1/977.ts
+#EXTINF:-1Spain -  Comedy Central HD group-title="DEMO",Spain -  Comedy Central HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/976.ts
+#EXTINF:-1Spain -  Cuatro HD group-title="DEMO",Spain -  Cuatro HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/975.ts
+#EXTINF:-1Spain -  Decasa group-title="DEMO",Spain -  Decasa
+http://167.114.174.164:25461/live/suport837/premieriptv1/974.ts
+#EXTINF:-1Spain -  Divinity group-title="DEMO",Spain -  Divinity
+http://167.114.174.164:25461/live/suport837/premieriptv1/973.ts
+#EXTINF:-1Spain -  FDF group-title="DEMO",Spain -  FDF
+http://167.114.174.164:25461/live/suport837/premieriptv1/972.ts
+#EXTINF:-1Spain -  Hollywood HD group-title="DEMO",Spain -  Hollywood HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/971.ts
+#EXTINF:-1Spain -  IB3 group-title="DEMO",Spain -  IB3
+http://167.114.174.164:25461/live/suport837/premieriptv1/970.ts
+#EXTINF:-1Spain -  La 2 HD group-title="DEMO",Spain -  La 2 HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/969.ts
+#EXTINF:-1Spain -  La Sexta HD group-title="DEMO",Spain -  La Sexta HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/968.ts
+#EXTINF:-1Spain -  La Xarxa group-title="DEMO",Spain -  La Xarxa
+http://167.114.174.164:25461/live/suport837/premieriptv1/967.ts
+#EXTINF:-1Spain -  Mega group-title="DEMO",Spain -  Mega
+http://167.114.174.164:25461/live/suport837/premieriptv1/966.ts
+#EXTINF:-1Spain -  Movistar  Xtra HD group-title="DEMO",Spain -  Movistar  Xtra HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/965.ts
+#EXTINF:-1Spain -  Movistar Accion HD group-title="DEMO",Spain -  Movistar Accion HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/964.ts
+#EXTINF:-1Spain -  Movistar Comedia HD group-title="DEMO",Spain -  Movistar Comedia HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/963.ts
+#EXTINF:-1Spain -  Movistar Estrenos HD group-title="DEMO",Spain -  Movistar Estrenos HD
+http://167.114.174.164:25461/live/suport837/premieriptv1/962.ts
+#EXTINF:-1Spain - Antena 3 Internacional group-title="DEMO",Spain - Antena 3 Internacional
+http://167.114.174.164:25461/live/suport837/premieriptv1/961.ts
+
+
 #EXTINF:0,-FREE-
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",Tooncast
