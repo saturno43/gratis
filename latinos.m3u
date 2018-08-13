@@ -4,8 +4,6 @@
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  group-title="DEPORTES" ,ESPN PRUEBA
-http://ak-hls-brs-espnews.espn.go.com/hls/live/215388/p/espnews-p-4500/espnews-p-4500.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1502.1405279704.png" group-title="DEPORTES" ,Fitness Tv
 https://v3.tustreaming.cl/mbrhls/fitnesstv/s1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.solowrestling.com/uploads/RESEM51428fightnetwork.jpg" group-title="DEPORTES" ,Fight Network
