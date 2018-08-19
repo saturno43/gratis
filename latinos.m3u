@@ -6,8 +6,6 @@
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1502.1405279704.png" group-title="DEPORTES" ,Fitness Tv
 https://v3.tustreaming.cl/mbrhls/fitnesstv/s1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.solowrestling.com/uploads/RESEM51428fightnetwork.jpg" group-title="DEPORTES" ,Fight Network
-http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES" ,Fight Time
 http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Basico
@@ -25,22 +23,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="DEPORTES",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Nova Sport 1 HD
-http://81.200.50.4/hls/Nova_Sport_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="DEPORTES",Nova Sport 2 HD
-http://81.200.50.4/hls/Nova_Sport_2_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="DEPORTES",INF:-1,Golf Channel HD
-http://81.200.50.4/hls/Golf_Channel_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="DEPORTES",Arena Sport 1
-http://81.200.50.4/hls/Arena_Sport_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="DEPORTES",Arena Sport 2 HD
-http://81.200.50.4/hls/Arena_Sport_2_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="DEPORTES",Eurosport 1 HD
-http://81.200.50.4/hls/Eurosport_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="DEPORTES",Eurosport 2
-http://81.200.50.4/hls/Eurosport2_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3d/04/48/3d044840c4e4fcde682970174c6fca1e.png" group-title="DEPORTES",CBC Sport
-http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="DEPORTES",YAS Sports
 http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
 #EXTINF:-1, tvg-logo="http://onelike.tv/images/xsport.png" group-title="DEPORTES",XSport UA
@@ -49,28 +31,14 @@ http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8?xtreamiptv.m3u8
 http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="DEPORTES",Bursapor TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beinsports_haber_250X150.png" group-title="DEPORTES",Bein Sports Haber
-http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://globaltv.ge/img/ragbitv.jpg" group-title="DEPORTES",Rugby TV
-http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="DEPORTES",Stadium Sports Network
-https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://olympicchannelservices.com/wp-content/themes/olympicchannelservices/dist/images/ocs-logo.png" group-title="DEPORTES",Olimpic Channel HD
-https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://olympicchannelservices.com/wp-content/themes/olympicchannelservices/dist/images/ocs-logo.png" group-title="DEPORTES",Olimpic Channel SD
-https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" group-title="DEPORTES",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://mlblogsjoefrisaro.files.wordpress.com/2010/03/mlbnetwork.png" group-title="DEPORTES",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/us/NFL_NOW.png" group-title="DEPORTES",NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.bleacherreport.net/images/team_logos/328x328/ufc.png" group-title="DEPORTES",UFC Japones
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png" group-title="DEPORTES",SKY News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png" group-title="DEPORTES",SKY News
-https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png" group-title="DEPORTES",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/fr/BFMSPORT.png" group-title="DEPORTES", BFM Sport
@@ -386,10 +354,6 @@ https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="INFANTILES",Paka Paka
-http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Animax2.png" group-title="INFANTILES", Anime 24/7
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4477/square_150x150-2.jpg" group-title="INFANTILES",Trailer Tv Kids
 http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8?xtreamiptv.m3u8
 
@@ -418,21 +382,12 @@ https://593b04c4c5670.streamlock.net/8702/8702/master.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="AUTOS", Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0,-COCINA-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/ce/fa/b2cefa9ee748bdc28f54d52d83bf4e4e.png" group-title="COCINA" ,-----COCINA-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781271/logo_canal%20sur%20cocina1.png" group-title="COCINA",Canal Sur Cocina
-http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8?xtreamiptv.m3u8
-
 #EXTINF:0,-MODA-
 
 #EXTINF:-1 tvg-logo="https://modaw4.files.wordpress.com/2011/10/people-moda.jpg?w=474" group-title="MODA" ,-----MODA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="MODA", Fashion Tv
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.tafimedia.com/tafiimage/70.png" group-title="MODA",World Fashion
-http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/58336191579fb3cc08e273f2/t/583372336b8f5b1d0c7774e7/1509790814622/" group-title="MODA",ID Fashion
 http://95.67.8.22/hls/idfashion/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="MODA",HD Fashion
@@ -456,24 +411,6 @@ http://109.236.85.100:8081/sipTV/live/playlist.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-NOTICIAS-
 
-#EXTINF:-1 tvg-logo="https://fundacionaviva.files.wordpress.com/2013/09/logo-noticias.jpg" group-title="NOTICIAS" ,-----NOTICIAS-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/campeones-sendokai/images/c/c1/24h_Logo.png/revision/latest?cb=20150130204950&path-prefix=es" group-title="NOTICIAS",RTVE 24H
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/campeones-sendokai/images/c/c1/24h_Logo.png/revision/latest?cb=20150130204950&path-prefix=es" group-title="NOTICIAS",RTVE 24H
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/o2sV5/e9d51a4646.png" group-title="NOTICIAS", Efekto TV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="NOTICIAS", Milenio TV
-https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="NOTICIAS", Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?xtreamiptv.m3u8
-#EXTINF:1 tvg-logo="https://yt3.ggpht.com/-47mZmMqii64/AAAAAAAAAAI/AAAAAAAAAAA/tXJ1c3yULV4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS", MVS NOTICIAS
-http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://tele-envivo.com/wp-content/uploads/2015/12/cablenoticias-en-vivo.png" group-title="NOTICIAS", Cable NOTICIAS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EL TIEMPO" tvg-logo="http://tv-online.in/wp-content/uploads/2013/03/Canal-El-Tiempo-live.jpg" group-title="NOTICIAS", EL TIEMPO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://you-mir.ru/sites/default/files/302px-russia-today-logo.png" group-title="NOTICIAS",RT News
 https://secure-streams.akamaized.net/rt/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://you-mir.ru/sites/default/files/302px-russia-today-logo.png" group-title="NOTICIAS",RT Español
@@ -491,16 +428,10 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3
 
 #EXTINF:-1 tvg-logo="https://www.latinosyork.co.uk/s/misc/logo.png?t=1524221445" group-title="LATINOS" ,-----LATINOS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="LATINOS" tvg-logo="http://pmcdeadline2.files.wordpress.com/2013/02/new-univision-logo__130221235240.png",Univision
-https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_4500_ipad.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="LATINOS" tvg-logo="http://pmcdeadline2.files.wordpress.com/2013/02/new-univision-logo__130221235240.png",Univision
-https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1200.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo 62
 http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo
-http://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 
 #EXTINF:0,-CHILE-
 
@@ -2148,93 +2079,8 @@ https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSICA",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Brits + Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Dance
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Hip Hop/R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Kidz Only
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Metal
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Musica Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Pop & Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",R&B/Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Today's Country
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Y2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Sourc e=VCChainA&AssetID=VC_140&AssetType=VideoChannel&R egionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1182611551/soyrock_400x400.jpg" group-title="MUSICA",Soy Rock
-http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
 http://autopilot.myowntv.org/content/33816/index.m3u8
-#EXTINF:-1 group-title="MUSICA",MTV hits
-http://81.200.50.4/hls/MTV_Hits_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="MUSICA",MTV Live
-http://81.200.50.4/hls/MTV_Live_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="MUSICA",MTV Europe
-http://81.200.50.4/hls/MTV_Europe_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="MUSICA",MTV Dance
-http://81.200.50.4/hls/MTV_Dance_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="MUSICA",MTV Rocks
-http://81.200.50.4/hls/MTV_Rocks_nejtv_portable_low.m3u8
-#EXTINF:-1 group-title="MUSICA",VH1
-http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
 
 #EXTINF:0,-VIDEOMIX-
 
@@ -2262,31 +2108,6 @@ https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%
 https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Videomix" ,Megamix Central
 https://ia801508.us.archive.org/27/items/rapido_201511/PitchPerfection-SongsMashupByMegamixCentral.mp4
-
-#EXTINF:0,-RECITALES-
-
-#EXTINF:-1 tvg-logo="http://trinityriverside.org/wp-content/uploads/2013/09/Music-Recital-Logo.jpg" group-title="Recitales" ,-----Recitales-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",ROCK HARD FESTIVAL 2018
-https://wdrevent3-lh.akamaihd.net/i/wdrevent3_weltweit@566651/master.m3u8
-#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Coldplay en Concierto
-https://ia601509.us.archive.org/18/items/Fredniza17concert1/fredniza17.mp4
-#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Noche de Brujas
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_noche_de_brujas_120215_2200k.m3u8
-#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Villa Cariño/Los Vikings
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_villa_carino_y_viking_031215_2200k.m3u8
-#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Los Bunkers
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_los_bunkers_031215_2200k.m3u8
-#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Los Jaivas
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_los_jaivas_031215_2200k.m3u8
-#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Nano Stern
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_nano_stern_120215_2200k.m3u8
-#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Manuel Garcia
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_manuel_garcia_031215_2200k.m3u8
-#EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Camila
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_camila_031215_1000k.m3u8
-
 
 #EXTINF:0,-RADIOTV-
 
