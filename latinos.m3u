@@ -451,10 +451,6 @@ http://mi.chv.cl/playlist/stream.m3u8?s=hd
 http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",Canal 13  
 http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",Canal 13 
-http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",Canal 13 
-http://csm-e-ces1saexaws101j8-69gkd5l1dcoj.yospace.13.cl/csm/live/108031140/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream1/chunks.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
@@ -497,17 +493,12 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8?xtreamiptv.m3u8
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="CHILE",Maxima Tv HD 
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/YFxjfwm.png" group-title="CHILE",TV HD Chiguayante
-http://tv.portalfoxmix.club:1935/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ctn2B3v.png" group-title="CHILE",31 Tendencias Prime
-http://v2.tustreaming.cl/tustreaming/live7/chunklist.m3u8?xtreamiptv.m3u8
+https://v3.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CHILE",Tv Pop HD
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png" group-title="CHILE",Niu Media HD
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w876534093_b1500000_slesp.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.arabtv.cl/wp-content/uploads/2016/08/logo_header.png" group-title="CHILE",Arab Tv HD
-http://149.56.17.92:1935/8404/8404/master.m3u8?xtreamiptv.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 1 HD 
