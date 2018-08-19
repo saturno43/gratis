@@ -2237,10 +2237,12 @@ http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8?iptvgratis?chil
 https://590c5dc5c3271.streamlock.net/dante271/dante271/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/campus_zps8hgdc5lg.png" group-title="REGIONALES",Campus Tv Talca
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.datovision.cl/images/11111.png" group-title="REGIONALES", DATOVISION Cachapoal
-http://tv.portalfoxmix.club:1935/dato33/dato33/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.diarioelcentro.cl//imagenes/logo-centrotv.png" group-title="REGIONALES", TV Centro Talca
 http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.datovision.cl/images/11111.png" group-title="REGIONALES", DATOVISION Cachapoal
+http://tv.portalfoxmix.club:1935/dato33/dato33/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.utvsanclemente.cl/img/logo-utv-sc.png" group-title="REGIONALES",UTV San Clemente
+http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4909/square_150x150-2.jpg" group-title="REGIONALES",Romeral Tv 
 http://video.crearchile.info:8080/live/daemrome.mp4/chunklist_w78476331.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AJLlDp0clHA3g9C5FCCH4qTsDEvVIj-BVy-1KSR92A=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Sextavision Rancagua
