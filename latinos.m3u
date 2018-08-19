@@ -2307,6 +2307,8 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgrat
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4954/square_150x150-2.jpg" group-title="REGIONALES", UMAGTV Punta Arenas 2
 http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvred.cl/wp/wp-content/themes/wp-tvred2k15/images/logo.jpg" group-title="REGIONALES",TVRed Punta Arenas
+http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 
 
 #EXTINF:0,-RELIGION-
