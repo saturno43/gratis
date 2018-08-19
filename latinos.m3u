@@ -2149,6 +2149,8 @@ http://movilstream.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smi
 https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4900/square_150x150-2.jpg" group-title="RADIOTV",Radio Congreso Tv
 http://190.107.176.55:1935/live/archi-congreso/chunklist_w810766943.m3u8
+#EXTINF:0 tvg-logo="http://sitio.sindicatoescondida.cl/page/wp-content/uploads/2017/03/radioelconsquistador.png" group-title="RADIOTV",Radio El Conquistador
+http://eu1.servers10.com:1935/8282/8282/playlist.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4918/square_150x150-2.jpg" group-title="RADIOTV",Radio Camila Tv
 http://190.107.176.55:1935/live/archi-camila/chunklist_w1113935567.m3u8
 #EXTINF:-1 tvg-logo="http://radiofanaticos.com/imagenes//2011/05/radiocolosal.png" group-title="RADIOTV",Radio Colosal Tv
@@ -2301,7 +2303,7 @@ https://v3.tustreaming.cl/canal11aysen/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:-1 tvg-logo="http://tv-hd.cl/soberania-tv-magallanes-y-antartica.jpg?170126082940" group-title="REGIONALES",Soberania Tv Punta Arenas 
 http://evo.eltelon.com:1935/live/soberania/chunklist_w1320335487.m3u8
 #EXTINF:-1 tvg-logo="http://www.itvpatagonia.com/joomla/images/FotosArticulos/Itv.png" group-title="REGIONALES",ITV Punta Arenas 
-http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
+https://unlimited14-cl.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WXhBnNv.png" group-title="REGIONALES",El Pinguino Tv Punta Arenas 
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://www.novasur.cl/sites/default/files/web_umag_tv.png" group-title="REGIONALES", UMAGTV Punta Arenas 
