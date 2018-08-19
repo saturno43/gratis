@@ -4,6 +4,10 @@
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-SAgcQ3nEqZHCXG_f7DY_b6n1abxJXEyM4Bh4Efu1LgmkwpGkQ" group-title="DEPORTES" ,Todo Deportes
+http://hondurtmp.tulix.tv:1935/tododeportes/to-do-deportes/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1502.1405279704.png" group-title="DEPORTES" ,Fitness Tv
 https://v3.tustreaming.cl/mbrhls/fitnesstv/s1/index.m3u8
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES" ,Fight Time
@@ -18,8 +22,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/PxyIZNW.png" group-title="DEPORTES",Deport Tv
 https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
-http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="DEPORTES",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="DEPORTES",Sevilla FC
@@ -1009,17 +1011,12 @@ http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://enciclopedia.us.es/images/8/89/Bandera_de_El_Salvador.png" group-title="EL SALVADOR" ,-----EL SALVADOR-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Canal 21
-http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg" group-title="EL SALVADOR",TVO Canal 23
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png" group-title="EL SALVADOR",TVES Canal 10
-http://198.24.135.42/canal10/canal10/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="EL SALVADOR",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bE34KXc.png" group-title="EL SALVADOR",Canal 12
+http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V9G4N8L.png" group-title="EL SALVADOR",TVX
+https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
 
 #EXTINF:0,-PUERTO RICO-
 
