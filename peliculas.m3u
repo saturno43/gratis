@@ -3,350 +3,211 @@
 
 #EXTINF:0,-PACK 01-
 
-#EXTINF:-1 tvg-logo="https://moviefilmsla.files.wordpress.com/2018/01/pacific_rim_posterlat3_mf.jpg?w=606&h=768&crop=1" group-title="PACK 01", Titanes del Pacifico: La Insureccion SUB 
-http://regiotv.xyz/pacificrimsub
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg" group-title="PACK 01", Mom & Dad SUB 
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1t8xCe9jwL._SY679_.jpg group-title="PACK 01", Avengers Inifinity War 
+https://srregio.xyz/iwar
+#EXTINF:0 tvg-logo="https://cdn.cinematerial.com/p/500x/zgpillog/deadpool-2-movie-poster.jpg group-title="PACK 01", Deadpool 2 
+https://srregio.xyz/deadpool2
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/05/15/01/30/2619043.jpg group-title="PACK 01", TAG 
+https://srregio.xyz/tag
+#EXTINF:0 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/27281-476378-20180503014808.jpg group-title="PACK 01", Hombre al Agua 
+https://srregio.xyz/hombrealagua00
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/04/20/17/08/3992133.jpg group-title="PACK 01", Perdida 
+https://srregio.xyz/perdida
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/04/18/14/21/1072452.jpg group-title="PACK 01", Super Agente Canino 
+https://srregio.xyz/showdogs
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81RcrC4SO6L.jpg group-title="PACK 01", Uncharted Movie SUBTITULADO 
+https://srregio.xyz/uncharted
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/d8/5f/28/d85f28453eec8b4ab07115db5b6d6142.jpg group-title="PACK 01", Emelie 
+https://srregio.xyz/emelie
+#EXTINF:0 tvg-logo="https://clubsieteymedio.files.wordpress.com/2018/03/1d5567129419df3aa05c81afb16e7200a045c862.jpg?w=550&h=785 group-title="PACK 01", Matar a Jesus 
+https://srregio.xyz/matarjesus
+#EXTINF:0 tvg-logo="https://res.cloudinary.com/civico/image/upload/v1502508348/entity/image/file/22f/000/598e753b658d1d2d0d00022f.jpg group-title="PACK 01", El Justiciero 2 
+https://srregio.xyz/justiciero
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/roman-483719153-large.jpg group-title="PACK 01", ROMAN 
+https://srregio.xyz/roman
+#EXTINF:0 tvg-logo="https://www.ecartelera.com/carteles/9900/9961/007.jpg group-title="PACK 01", Emoji 
+https://srregio.xyz/emoji
+#EXTINF:0 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/11/todo-el-dinero-del-mundo.jpg group-title="PACK 01", Todo El Dinero Del Mundo 
+http://regiotv.xyz/todoeldinerodelmundo
+#EXTINF:0 tvg-logo="https://lasentinel.net/wp-content/uploads/sites/5/2017/11/ENT-Mudbound_IMG-2.jpg group-title="PACK 01", Mudbound 
+http://srregio.xyz/mudbound
+#EXTINF:0 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg group-title="PACK 01", Terror en la Oscuridad CAST   
+http://srregio.xyz/insidecast
+#EXTINF:0 tvg-logo="http://es.web.img2.acsta.net/medias/nmedia/18/67/07/74/20350774.gif group-title="PACK 01", Papa Por Sorpresa   
+http://srregio.net/papaporsorpresa
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/96/d4/64/96d464363ac7b3b0e7657369287d78e9.jpg group-title="PACK 01", Tomb Raider 2018 SUB   
+http://srregio.net/tombraidersub
+#EXTINF:0 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1 group-title="PACK 01", The Cured   
+http://srregio.xyz/thecure
+#EXTINF:0 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/66/99/88/20350578.jpg group-title="PACK 01", Los Extranos   
+http://regiotv.xyz/losextranos
+#EXTINF:0 tvg-logo="https://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-5857152831507565202.jpg group-title="PACK 01", Hasta Pronto Christoper Robin   
+http://regiotv.xyz/christoperrobin
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/21/14/19828283.jpg group-title="PACK 01", Talento De Barrio   
+http://regiotv.xyz/talentodebarrio
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg group-title="PACK 01", Mom & Dad SUB   
 http://regiotv.xyz/momanddad
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg" group-title="PACK 01", Mom & Dad 
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg group-title="PACK 01", Mom & Dad   
 http://regiotv.xyz/momanddadLAT
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/24_horas_para_vivir.jpg" group-title="PACK 01", 24hrs Para Sobrevivir SUB 
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/24_horas_para_vivir.jpg group-title="PACK 01", 24hrs Para Sobrevivir SUB   
 http://regiotv.xyz/24hrssobrevivir
-#EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2018/04/pesadilla.jpg" group-title="PACK 01", Pesadilla Siniestra 
+#EXTINF:0 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2018/04/pesadilla.jpg group-title="PACK 01", Pesadilla Siniestra   
 http://regiotv.xyz/pesadillasiniestra
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/cd/10000.jpg/revision/latest?cb=20090919041142&path-prefix=es" group-title="PACK 01", 10000 B.C 
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/cd/10000.jpg/revision/latest?cb=20090919041142&path-prefix=es group-title="PACK 01", 10000 B.C   
 https://movies1.ottmex.com/disk1/accion/10000.MP4
-#EXTINF:-1 tvg-logo="https://fanart.tv/api/download.php?type=download&image=125991&section=3" group-title="PACK 01", 12 Rounds 3 Lockdown 
+#EXTINF:0 tvg-logo="https://fanart.tv/api/download.php?type=download&image=125991&section=3 group-title="PACK 01", 12 Rounds 3 Lockdown   
 https://movies1.ottmex.com/disk1/accion/12.r0unds.3.l0ckd0wn.2016.dvdrip.latino.gnula1.mp4.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-13-guerreros-the-13th-warrior-john-mctiernan-ban-D_NQ_NP_192121-MLM20703940513_052016-F.jpg" group-title="PACK 01", 13 Guerreros 
+#EXTINF:0 tvg-logo="https://http2.mlstatic.com/dvd-13-guerreros-the-13th-warrior-john-mctiernan-ban-D_NQ_NP_192121-MLM20703940513_052016-F.jpg group-title="PACK 01", 13 Guerreros   
 https://movies1.ottmex.com/disk1/accion/13guerreros.MP4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91e+hibexOL._RI_.jpg" group-title="PACK 01", Dapnhe y Velma 
-https://srregio.xyz/regioflix/daphneyvelma
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GVfUu-4hy4M/WVVRmCt8XSI/AAAAAAAAmUU/ZHoLEp5JlAc3Pdm1RdqjXdrIWaH7bVC0gCLcBGAs/s1600/El_P%25C3%25A1jaro_Loco_Teaser_Latino_JPosters.jpg" group-title="PACK 01", Pajaro Loco La Pelicula 
-https://srregio.xyz/regioflix/pajaroloco
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61FmnQZhZZL._SY550_.jpg" group-title="PACK 01", Chappie 
-https://srregio.xyz/regioflix/chappie
-#EXTINF:-1 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg" group-title="PACK 01", Todo Poderoso 
+#EXTINF:0 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg group-title="PACK 01", Todo Poderoso   
 https://bit.ly/2GajoTS
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg" group-title="PACK 01", American Pie 
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg group-title="PACK 01", American Pie   
 https://bit.ly/2KS5ucG
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1a/85/3e/1a853e502832f0b1659a821d6d4282e0.jpg" group-title="PACK 01", American Pie 2 
-https://bit.ly/2rATx2v
-#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/13/MPW-6867" group-title="PACK 01", American Pie 3 
-https://bit.ly/2IcnMHS
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg" group-title="PACK 01", La Leyenda de la Nahuala 
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg group-title="PACK 01", La Leyenda de la Nahuala   
 https://bit.ly/2wBzaYz
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/2/25/Mul%C3%A1n_p%C3%B3ster_2.jpg/revision/latest?cb=20161112223133&path-prefix=es" group-title="PACK 01", Mulan 
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/2/25/Mul%C3%A1n_p%C3%B3ster_2.jpg/revision/latest?cb=20161112223133&path-prefix=es group-title="PACK 01", Mulan   
 https://movies1.ottmex.com/disk1/drama/Mulan.2009.mp4
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg" group-title="PACK 01", Que Culpa Tiene el Nino 
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg group-title="PACK 01", Que Culpa Tiene el Nino   
 https://bit.ly/2wBG4x8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61id7dm4b6L._SY679_.jpg" group-title="PACK 01", Terminator 2 
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61id7dm4b6L._SY679_.jpg group-title="PACK 01", Terminator 2   
 https://movies1.ottmex.com/vod/peliculas/sci-fi/Terminator.2.mkv
-#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/charlieylafabrica_b.jpg" group-title="PACK 01", Charlie y La Fabrica de Chocolate 
+#EXTINF:0 tvg-logo="https://www.elmulticine.com/imagenes/carteles/charlieylafabrica_b.jpg group-title="PACK 01", Charlie y La Fabrica de Chocolate   
 https://movies1.ottmex.com/disk1/infantiles/charlieylafabricadechocolate.mp4
-#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/alanis-cartel-13-b.jpg" group-title="PACK 01", Alanis 
-https://srregio.xyz/regioflix/alanis
-#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/6/warcraft-cartel-b.jpg" group-title="PACK 01", Warcraft 
-https://srregio.xyz/regioflix/warcraft
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/yo_antes_de_ti.jpg" group-title="PACK 01", Yo Antes de Ti 
-https://srregio.xyz/regioflix/yoantesdeti
-#EXTINF:-1 tvg-logo="http://i151.photobucket.com/albums/s132/ogbadboy2000k/My%20Art/ShaottasPoster-5.jpg" group-title="PACK 01", Shottas 
-https://srregio.xyz/regioflix/shottas
-#EXTINF:-1 tvg-logo="https://lasdaoalplay.com/wp-content/uploads/2017/03/kong_skull_island_ver3.jpg" group-title="PACK 01", KONG La isla calavera 
-https://goo.gl/4LoKW8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1" group-title="PACK 01", 3 idiotas 
+#EXTINF:0 tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1 group-title="PACK 01", 3 idiotas   
 http://srregio.xyz/regioflix/3idiotas
-#EXTINF:-1 tvg-logo="http://www.cailegdl.com/wp-content/uploads/2018/03/red_sparrow_poster.jpg" group-title="PACK 01", Operacion Red Sparrow 
+#EXTINF:0 tvg-logo="http://www.cailegdl.com/wp-content/uploads/2018/03/red_sparrow_poster.jpg group-title="PACK 01", Operacion Red Sparrow   
 http://regiotv.xyz/regioflix/redsparrow
-#EXTINF:-1 tvg-logo="https://www.cinelandia.com.co/archivos/medium/la_razon_de_estar_contigo_2d.jpg" group-title="PACK 01", La Razon de Estar Con Tigo 
-https://srregio.xyz/regioflix/razon
-#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/4/transformers-5-poster-b.jpg" group-title="PACK 01", Transformers 5 
-https://srregio.xyz/regioflix/transformers5
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/15/06/03/11/09/010870.jpg" group-title="PACK 01", Ted 2 
-https://srregio.xyz/regioflix/ted2
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/la_leyenda_del_charro_negro-684066798-large.jpg" group-title="PACK 01", La Leyenda del Charro Negro 
-https://srregio.xyz/regioflix/charronegro
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n6pi_89_7zY/WbOjFfbLWlI/AAAAAAAAB9M/BDoxZoF0ukk0FHmbCkGJjjQBh8cYmH2GACLcBGAs/s1600/Dementia-13-poster-remake.jpg" group-title="PACK 01", Dementia 13 
-https://srregio.xyz/regioflix/dementia13
-#EXTINF:-1 tvg-logo="http://gnula.nu/wp-content/uploads/2018/05/Family_Blood_poster_usa.jpg" group-title="PACK 01", Family Blood 
-https://srregio.xyz/regioflix/familyblood
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg" group-title="PACK 01", Anon 
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg group-title="PACK 01", Anon   
 http://srregio.xyz/regioflix/anon
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png" group-title="PACK 01", Samson 
+#EXTINF:0 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png group-title="PACK 01", Samson   
 http://srregio.xyz/regioflix/samson
-#EXTINF:-1 tvg-logo="https://www.cines3.com.co/archivos/medium/Afiche_Nuevos61.jpg" group-title="PACK 01", Mariposas Verdes 
-https://srregio.xyz/regioflix/pelisregio/mariposasverdes.php
-#EXTINF:-1 tvg-logo="http://gnula.nu/wp-content/uploads/2018/05/Darc_poster_usa.jpg" group-title="PACK 01", Darc 
-https://srregio.xyz/regioflix/pelisregio/darc.php
-#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_36545_30.jpg" group-title="PACK 01", Lego DC Super Hero Girls: Instituto de Supervillanos 
-https://srregio.xyz/regioflix/pelisregio/legogirls.php
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg" group-title="PACK 01", 15:17 Tren a Paris 
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg group-title="PACK 01", 15:17 Tren a Paris   
 http://srregio.xyz/regioflix/trenaparis
-#EXTINF:-1 tvg-logo="https://i1.wp.com/metropolisanluis.com/wp-content/uploads/2014/04/La-leyenda-de-la-llorona-poster.jpg" group-title="PACK 01", La Leyenda de la Llorona 
-https://srregio.xyz/regioflix/pelisregio/lallorona.php
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71PhjEaTZ6L._SY550_.jpg" group-title="PACK 01", Blade Runner 2049 
-https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Blade%20Runner%202049.hdrip.720p.latino.gnula.mp4
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/06/09/10/46/332502.jpg" group-title="PACK 01", Pequeno Vampiro 
-https://srregio.xyz/regioflix/pelisregio/pequenovampiro.php
-#EXTINF:-1 tvg-logo="https://videocine.com.mx/wp-content/uploads/2017/06/poster-final-charro-negro-1-212x300.jpg" group-title="PACK 01", La Leyenda del Charro Negro 
-https://srregio.xyz/regioflix/pelisregio/charronegro.php
-#EXTINF:-1 tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6224/6224403_sa.jpg;maxHeight=640;maxWidth=550" group-title="PACK 01", Batman Ninja 
-https://srregio.xyz/regioflix/pelisregio/batmanninja.php
-#EXTINF:-1 tvg-logo="https://demoalto-impresionesaerea.netdna-ssl.com/2017/11/cincuentaposter.jpg" group-title="PACK 01", 50 Sombras Liberadas 
-https://srregio.xyz/regioflix/pelisregio/50sombraslat.php
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/96/55/b3/9655b3b6c4fb5a67402044c02b50db2e.jpg" group-title="PACK 01", Tremors Cold Day in the Hell 
-https://srregio.xyz/regioflix/pelisregio/tremors2018.php
-#EXTINF:-1 tvg-logo="http://de.web.img3.acsta.net/c_215_290/pictures/17/10/23/16/03/1986949.jpg" group-title="PACK 01", Una Historia de Fantasmas 
-https://srregio.xyz/regioflix/pelisregio/ghosthistory.php
-#EXTINF:-1 tvg-logo="http://gnula.nu/wp-content/uploads/2017/12/Like_Share_Follow_poster_usa.jpg" group-title="PACK 01", Me gusta, Comparte, Sigue 
-https://srregio.xyz/regioflix/pelisregio/megustacompartesigue.php
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/26/ee/8026eec1acd612227d8819477b5e9db1.jpg" group-title="PACK 01", La Maldicion de la Casa Winchester 
-https://srregio.xyz/regioflix/pelisregio/winchesterlat.php
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rBIgRm0S7Ps/WmkxuoMIOhI/AAAAAAAAoOo/JUOs7TMogZcVPlvFpKNz8btOcpgH1x0wQCLcBGAs/s640/El_Cavernicola_Poster_Final_2_Latino_JPosters.jpg" group-title="PACK 01", El Cavernicola 
-https://srregio.xyz/regioflix/pelisregio/elcavernicola.php
-#EXTINF:-1 tvg-logo="http://torontodominicano.com/wp-content/uploads/2015/10/Oro-y-Polvo-Flyer-Pelicula-Dominicana.jpg" group-title="PACK 01", Oro y Polvo 
-https://srregio.xyz/regioflix/pelisregio/oroypolvo.php
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/demonio_de_medianoche.jpg" group-title="PACK 01", Demonio de Media Noche 
-https://srregio.xyz/regioflix/pelisregio/demoniodemedianoche.php
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/geo_tormenta.jpg" group-title="PACK 01", Geotormenta 
-https://srregio.xyz/regioflix/pelisregio/geotormenta.php
-#EXTINF:-1 tvg-logo="https://i1.wp.com/zombiewarmanagement.com/wp-content/uploads/2018/02/W.jpg?fit=650%2C927" group-title="PACK 01", Winchester SUBTITULADO 
-https://srregio.xyz/regioflix/pelisregio/winchester.php
-#EXTINF:-1 tvg-logo="http://static.hoyts.com.ar/uploads/commingSoon/1337.jpg" group-title="PACK 01", Las Aventuras de Peter Rabbit 
-https://srregio.xyz/regioflix/pelisregio/peterrabbit.php
-#EXTINF:-1 tvg-logo="https://demoalto-impresionesaerea.netdna-ssl.com/2017/11/cincuentaposter.jpg" group-title="PACK 01", 50 Sombras Liberadas (SUBTITULADO) 
-https://srregio.xyz/regioflix/pelisregio/50sombrassub.php
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7JYpjCTvWRRcBF5pRO5ZQONsGgg.jpg" group-title="PACK 01", Carteristas 
-https://srregio.xyz/regioflix/pelisregio/carteristas.php
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/713T%2BWCqxRL._SY445_.jpg" group-title="PACK 01", Paddington 
-https://srregio.xyz/regioflix/pelisregio/paddington.php
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Fi7cGqjCL.jpg" group-title="PACK 01", Space Jam 
-https://srregio.xyz/regioflix/pelisregio/spacejam.php
-#EXTINF:-1 tvg-logo="http://cd.cinescape.com.pe/cinescape-0x0-214889.jpg" group-title="PACK 01", Maze Runner La Cura Mortal 
-https://srregio.xyz/regioflix/pelisregio/mazerunner3.php
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/aqkAAOSwi6JasY~I/s-l300.jpg" group-title="PACK 01", Coco 
-https://srregio.xyz/regioflix/pelisregio/coco.php
-#EXTINF:-1 tvg-logo="https://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-13453363751516725221.jpg" group-title="PACK 01", Marcianos vs Mexicanos 
-https://srregio.xyz/regioflix/pelisregio/marcianosvsmexicanos.php
-#EXTINF:-1 tvg-logo="http://www.rosariocine.com.ar/info/1179d.jpg" group-title="PACK 01", Alma de Heroes 
-https://srregio.xyz/regioflix/pelisregio/almadeheroes.php
-#EXTINF:-1 tvg-logo="http://cdn.atomix.vg/wp-content/uploads/2018/03/AtomixMovies_AniquilacionAnnihilationReview.png" group-title="PACK 01", Aniquilacion 
-https://srregio.xyz/regioflix/pelisregio/aniquilacion.php
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e8/66/e0/e866e0de0a60d746953bef15f6ce61df.jpg" group-title="PACK 01", La Era de Hielo 5 
-http://goo.gl/X9dHAo
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_-6LB73z2_M/UN8UabXdfxI/AAAAAAAAFiw/xQdvf53333k/s1600/la-masacre-de-texas-1974_MLM-F-70664533_1489.jpg" group-title="PACK 01",LA MASACRE DE TEXAS (1974) 
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-_-6LB73z2_M/UN8UabXdfxI/AAAAAAAAFiw/xQdvf53333k/s1600/la-masacre-de-texas-1974_MLM-F-70664533_1489.jpg group-title="PACK 01",LA MASACRE DE TEXAS (1974)   
 https://ia800602.us.archive.org/22/items/col.mas.tex/La%20Masacre%20de%20Texas%201%20%281974%29.mp4
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_mH9jZjTd8Hc/TK2-xzrka-I/AAAAAAAABio/XGAV69EjO-s/s275/la-matanza-de-texas-2.jpg" group-title="PACK 01",LA MASACRE DE TEXAS 2 (1986) 
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/_mH9jZjTd8Hc/TK2-xzrka-I/AAAAAAAABio/XGAV69EjO-s/s275/la-matanza-de-texas-2.jpg group-title="PACK 01",LA MASACRE DE TEXAS 2 (1986)   
 https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas21986.mp4
-#EXTINF:-1 tvg-logo="http://www.pelisonic.com/wp-content/uploads/2015/09/la-masacre-3-215x300.jpg" group-title="PACK 01",LA MASACRE DE TEXAS 3 (1990) 
+#EXTINF:0 tvg-logo="http://www.pelisonic.com/wp-content/uploads/2015/09/la-masacre-3-215x300.jpg group-title="PACK 01",LA MASACRE DE TEXAS 3 (1990)   
 https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas31990.mp4
-#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/pelimtexIMAGEN1.jpg" group-title="PACK 01",LA MASACRE DE TEXAS: LA NUEVA GENERACION (1994) 
+#EXTINF:0 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/pelimtexIMAGEN1.jpg group-title="PACK 01",LA MASACRE DE TEXAS: LA NUEVA GENERACION (1994)   
 https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas41994LaNuevaGeneracion.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/16f0lHe.jpg" group-title="PACK 01",LA MASACRE DE TEXAS (2003) 
+#EXTINF:0 tvg-logo="https://imgur.com/16f0lHe.jpg group-title="PACK 01",LA MASACRE DE TEXAS (2003)   
 https://ia600602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas52003RemakeParte1.mp4
-#EXTINF:-1 tvg-logo="http://i.maniadb.com/images/album/363/363698_1_f.jpg" group-title="PACK 01",LA MASACRE DE TEXAS: EL INICIO (2006) 
+#EXTINF:0 tvg-logo="http://i.maniadb.com/images/album/363/363698_1_f.jpg group-title="PACK 01",LA MASACRE DE TEXAS: EL INICIO (2006)   
 https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas62006ElInicio-RemakeParte2.mp4
-#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/texas-chainsaw-blu-ray.jpg" group-title="PACK 01",LA MASACRE DE TEXAS: HERENCIA MALDITA (2013)  
+#EXTINF:0 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/texas-chainsaw-blu-ray.jpg group-title="PACK 01",LA MASACRE DE TEXAS: HERENCIA MALDITA (2013)    
 https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas720133d.mp4
-#EXTINF:-1 tvg-logo="http://gritaradio.com/files/2017/05/Condorito-Poster.jpg" group-title="PACK 01", Condorito La Pelicula 
-https://srregio.xyz/regioflix/pelisregio/condorito.php
-#EXTINF:-1 tvg-logo="http://cdn.hoyts.com.au/mediafiles/images/AUposters/HO00004721.jpg" group-title="PACK 01", Paddington 2 
-https://srregio.xyz/regioflix/pelisregio/paddington.php
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/el_gran_huracan_categoria_5.jpg" group-title="PACK 01", El Gran Huracan Categoria 5 
-https://srregio.xyz/regioflix/pelisregio/elgranhuracancategoria5.php
-#EXTINF:-1 tvg-logo="http://www.cionoticias.tv/wp-content/uploads/2017/09/Kingsman-2.jpg" group-title="PACK 01", Kingsman El Circulo Dorado 
-https://srregio.xyz/regioflix/pelisregio/kingsman2.php
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51wEYwlLldL._SY450_.jpg" group-title="PACK 01", Shrek 
-https://srregio.xyz/regioflix/pelisregio/shrek.php
-#EXTINF:-1 tvg-logo="https://st-listas.20minutos.es/images/2017-01/418402/5116233_640px.jpg?1503874716" group-title="PACK 01", La Bella y La Bestia 
-https://srregio.xyz/regioflix/pelisregio/labellaylabestia.php
-#EXTINF:-1 tvg-logo="http://www.pelisonic.com/wp-content/uploads/2017/02/chicos-2-200x300.jpg" group-title="PACK 01", Los Chicos Del Maiz 
-https://srregio.xyz/regioflix/pelisregio/loschicosdelmaiz.php
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/1/12/Moana_poster_2.jpg/revision/latest?cb=20160913172918" group-title="PACK 01", Moana 
-https://srregio.xyz/regioflix/pelisregio/moana.php
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/-oNf5QBA_l3M/Uw1tru2WlJI/AAAAAAAARo4/ICo2k87j_OU/zrtn_002pb1cf5c8_tn.jpg?imgmax=800" group-title="PACK 01", El Infierno 
-https://srregio.xyz/regioflix/pelisregio/elinfierno.php
-#EXTINF:-1 tvg-logo="https://imagessl0.casadellibro.com/m/ig/0/2611600.jpg" group-title="PACK 01", Ted 2 
-https://srregio.xyz/regioflix/pelisregio/ted2.php
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/spiderman/images/2/21/Spider_Man_Homecoming_One_Sheet_1.png/revision/latest/scale-to-width-down/310?cb=20170524163000&path-prefix=es" group-title="PACK 01", Spiderman Regreso a Casa 
-https://srregio.xyz/regioflix/pelisregio/spidermanregresoacasa.php
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/16/10/19/17/18/105613.jpg" group-title="PACK 01", Guardianes de la Galaxia 2 
-https://srregio.xyz/regioflix/pelisregio/guardianesdelagalaxia2.php
-#EXTINF:-1 tvg-logo="http://ciezaentumano.es/wp-content/uploads/2017/09/21231759_1918666055061472_4398200700725387100_n.jpg" group-title="PACK 01", Tadeo Jones 2 
-https://srregio.xyz/regioflix/pelisregio/tadeojones2.php
-#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BN2Y3ZmZmNzctODU2MC00OTcxLThlMWYtZDcxNjRkZjg4YmEwL2ltYWdlXkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="PACK 01", Dont Hang Up 
-https://srregio.xyz/regioflix/pelisregio/donthangup.php
-#EXTINF:-1 tvg-logo="https://imgs.repelisplus.com/sys/poster/5irtmuoemlt3mhoxp70qrucbsr3dkj6fsnz47d8-ml.jpg" group-title="PACK 01", Escuadron Suicida Hell To Pay 
-https://srregio.xyz/regioflix/pelisregio/escuadrossuicidahelltopay.php
-#EXTINF:-1 tvg-logo="http://freebeacon.com/wp-content/uploads/2018/01/Vo1TObV5.jpg" group-title="PACK 01", Proud Mary 
-https://srregio.xyz/regioflix/pelisregio/proudmary.php
-#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/17/07/11/12/50/066247.jpg" group-title="PACK 01", La Isla De Los Monstruos 
-https://srregio.xyz/regioflix/pelisregio/laisladelosmonstruos.php
-#EXTINF:-1 tvg-logo="http://alo.co/sites/default/files/imagecache/especial_prehome_323_425/ff_poster70x100_ajuste_ojos2.jpg" group-title="PACK 01", Quien *#$%!? es papa 
-https://srregio.xyz/regioflix/pelisregio/quienespapa.php
-#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_36177_29.jpg" group-title="PACK 01", Batman Gotham Luz de Gas 
-https://srregio.xyz/regioflix/pelisregio/batmanluzdegas.php
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/woody_woodpecker-458660691-large.jpg" group-title="PACK 01", El Pajaro Loco La Pelicula 
-https://srregio.xyz/regioflix/pelisregio/elpajaroloco.php
-#EXTINF:-1 tvg-logo="http://www.torrevieja.com/es/thumbnail.php?file=El_gran_showman_148913802.jpg&size=article_medium" group-title="PACK 01", El Gran Showman 
-https://srregio.xyz/regioflix/pelisregio/elgranshowman.php
-#EXTINF:-1 tvg-logo="http://cinescasinoobera.com.ar/es/Imagen/Miniatura/MO_725_700x900_fit.jpg" group-title="PACK 01", Insidious La Ultima Llave 
-https://srregio.xyz/regioflix/pelisregio/lanochedeldemonio4.php
-#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTUxODEyNjEzNl5BMl5BanBnXkFtZTgwMDQyMTM2MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="PACK 01", Phoenix Forgotten 
-https://srregio.xyz/regioflix/pelisregio/phoenixforgotten.php
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/83/95/ef8395c621d0cde1f41778cecf481502.jpg" group-title="PACK 01", El Ritual 
-https://srregio.xyz/regioflix/pelisregio/elritual.php
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/poster-de-cine-la-forma-del-agua-shape-of-water-cartel-origi-D_NQ_NP_968904-MLM26657429139_012018-F.jpg" group-title="PACK 01", La Forma del Agua  
-https://srregio.xyz/regioflix/pelisregio/laformadelagua.php
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nyi7Kh32ago/Wezm2hWAJcI/AAAAAAAAKZI/SI_mcP6MW1EzyCHN1SEgI4cqQNkIpEjrwCHMYCw/zrtn_017p7a3e64ed_tn.jpg?imgmax=800" group-title="PACK 01", Navidad de las Madres Rebeldes 
-https://srregio.xyz/regioflix/pelisregio/navidadmadresrebeldes.php
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/15/c7/4415c7f0191eb829348a77164329d59e.jpg" group-title="PACK 01", Skyline 2 Beyond  
-https://srregio.xyz/regioflix/pelisregio/skyline2beyond.php
-#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_45647_29.jpg" group-title="PACK 01", Notas Perfectas 3 
-https://srregio.xyz/regioflix/pelisregio/notasperfectas3.php
-#EXTINF:-1 tvg-logo="https://www.tribute.ca/news/wp-content/uploads/2018/01/insidious-the-last-key.jpg" group-title="PACK 01", Insidious The Last Key SUBTITULADA  
-https://srregio.xyz/regioflix/pelisregio/insidiousthelastkey.php
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/ec/85/56/ec855646-7110-fbdc-3803-ef8637079272/PEIXONAUTAOFILME_SOFA_20171116_1903-Poster-ES419.lsr/200x0w.jpg" group-title="PACK 01", Pextronauta La Pelicula 
-https://srregio.xyz/regioflix/pelisregio/peztronauta.php
-#EXTINF:-1 tvg-logo="http://104.236.196.111/imdb//media/profile_images/el_hijo_de_pie_grande.jpg" group-title="PACK 01", El Hijo de Pie Grande  
-https://srregio.xyz/regioflix/pelisregio/elhijodepiegrande.php
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91i%2BJQz9rNL._SY445_.jpg" group-title="PACK 01", Lego DC Comics Super Heroes: The Flash 
-https://srregio.xyz/regioflix/pelisregio/legosuperheroes.php
-#EXTINF:-1 tvg-logo="http://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/22937.jpg" group-title="PACK 01", La Estrella de Belen 
-https://srregio.xyz/regioflix/pelisregio/laestrelladebelen.php
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/sb_dolby_worldwide_handout_13x19_v3_lg_use_this_one_cc3cc869.jpeg?region=0%2C0%2C821%2C1200" group-title="PACK 01", Star Wars The Last Jedi 
-https://srregio.xyz/regioflix/pelisregio/starwars.php
-#EXTINF:-1 tvg-logo="http://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/22984.jpg" group-title="PACK 01", Implacable 
-https://srregio.xyz/regioflix/pelisregio/implacable.php
-#EXTINF:-1 tvg-logo="https://videocine.com.mx/wp-content/uploads/2017/08/Po%CC%81ster-oficial-Camino-A-Marte-211x300.jpg" group-title="PACK 01", Camino a Marte 
-https://srregio.xyz/regioflix/pelisregio/caminoamarte.php
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNWNmOTc1YjktMWU3Mi00ZGMwLTg4YTItNGMxMmFhNmQwNWUyXkEyXkFqcGdeQXVyMTk0NTY2ODQ@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="PACK 01", Kick Boxer Retaliation 
-https://srregio.xyz/regioflix/pelisregio/kickboxer.php
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2MDE1NTUxNF5BMl5BanBnXkFtZTgwMDk0NzgwMjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="PACK 01", Camera Obscura 
-https://srregio.xyz/regioflix/pelisregio/cameraobscura.php
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/3/38/Shot_Caller.jpg/revision/latest?cb=20180303070128&path-prefix=es" group-title="PACK 01", Maestro del Crimen 
-https://srregio.xyz/regioflix/pelisregio/maestrodelcrimen.php
-#EXTINF:-1 tvg-logo="http://cl.buscafs.com/www.tomatazos.com/public/uploads/images/181743_800x1186.jpg" group-title="PACK 01", Pequeña Gran Vida 
-https://srregio.xyz/regioflix/pelisregio/pequenagranvida.php
-#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_es/screenshot/default/justicia_gt7u.jpg" group-title="PACK 01", Liga de la Justicia 
-https://srregio.xyz/regioflix/pelisregio/ligadelajusticia.php
-#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/images/10192/580482/g/thor-ragnarok_poster.jpg" group-title="PACK 01", Thor Ragnarok 
-https://srregio.xyz/regioflix/pelisregio/thor2017.php
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3tq8FDnnBKs/WgCoD7TcN-I/AAAAAAAAncg/Obyx-CWZaTIASMnB8wMbpbAHHaY_qFc3ACLcBGAs/s00/Jumanji_En_La_Selva_Poster_4_Latino_JPosters.jpg" group-title="PACK 01", Jumanji En la Selva
-https://srregio.xyz/regioflix/pelisregio/jumanji.php
-#EXTINF:-1 tvg-logo="http://www.elotrocine.cl/wp-content/uploads/2017/02/AFICHE-CHILE-DIGITAL-FINAL.jpg" group-title="PACK 01", Una Mujer Fantastica 
-https://srregio.xyz/regioflix/pelisregio/unamujerfantastica.php
-#EXTINF:-1 tvg-logo="https://moveeksdotcom.files.wordpress.com/2017/12/promo.jpg?w=1000" group-title="PACK 01", Guerra de papas 2 
-https://srregio.xyz/regioflix/pelisregio/guerradepapas2.php
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cinexpresspr.com/site/wp-content/uploads/2017/10/coco_ver15_xlg.jpg" group-title="PACK 01", Coco 
-https://srregio.xyz/regioflix/pelisregio/coco.php
-#EXTINF:-1 tvg-logo="https://irismagazine.cl/wp-content/uploads/2017/08/f3b2d0d1c78dd40805cd2c315d124d38_thumb.jpg" group-title="PACK 01", Que le paso a lunes 
-https://srregio.xyz/regioflix/pelisregio/qlplunes.php
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOTIwMDI0NjQ4OF5BMl5BanBnXkFtZTgwNjU0MzAyNDM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="PACK 01", Ferdinand 
-https://srregio.xyz/regioflix/pelisregio/ole.php
-#EXTINF:-1 tvg-logo="https://moviehighlight.files.wordpress.com/2017/12/first-kill-poster.jpg" group-title="PACK 01", First Kill 
-https://srregio.xyz/regioflix/pelisregio/firstkill.php
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ym3me8JcuqE/WMM23HNL3HI/AAAAAAAAgLY/_vwXL2Rp5-89gFao2_V3V9iViZIMELr2wCLcB/s00/Mujer_Maravilla_Nuevo_Poster_Latino_c_JPosters.jpg" group-title="PACK 01", Mujer Maravilla 
-https://srregio.xyz/regioflix/pelisregio/mujermaravilla.php
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-IGI9XyG3Go8/VVQndkoMZCI/AAAAAAAAD-U/IQ_b8eOk1XU/s640/REGALO.jpg" group-title="PACK 01", El Ultimo Regalo 
-https://srregio.xyz/regioflix/pelisregio/elultimoregalo.php
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg" group-title="PACK 01", La Fuerza De La Ilusion 
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg group-title="PACK 01", La Fuerza De La Ilusion   
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg" group-title="PACK 01", Cuando nos Conocimos 
+#EXTINF:0 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg group-title="PACK 01", Cuando nos Conocimos   
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg" group-title="PACK 01", La Forma del Agua SUBTITULADO 
+#EXTINF:0 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg group-title="PACK 01", La Forma del Agua SUBTITULADO   
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="PACK 01", Nosotros Los Nobles 
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg group-title="PACK 01", Nosotros Los Nobles   
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg" group-title="PACK 01", The Cloverfield Paradox 
+#EXTINF:0 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg group-title="PACK 01", The Cloverfield Paradox   
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg" group-title="PACK 01", Terminus 
+#EXTINF:0 tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg group-title="PACK 01", Terminus   
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg" group-title="PACK 01", Deadpool 
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg group-title="PACK 01", Deadpool   
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg" group-title="PACK 01", Intensamente 
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg group-title="PACK 01", Intensamente   
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg" group-title="PACK 01", JIGSAW VIII 
+#EXTINF:0 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg group-title="PACK 01", JIGSAW VIII   
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://larryfire.files.wordpress.com/2016/09/18.jpg" group-title="PACK 01", Doctor Strange 
+#EXTINF:0 tvg-logo="https://larryfire.files.wordpress.com/2016/09/18.jpg group-title="PACK 01", Doctor Strange   
 https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4
-#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/cinemania-cdn/wp-content/uploads/2016/01/18105426/suicide-squad-movie-poster-first-720x1067.jpg" group-title="PACK 01", Escuadron Suicida 
-https://ia601507.us.archive.org/25/items/89721396258147/89721396258147.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg" group-title="PACK 01", Redada Asesina 
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg group-title="PACK 01", Redada Asesina   
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg" group-title="PACK 01", SAW VIII SUBTITULADO 
+#EXTINF:0 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg group-title="PACK 01", SAW VIII SUBTITULADO   
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/297x/i38iqtjb/konvert-russian-movie-poster-md.jpg" group-title="PACK 01", Konvert SUBTITULADO 
+#EXTINF:0 tvg-logo="https://cdn.cinematerial.com/p/297x/i38iqtjb/konvert-russian-movie-poster-md.jpg group-title="PACK 01", Konvert SUBTITULADO   
 https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e3/be/cf/e3becf68be3b70267da3bc3def5ed075.jpg" group-title="PACK 01", Civil War 
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e3/be/cf/e3becf68be3b70267da3bc3def5ed075.jpg group-title="PACK 01", Civil War   
 https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-EZdj0W1TkOo/V37OiF_GVsI/AAAAAAAAjWM/iWLC2WUYpLY9t6N5OjKFRCxlkyYWVRRSgCLcB/s00/Poqu%25C3%25A9_%25C3%25A9l_Poster_Latino_JPosters.jpg" group-title="PACK 01", Por que el 
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-EZdj0W1TkOo/V37OiF_GVsI/AAAAAAAAjWM/iWLC2WUYpLY9t6N5OjKFRCxlkyYWVRRSgCLcB/s00/Poqu%25C3%25A9_%25C3%25A9l_Poster_Latino_JPosters.jpg group-title="PACK 01", Por que el   
 https://archive.org/download/XQESRREGIO/XQESRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/amigos_intocables.jpg" group-title="PACK 01", Amigos Intocables 
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/amigos_intocables.jpg group-title="PACK 01", Amigos Intocables   
 https://archive.org/download/AmInSRREGIO/AmInSRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/78/22/07/20064339.jpg" group-title="PACK 01", La Vida En Juego 
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/78/22/07/20064339.jpg group-title="PACK 01", La Vida En Juego   
 https://archive.org/download/LaViEJuSRREGIO/LaViEJuSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/lowriders-411922044-large.jpg" group-title="PACK 01", Lowriders (Subtitulada) 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/lowriders-411922044-large.jpg group-title="PACK 01", Lowriders (Subtitulada)   
 https://archive.org/download/LowSRREGIO/LowSRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://ratpackpodcasts.com/WP-Files/wp-content/uploads/Battleship-Poster.jpg" group-title="PACK 01", Battleship Batalla Naval 
+#EXTINF:0 tvg-logo="http://ratpackpodcasts.com/WP-Files/wp-content/uploads/Battleship-Poster.jpg group-title="PACK 01", Battleship Batalla Naval   
 https://archive.org/download/BatSRREGIO/BatSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/mlp/images/7/7d/My_Little_Pony_La_Pel%C3%ADcula_p%C3%B3ster_oficial_latino.jpg/revision/latest/scale-to-width-down/350?cb=20170716060714&path-prefix=es" group-title="PACK 01", My Little Pony La Pelicula 
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/mlp/images/7/7d/My_Little_Pony_La_Pel%C3%ADcula_p%C3%B3ster_oficial_latino.jpg/revision/latest/scale-to-width-down/350?cb=20170716060714&path-prefix=es group-title="PACK 01", My Little Pony La Pelicula   
 https://archive.org/download/mlplpSRREGIO/mlplpSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QgBst5nuPEw/movieposter.jpg" group-title="PACK 01", Leatherface 
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/QgBst5nuPEw/movieposter.jpg group-title="PACK 01", Leatherface   
 https://archive.org/download/LeaSRREGIO/LeaSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Xh26bRLECEY/WbSMTg76-iI/AAAAAAAAOH4/KUKvnQnnuC42Bs17yQHHDwDYHlcYmj8iwCLcBGAs/s1600/onesheet.jpg" group-title="PACK 01", Pokemon Yo Te Elijo 
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-Xh26bRLECEY/WbSMTg76-iI/AAAAAAAAOH4/KUKvnQnnuC42Bs17yQHHDwDYHlcYmj8iwCLcBGAs/s1600/onesheet.jpg group-title="PACK 01", Pokemon Yo Te Elijo   
 https://archive.org/download/PoYoTESRREGIO/PoYoTESRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://multianime.com.mx/wp-content/uploads/2017/06/melanie-zombie-jpg.jpg" group-title="PACK 01", Melanie Apocalipsis Zombie 
+#EXTINF:0 tvg-logo="http://multianime.com.mx/wp-content/uploads/2017/06/melanie-zombie-jpg.jpg group-title="PACK 01", Melanie Apocalipsis Zombie   
 https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/doblaje/images/b/b3/Fragile-2.jpg/revision/latest?cb=20131104070609&path-prefix=es" group-title="PACK 01", Fragiles 
+#EXTINF:0 tvg-logo="https://vignette2.wikia.nocookie.net/doblaje/images/b/b3/Fragile-2.jpg/revision/latest?cb=20131104070609&path-prefix=es group-title="PACK 01", Fragiles   
 https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg" group-title="PACK 01", Atomica 
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg group-title="PACK 01", Atomica   
 https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg" group-title="PACK 01", Zombiology 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg group-title="PACK 01", Zombiology   
 https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/house_of_the_witch_night_of_the_witch_tv-754308582-large.jpg" group-title="PACK 01", La Noche de la Bruja 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/house_of_the_witch_night_of_the_witch_tv-754308582-large.jpg group-title="PACK 01", La Noche de la Bruja   
 https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://cdn.bloody-disgusting.com/wp-content/uploads/2016/08/ouija_two_ver4_xlg.jpg" group-title="PACK 01", Quija 
+#EXTINF:0 tvg-logo="http://cdn.bloody-disgusting.com/wp-content/uploads/2016/08/ouija_two_ver4_xlg.jpg group-title="PACK 01", Quija   
 https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="PACK 01", Jeepers Creepers 3 
+#EXTINF:0 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg group-title="PACK 01", Jeepers Creepers 3   
 https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg" group-title="PACK 01", Valerian y la ciudad de los mil planetas 
+#EXTINF:0 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg group-title="PACK 01", Valerian y la ciudad de los mil planetas   
 https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEd4r3UXcAA0Dbz.jpg" group-title="PACK 01", Como cortar a tu patan 
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/DEd4r3UXcAA0Dbz.jpg group-title="PACK 01", Como cortar a tu patan   
 https://ia601508.us.archive.org/4/items/patan/patan.mp4
-#EXTINF:-1 tvg-logo="https://imagessl6.casadellibro.com/m/ig/6/2650976.jpg" group-title="PACK 01", El Rostro De Un Angel 
+#EXTINF:0 tvg-logo="https://imagessl6.casadellibro.com/m/ig/6/2650976.jpg group-title="PACK 01", El Rostro De Un Angel   
 https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTE5OTI2MV5BMl5BanBnXkFtZTgwNzc1NzY1NDE@._V1_.jpg" group-title="PACK 01", Una Loca Pelicula de The Walking Dead 
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTE5OTI2MV5BMl5BanBnXkFtZTgwNzc1NzY1NDE@._V1_.jpg group-title="PACK 01", Una Loca Pelicula de The Walking Dead   
 https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://www.miracine.com/imagenes/peliculas/Sangre-por-sangre.jpg" group-title="PACK 01", Sangre por Sangre 
+#EXTINF:0 tvg-logo="http://www.miracine.com/imagenes/peliculas/Sangre-por-sangre.jpg group-title="PACK 01", Sangre por Sangre   
 https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
-#EXTINF:-1 tvg-logo="https://images1.dallasobserver.com/imager/u/teaser/9877544/243877h1.jpg" group-title="PACK 01", Marjorie Prime
+#EXTINF:0 tvg-logo="https://images1.dallasobserver.com/imager/u/teaser/9877544/243877h1.jpg group-title="PACK 01", Marjorie Prime
 https://ia801507.us.archive.org/22/items/major_201710/major.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg" group-title="PACK 01", Wheelman 
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg group-title="PACK 01", Wheelman   
 https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
-#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg" group-title="PACK 01", Amytiville El Despertar 
+#EXTINF:0 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg group-title="PACK 01", Amytiville El Despertar   
 https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/L.O.R.D_Legend_of_Ravaging_Dynasties_poster.jpeg" group-title="PACK 01", L.O.R.D The Legend Of Ravaging Dynasties 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/L.O.R.D_Legend_of_Ravaging_Dynasties_poster.jpeg group-title="PACK 01", L.O.R.D The Legend Of Ravaging Dynasties   
 https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
-#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/noticias-cine/lego-ninjago-movie-cartel-trailer/128208686-1-esl-ES/The-LEGO-NINJAGO-Movie-Cartel-y-trailer-de-la-pelicula_portrait.jpg" group-title="PACK 01", NinjaGO 
+#EXTINF:0 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/noticias-cine/lego-ninjago-movie-cartel-trailer/128208686-1-esl-ES/The-LEGO-NINJAGO-Movie-Cartel-y-trailer-de-la-pelicula_portrait.jpg group-title="PACK 01", NinjaGO   
 https://archive.org/download/pickidj74_gmail_Gole/gole.mp4
-#EXTINF:-1 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/remember-the-titans_a-G-8032900-0.jpg" group-title="PACK 01", Duelo de Titanes 
+#EXTINF:0 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/remember-the-titans_a-G-8032900-0.jpg group-title="PACK 01", Duelo de Titanes   
 https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
-#EXTINF:-1 tvg-logo="http://photos1.blogger.com/blogger/3339/858/1600/rv_bigreleaseposter.jpg" group-title="PACK 01", Locas Vacaciones Sobre Ruedas 
+#EXTINF:0 tvg-logo="http://photos1.blogger.com/blogger/3339/858/1600/rv_bigreleaseposter.jpg group-title="PACK 01", Locas Vacaciones Sobre Ruedas   
 https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8liUO6T7xKk/WN6efg85dzI/AAAAAAAAT6k/lpWPvh7Bkogfe6YzYKSzuvaFWcUjqjVIwCK4B/s1600/17492367_1249808975105083_2074598002289798083_o.jpg" group-title="PACK 01", Annabelle La Creacion 
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-8liUO6T7xKk/WN6efg85dzI/AAAAAAAAT6k/lpWPvh7Bkogfe6YzYKSzuvaFWcUjqjVIwCK4B/s1600/17492367_1249808975105083_2074598002289798083_o.jpg group-title="PACK 01", Annabelle La Creacion   
 https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/61/55/32/61553207d1d9594c8d0313fcdd145d63.jpg" group-title="PACK 01", Colors CASTELLANO 
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/61/55/32/61553207d1d9594c8d0313fcdd145d63.jpg group-title="PACK 01", Colors CASTELLANO   
 https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
-#EXTINF:-1 tvg-logo="https://movierob.files.wordpress.com/2017/04/get-out.jpg?w=203&h=300" group-title="PACK 01", Huye 
+#EXTINF:0 tvg-logo="https://movierob.files.wordpress.com/2017/04/get-out.jpg?w=203&h=300 group-title="PACK 01", Huye   
 https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
-#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755" group-title="PACK 01", Alien Covenant 
+#EXTINF:0 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755 group-title="PACK 01", Alien Covenant   
 http://ow.ly/SgXZ30eXN93?CONEXION?null=
-#EXTINF:-1 tvg-logo="http://images.sequart.org/images/The-X-Files-I-Want-to-Believe-poster-660x990.jpg" group-title="PACK 01", Expedientes Secretos X 
+#EXTINF:0 tvg-logo="http://images.sequart.org/images/The-X-Files-I-Want-to-Believe-poster-660x990.jpg group-title="PACK 01", Expedientes Secretos X   
 https://archive.org/download/EXPEDIENTESX.SRREGIO.NET/EXPEDIENTESSECRETOSX.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-logo="http://empeliculados.co/wp-content/uploads/2017/01/Bailarina-Poster-Empeliculados.co_.jpg" group-title="PACK 01", Bailarina 
+#EXTINF:0 tvg-logo="http://empeliculados.co/wp-content/uploads/2017/01/Bailarina-Poster-Empeliculados.co_.jpg group-title="PACK 01", Bailarina   
 https://archive.org/download/21354gSRREGIO.NET/21354g216d66855x.mp4
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pdJh7WWovaE/WNfrUYo7EPI/AAAAAAAAlsg/rVwH1_542t4dTtV1JD-v3iP1SvK14ncFACLcB/s00/Los_Pitufos_en_la_Aldea_Perdida_Poster_Latino_Tontin_JPosters.jpg" group-title="PACK 01", Los Pitufos La Aldea Perdida 
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-pdJh7WWovaE/WNfrUYo7EPI/AAAAAAAAlsg/rVwH1_542t4dTtV1JD-v3iP1SvK14ncFACLcB/s00/Los_Pitufos_en_la_Aldea_Perdida_Poster_Latino_Tontin_JPosters.jpg group-title="PACK 01", Los Pitufos La Aldea Perdida   
 https://archive.org/download/pituregioSRREGIO.NET/pituregio.mkv
+#EXTINF:0 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg group-title="PACK 01", Guardianes de la Galaxia   
+https://goo.gl/sFaEVq
+#EXTINF:0 tvg-logo="http://www.leelibros.com/biblioteca/files/images/El_Cementerio_Viviente.jpg group-title="PACK 01", Cementerio de Mascotas   
+https://archive.org/download/06052017AQC06052017/06052017_AQC.avi
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-dMEn9gQXIKc/WWOokpqoRlI/AAAAAAAAmXw/2w4j8c8Y_7Uh4ajFxRKoXZ8MMPVpo4eKQCLcBGAs/s00/Viaje_Salvaje_Snatched_Teaser_Poster_Latino_JPosters.jpg group-title="PACK 01", Viaje Salvaje   
+https://archive.org/download/2132154654SRREGIO.NET/21321546548978456132.mkv
+#EXTINF:0 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_28070_79.jpg group-title="PACK 01", Cult Of Chucky   
+https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mkv
+#EXTINF:0 tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5947/5947713_sa.jpg;maxHeight=550;maxWidth=642 group-title="PACK 01", Batman y Harley Queen   
+https://ia801502.us.archive.org/8/items/33548979815123SRREGIO/33548979815123.mp4
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-YrLdbPOwwhA/TnpiwnARvNI/AAAAAAAAWEI/wVHzS7OZue0/s1600/Spielberg+encuentros+cercanos+del+tercer+tipo.jpg group-title="PACK 01", Encuentro Cercano del 3er Tipo   
+https://archive.org/download/3213265489SRREGIO.NET/321326548978778798797997.mkv
+
+
+
 #EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg" group-title="PACK 01", Guardianes de la Galaxia 
 https://goo.gl/sFaEVq
 #EXTINF:-1 tvg-logo="http://www.leelibros.com/biblioteca/files/images/El_Cementerio_Viviente.jpg" group-title="PACK 01", Cementerio de Mascotas 
