@@ -2151,8 +2151,14 @@ https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
 http://190.107.176.55:1935/live/archi-congreso/chunklist_w810766943.m3u8
 #EXTINF:0 tvg-logo="http://sitio.sindicatoescondida.cl/page/wp-content/uploads/2017/03/radioelconsquistador.png" group-title="RADIOTV",Radio El Conquistador
 http://eu1.servers10.com:1935/8282/8282/playlist.m3u8
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4918/square_150x150-2.jpg" group-title="RADIOTV",Radio Camila Tv
-http://190.107.176.55:1935/live/archi-camila/chunklist_w1113935567.m3u8
+#EXTINF:-1 tvg-logo="http://www.pauta.cl/pauta/site/artic/20180307/imag/foto_0000000420180307152149/logo2.png" group-title="RADIOTV",Pauta HD
+http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV LA SERENA
+http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
+http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://radiofanaticos.com/imagenes//2011/05/radiocolosal.png" group-title="RADIOTV",Radio Colosal Tv
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
@@ -2161,12 +2167,8 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgrat
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.mvsradio.com/sites/all/themes/mvsTheme/logo.png" group-title="RADIOTV",MVS Noticias Tv
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
-#EXTINF:-1 tvg-logo="http://www.pauta.cl/pauta/site/artic/20180307/imag/foto_0000000420180307152149/logo2.png" group-title="RADIOTV",Pauta HD
-http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV LA SERENA
-http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
-http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL.png" group-title="RADIOTV",Latinos UP Tv
+https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w6042364.m3u8
 
 #EXTINF:0,-RADIOS-
 
