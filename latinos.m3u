@@ -6,6 +6,8 @@
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png/220px-Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES",Univision TDN
 http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png/220px-Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES",Univision TDN
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_3000_ipad.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/cdn-sportsmax-655.png" group-title="DEPORTES", CDN SportsMax
 http://66.70.179.201:25461/live/Local/149018/337.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-SAgcQ3nEqZHCXG_f7DY_b6n1abxJXEyM4Bh4Efu1LgmkwpGkQ" group-title="DEPORTES" ,Todo Deportes
