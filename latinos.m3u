@@ -115,6 +115,12 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?xtreamiptv.
 
 #EXTINF:0,-FREE-
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",NatGeo Wild
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NATGEO_WILD_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",Discovery Channel
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",El Gourmet
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(GOURMET_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",Tooncast
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",Disney Jr
