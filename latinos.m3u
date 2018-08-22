@@ -360,6 +360,20 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(04)/i
 
 #EXTINF:-1 tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="INFANTILES" ,-----INFANTILES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork-la/images/7/7e/Cartoon_Network_logo_%281%29.png/revision/latest?cb=20140130141756&path-prefix=es" group-title="INFANTILES",Cartoon Network
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CARTOON_NETWORK_HD)/Stream(04)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png/revision/latest?cb=20111106061132" group-title="INFANTILES",Nickelodeon
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICKELODEON_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTILES",Nick 2
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICK_2_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/6/62/Discovery_kids_logo.png/revision/latest?cb=20140504201343&path-prefix=es" group-title="INFANTILES",Discovery Kids
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_KIDS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/6/62/Discovery_kids_logo.png/revision/latest/zoom-crop/width/240/height/240?cb=20140504201343&path-prefix=es" group-title="INFANTILES",NatGeo Kids
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NATGEO_KIDS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nick-Jr-old-logo.png/640px-Nick-Jr-old-logo.png" group-title="INFANTILES",Nick JR
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICK_JR_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/8a/Disney_Channel_Christmas_logo.png/revision/latest?cb=20160116232833" group-title="INFANTILES",Disney Channel
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISNEY_HD)/Stream(05)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/800px-Tooncast_logo.svg.png" group-title="INFANTILES",Tooncast
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2015/11/DisneyJunior_WebsiteLogo-500x250.png" group-title="INFANTILES",Disney Jr
