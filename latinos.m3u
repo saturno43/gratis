@@ -12,6 +12,10 @@ http://66.70.179.201:25461/live/Local/149018/337.m3u8
 http://hondurtmp.tulix.tv:1935/tododeportes/to-do-deportes/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s54ae3361ca5926a4/image/i2c6ad51b7d602c0a/version/1524239208/image.png" group-title="DEPORTES" ,TSM Sports 1
+http://mediacp.live:1935/8032/8032/chunklist_w141706798.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s54ae3361ca5926a4/image/i2c6ad51b7d602c0a/version/1524239208/image.png" group-title="DEPORTES" ,TSM Sports 2
+http://mediacp.live:1935/8028/8028/chunklist_w491598560.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1502.1405279704.png" group-title="DEPORTES" ,Fitness Tv
 https://v3.tustreaming.cl/mbrhls/fitnesstv/s1/index.m3u8
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES" ,Fight Time
