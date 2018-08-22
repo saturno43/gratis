@@ -21,6 +21,8 @@ http://mediacp.live:1935/8028/8028/chunklist_w491598560.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1502.1405279704.png" group-title="DEPORTES" ,Fitness Tv
 https://v3.tustreaming.cl/mbrhls/fitnesstv/s1/index.m3u8
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES" ,Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES" ,Fight Time
 http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Basico
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
