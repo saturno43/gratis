@@ -2114,6 +2114,75 @@ https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSICA",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Music Choice Alternative | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC122/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA",MUSICA", Music Choice Brits + Hits | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC143/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Music Choice Dance | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC127/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Music Choice Hip-Hop And R&B | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC106/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Music Choice Hit | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC100/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Indie | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Metal | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC139/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Pop & Country | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC132/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Pop Hits | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC133/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice R&B Soul | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC124/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Rap | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC125/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Rap 2K | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC141/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Rock | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC138/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Today | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC121/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice 90 | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC140/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Throwback Jamz | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC142/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Y2K | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC145/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Mexicana | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC131/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Musica Urbana | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC128/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Pop Latino | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC123/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Tropicales | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC137/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Teen Beats | HD
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC118/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Kidz Only | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC130/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Toddler Tunes | HD
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC144/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Animation
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Classic
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Electro Rock
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing French touch
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Ibiza
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Karaoke
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Summer Vibes
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing TV
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Underground
+http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
 http://autopilot.myowntv.org/content/33816/index.m3u8
 
