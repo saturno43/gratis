@@ -2067,8 +2067,6 @@ https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
 http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4479/square_150x150-2.jpg" group-title="MUSICA",Pandero Music Chile
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
-#EXTINF:-1 tvg-logo="http://www.fmdelosrecuerdos.cl/envivocanal/img/logohead.png" group-title="MUSICA",Canal de los Recuerdos 
-http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/597/250" group-title="MUSICA",Rock Nacional TV
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XbNBwuIZG9o/hqdefault_live.jpg" group-title="MUSICA",Tv Loncho 
@@ -2231,10 +2229,6 @@ https://ia801508.us.archive.org/27/items/rapido_201511/PitchPerfection-SongsMash
 
 #EXTINF:-1 tvg-logo="http://fotologimg.s3.amazonaws.com/photo/42/53/14/radiotvmazate/1242503738758_f.jpg" group-title="RADIOTV" ,-----RADIOTV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cDwnurz.png" group-title="RADIOTV",Carnaval Tv HD
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist_w684197806_b1428000.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cDwnurz.png" group-title="RADIOTV",Carnaval Tv SD
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist_w684197806_b428000.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv HD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv SD
@@ -2283,8 +2277,6 @@ http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
 http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
 http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://radiofanaticos.com/imagenes//2011/05/radiocolosal.png" group-title="RADIOTV",Radio Colosal Tv
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
