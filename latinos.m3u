@@ -707,13 +707,12 @@ http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel HD
 http://200.58.160.67:8081/envivo/unitelhd/unitelhd/unitelhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/index.php?/gallery/image/310-red-pat/&do=download" group-title="BOLIVIA", Red Pat
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat
 http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/index.php?/gallery/image/310-red-pat/&do=download" group-title="BOLIVIA", Red Pat Santa Cruz 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat Santa Cruz 
 http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
 #EXTINF:-1 tvg-logo="http://es.boliviayp.com/img/bo/e/1479904622-35-bolivia-tv-canal-7.png" group-title="BOLIVIA", Bolivia TV 
 http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
-
 
 #EXTINF:0,-VENEZUELA-
 
@@ -727,9 +726,9 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8|User-agent=iPh
 http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://controlstreams.com:1935/tves2/tves2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_06/medium.575b60c674791_LogoTELET1.png.0c556fe72e39b46a6431967a83e1ea99.png" group-title="VENEZUELA",La Tele Tuya
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_06/large.5765ca50df2cd_LogoTELET(1).png.727989344bbb9e9c6b74efef5acca252.png" group-title="VENEZUELA",La Tele Tuya
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_06/medium.575b60c674791_LogoTELET1.png.0c556fe72e39b46a6431967a83e1ea99.png" group-title="VENEZUELA",La Tele Tuya
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_06/large.5765ca50df2cd_LogoTELET(1).png.727989344bbb9e9c6b74efef5acca252.png" group-title="VENEZUELA",La Tele Tuya
 http://enc-fwt.lorini.net/telet/telet/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg" group-title="VENEZUELA",Promar TV
 http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
@@ -2382,7 +2381,7 @@ http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/220px-TVUConcepcionLogo.png" group-title="REGIONALES",TVU Concepcion
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv-online.cl/tv4-television-lota.jpg?170609113315" group-title="REGIONALES",TVU 2 Concepcion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/220px-TVUConcepcionLogo.png" group-title="REGIONALES",TVU 2 Concepcion
 https://unlimited6-cl.dps.live/tvu2/tvu2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/tv4-television-lota.jpg?170609113315" group-title="REGIONALES",Tv 4 Lota
 http://evo.eltelon.com:1935/live/tv4-television/chunklist_w236013474.m3u8
