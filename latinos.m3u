@@ -630,7 +630,7 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:0,-PERU-
 
-#EXTINF:-1 tvg-logo="http://cualesel.net/wp-content/uploads/cu%C3%A1l-es-la-bandera-de-per%C3%BA-.png" group-title="PERU" ,-----PERU-----
+#EXTINF:-1 tvg-logo="http://too.by/webimage/countrys/samerica/peru/pepics/symbolspics/Flag_of_Peru.png" group-title="PERU" ,-----PERU-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="PERU", ATV +
 http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8|User-Agent=iPhone
@@ -642,16 +642,14 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b232768.m3u8
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="PERU",America
 http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana TV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Panamericana_%282014-presente%29.png/revision/latest?cb=20161207225718" group-title="PERU", Panamericana TV
 http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana TV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Panamericana_%282014-presente%29.png/revision/latest?cb=20161207225718" group-title="PERU", Panamericana TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina
 http://photocall.tv/latina.php/.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Araquipa 
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://visiontv.com.pe/wp-content/uploads/2016/07/272x90-LOGO.png" group-title="PERU",Vision Tv
-http://stream.tmcreativos.com:1935/visiontv/visiontv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-fDocFft2r.png" group-title="PERU",Canal RPP
@@ -666,7 +664,7 @@ http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.fulltelevisionhd.net/wp-content/uploads/2013/02/ovacion.jpg" group-title="PERU",Ovacion
+#EXTINF:-1 tvg-logo="http://www.ovacion.pe/sites/default/files/publico/logo-ovacion_0.png" group-title="PERU",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.centraltvperu.com/images/central.png" group-title="PERU",Central TV Perú 
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -686,11 +684,11 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://pbs.twimg.com/profile_images/836722107446878212/tlEjfQIe.jpg",Red Mas
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://conexioncapital.co/wp-content/uploads/2016/10/conexion-capital-retina-300x123.png",Canal Capital HD
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canal_Capital_%28Bogot%C3%A1%29_logo.svg/180px-Canal_Capital_%28Bogot%C3%A1%29_logo.svg.png",Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 tvg-logo="https://www.lafm.com.co/wp-content/uploads/rcn.png" group-title="COLOMBIA",RCN
+#EXTINF:-1 tvg-logo="http://revistacorrientes.com/wp-content/uploads/2015/09/2vwy3yo-RCN-Televisi%C3%B3n.png" group-title="COLOMBIA",RCN
 http://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?ref=www.canalrcn.com
-#EXTINF:-1 tvg-logo="https://www.lafm.com.co/wp-content/uploads/rcn.png" group-title="COLOMBIA",RCN
+#EXTINF:-1 tvg-logo="http://revistacorrientes.com/wp-content/uploads/2015/09/2vwy3yo-RCN-Televisi%C3%B3n.png" group-title="COLOMBIA",RCN
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="COLOMBIA",Canal 13
 http://cdn.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
@@ -698,7 +696,7 @@ http://cdn.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/fdd1b1_ea866a37c0114866acf8472c1f42000d~mv2.png" group-title="COLOMBIA",Telemedellin
 http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
-#EXTINF:-1 tvg-logo="http://tele-envivo.com/wp-content/uploads/2015/12/cablenoticias-en-vivo.png" group-title="COLOMBIA",Cable Noticias 
+#EXTINF:-1 tvg-logo="https://www.personeriacali.gov.co/sites/default/files/noticias/cablenoticias_logo.png" group-title="COLOMBIA",Cable Noticias 
 http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png" group-title="COLOMBIA",Telecafe
 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
