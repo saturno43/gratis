@@ -199,7 +199,7 @@ http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/220px-TVUConcepcionLogo.png" group-title="REGIONALES",TVU Concepcion
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv-online.cl/tv4-television-lota.jpg?170609113315" group-title="REGIONALES",TVU 2 Concepcion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/220px-TVUConcepcionLogo.png" group-title="REGIONALES",TVU 2 Concepcion
 https://unlimited6-cl.dps.live/tvu2/tvu2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/tv4-television-lota.jpg?170609113315" group-title="REGIONALES",Tv 4 Lota
 http://evo.eltelon.com:1935/live/tv4-television/chunklist_w236013474.m3u8
@@ -217,12 +217,16 @@ http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9a1FPhbG4jTkL7yFwFKw-E6nYuT7PIoKIBTip5SlcfhWp-dnZ" group-title="REGIONALES",ATV valdivia
 http://190.107.176.55:1935/live/atv-valdivia/chunklist_w636312347.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RUJ4pr.png" group-title="REGIONALES",Primitivos Tv Valdivia
+http://api.new.livestream.com/accounts/6107228/events/6490843/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvinet.cl/template/images/logosn.png" group-title="REGIONALES",INET Osorno
 http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w2082687867_b828000.m3u8
-#EXTINF:-1 tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="REGIONALES",CANAL 54 LATINO
+#EXTINF:-1 tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="REGIONALES",Canal 54 Latino La Union
 http://video.crearchile.info:8080/live/mp4:latina.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",VISION TV FRUTILLAR
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Vision Tv Frutillar
 http://stmv3.srvstm.com/visiontv/visiontv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NuXOWo.png" group-title="REGIONALES",Canal 5 Tv Puerto Montt
+http://play.streaminghd.cl/luis251/luis251/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mTyANR.png" group-title="REGIONALES",RTV Canal 2 Castro
 http://streaminglivehd.com:1935/8034/8034/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1285432961/LogoChiloETV.png" group-title="REGIONALES",Canal 75 Castro
