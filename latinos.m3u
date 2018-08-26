@@ -424,7 +424,7 @@ http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194
 
 #EXTINF:0,-ENTRETENIMIENTO-
 
-#EXTINF:-1 tvg-logo="http://viajeypunto.com.mx/guiadigital/primavera2016/img/icon-entretenimiento.png" group-title="ENTRETENIMIENTO" ,-----ENTRETENIMIENTO-----
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.sonria.com/wp-content/uploads/2017/01/entretenimiento.png?resize=660%2C233" group-title="ENTRETENIMIENTO" ,-----ENTRETENIMIENTO-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="ENTRETENIMIENTO",Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
@@ -455,10 +455,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/58336191579fb3cc08e273f2/t/583372336b8f5b1d0c7774e7/1509790814622/" group-title="MODA",ID Fashion
 http://95.67.8.22/hls/idfashion/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="MODA",HD Fashion
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ua/HDFL.png" group-title="MODA",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.bellmedia.ca/wp-content/uploads/2014/02/tv_fashion-490x490.png" group-title="MODA",Public Tv Fashion
-http://cdn-11.bonus-tv.ru/publictv/tracks-v1a1/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-CULTURA-
 
