@@ -21,6 +21,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://blog.universaldeidiomas.com/wp-content/uploads/2016/08/Enriquece-tu-vocabulario-disfrutando-de-actividades-deportivas-en-ingl%C3%A9s.png" group-title="DEPORTES",Eventos Deportivos
 http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_1296_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES" ,Win Sports
 http://tvdroidx.us/chan/sd54fIs21ds654/winsports.php?index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES" ,Win Sports
@@ -697,11 +699,13 @@ http://cdn.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/SENAL_COLOMBIA_COLOR-01_web.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/fdd1b1_ea866a37c0114866acf8472c1f42000d~mv2.png" group-title="COLOMBIA",Telemedellin
-http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
+http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.personeriacali.gov.co/sites/default/files/noticias/cablenoticias_logo.png" group-title="COLOMBIA",Cable Noticias 
 http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png" group-title="COLOMBIA",Telecafe
 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://antoniosanguino.co/wp-content/uploads/2017/12/logo-telecaribe-1.png" group-title="COLOMBIA",Telecaribe
+http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
 
 #EXTINF:0,-BOLIVIA-
 
