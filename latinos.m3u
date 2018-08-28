@@ -148,6 +148,42 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?xtreamiptv.
 
 #EXTINF:0,-FREE-
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",AMC
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(AMC_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",HBO 2
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(HBO_2_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",EUROCHANNEL
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(EUROCHANNEL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",HTV
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(HTV)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",CINEMAX
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CINEMAX)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",DISCOVERY WORLD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_WORLD_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",CLARO CINEMA
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CLARO_CINEMA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",ESTRELLAS
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESTRELLAS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",MAX UP
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(MAX_UP_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",MTV HITS
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(MTV_HITS)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",FOX 1
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX1_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",FOX CLASSIC
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_CLASSICS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",CNN INTERNACIONAL
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CNN_INTERNACIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",CNN ESPAÑOL
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CNN_ESPANOL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",CONCERT CHANNEL
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CONCERT_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",FOX ACTION
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_ACTION)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",ISAT
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ISAT)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",TBS
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(TBS)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",NatGeo Wild
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NATGEO_WILD_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",Discovery Channel
