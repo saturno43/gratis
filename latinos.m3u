@@ -2459,7 +2459,7 @@ http://190.107.176.55:1935/live/atv-valdivia/chunklist_w636312347.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RUJ4pr.png" group-title="REGIONALES",Primitivos Tv Valdivia
 http://api.new.livestream.com/accounts/6107228/events/6490843/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvinet.cl/template/images/logosn.png" group-title="REGIONALES",INET Osorno
-http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w2082687867_b828000.m3u8
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="REGIONALES",Canal 54 Latino La Union
 http://video.crearchile.info:8080/live/mp4:latina.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Vision Tv Frutillar
