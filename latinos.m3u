@@ -2374,6 +2374,8 @@ http://pub2.diforfree.org:8000/di_classiceurodance_hi
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://chilevisual.tv/radioonline/images/logo.png" group-title="REGIONALES",CHILEVISUAL
 http://v3.tustreaming.cl/chilevisual/live1/event-999999.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdaldia.com/wp-content/uploads/2018/01/puertanorte1.png" group-title="REGIONALES",Puerta Norte
+https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3782557/logo_desierto%20de%20atacama%20tv.png" group-title="REGIONALES", Desierto de Atacama TV 
 http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/apEd49LOyxs/maxresdefault.jpg" group-title="REGIONALES",UTA RTV
