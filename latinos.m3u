@@ -627,6 +627,18 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 #EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 2 SD 
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 1
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 2
+http://mdstrm.com/live-stream-playlist/5a046add1ad9a90919c9c2a4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 3
+http://mdstrm.com/live-stream-playlist/5a0471c2f8692a092d436768.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 4
+http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 5
+http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 6
+http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 
 #EXTINF:0,-ARGENTINA-
 
