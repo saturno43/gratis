@@ -24,6 +24,8 @@ http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_1296_av-p.m3u8?sd=1
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES" ,Win Sports
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(WINSPORTS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES" ,Win Sports
 http://tvdroidx.us/chan/sd54fIs21ds654/winsports.php?index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES" ,Win Sports
 http://gameriptv.com/chan/sd54fIs21ds654/winsports.php?index.m3u8:ok
@@ -68,6 +70,12 @@ http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS_HD)/Stream(
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS2_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvporinternet.eshost.com.ar/img/foxsports3.png" group-title="DEPORTES" ,Fox Sports 3
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS3_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png" group-title="DEPORTES" ,Fox Sports 1 Mexico
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOXSP1_MX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="DEPORTES" ,Fox Sports 2 Mexico
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOXSP2_MX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvporinternet.eshost.com.ar/img/foxsports3.png" group-title="DEPORTES" ,Fox Sports 3 Mexico
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOXSP3_MX_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://g.foolcdn.com/editorial/images/179142/espn-logo-from-thwwaltdisneycompany_large.png" group-title="DEPORTES" ,ESPN
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/russel/images/3/3f/ESPN_2_Logo.png/revision/latest?cb=20180812071744" group-title="DEPORTES" ,ESPN 2
