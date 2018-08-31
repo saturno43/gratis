@@ -17,6 +17,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:0,-DEPORTES-
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLV77xM.png" group-title="DEPORTES" ,Fm Hot Sports
+http://edge1.cl.grupoz.cl/fmsport/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://blog.universaldeidiomas.com/wp-content/uploads/2016/08/Enriquece-tu-vocabulario-disfrutando-de-actividades-deportivas-en-ingl%C3%A9s.png" group-title="DEPORTES",Eventos Deportivos
