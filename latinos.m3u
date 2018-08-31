@@ -2468,6 +2468,8 @@ http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png" group-title="REGIONALES",Ufrovision Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+#EXTINF:-1,tvg-logo="http://3.bp.blogspot.com/-7OJ9rXYD8dM/Ubn_ZbWRfhI/AAAAAAAAEfE/vTcrZXM48Bs/s320/Temuco_Television_para_face.jpg" group-title="REGIONALES",TEMUCO TELEVISION
+http://v3.tustreaming.cl/temucotelevision/live1/event-999999.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9a1FPhbG4jTkL7yFwFKw-E6nYuT7PIoKIBTip5SlcfhWp-dnZ" group-title="REGIONALES",ATV valdivia
 http://190.107.176.55:1935/live/atv-valdivia/chunklist_w636312347.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RUJ4pr.png" group-title="REGIONALES",Primitivos Tv Valdivia
