@@ -69,14 +69,16 @@ http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream1/chunks.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
-http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream2/chunks.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
-http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream3/chunks.m3u8?xtreamiptv.m3u8
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV Gran Valparaiso HD
 http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV Gran Valparaiso HD
+http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/bNRpsv1.png" group-title="CHILE",TVR
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/master.m3u8|User-agent=iPhone&amp;Referer=http://d28d7tc1ojykcy.cloudfront.net
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN 
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8?xtreamiptv.m3u8
@@ -96,18 +98,22 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv
 http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/59283217415649134b4d2241/playout/index-f2-v1-a1.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b9jUASs.png" group-title="CHILE",TVN Kids
 http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/index-v1-a1.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/musica20170317/201703171554/gfx/twitcar-tvnmusica.png" group-title="CHILE",TVN Musica
+#EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/musica20170317/201703171554/gfx/logo-musica.png?=4%20no-repeat%200%/%20100%" group-title="CHILE",TVN Musica
 http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmIgka0.png" group-title="CHILE", Fm Hot HD
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmIgka0.png" group-title="CHILE", Fm Hot 
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://www.lbschools.net/Asset/Images/OMS/edTV.png" group-title="CHILE",ED Tv
+https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:-1 group-title="CHILE",CLICK HD
+https://593b04c4c5670.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="CHILE",Maxima Tv HD 
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ctn2B3v.png" group-title="CHILE",31 Tendencias Prime
-https://v3.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
+https://v3.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CHILE",Tv Pop HD
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png" group-title="CHILE",Niu Media HD
@@ -118,6 +124,40 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 #EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 2 SD 
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logolatercera2017.png/517px-Logolatercera2017.png" group-title="CHILE",la Tercera
+http://unlimited5-cl.dps.live/lt/lt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/La_Cuarta_-_Logo_2017.svg/1280px-La_Cuarta_-_Logo_2017.svg.png" group-title="CHILE",La Cuarta
+http://unlimited6-cl.dps.live/l4tv/l4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 1
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 2
+http://mdstrm.com/live-stream-playlist/5a046add1ad9a90919c9c2a4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 3
+http://mdstrm.com/live-stream-playlist/5a0471c2f8692a092d436768.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 4
+http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 5
+http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 6
+http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
+#EXTINF:-1 group-title="CHILE",G VISION
+https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8018/8018/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8040/8040/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8050/8050/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8058/8058/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8076/8076/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",HIP HOP ONLINE TV
+https://593b04c4c5670.streamlock.net/8114/8114/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8150/8150/playlist.m3u8
 
 #EXTINF:0,-REGIONALES-
 
@@ -125,6 +165,8 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://chilevisual.tv/radioonline/images/logo.png" group-title="REGIONALES",CHILEVISUAL
 http://v3.tustreaming.cl/chilevisual/live1/event-999999.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdaldia.com/wp-content/uploads/2018/01/puertanorte1.png" group-title="REGIONALES",Puerta Norte
+https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3782557/logo_desierto%20de%20atacama%20tv.png" group-title="REGIONALES", Desierto de Atacama TV 
 http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/apEd49LOyxs/maxresdefault.jpg" group-title="REGIONALES",UTA RTV
@@ -147,7 +189,7 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso HD
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O82YpXFWCbo/hqdefault_live.jpg" group-title="REGIONALES",MARGA MARGA TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O82YpXFWCbo/hqdefault_live.jpg" group-title="REGIONALES",Marga Marga TV
 http://edge1.cl.grupoz.cl/margamargatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="REGIONALES",Canal 5 Linares
 http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8
@@ -161,6 +203,10 @@ http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/pl
 http://v2.tustreaming.cl/tustreaming/live4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvcordillera.cl/wp-content/uploads/2018/06/cropped-logo.jpg" group-title="REGIONALES",Tv Cordillera 45
+http://stmv6.srvstm.com/tvcordillera/tvcordillera/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sitios.upla.cl/contenidos/wp-content/uploads/2010/06/logo-canal-tv-2.jpg" group-title="REGIONALES",UES TV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-isb-iglesia-san-bernardo.jpg?160315114433" group-title="REGIONALES", ISB San Bernardo Santiago 
 http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.pintanatv.cl/wp-content/uploads/2018/01/logo.png" group-title="REGIONALES",La Pintana Tv Santiago
@@ -177,8 +223,12 @@ https://590c5dc5c3271.streamlock.net/dante271/dante271/playlist.m3u8
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.diarioelcentro.cl//imagenes/logo-centrotv.png" group-title="REGIONALES", TV Centro Talca
 http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.datovision.cl/images/11111.png" group-title="REGIONALES", DATOVISION Cachapoal
+#EXTINF:-1 tvg-logo="http://vltv.cl/wp-content/uploads/2018/08/webok.png" group-title="REGIONALES",VLTV San Javier 
+https://593b04c4c5670.streamlock.net/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.datovision.cl/images/11111.png" group-title="REGIONALES", Datovision Cachapoal
 http://tv.portalfoxmix.club:1935/dato33/dato33/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png" group-title="REGIONALES",TVO San Vicente
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://www.utvsanclemente.cl/img/logo-utv-sc.png" group-title="REGIONALES",UTV San Clemente
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4909/square_150x150-2.jpg" group-title="REGIONALES",Romeral Tv 
@@ -188,7 +238,7 @@ http://cl.streaminghd.cl/carlos132/carlos132/chunklist_w1205226236.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-U0-0d7OM5eU/ViFUXvTQ45I/AAAAAAAAREs/6QvvYLi_mkM/s1600/logo%2Bnegro.png" group-title="REGIONALES",Telecauquenes
 http://videostreaming.cl:8080/live/telecau/chunklist_w402953196.m3u8
 #EXTINF:-1 tvg-logo="http://www.nosmagazine.cl/wp-content/uploads/2015/02/LOGO-CANAL-letra.jpg" group-title="REGIONALES",Contivision HD Constitucion 
-https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+http://unlimited10-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mEW5hnh06kk/Wn9iDwBJ__I/AAAAAAAAgvs/bC-yY_Bj6tg4vkWwuxvb30Q4_rDt34TQwCK8BGAs/s225/2018-02-10.png" group-title="REGIONALES",Nuble Tv
 https://593b04c4c5670.streamlock.net/tvdaniel/tvdaniel/chunklist_w687739368.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="REGIONALES",Canal 21 Chillan
@@ -217,18 +267,30 @@ http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png" group-title="REGIONALES",Ufrovision Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+#EXTINF:-1,tvg-logo="http://3.bp.blogspot.com/-7OJ9rXYD8dM/Ubn_ZbWRfhI/AAAAAAAAEfE/vTcrZXM48Bs/s320/Temuco_Television_para_face.jpg" group-title="REGIONALES",Temuco Television
+http://v3.tustreaming.cl/temucotelevision/live1/event-999999.m3u8
+#EXTINF:-1 tvg-logo="http://anexos.ulagos.cl/castro/admin/tpl/ulagos/images/ULAGOS_LOGO.JPG" group-title="REGIONALES",Universidad de Los Lagos Tv
+http://uestv.02.cl.cdnz.cl/uloslagos/live/playlist.m3u8
+#EXTINF:-1,tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/nacional/pucontv.png" group-title="REGIONALES",Pucon Tv
+http://190.107.176.55:1935/live/pucon-tv/chunklist_w836162175.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9a1FPhbG4jTkL7yFwFKw-E6nYuT7PIoKIBTip5SlcfhWp-dnZ" group-title="REGIONALES",ATV valdivia
 http://190.107.176.55:1935/live/atv-valdivia/chunklist_w636312347.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RUJ4pr.png" group-title="REGIONALES",Primitivos Tv Valdivia
 http://api.new.livestream.com/accounts/6107228/events/6490843/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvinet.cl/template/images/logosn.png" group-title="REGIONALES",INET Osorno
-http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w2082687867_b828000.m3u8
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="REGIONALES",Canal 54 Latino La Union
 http://video.crearchile.info:8080/live/mp4:latina.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.interradio1.net/wp-content/uploads/2018/07/LOGO2018-2.png" group-title="REGIONALES",Interradio Tv Llanquihue
+https://590c5dc5c3271.streamlock.net/jose28/jose28/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Vision Tv Frutillar
 http://stmv3.srvstm.com/visiontv/visiontv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NuXOWo.png" group-title="REGIONALES",Canal 5 Tv Puerto Montt
 http://play.streaminghd.cl/luis251/luis251/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalchilote.cl/ambar/empresa/archivos/imagen_nsr3oi.png" group-title="REGIONALES",Canal Chilote
+http://streaminglivehd.com:1935/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://surstream.tv/wp-content/uploads/2016/10/Radio-Chiloe.png" group-title="REGIONALES",Radio Chiloe
+http://streaminglivehd.com:1935/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mTyANR.png" group-title="REGIONALES",RTV Canal 2 Castro
 http://streaminglivehd.com:1935/8034/8034/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1285432961/LogoChiloETV.png" group-title="REGIONALES",Canal 75 Castro
@@ -239,6 +301,8 @@ http://wow1.cl.digitalproserver.com:1935/tvquellon/tvquellonvivo/tvquellon.smil/
 http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="REGIONALES",Rocco Tv Coyhaique
 http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1002683285200363521/9MRoN2EA_400x400.jpg" group-title="REGIONALES",Ventisqueros Tv Coyhaique
+http://evo.eltelon.com:1935/live/ventisqueros/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/c11.png" group-title="REGIONALES",Canal 11 Aysen
 https://v3.tustreaming.cl/canal11aysen/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:-1 tvg-logo="http://tv-hd.cl/soberania-tv-magallanes-y-antartica.jpg?170126082940" group-title="REGIONALES",Soberania Tv Punta Arenas 
@@ -323,14 +387,26 @@ https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
 http://190.107.176.55:1935/live/archi-congreso/chunklist_w810766943.m3u8
 #EXTINF:0 tvg-logo="http://sitio.sindicatoescondida.cl/page/wp-content/uploads/2017/03/radioelconsquistador.png" group-title="RADIOTV",Radio El Conquistador
 http://eu1.servers10.com:1935/8282/8282/playlist.m3u8
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4918/square_150x150-2.jpg" group-title="RADIOTV",Radio Camila Tv
-http://190.107.176.55:1935/live/archi-camila/chunklist_w1113935567.m3u8
 #EXTINF:-1 tvg-logo="http://www.pauta.cl/pauta/site/artic/20180307/imag/foto_0000000420180307152149/logo2.png" group-title="RADIOTV",Pauta HD
 http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV LA SERENA
 http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
 http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO VIDA CURICO
+https://v3.tustreaming.cl/radiovidacurico/live1/event-999999.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO STEFANIA FM
+https://593b04c4c5670.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO PRELUDIO
+https://593b04c4c5670.streamlock.net/8052/8052/playlist.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO ARMONIA
+https://v3.tustreaming.cl/mbrhls/armonia/s1/index.m3u8
+#EXTINF:-1 group-title="RADIOTV",MAXIMA FM CHILE
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO VIDA NUEVA
+https://v3.tustreaming.cl/rvidanueva/live1/index.m3u8
+#EXTINF:-1 group-title="RADIOTV",CULTOS EN VIVO RADIO VIDA NUEVA
+https://v3.tustreaming.cl/mvidanueva/live1/index.m3u8
 
 #EXTINF:0,-RADIOS-
 
