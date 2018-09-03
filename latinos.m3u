@@ -2471,6 +2471,8 @@ http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist
 https://593b04c4c5670.streamlock.net/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.datovision.cl/images/11111.png" group-title="REGIONALES", Datovision Cachapoal
 http://tv.portalfoxmix.club:1935/dato33/dato33/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png" group-title="REGIONALES",TVO San Vicente
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://www.utvsanclemente.cl/img/logo-utv-sc.png" group-title="REGIONALES",UTV San Clemente
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4909/square_150x150-2.jpg" group-title="REGIONALES",Romeral Tv 
@@ -2509,8 +2511,10 @@ http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png" group-title="REGIONALES",Ufrovision Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
-#EXTINF:-1,tvg-logo="http://3.bp.blogspot.com/-7OJ9rXYD8dM/Ubn_ZbWRfhI/AAAAAAAAEfE/vTcrZXM48Bs/s320/Temuco_Television_para_face.jpg" group-title="REGIONALES",TEMUCO TELEVISION
+#EXTINF:-1,tvg-logo="http://3.bp.blogspot.com/-7OJ9rXYD8dM/Ubn_ZbWRfhI/AAAAAAAAEfE/vTcrZXM48Bs/s320/Temuco_Television_para_face.jpg" group-title="REGIONALES",Temuco Television
 http://v3.tustreaming.cl/temucotelevision/live1/event-999999.m3u8
+#EXTINF:-1,tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/nacional/pucontv.png" group-title="REGIONALES",Pucon Tv
+http://190.107.176.55:1935/live/pucon-tv/chunklist_w836162175.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9a1FPhbG4jTkL7yFwFKw-E6nYuT7PIoKIBTip5SlcfhWp-dnZ" group-title="REGIONALES",ATV valdivia
 http://190.107.176.55:1935/live/atv-valdivia/chunklist_w636312347.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RUJ4pr.png" group-title="REGIONALES",Primitivos Tv Valdivia
@@ -2523,6 +2527,8 @@ http://video.crearchile.info:8080/live/mp4:latina.mp4/playlist.m3u8
 http://stmv3.srvstm.com/visiontv/visiontv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NuXOWo.png" group-title="REGIONALES",Canal 5 Tv Puerto Montt
 http://play.streaminghd.cl/luis251/luis251/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalchilote.cl/ambar/empresa/archivos/imagen_nsr3oi.png" group-title="REGIONALES",Canal Chilote
+http://streaminglivehd.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mTyANR.png" group-title="REGIONALES",RTV Canal 2 Castro
 http://streaminglivehd.com:1935/8034/8034/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1285432961/LogoChiloETV.png" group-title="REGIONALES",Canal 75 Castro
