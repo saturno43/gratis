@@ -2367,6 +2367,21 @@ http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
 http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
 http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO VIDA CURICO
+https://v3.tustreaming.cl/radiovidacurico/live1/event-999999.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO STEFANIA FM
+https://593b04c4c5670.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO PRELUDIO
+https://593b04c4c5670.streamlock.net/8052/8052/playlist.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO ARMONIA
+https://v3.tustreaming.cl/mbrhls/armonia/s1/index.m3u8
+#EXTINF:-1 group-title="RADIOTV",MAXIMA FM CHILE
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 group-title="RADIOTV",RADIO VIDA NUEVA
+https://v3.tustreaming.cl/rvidanueva/live1/index.m3u8
+#EXTINF:-1 group-title="RADIOTV",CULTOS EN VIVO RADIO VIDA NUEVA
+https://v3.tustreaming.cl/mvidanueva/live1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://radiofanaticos.com/imagenes//2011/05/radiocolosal.png" group-title="RADIOTV",Radio Colosal Tv
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
@@ -2420,7 +2435,7 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso HD
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O82YpXFWCbo/hqdefault_live.jpg" group-title="REGIONALES",MARGA MARGA TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O82YpXFWCbo/hqdefault_live.jpg" group-title="REGIONALES",Marga Marga TV
 http://edge1.cl.grupoz.cl/margamargatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="REGIONALES",Canal 5 Linares
 http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8
@@ -2463,7 +2478,7 @@ http://cl.streaminghd.cl/carlos132/carlos132/chunklist_w1205226236.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-U0-0d7OM5eU/ViFUXvTQ45I/AAAAAAAAREs/6QvvYLi_mkM/s1600/logo%2Bnegro.png" group-title="REGIONALES",Telecauquenes
 http://videostreaming.cl:8080/live/telecau/chunklist_w402953196.m3u8
 #EXTINF:-1 tvg-logo="http://www.nosmagazine.cl/wp-content/uploads/2015/02/LOGO-CANAL-letra.jpg" group-title="REGIONALES",Contivision HD Constitucion 
-https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+http://unlimited10-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mEW5hnh06kk/Wn9iDwBJ__I/AAAAAAAAgvs/bC-yY_Bj6tg4vkWwuxvb30Q4_rDt34TQwCK8BGAs/s225/2018-02-10.png" group-title="REGIONALES",Nuble Tv
 https://593b04c4c5670.streamlock.net/tvdaniel/tvdaniel/chunklist_w687739368.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="REGIONALES",Canal 21 Chillan
