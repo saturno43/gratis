@@ -641,6 +641,24 @@ http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
 http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 6
 http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
+#EXTINF:-1 group-title="CHILE",G VISION
+https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8018/8018/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8040/8040/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8050/8050/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8058/8058/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8076/8076/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",HIP HOP ONLINE TV
+https://593b04c4c5670.streamlock.net/8114/8114/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",SIN ID
+https://593b04c4c5670.streamlock.net/8150/8150/playlist.m3u8
 
 #EXTINF:0,-ARGENTINA-
 
