@@ -585,6 +585,8 @@ http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV Gran Valparaiso HD
 http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/bNRpsv1.png" group-title="CHILE",TVR
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/master.m3u8|User-agent=iPhone&amp;Referer=http://d28d7tc1ojykcy.cloudfront.net
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
@@ -2534,6 +2536,8 @@ http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sossurf.com.au/surf/wp-content/uploads/2013/06/Religion-logo.png" group-title="RELIGION" ,-----RELIGION-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.ucc.edu.co/prensa/2015/PublishingImages/Paginas/estandarizacion-de-suministros-y-economia-por-volumen-con-CADENA-S-A/logo-cadena.png",Cadena Salvacion
+https://593b04c4c5670.streamlock.net/8160/8160/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ftv.com.sv/wp-content/uploads/2017/03/logo_header2.png",FTV Television Familiar
 http://mediacp.live:1935/8450/8450/chunklist_w1878501717.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://mitvstatic.com/channels/ar_canal-luz_m.png",Canal Luz
