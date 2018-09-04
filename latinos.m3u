@@ -2303,6 +2303,8 @@ http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC138/chunk
 http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC139/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
 http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8?wowzasessionid=1466714871
 
 #EXTINF:0,-VIDEOMIX-
 
