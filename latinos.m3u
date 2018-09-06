@@ -2209,6 +2209,12 @@ http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8?iptvgratis?chile.m3
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg" group-title="MUSICA", Virgin Music
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Muzzone.png" group-title="MUSICA", MZ Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://itd1.mycdn.me/image?id=834170416196&t=20&plc=WEB&tkn=*b0v43sOo3qp86qLu2bbuKEFrqSA" group-title="MUSICA",Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-xYcF4v_BkEI/T6tZOEVdMKI/AAAAAAAAAU0/_xXF1RBUaGg/s1600/freshtv_logo.png" group-title="MUSICA",Fresh Tv
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/VIBEE.png" group-title="MUSICA", Vibee TV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg" group-title="MUSICA",NRJ HITS TV Live
