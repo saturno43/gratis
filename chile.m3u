@@ -4,6 +4,10 @@
 
 #EXTINF:-1 tvg-logo="https://www.concursosdigitales.com/wp/wp-content/uploads/2017/03/LogoGratis.png" group-title="IPTV",LISTA GRATUITA
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.luckystreaming.tv/wp-content/uploads/2018/01/gsesmartiptv.png" group-title="IPTV",GSE IPTV
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41SyDW6IJwL.png" group-title="IPTV",PERFECT PLAYER
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SUxgG7s.png" group-title="IPTV",LATIN TV
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OvLORC.png" group-title="IPTV",W-SU HD
