@@ -91,6 +91,10 @@ http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_3_HD)/Stream(04)/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES" ,ESPN Plus
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_PLUS_HD)/Stream(04)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png" group-title="DEPORTES" ,Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/russel/images/3/3f/ESPN_2_Logo.png/revision/latest?cb=20180812071744" group-title="DEPORTES" ,ESPN 2 USA
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1  tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="DEPORTES",YAS Sports
 http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
 #EXTINF:-1, tvg-logo="http://onelike.tv/images/xsport.png" group-title="DEPORTES",XSport UA
