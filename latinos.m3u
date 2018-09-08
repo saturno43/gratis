@@ -169,6 +169,50 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/380px-Pac-12_logo.svg.png" group-title="DEPORTES",Pac 12 Washington
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?xtreamiptv.m3u8
 
+
+#EXTINF:0,-SPAIN PREMIUM-
+
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",liga
+http://edge1.lacalleochotv.online/live/ligatv/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",bein
+http://edge4.lacalleochotv.online/live/beinlaliga/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",dep1
+http://edge2.lacalleochotv.online/live/deporte1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",dep2
+http://edge2.lacalleochotv.online/live/deporte2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",f1
+http://edge1.lacalleochotv.online/live/f1_nuevo1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",gp
+http://edge3.lacalleochotv.online/live/motogp1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",#0
+http://edge3.lacalleochotv.online/live/movistarcero_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",estrenos
+http://edge3.lacalleochotv.online/live/estrenos_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",accion
+http://edge2.lacalleochotv.online/live/maccion_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",comedia
+http://edge4.lacalleochotv.online/live/mcomeida_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",tnt
+http://edge2.lacalleochotv.online/live/tntspa/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",hollywood
+http://edge1.lacalleochotv.online/live/hollywood/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",syfy
+http://edge1.lacalleochotv.online/live/syfy/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",calle 13
+http://edge3.lacalleochotv.online/live/calle13/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",dark
+http://edge1.lacalleochotv.online/live/DARK_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",dicovery
+http://edge4.lacalleochotv.online/live/discoverychannel1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",wild
+http://edge4.lacalleochotv.online/live/natgeowild/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",odisea
+http://edge1.lacalleochotv.online/live/odisea/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",HISTORIA
+http://edge4.lacalleochotv.online/live/HISTORIA_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconhot.com/icon/png/world-cup-flags/256/spain-1.png" group-title="SPAIN PREMIUM",NATGEO
+http://edge3.lacalleochotv.online/live/lNATGEO_1/index.m3u8
+
 #EXTINF:0,-FREE-
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL.png" group-title="FREE",AMC
