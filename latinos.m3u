@@ -648,20 +648,20 @@ http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8?xtreamiptv.
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmIgka0.png" group-title="CHILE", Fm Hot 
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.lbschools.net/Asset/Images/OMS/edTV.png" group-title="CHILE",ED Tv
-https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1 group-title="CHILE",CLICK HD
-https://593b04c4c5670.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="CHILE",Maxima Tv HD 
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://www.lbschools.net/Asset/Images/OMS/edTV.png" group-title="CHILE",ED Tv
+https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.fmclick.cl/wp-content/uploads/2018/07/cropped-CLICK-PNG.png" group-title="CHILE",Click HD
+https://593b04c4c5670.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ctn2B3v.png" group-title="CHILE",31 Tendencias Prime
 https://v3.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CHILE",Tv Pop HD
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png" group-title="CHILE",Niu Media HD
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w876534093_b1500000_slesp.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 1 HD 
@@ -2372,12 +2372,12 @@ https://ia801508.us.archive.org/27/items/rapido_201511/PitchPerfection-SongsMash
 
 #EXTINF:-1 tvg-logo="http://fotologimg.s3.amazonaws.com/photo/42/53/14/radiotvmazate/1242503738758_f.jpg" group-title="RADIOTV" ,-----RADIOTV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="RADIOTV",Maxima Radio y Videos
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv HD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv SD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="RADIOTV",Maxima Radio y Videos
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
 http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOTV",AE Radio Tv 
