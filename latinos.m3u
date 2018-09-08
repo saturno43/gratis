@@ -43,8 +43,6 @@ http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_2_HD)/Stream(04)/
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_3_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES" ,ESPN Plus
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_PLUS_HD)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pLV77xM.png" group-title="DEPORTES" ,Fm Hot Sports
-http://edge1.cl.grupoz.cl/fmsport/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://blog.universaldeidiomas.com/wp-content/uploads/2016/08/Enriquece-tu-vocabulario-disfrutando-de-actividades-deportivas-en-ingl%C3%A9s.png" group-title="DEPORTES",Eventos Deportivos
 http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_1296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
@@ -53,12 +51,6 @@ http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(WINSPORTS_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES" ,Win Sports
 http://tvdroidx.us/chan/sd54fIs21ds654/winsports.php?index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES" ,Win Sports
-http://gameriptv.com/chan/sd54fIs21ds654/winsports.php?index.m3u8:ok
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png/220px-Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES",Univision TDN
-http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png/220px-Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES",Univision TDN
-http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_3000_ipad.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/cdn-sportsmax-655.png" group-title="DEPORTES", CDN SportsMax
 http://66.70.179.201:25461/live/Local/149018/337.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-SAgcQ3nEqZHCXG_f7DY_b6n1abxJXEyM4Bh4Efu1LgmkwpGkQ" group-title="DEPORTES" ,Todo Deportes
@@ -96,12 +88,8 @@ http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1  tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="DEPORTES",YAS Sports
 http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
-#EXTINF:-1, tvg-logo="http://onelike.tv/images/xsport.png" group-title="DEPORTES",XSport UA
-http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" group-title="DEPORTES", Viasat Sport 
 http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturk.eu/wp-content/uploads/bstv_250x150.png" group-title="DEPORTES",Bursapor TV
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" group-title="DEPORTES",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://mlblogsjoefrisaro.files.wordpress.com/2010/03/mlbnetwork.png" group-title="DEPORTES",MLB Network
