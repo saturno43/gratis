@@ -23,8 +23,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pLV77xM.png" group-title="DEPORTES" ,Fm Hot Sports
-http://edge1.cl.grupoz.cl/fmsport/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Basico
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://c2.staticflickr.com/6/5698/21150836481_f3ec4a08f0_o.png" group-title="DEPORTES",Teletrak
@@ -61,29 +59,21 @@ https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8?iptvgratis?chile.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
-http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",Canal 13 
 http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
+https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/master.m3u8|User-agent=iPhone&amp;Referer=http://d28d7tc1ojykcy.cloudfront.net
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
+https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream1/chunks.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV TV
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV Gran Valparaiso HD
-http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qywG66m.png" group-title="CHILE",UCV Gran Valparaiso HD
 http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/bNRpsv1.png" group-title="CHILE",TVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR
 https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
-https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/master.m3u8|User-agent=iPhone&amp;Referer=http://d28d7tc1ojykcy.cloudfront.net
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
-https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN 
-http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN 
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1178_7_9658.png" group-title="CHILE",Canal 24
@@ -130,6 +120,10 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 http://unlimited5-cl.dps.live/lt/lt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/La_Cuarta_-_Logo_2017.svg/1280px-La_Cuarta_-_Logo_2017.svg.png" group-title="CHILE",La Cuarta
 http://unlimited6-cl.dps.live/l4tv/l4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://noticias.unab.cl/wp-content/uploads/2018/06/EMOL-TV-Directora-del-Diplomado-de-Habilidades-Laborales-de-UNAB.jpg" group-title="CHILE",Emol TV
+https://streaming.ecn.cl/hls/vivo2hd_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://noticias.unab.cl/wp-content/uploads/2018/06/EMOL-TV-Directora-del-Diplomado-de-Habilidades-Laborales-de-UNAB.jpg" group-title="CHILE",Emol TV 2
+https://streaming.ecn.cl/hls/vivohd_lo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 1
 http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 2
