@@ -112,6 +112,68 @@
             "image": "http://www.movistarplus.es/estaticos/images/canales/png/Logo-partidazook.png",
             "url": "http://estadionline.ml/canal1.php",
             "embed": true
+            
+  {
+                      "name": "TyC Sports",
+                      "image": "http://puu.sh/nTbIR/127d8b5919.png",
+                      "url": "",
+                      "stations": [
+                        {
+                          "name": "TyC Sports HD",
+                          "image": "http://puu.sh/nTbIR/127d8b5919.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://photocall.tv/vgd?ch=tyc",
+                          "userAgent": "",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "TyC Sports HD (Opc.2)",
+                          "image": "http://puu.sh/nTbIR/127d8b5919.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://photocall.tv/vp?ch=tyc",
+                          "userAgent": "",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "TyC Sports (Opc.2)*",
+                          "image": "http://puu.sh/nTbIR/127d8b5919.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://embed.latino-webtv.com/channels/tycsports.html",
+                          "userAgent": "",
+                          "referer": "http://embed.latino-webtv.com",
+                          "latinoweb": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "TyC Sports (Opc.2)*A",
+                          "image": "http://puu.sh/nTbIR/127d8b5919.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://embed.latino-webtv.com/channels/teiCeSp0rts.html",
+                          "userAgent": "",
+                          "referer": "http://embed.latino-webtv.com",
+                          "latinoweb": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "TyC Sports (Opc.2)**",
+                          "image": "http://puu.sh/nTbIR/127d8b5919.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://tv.jaffmisshwedd.com/channels/tycsports.html",
+                          "userAgent": "",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "TyC Sports (Opc.2)**A",
+                          "image": "http://puu.sh/nTbIR/127d8b5919.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://tv.jaffmisshwedd.com/channels/teiCeSp0rts.html",
+                          "userAgent": "",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
         },  
  
  
