@@ -509,6 +509,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(04)/ind
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTILES",Disney XD
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="INFANTILES",Peque Radio
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",Cachupum! Tv
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="INFANTILES",ACS Network
