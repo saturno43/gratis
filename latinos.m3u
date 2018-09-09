@@ -690,8 +690,7 @@ http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
 http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 6
 http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
-#EXTINF:-1 group-title="CHILE",G VISION
-https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
+
 #EXTINF:-1 group-title="CHILE",SIN ID
 https://593b04c4c5670.streamlock.net/8018/8018/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",SIN ID
@@ -704,8 +703,7 @@ https://593b04c4c5670.streamlock.net/8050/8050/playlist.m3u8
 https://593b04c4c5670.streamlock.net/8058/8058/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",SIN ID
 https://593b04c4c5670.streamlock.net/8076/8076/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",HIP HOP ONLINE TV
-https://593b04c4c5670.streamlock.net/8114/8114/playlist.m3u8
+
 #EXTINF:-1 group-title="CHILE",SIN ID
 https://593b04c4c5670.streamlock.net/8150/8150/playlist.m3u8
 
@@ -2422,6 +2420,9 @@ http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
 http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
 http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sonidoskronicos.cl/wp-content/uploads/2018/02/Logo-SK-06-210.png" group-title="RADIOTV",Sonidos Kronicos Hip Hop
+https://593b04c4c5670.streamlock.net/8114/8114/playlist.m3u8
+
 #EXTINF:-1 group-title="RADIOTV",RADIO VIDA CURICO
 https://v3.tustreaming.cl/radiovidacurico/live1/event-999999.m3u8
 #EXTINF:-1 group-title="RADIOTV",RADIO STEFANIA FM
@@ -2437,6 +2438,8 @@ https://v3.tustreaming.cl/rvidanueva/live1/index.m3u8
 #EXTINF:-1 group-title="RADIOTV",CULTOS EN VIVO RADIO VIDA NUEVA
 https://v3.tustreaming.cl/mvidanueva/live1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logod.png" group-title="RADIOTV",Antena Uno Ecuador
+https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radiofanaticos.com/imagenes//2011/05/radiocolosal.png" group-title="RADIOTV",Radio Colosal Tv
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
