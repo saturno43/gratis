@@ -2329,7 +2329,7 @@ http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8?wowzasessi
 
 #EXTINF:0,-VIDEOMIX-
 
-#EXTINF:-1 tvg-logo="http://viss.lv/dati/videomix/logo_liels.jpg" group-title="Videomix" ,-----Videomix-----
+#EXTINF:-1 tvg-logo="http://viss.lv/dati/videomix/logo_liels.jpg" group-title="VIDEOMIX" ,-----VIDEOMIX-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Videomix" ,The 80s Videomix Volume 1 
 https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
@@ -2441,15 +2441,15 @@ http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
 #EXTINF:0,-RADIOS-
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Dhamaka_Project.jpg" group-title="Radios" ,-----Radios-----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Dhamaka_Project.jpg" group-title="RADIOS" ,-----RADIOS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Radios",Radio Pop
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="RADIOS",Radio Pop
 http://s6.jcwebnew.com:7320/stream
-#EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/3/2/6/7/32679.png" group-title="Radios",Radio PortalFoxMix 
+#EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/3/2/6/7/32679.png" group-title="RADIOS",Radio PortalFoxMix 
 http://167.114.119.122:9934/;
-#EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="Radios",Hotmixradio 80´S
+#EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIOS",Hotmixradio 80´S
 http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
-#EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="Radios",Classic EuroDance
+#EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIOS",Classic EuroDance
 http://pub2.diforfree.org:8000/di_classiceurodance_hi
 
 
