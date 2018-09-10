@@ -2428,8 +2428,6 @@ https://593b04c4c5670.streamlock.net/8066/8066/playlist.m3u8
 https://593b04c4c5670.streamlock.net/8052/8052/playlist.m3u8
 #EXTINF:-1 group-title="RADIOTV",RADIO ARMONIA
 https://v3.tustreaming.cl/mbrhls/armonia/s1/index.m3u8
-#EXTINF:-1 group-title="RADIOTV",MAXIMA FM CHILE
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 group-title="RADIOTV",RADIO VIDA NUEVA
 https://v3.tustreaming.cl/rvidanueva/live1/index.m3u8
 #EXTINF:-1 group-title="RADIOTV",CULTOS EN VIVO RADIO VIDA NUEVA
