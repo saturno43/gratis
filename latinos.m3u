@@ -652,7 +652,7 @@ http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8?xtreamiptv.
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmIgka0.png" group-title="CHILE", Fm Hot 
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Tv HD 
+#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CHILE",Maxima Tv HD 
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.lbschools.net/Asset/Images/OMS/edTV.png" group-title="CHILE",ED Tv
 https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
