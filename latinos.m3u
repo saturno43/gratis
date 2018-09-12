@@ -21,12 +21,12 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="DEPORTES" ,CDF Premium
-http://190.164.58.166:21002
 #EXTINF:-1 tvg-logo="http://peñarol.ga/images/arenavisionlogo.png" group-title="DEPORTES" ,Arenavision 25 (Wiseplay)
 acestream://3356c4916b37de52fff4b64deb337ac3ff0e3c28
 #EXTINF:-1 tvg-logo="http://peñarol.ga/images/arenavisionlogo.png" group-title="DEPORTES" ,Arenavision 26 (Wiseplay)
 acestream://3356c4916b37de52fff4b64deb337ac3ff0e3c28
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="DEPORTES" ,CDF Premium
+http://190.164.58.166:21002
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png" group-title="DEPORTES" ,Fox Sports
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="DEPORTES" ,Fox Sports 2
