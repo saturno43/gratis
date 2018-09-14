@@ -27,14 +27,6 @@ acestream://3356c4916b37de52fff4b64deb337ac3ff0e3c28
 acestream://3356c4916b37de52fff4b64deb337ac3ff0e3c28
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="DEPORTES" ,CDF Premium
 http://190.164.58.166:21002
-#EXTINF:-1 tvg-logo="http://rs1222.pbsrc.com/albums/dd496/Mazwan_Othman/Football%20And%20Sponsor/lfp-logo.png~c200" group-title="DEPORTES" ,La Liga
-https://tinyurl.com/ya692acq
-#EXTINF:-1 tvg-logo="http://rs1222.pbsrc.com/albums/dd496/Mazwan_Othman/Football%20And%20Sponsor/lfp-logo.png~c200" group-title="DEPORTES" ,La Liga
-http://190.2.138.140:8000/a/guest/live/2262.ts?n=1&b=4&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE1MzY4MTk3NzQ2NzYsXCJ2YWxpZFVudGlsXCI6MTUzNjgyMDM3NDY3NixcImlwc1wiOltcIjgzLjUzLjEyNy4xMzBcIixcIjgzLjUzLjEyNy4xMzBcIl0sXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ3aW4zMlwiLFwidmVyc2lvblwiOlwiMS41MVwiLFwic2VyaXZjZVwiOlwiMS4yLjE4XCJ9fSIsInNpZ25hdHVyZSI6ImRmT2JpVE53ZGlGK1RGU3pFbExxN0xBMDRDVW52M25lU0xPZmE0SC9nWGhUQXhDNHJyb2M1RE9OUGVsNjUzYWdIVStMTGZBQnU0Tms2Z2Y4dFRZQ09LL2crMG8wZVZiWFVNVU5LT0kwTE1hQWRCRENuS1ZtZFNEQ3MrNmEzVlY3VzhERjZ5RlRZbzZydEptaDVPaWtuVVVtSnVJVytoTjEvR3djS3dXdlI5ND0ifQ==
-#EXTINF:-1 tvg-logo="https://s3-static-bein.s3.amazonaws.com/uploads/comun/img/logos/bein-laliga-md.png" group-title="DEPORTES" ,Bein La Liga
-https://tinyurl.com/y8pgyun4
-#EXTINF:-1 tvg-logo="https://s3-static-bein.s3.amazonaws.com/uploads/comun/img/logos/bein-laliga-md.png" group-title="DEPORTES" ,Bein La Liga
-http://178.132.4.145:8000/a/guest/live/2263.ts?n=1&b=4&vavoo_auth=eyJkYXRhIjoie1widGltZVw iOjE1MzY4MTk5ODQyODgsXCJ2YWxpZFVudGlsXCI6MTUzNjgyM DU4NDI4OCxcImlwc1wiOltcIjgzLjUzLjEyNy4xMzBcIixcIjg zLjUzLjEyNy4xMzBcIl0sXCJydWxlc2V0XCI6XCJndWVzdFwiL FwidmVyaWZpZWRcIjpmYWxzZSxcImVycm9yXCI6bnVsbCxcImF wcFwiOntcInBsYXRmb3JtXCI6XCJ3aW4zMlwiLFwidmVyc2lvb lwiOlwiMS41MVwiLFwic2VyaXZjZVwiOlwiMS4yLjE4XCJ9fSI sInNpZ25hdHVyZSI6ImtISEpPOFkrV0dBWnNUQkh1c1FsdVRrM HhIQzZQdlNkL1g1S3ZmRmtha0JmcTRHdERoajg5R291RkZuRGZ FajlvaXB0WlhacjJQOUF2cVhNN0doYzJDd1AyWEVlMjkrRmlHa C85Ulp3bW83MnRmSE84TjA3ayswWVUzUnN1Sk02bm0vcjF5NG4 2NWxROTd6eFJxQVFXdzY5RjdSM0swV01OVWYraFBLUWdQOD0if Q==
 #EXTINF:-1 tvg-logo="http://www.tvenvivoporinternet.com/wp-content/uploads/2017/11/logo-movistar-deportes.png" group-title="DEPORTES" ,Movistar Deportes
 http://163.172.210.169:4022/deporteshd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png" group-title="DEPORTES" ,Fox Sports
