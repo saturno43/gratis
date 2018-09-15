@@ -23,6 +23,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://tv.shacktv.com:8080/live/1977/1977/11.ts
 #EXTINF:-1 tvg-logo="http://tvtrol.xpg.uol.com.br/space.png" group-title="PPV" ,HBO Boxing
 http://tv.shacktv.com:8080/live/1977/1977/103290.ts
+#EXTINF:-1 tvg-logo="http://tvtrol.xpg.uol.com.br/space.png" group-title="PPV" ,HBO Boxing
+http://tv.shacktv.com:8080/live/1977/1977/103983.ts
 
 #EXTINF:0,-DEPORTES-
 
