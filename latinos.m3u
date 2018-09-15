@@ -17,6 +17,11 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE SEPTIEMBRE
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:0,-PPV-
+
+#EXTINF:-1 tvg-logo="http://tvtrol.xpg.uol.com.br/space.png" group-title="PPV" ,Space
+http://tv.shacktv.com:8080/live/1977/1977/11.ts
+
 #EXTINF:0,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
