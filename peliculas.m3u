@@ -21,6 +21,7 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE SEPTIEMBRE
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:0,-PELICULAS-
 
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg" group-title="PELICULAS", La Fuerza De La Ilusion 
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
