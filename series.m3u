@@ -21,6 +21,56 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE SEPTIEMBRE
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:0,-YO AMO LOS 90-
+
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 1 / Chile a las puertas del cambio
+http://cdn.vms.grupoz.cl/svod13/content/5a020350e19d3e641aca9e16/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 2 / El choque de dos fuerzas
+http://cdn.vms.grupoz.cl/svod13/content/5a020b86e19d3e641aca9e17/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 3 / El inicio del destape
+http://cdn.vms.grupoz.cl/svod13/content/5a02135de19d3e641aca9e18/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 4 / Chile en estado de alerta
+http://cdn.vms.grupoz.cl/svod13/content/5a021b41e19d3e641aca9e19/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 5 / Chile sueña en grande
+http://cdn.vms.grupoz.cl/svod13/content/5a0223f1e19d3e641aca9e1a/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 6 / Chile construye su futuro
+http://cdn.vms.grupoz.cl/svod13/content/5a022edde19d3e641aca9e1b/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 7 / Un año de desafíos
+http://cdn.vms.grupoz.cl/svod13/content/5a0238c7e19d3e641aca9e1c/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 8 / El turno de la justicia
+http://cdn.vms.grupoz.cl/svod13/content/5a02428de19d3e641aca9e1d/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 9 / El fin de una era
+http://cdn.vms.grupoz.cl/svod13/content/5a024c75e19d3e641aca9e1e/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://www.zoasom.com/wp-content/uploads/2013/09/love90s.jpg" group-title="YO AMO LOS 90",YO AMO LOS 90'S Capítulo 10 / Chile frente al siglo XXI
+http://cdn.vms.grupoz.cl/svod13/content/5a0256a7e19d3e641aca9e1f/hls/playlist.m3u8
+
+#EXTINF:0,-VIDEO LOCO-
+
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 1 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d3e33ee19d3e641aca9c93/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 2 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d3ea40e19d3e641aca9c94/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 3 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d3f110e19d3e641aca9c95/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 4 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d3f8b6e19d3e641aca9c97/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 5 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d4056ee19d3e641aca9c99/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 6 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d40cd8e19d3e641aca9c9a/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 8 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d41354e19d3e641aca9c9b/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 9 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d4193ce19d3e641aca9c9c/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 11 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d41ffde19d3e641aca9c9d/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 12 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d4b962e19d3e641aca9c9f/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 13 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d4bf5be19d3e641aca9ca0/hls/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3d61bb472d8_VideoLoco(1991).png.1c282f7f83ca5875abff2c8aaff3ba04.png" group-title="VIDEO LOCO",VIDEO LOCO Capítulo 14 / Temporada 1991
+http://cdn.vms.grupoz.cl/svod13/content/59d4c631e19d3e641aca9ca1/hls/playlist.m3u8
+
 #EXTINF:0,-LOONEY TUNES-
 
 #EXTINF:-0 tvg-logo="https://vignette.wikia.nocookie.net/ideas/images/6/6d/Looney_Tunes_Logo.png/revision/latest?cb=20140507001605" group-title="LOONEY TUNES", el coyote y el correcaminos
