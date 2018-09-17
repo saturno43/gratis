@@ -21,6 +21,33 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE SEPTIEMBRE
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:0,-MCC-
+
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 14 SEPTIEMBRE
+https://mdstrm.com/video/5b9c4b2f82daae42d5bd4625.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 08 SEPTIEMBRE 
+https://mdstrm.com/video/5b9440b8f794a4077ae67e7e.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 07 SEPTIEMBRE 
+https://mdstrm.com/video/5b958265f794a4077ae6932b.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 01 SEPTIEMBRE 
+https://mdstrm.com/video/5b8b33ab9ff52d0770a0f500.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 25 AGOSTO
+https://mdstrm.com/video/5b8207991d8ccc256bbfae42.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 24 AGOSTO
+https://mdstrm.com/video/5b80c7bd613e53482aace03d.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 18 AGOSTO
+https://mdstrm.com/video/5b789be01984a37b947a2f09.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 17 AGOSTO
+https://mdstrm.com/video/5b778c6066cb157bcc471dac.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 11 AGOSTO
+https://mdstrm.com/video/5b6f881c93cafb2468c1e0b9.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 10 AGOSTO
+https://mdstrm.com/video/5b6e4ae31a5c6e597545027b.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 04 AGOSTO
+https://mdstrm.com/video/5b66540f27ef5008c93c4010.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - viernes 03 AGOSTO
+https://mdstrm.com/video/5b652821daaebe785192e9e0.m3u8
+
 #EXTINF:0,-LA CACERIA-
 
 #EXTINF:-0 tvg-logo="http://cecileplanche-psychologue-lyon.com/tthumb/172x265/show_2d882394a5592a894e54aedfad2274ec.jpg" group-title="LA CACERIA",La Cacería: Las niñas de Alto Hospicio Capítulo 01
