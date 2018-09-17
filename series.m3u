@@ -1,4 +1,25 @@
+#EXTM3U 
 
+#EXTINF:0,-IPTV-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duKiLWY.png" group-title="IPTV",LATIN TV - W SU - VEOPLAY - NOUS TV - LISTAS GRATUITAS
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.klankekapperjolle.co.za/wp-content/uploads/2018/04/gratis_button_rot.png" group-title="IPTV",LISTA GRATUITA
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/611Dum5zrEL.png" group-title="IPTV",WISEPLAY (RECOMENDADO)
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.luckystreaming.tv/wp-content/uploads/2018/01/gsesmartiptv.png" group-title="IPTV",GSE SMART IPTV (RECOMENDADO)
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUxgG7s.png" group-title="IPTV",LATIN TV
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OvLORC.png" group-title="IPTV",W-SU HD
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6cC497I.png" group-title="IPTV",IPTV5REGION
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVPoxpy.png" group-title="IPTV",VEOPLAY
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE SEPTIEMBRE
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:0,-LOONEY TUNES-
 
