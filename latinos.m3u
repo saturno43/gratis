@@ -5490,8 +5490,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 acestream://3356c4916b37de52fff4b64deb337ac3ff0e3c28
 #EXTINF:-1 tvg-logo="http://peñarol.ga/images/arenavisionlogo.png" group-title="DEPORTES" ,Arenavision 26 (Wiseplay)
 acestream://3356c4916b37de52fff4b64deb337ac3ff0e3c28
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="DEPORTES" ,CDF Premium
-http://190.164.58.166:21002
 #EXTINF:-1 tvg-logo="http://www.tvenvivoporinternet.com/wp-content/uploads/2017/11/logo-movistar-deportes.png" group-title="DEPORTES" ,Movistar Deportes
 http://163.172.210.169:4022/deporteshd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png" group-title="DEPORTES" ,Fox Sports
@@ -6071,18 +6069,6 @@ http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN (SINGEO)
-http://190.164.58.166:21012
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",Canal 13 (SINGEO)
-http://190.164.58.166:21001
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision (SINGEO)
-http://190.164.58.166:21003
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega (SINGEO)
-http://190.164.58.166:21011
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red (SINGEO)
-http://190.164.58.166:21010
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1178_7_9658.png" group-title="CHILE",Canal 24 (SINGEO)
-http://190.164.58.166:21000
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN 
 http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega HD
