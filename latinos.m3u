@@ -652,7 +652,7 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w2027400294_b1500000_sl
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CHILE",Maxima Tv HD 
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://tvcordillera.cl/wp-content/uploads/2018/06/cropped-logo.jpg" group-title="Chile",Tv Cordillera 45
+#EXTINF:-1 tvg-logo="http://tvcordillera.cl/wp-content/uploads/2018/06/cropped-logo.jpg" group-title="CHILE",Tv Cordillera 45
 http://stmv6.srvstm.com/tvcordillera/tvcordillera/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lbschools.net/Asset/Images/OMS/edTV.png" group-title="CHILE",ED Tv
 https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
