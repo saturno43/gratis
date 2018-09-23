@@ -652,6 +652,8 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w2027400294_b1500000_sl
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CHILE",Maxima Tv HD 
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://tvcordillera.cl/wp-content/uploads/2018/06/cropped-logo.jpg" group-title="Chile",Tv Cordillera 45
+http://stmv6.srvstm.com/tvcordillera/tvcordillera/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lbschools.net/Asset/Images/OMS/edTV.png" group-title="CHILE",ED Tv
 https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.fmclick.cl/wp-content/uploads/2018/07/cropped-CLICK-PNG.png" group-title="CHILE",Click HD
@@ -2499,8 +2501,6 @@ http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/pl
 http://v2.tustreaming.cl/tustreaming/live4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8
-#EXTINF:-1 tvg-logo="http://tvcordillera.cl/wp-content/uploads/2018/06/cropped-logo.jpg" group-title="REGIONALES",Tv Cordillera 45
-http://stmv6.srvstm.com/tvcordillera/tvcordillera/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sitios.upla.cl/contenidos/wp-content/uploads/2010/06/logo-canal-tv-2.jpg" group-title="REGIONALES",UES TV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-isb-iglesia-san-bernardo.jpg?160315114433" group-title="REGIONALES", ISB San Bernardo Santiago 
