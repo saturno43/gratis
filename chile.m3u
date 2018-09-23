@@ -93,11 +93,13 @@ http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout
 #EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/musica20170317/201703171554/gfx/logo-musica.png" group-title="CHILE",TVN Musica
 http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmIgka0.png" group-title="CHILE", Fm Hot HD
-http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8?xtreamiptv.m3u8
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w2027400294_b1500000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmIgka0.png" group-title="CHILE", Fm Hot 
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="CHILE",Maxima Tv HD 
+#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CHILE",Maxima Tv HD 
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://tvcordillera.cl/wp-content/uploads/2018/06/cropped-logo.jpg" group-title="Chile",Tv Cordillera 45
+http://stmv6.srvstm.com/tvcordillera/tvcordillera/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lbschools.net/Asset/Images/OMS/edTV.png" group-title="CHILE",ED Tv
 https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.fmclick.cl/wp-content/uploads/2018/07/cropped-CLICK-PNG.png" group-title="CHILE",Click HD
@@ -136,19 +138,6 @@ http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
 http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 6
 http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
-
-#EXTINF:-1 group-title="CHILE",Musica 80
-https://593b04c4c5670.streamlock.net/8018/8018/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Musica 80
-https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Nido Audiovisual Ecuador
-https://593b04c4c5670.streamlock.net/8040/8040/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Karaokes Chile
-https://593b04c4c5670.streamlock.net/8050/8050/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://laserenadrone.cl/wp-content/uploads/2017/04/laserenadronelogo.png" group-title="CHILE",La Serena Drone
-https://593b04c4c5670.streamlock.net/8058/8058/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Radio Chilena
-https://593b04c4c5670.streamlock.net/8076/8076/playlist.m3u8
 
 #EXTINF:0,-REGIONALES-
 
