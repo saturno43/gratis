@@ -21,14 +21,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE SEPTIEMBRE
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",Mezzo
-http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",Mezzo
-http://auth.tvtune.net/s/55/1/auto/OHdJTGRDL2VvMXZRSExjbHVIL2R5VGdrLzFTY3JWdDN5dC9Bb282MDdZRkMwOVFYblBQM2w5OFprRGdNdVBSQVJLd1IzMEE9/playlist.m3u8
-
-
-
-
 #EXTINF:0,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
@@ -709,10 +701,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America SD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Logo_tx_canal7_cuadrado.png/revision/latest/scale-to-width-down/150?cb=20170801112243" group-title="ARGENTINA",Tv Publica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA",Tv Publica
 https://58ee6ee476b11.streamlock.net/live/smil:catamarca/chunklist_w255479475_b996000.m3u8
-#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="ARGENTINA",Tv Publica
-https://g2.proy-slo.transport.edge-access.net/a16/ngrp:c7cam1-20034_all/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
 #EXTINF:-1 tvg-logo="http://www.noticias.com/fotos/201602/Telefe-650x300.png" group-title="ARGENTINA",Telefe
 http://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1524884154~exp=1525060554~acl=/i/evento6hls_1@48399/*~hmac=5dc11605d0dec82138f52828e57a4340b61dc8c4de1c2bdcbbeca48494946405|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",Canal 26 1
@@ -723,15 +713,13 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b18
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="ARGENTINA",A24
 https://g2.proy-slo.transport.edge-access.net/b04/ngrp:a24-100056_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/02/0b/5f/020b5ff7-ef1d-62e9-f973-6a8fc2938d18/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" group-title="ARGENTINA",A24
-https://g4.proy-slo.transport.edge-access.net/b04/ngrp:a24-100056_all/a24-100056_720p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA",Cronica Tv
-https://g1.proy-slo.transport.edge-access.net/a15/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36
+https://g1.proy-slo.transport.edge-access.net/a15/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="ARGENTINA", Net Tv
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="ARGENTINA",Magazine
+#EXTINF:-1 tvg-logo="https://www.ushuaiavision.com.ar/images/canales/magazine.png" group-title="ARGENTINA",Magazine
 https://g4.proy-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="ARGENTINA",El 12
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/El-doce-canal12cordoba-logo2017.png/revision/latest?cb=20170729083905" group-title="ARGENTINA",El 12
 https://g4.proy-slo.transport.edge-access.net/b09/ngrp:el12_live01-100083_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="ARGENTINA",13 Max HD
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
@@ -2344,6 +2332,10 @@ http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC139/chunk
 http://autopilot.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8?wowzasessionid=1466714871
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="MUSICA",Mezzo
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="MUSICA",Mezzo
+http://auth.tvtune.net/s/55/1/auto/OHdJTGRDL2VvMXZRSExjbHVIL2R5VGdrLzFTY3JWdDN5dC9Bb282MDdZRkMwOVFYblBQM2w5OFprRGdNdVBSQVJLd1IzMEE9/playlist.m3u8
 
 #EXTINF:0,-VIDEOMIX-
 
