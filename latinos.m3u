@@ -1067,7 +1067,14 @@ https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpz
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tv-sur-canal-9.png" group-title="COSTA RICA",Canal 9 TV Sur
 http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1rZDOlJ8yfoN8Pzxo2HSFXmNyF92weq-xhUr3SZKZGyCc74o" group-title="COSTA RICA",Canal 56
+http://media.az-streamingserver.com:1935/7230/7230/chunklist_w107238539.m3u8
+#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="COSTA RICA",Luna Tv
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="COSTA RICA",Microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8yYq2Yd.jpg" group-title="COSTA RICA",Naranja Tv
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://costarica.latv.info/canal-15-ucr-online.png" group-title="COSTA RICA",Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 
