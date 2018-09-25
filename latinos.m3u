@@ -383,6 +383,26 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",247 Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",Canal Rural
+https://prepublish.f.qaotic.net/b11/ngrp:rural_live01-100083_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",MULTIVISION (ARG)
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",iptvtools_164
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",Canal 11 Ushuaia | HD
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",Balcarce TV Canal 28
+http://arcast.tv:1935/envivo/canal28/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",UNITEVE VILLA AMRIA
+http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=1242977139
+#EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",TVC Tornquist
+rtmp://190.103.192.6:1935/flvplayback/tvvivo
+#EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",Canal 6 Cordoba
+https://stream.solumedia.com.ar/corraldebustos/myStream/playlist.m3u8
+
 #EXTINF:0,-PERU-
 
 #EXTINF:-1 tvg-logo="http://too.by/webimage/countrys/samerica/peru/pepics/symbolspics/Flag_of_Peru.png" group-title="PERU" ,-----PERU-----
