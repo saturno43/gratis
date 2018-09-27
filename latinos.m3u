@@ -1,5 +1,13 @@
 #EXTM3U 
 
+"name": "CDF Premium",
+                          "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://player.latino-webtv.com/channels/cdfpremium.html",
+                          "userAgent": "",
+                          "referer": "http://embed.latino-webtv.com",
+                          "embed": true,
+                          "isHost": ""
+                          
 #EXTINF:0,-IPTV-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duKiLWY.png" group-title="IPTV",LATIN TV - W SU - VEOPLAY - NOUS TV - LISTAS GRATUITAS
