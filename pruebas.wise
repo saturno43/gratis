@@ -1,27 +1,288 @@
 
 {
-  "name": "NOMBRE DE LISTA",
-  "author": "ComoSeHace © 2016",
+  "name": "LOSE YOURSELF",
+  "author": "Galalrdomauricio",
   "url": "URL DE LA LISTA",
   "groups": [
     
 	{
-      "name": "NOMBRE DEL MODULO",
-      "image": "https://sites.google.com/site/mundofpc/colombia.png",
+      "name": "CDF",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cdfhd.png",
       "stations": [
         
-        {
-                        "name": "Canal 1)",
-                        "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
-                        "url": "http://www.mipsplayer.com/embedplayer/mastercito93/1/620/380",
-                        "referer": "http://vuelaverde.com/canales/rcn-hd.html",
-                        "isHost": "true"
-        },
-        {
-                        "name": "Canal 2",
-                        "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
-                        "url": "http://208.75.225.28:1935/live/regfegtrg/chunklist.m3u8"
-        },
+       {
+                  "name": "CDF PREMIUM 1",
+                  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cdfhd.png",
+                  "url": "http://embedme.byethost6.com/embed.html?id=http://daddylive.info/arranged/cdfpremiumclap.php",
+                  "referer": "",
+                  "userAgent": "",
+                  "embed": true,
+                  "isHost": ""
+                },
+		
+		{
+                  "name": "CDF PREMIUM 2",
+                  "url": "http://embedme.byethost6.com/embed.html?id=http://nowwatchtvlive.org/channel-tab-frame/cdf-premium-1.php",
+                  "referer": "",
+                  "userAgent": "",
+                  "embed": true,
+                  "isHost": ""
+                },
+                {
+                  "name": "CDF PREMIUM 3",
+                  "url": "http://embedme.byethost6.com/embed.html?id=http://nowwatchtvlive.org/channel-tab-frame/cdf-premium-2.php",
+                  "referer": "",
+                  "userAgent": "",
+                  "embed": true,
+                  "isHost": ""
+                },
+		
+		{
+                          "name": "CDF HD 4",
+                          "image": "",
+                          "url": "http://embedme.byethost6.com/zapin/1159.html",
+                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "CDF PREMIUM 5",
+                          "image": "",
+                          "url": "http://embedme.byethost6.com/zapin/968.html",
+                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
+                          "embed": true,
+                          "isHost": ""
+                        },
+			
+			{
+                          "name": "CDF PREMIUM 6",
+                          "image": "",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://www.tv-onlinehd.com/tv/cdfp.html",
+                          "referer": "",
+                          "userAgent": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+			
+			{
+                          "name": "CDF Premium 7",
+                          "image": "",
+                          "url": "http://embedme.byethost6.com/nibble/CDF-Premium.html",
+                          "referer": "",
+                          "userAgent": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+			
+			{
+                      "name": "CDF Premium 8",
+                      "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                      "stations": [
+                        {
+                          "a": "383",
+                          "name": "CDF Premium (***)",
+                          "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                          "url": "http://embedme.byethost6.com/deportelatino/cdfp.html",
+                          "referer": "",
+                          "headers":
+                          {
+                            "Token": "BQHhZwHkYwR1ZQLkZwVm"
+                          },
+                          "userAgent": "Lavf/57.71.100",
+                          "embed": true,
+                          "isHost": ""
+                        },
+
+                        {
+                          "name": "CDF Premium 9",
+                          "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://player.latino-webtv.com/channels/cdfpremium.html",
+                          "userAgent": "",
+                          "referer": "http://embed.latino-webtv.com",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "CDF Premium 10",
+                          "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                          "url": "http://embedme.byethost6.com/embedweb2.html?id=http://cablegratis.tv/canal-en-vivo/cdf-premium",
+                          "referer": "http://cablegratis.tv",
+                          "userAgent": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "CDF Premium 11",
+                          "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=https://vergol.com/live2/cdf.php",
+                          "referer": "http://vercanalestv.com",
+                          "userAgent": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "CDF Premium MULTI 12",
+                          "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://www.vertelevision.tv/tv/latinos/cdf.php",
+                          "referer": "",
+                          "userAgent": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "CDF Premium MULTI (Opc.2) 13",
+                          "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://verbeinlaliga.com/canales/deporte/cdf/",
+                          "referer": "",
+                          "userAgent": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "CDF Premium (Opc.5) 14",
+                          "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                          "url": "http://www.fulltvhd.fi/deportes/cdf.php",
+                          "referer": "http://www.fulltvhd.li",
+                          "userAgent": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "CDF Premium (Opc.2) 15**",
+                          "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
+                          "url": "http://livesports.pw/embeddeporte2.php?file=cdf",
+                          "referer": "http://telefivegb.com/",
+                          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 OPR/47.0.2631.71",
+                          "embed": "",
+                          "isHost": "true"
+                        },
+			
+			{
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://www.pirlotvlive.net/reproductor/cdf1.php",
+                          "name": "CDF",
+                          "image": "",
+                          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3150.1 Iron Safari/537.36",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://www.pirlotvlive.net/reproductor/cdf.php",
+                          "name": "CDF Premium",
+                          "image": "",
+                          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3150.1 Iron Safari/537.36",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+			
+			{
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://www.apurogoltv.net/TV/Television/cdf.html",
+                          "name": "CDF",
+                          "image": "",
+                          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3150.1 Iron Safari/537.36",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://www.apurogoltv.net/TV/Television/cdfpremium.html",
+                          "name": "CDF Premium",
+                          "image": "",
+                          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3150.1 Iron Safari/537.36",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+			
+			{
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://tvroja.tarjetaroja-tv.info/cdf.html",
+                          "name": "CDF",
+                          "image": "",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://tvroja.tarjetaroja-tv.info/cdfpremium.html",
+                          "name": "CDF Premium",
+                          "image": "",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+			
+			{
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://tarjetaroja.live/reproductor/cdf.php",
+                          "name": "CDF",
+                          "image": "",
+                          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3150.1 Iron Safari/537.36",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://tarjetaroja.live/reproductor/cdfpremium.php",
+                          "name": "CDF Premium",
+                          "image": "",
+                          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3150.1 Iron Safari/537.36",
+                          "referer": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
+			
+			
+			{
+                      "name": "CDF",
+                      "image": "",
+                      "url": "http://embedme.byethost6.com/embed.html?id=http://agenda.superligatv.com/cdf.html",
+                      "userAgent1": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+                      "referer": "",
+                      "embed": true,
+                      "isHost": ""
+                    },
+                    {
+                      "name": "CDF (Opc.2)",
+                      "image": "",
+                      "url": "http://embedme.byethost6.com/embedweb2.html?id=http://fut.superligatv.com/cdf.html",
+                      "userAgent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+                      "referer": "",
+                      "embed": true,
+                      "isHost": ""
+                    },
+                    {
+                      "name": "CDF PREMIUM",
+                      "image": "",
+                      "url": "http://embedme.byethost6.com/embed.html?id=http://agenda.superligatv.com/cdfp.html",
+                      "userAgent1": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+                      "referer": "",
+                      "embed": true,
+                      "isHost": ""
+                    },
+                    {
+                      "name": "CDF PREMIUM (Opc.2)",
+                      "image": "",
+                      "url": "http://embedme.byethost6.com/embedweb2.html?id=http://fut.superligatv.com/cdfp.html",
+                      "userAgent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+                      "referer": "",
+                      "embed": true,
+                      "isHost": ""
+                    },
+		    
+		    
+		    
+			
+			
+			
+			
+			
+			
+        
+	
+	
+	
+	
+	
 
        ]
     },
