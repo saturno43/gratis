@@ -74,10 +74,6 @@
                           "isHost": ""
                         },
 			
-			{
-                      "name": "CDF Premium 8",
-                      "image": "http://puu.sh/qd28n/94dbf1c3c2.png",
-                      "stations": [
                         {
                           "a": "383",
                           "name": "CDF Premium (***)",
