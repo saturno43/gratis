@@ -261,6 +261,8 @@ http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN 
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN 
+http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1178_7_9658.png" group-title="CHILE",Canal 24
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EqfxvtV.png" group-title="CHILE",Ahora Noticias
@@ -2154,7 +2156,7 @@ http://edge1.cl.grupoz.cl/margamargatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="REGIONALES",Canal 5 Linares
 http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-2-television-san-antonio.jpg?170413035848" group-title="REGIONALES",Canal 2 San Antonio
-http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8?iptvgratis?chile.m3u8
+http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://quintatv.cl/wp-content/uploads/2017/05/logo-negro.png" group-title="REGIONALES",Quinta Tv
 https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/LOGO_GIROVISUAL.jpg" group-title="REGIONALES",Giro Visual Quinta Region
