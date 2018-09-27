@@ -1,0 +1,55 @@
+
+{
+  "name": "NOMBRE DE LISTA",
+  "author": "ComoSeHace © 2016",
+  "url": "URL DE LA LISTA",
+  "groups": [
+    
+	{
+      "name": "NOMBRE DEL MODULO",
+      "image": "https://sites.google.com/site/mundofpc/colombia.png",
+      "stations": [
+        
+        {
+                        "name": "Canal 1)",
+                        "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
+                        "url": "http://www.mipsplayer.com/embedplayer/mastercito93/1/620/380",
+                        "referer": "http://vuelaverde.com/canales/rcn-hd.html",
+                        "isHost": "true"
+        },
+        {
+                        "name": "Canal 2",
+                        "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
+                        "url": "http://208.75.225.28:1935/live/regfegtrg/chunklist.m3u8"
+        },
+
+       ]
+    },
+    {
+      "name": "NOMBRE DEL MODULO",
+      "image": "https://sites.google.com/site/mundofpc/documentales.png",
+      "stations": [
+        
+                {
+                        "name": "Canal 3",
+                        "image": "http://www.lapampa.gov.ar/images/stories/Imagenes/Ima_home/canal_3_09-02.jpg",
+                        "url": "http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8"
+                },
+				{
+                        "name": "Canal 4",
+                        "image": "http://www.canal4jujuy.com.ar/img/logo.jpg",
+                        "url": "http://www.janjuaplayer.com/embedplayer/discoverysusy/1/600/400",
+                        "referer": "http://tvpor-internet.com/discovery-latino-en-vivo.html",
+                        "isHost": "true"
+                },
+                
+       ]
+    },
+    
+    
+    
+		
+		
+		
+                ]
+}
