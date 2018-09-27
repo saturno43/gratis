@@ -1,56 +1,24 @@
 {
-  "name": "DEPORTES",
-  "author": "GallardoMauricio",
-  "url": "URL DE LA LISTA",
-  "groups": [
-    
-	{
-      "name": "CDF",
-      "image": "https://sites.google.com/site/mundofpc/colombia.png",
-      "stations": [
-        
-       {
-                  "name": "CDF PREMIUM 1",
-                  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cdfhd.png",
-                  "url": "http://embedme.byethost6.com/embed.html?id=http://daddylive.info/arranged/cdfpremiumclap.php",
-                  "referer": "",
-                  "userAgent": "",
-                  "embed": true,
-                  "isHost": ""
-                },
+    "name": "FUTBOL",
+    "author": "GallardoMauricio",
+    "url": "https://banner2.kisspng.com/20180330/cbw/kisspng-usc-trojans-football-sport-logo-american-football-football-5abdbf400e32c8.4077243115223847040582.jpg",
+    "contact": "facebook",
+    "info": "Creada con enlaces gratuitos de la web",
+    "groups": [
+   
         {
-                        "name": "Canal 2",
-                        "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
-                        "url": "http://208.75.225.28:1935/live/regfegtrg/chunklist.m3u8"
-        },
-
-       ]
-    },
-    {
-      "name": "NOMBRE DEL MODULO",
-      "image": "https://sites.google.com/site/mundofpc/documentales.png",
-      "stations": [
-        
+            "name": "CDF",
+            "image": "http://i.imgur.com/dveRKog.png",
+            "stations":
+   
+            [
+                                       
                 {
-                        "name": "Canal 3",
-                        "image": "http://www.lapampa.gov.ar/images/stories/Imagenes/Ima_home/canal_3_09-02.jpg",
-                        "url": "http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8"
-                },
-				{
-                        "name": "Canal 4",
-                        "image": "http://www.canal4jujuy.com.ar/img/logo.jpg",
-                        "url": "http://www.janjuaplayer.com/embedplayer/discoverysusy/1/600/400",
-                        "referer": "http://tvpor-internet.com/discovery-latino-en-vivo.html",
-                        "isHost": "true"
-                },
-                
-       ]
-    },
-    
-    
-    
-		
-		
-		
-                ]
-}
+                          "name": "CDF PREMIUM 1",
+                          "image": "",
+                          "url": "http://embedme.byethost6.com/embed.html?id=http://www.tv-onlinehd.com/tv/cdfp.html",
+                          "referer": "",
+                          "userAgent": "",
+                          "embed": true,
+                          "isHost": ""
+                        },
