@@ -1,21 +1,23 @@
 {
-  "name": "NOMBRE DE LISTA",
-  "author": "ComoSeHace © 2016",
+  "name": "DEPORTES",
+  "author": "GallardoMauricio",
   "url": "URL DE LA LISTA",
   "groups": [
     
 	{
-      "name": "NOMBRE DEL MODULO",
+      "name": "CDF",
       "image": "https://sites.google.com/site/mundofpc/colombia.png",
       "stations": [
         
-        {
-                        "name": "Canal 1)",
-                        "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
-                        "url": "http://www.mipsplayer.com/embedplayer/mastercito93/1/620/380",
-                        "referer": "http://vuelaverde.com/canales/rcn-hd.html",
-                        "isHost": "true"
-        },
+       {
+                  "name": "CDF PREMIUM 1",
+                  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cdfhd.png",
+                  "url": "http://embedme.byethost6.com/embed.html?id=http://daddylive.info/arranged/cdfpremiumclap.php",
+                  "referer": "",
+                  "userAgent": "",
+                  "embed": true,
+                  "isHost": ""
+                },
         {
                         "name": "Canal 2",
                         "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
