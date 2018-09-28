@@ -157,6 +157,19 @@ http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.sonria.com/wp-content/uploads/2017/01/entretenimiento.png?resize=660%2C233" group-title="ENTRETENIMIENTO" ,-----ENTRETENIMIENTO-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/7a994807dad9531aaf16a297fd93c358o.png" group-title="ENTRETENIMIENTO",Nova
+https://livepull1.secure.footprint.net/geonovampp/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/9aadd20c2aaf849f07823e892544630bo.png" group-title="ENTRETENIMIENTO",Antena 3
+https://livepull1.secure.footprint.net/antena3mpp/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/656b32d4f93c5c0636391c2b6535a028o.png" group-title="ENTRETENIMIENTO",Mega
+https://livepull1.secure.footprint.net/geomegampp/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ed7ad1eba9a90a746e35484d07c25168o.png" group-title="ENTRETENIMIENTO",Neox
+https://livepull1.secure.footprint.net/neoxmpp/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/a8e28695ed983370d83918a2b3504184o.png" group-title="ENTRETENIMIENTO",Atreseries
+https://livepull1-i.akamaized.net/geoa3seriesmpp/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/73b5d5b1e5255f53a3eff0b7e96b4f55o.png" group-title="ENTRETENIMIENTO",La Sexta
+https://livepull1.secure.footprint.net/lasextampp/master.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="ENTRETENIMIENTO",Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="ENTRETENIMIENTO",BeMad
