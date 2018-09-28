@@ -950,8 +950,6 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1792px-Logo_TVE-2.svg.png" group-title="SPAIN",La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:-1  tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="SPAIN",Antena 3 Internacional
-https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_4.m3u8
-#EXTINF:-1  tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="SPAIN",Antena 3 Internacional
 http://livepull1.secure.footprint.net/antena3mpp/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://www.nacionpirata.com/wp-content/uploads/2016/07/cuatro_logo_500.png" group-title="SPAIN",Cuatro
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
@@ -964,17 +962,25 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 #EXTINF:-1 tvg-logo="http://www.mccartagena.com/MC/wp-content/uploads/2014/10/lasexta.jpg" group-title="SPAIN",La Sexta
 https://atresplayerp-i.akamaized.net/lasextampp/bitrate_4.m3u8
 #EXTINF:-1  tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg" group-title="SPAIN",La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+https://livepull1.secure.footprint.net/lasextampp/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2014/01/LaSiete-Logo.png" group-title="SPAIN",La Siete
 https://mdslivehls-i.akamaihd.net/hls/live/571672/realities/bitrate_3.m3u8
-#EXTINF:-1  tvg-logo="http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg" group-title="SPAIN",8 TV 
+#EXTINF:-1  tvg-logo="http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg" group-title="SPAIN",8 Tv
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
-#EXTINF:-1  tvg-logo="http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg" group-title="SPAIN",8 TV
+#EXTINF:-1  tvg-logo="http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg" group-title="SPAIN",8 Tv
 http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7C9rreQ.png" group-title="SPAIN",Calle 13
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-#EXTINF:-1  tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 TV
+#EXTINF:-1  tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 Tv
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/7a994807dad9531aaf16a297fd93c358o.png" group-title="SPAIN",Nova
+https://livepull1.secure.footprint.net/geonovampp/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/656b32d4f93c5c0636391c2b6535a028o.png" group-title="SPAIN",Mega
+https://livepull1.secure.footprint.net/geomegampp/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ed7ad1eba9a90a746e35484d07c25168o.png" group-title="SPAIN",Neox
+https://livepull1.secure.footprint.net/neoxmpp/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/a8e28695ed983370d83918a2b3504184o.png" group-title="SPAIN",Atreseries
+https://livepull1-i.akamaized.net/geoa3seriesmpp/bitrate_3.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN",Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN",BeMad
