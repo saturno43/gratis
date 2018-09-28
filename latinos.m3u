@@ -194,9 +194,9 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1151/PNG/512/1486505266-dish-food-dome-dish-kitchen-restaurant_81412.png" group-title="COCINA" ,-----COCINA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logo_de_Canal_Sur_1.png" group-title="COCINA",Andalucia Cocina Tv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/460798109979664384/GXeGjD-I_400x400.png" group-title="COCINA",Andalucia Cocina Tv
 https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-1og80nBFyw0/UFRkFptnXJI/AAAAAAAAAfM/R7cEIuzd2R0/s1600/Canal-Sur-logos-537.jpg" group-title="COCINA",Canal Sur
+#EXTINF:-1 tvg-logo="https://lemornebrabant.com/wp-content/uploads/2016/08/logocsurtvrad.png" group-title="COCINA",Canal Sur
 http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
 
 #EXTINF:0,-MODA-
