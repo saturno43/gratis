@@ -142,6 +142,8 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?xtreamiptv.
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ed7ad1eba9a90a746e35484d07c25168o.png" group-title="INFANTILES",Neox
+https://livepull1.secure.footprint.net/neoxmpp/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="INFANTILES",Peque Radio
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",Cachupum! Tv
@@ -159,8 +161,6 @@ http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://fotos.subefotos.com/9aadd20c2aaf849f07823e892544630bo.png" group-title="ENTRETENIMIENTO",Antena 3
 https://livepull1.secure.footprint.net/antena3mpp/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ed7ad1eba9a90a746e35484d07c25168o.png" group-title="ENTRETENIMIENTO",Neox
-https://livepull1.secure.footprint.net/neoxmpp/bitrate_3.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="ENTRETENIMIENTO",Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="ENTRETENIMIENTO",BeMad
@@ -169,6 +169,8 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?xtreamip
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="ENTRETENIMIENTO",Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ed7ad1eba9a90a746e35484d07c25168o.png" group-title="ENTRETENIMIENTO",Neox
+https://livepull1.secure.footprint.net/neoxmpp/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="ENTRETENIMIENTO",Trailer Tv
 http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
 
