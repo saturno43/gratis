@@ -223,6 +223,8 @@ http://109.236.85.100:8081/sipTV/live/playlist.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo-footer-t.png" group-title="NOTICIAS" ,-----NOTICIAS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://notired.hol.es/wp-content/uploads/2017/08/hispantv.png" group-title="NOTICIAS",HispanTV
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://you-mir.ru/sites/default/files/302px-russia-today-logo.png" group-title="NOTICIAS",RT News
 https://secure-streams.akamaized.net/rt/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://you-mir.ru/sites/default/files/302px-russia-today-logo.png" group-title="NOTICIAS",RT Español
@@ -433,6 +435,8 @@ http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina
 http://photocall.tv/latina.php/.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FiImwkf.png" group-title="PERU",Cultura 24
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Araquipa 
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv
