@@ -435,7 +435,7 @@ http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina
 http://photocall.tv/latina.php/.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FiImwkf.png" group-title="PERU",Cultura 24
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="PERU",Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Araquipa 
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
