@@ -2022,6 +2022,8 @@ https://ia801508.us.archive.org/27/items/rapido_201511/PitchPerfection-SongsMash
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.interradio1.net/wp-content/uploads/2018/07/LOGO2018-2.png" group-title="RADIOTV",Interradio Tv 
+https://590c5dc5c3271.streamlock.net/jose28/jose28/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv HD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv SD
@@ -2237,8 +2239,6 @@ http://api.new.livestream.com/accounts/6107228/events/6490843/live.m3u8
 http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="REGIONALES",Canal 54 Latino La Union
 http://video.crearchile.info:8080/live/mp4:latina.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.interradio1.net/wp-content/uploads/2018/07/LOGO2018-2.png" group-title="REGIONALES",Interradio Tv Llanquihue
-https://590c5dc5c3271.streamlock.net/jose28/jose28/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Vision Tv Frutillar
 http://stmv3.srvstm.com/visiontv/visiontv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NuXOWo.png" group-title="REGIONALES",Canal 5 Tv Puerto Montt
