@@ -526,6 +526,8 @@ http://198.24.135.42/canal10/canal10/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.intermedialatam.com/wp-content/uploads/2016/03/Bandera_de_la_armada.jpg" group-title="ECUADOR" ,-----ECUADOR-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",Oromar
+http://stream.oromartv.com/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR",ECUAVISA SD
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR",ECUAVISA HD
