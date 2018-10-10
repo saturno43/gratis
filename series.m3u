@@ -184,6 +184,18 @@ https://www.cntv.cl/cntv/site/mm/20180531/mmedia/multimedia_video999201805310836
 
 #EXTINF:0,-MCC-
 
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 06 OCTUBRE
+https://mdstrm.com/video/5bb92b6dbdb921017a0edf5d.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 05 OCTUBRE
+https://mdstrm.com/video/5bb7eec0b994b37ff316c10f.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 29 SEPTIEMBRE
+https://mdstrm.com/video/5bb04120e7fc5c39517aa02b.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 28 SEPTIEMBRE
+https://mdstrm.com/video/5baeee3d6205b2098c05524e.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 22 SEPTIEMBRE
+https://mdstrm.com/video/5ba6ba8a2a61eb56787a8316.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 21 SEPTIEMBRE
+https://mdstrm.com/video/5ba58c775f5c4e561d4d69b8.m3u8
 #EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 14 SEPTIEMBRE
 https://mdstrm.com/video/5b9c4b2f82daae42d5bd4625.m3u8
 #EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 08 SEPTIEMBRE 
