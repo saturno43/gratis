@@ -21,6 +21,47 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE SEPTIEMBRE
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:0,-MCC-
+
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 06 OCTUBRE
+https://mdstrm.com/video/5bb92b6dbdb921017a0edf5d.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 05 OCTUBRE
+https://mdstrm.com/video/5bb7eec0b994b37ff316c10f.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 29 SEPTIEMBRE
+https://mdstrm.com/video/5bb04120e7fc5c39517aa02b.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 28 SEPTIEMBRE
+https://mdstrm.com/video/5baeee3d6205b2098c05524e.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 22 SEPTIEMBRE
+https://mdstrm.com/video/5ba6ba8a2a61eb56787a8316.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 21 SEPTIEMBRE
+https://mdstrm.com/video/5ba58c775f5c4e561d4d69b8.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 14 SEPTIEMBRE
+https://mdstrm.com/video/5b9c4b2f82daae42d5bd4625.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 08 SEPTIEMBRE 
+https://mdstrm.com/video/5b9440b8f794a4077ae67e7e.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 07 SEPTIEMBRE 
+https://mdstrm.com/video/5b958265f794a4077ae6932b.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 01 SEPTIEMBRE 
+https://mdstrm.com/video/5b8b33ab9ff52d0770a0f500.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 25 AGOSTO
+https://mdstrm.com/video/5b8207991d8ccc256bbfae42.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 24 AGOSTO
+https://mdstrm.com/video/5b80c7bd613e53482aace03d.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 18 AGOSTO
+https://mdstrm.com/video/5b789be01984a37b947a2f09.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 17 AGOSTO
+https://mdstrm.com/video/5b778c6066cb157bcc471dac.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 11 AGOSTO
+https://mdstrm.com/video/5b6f881c93cafb2468c1e0b9.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 10 AGOSTO
+https://mdstrm.com/video/5b6e4ae31a5c6e597545027b.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 04 AGOSTO
+https://mdstrm.com/video/5b66540f27ef5008c93c4010.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - viernes 03 AGOSTO
+https://mdstrm.com/video/5b652821daaebe785192e9e0.m3u8
+#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - viernes 11 MAYO
+https://mdstrm.com/video/5af6622642533535c6ff8771.m3u8
+
 #EXTINF:0,-LOS 80-
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/sfM4VqB.jpg" group-title="LOS 80",1X01 Un penal a colores
@@ -182,46 +223,81 @@ https://www.cntv.cl/cntv/site/mm/20180531/mmedia/multimedia_video999201805310836
 #EXTINF:-0 tvg-logo="https://i.imgur.com/sfM4VqB.jpg" group-title="LOS 80",5X12 El dia mas feliz de mi vida
 https://www.cntv.cl/cntv/site/mm/20180531/mmedia/multimedia_video99920180531083636.mp4
 
-#EXTINF:0,-MCC-
 
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 06 OCTUBRE
-https://mdstrm.com/video/5bb92b6dbdb921017a0edf5d.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 05 OCTUBRE
-https://mdstrm.com/video/5bb7eec0b994b37ff316c10f.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 29 SEPTIEMBRE
-https://mdstrm.com/video/5bb04120e7fc5c39517aa02b.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 28 SEPTIEMBRE
-https://mdstrm.com/video/5baeee3d6205b2098c05524e.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 22 SEPTIEMBRE
-https://mdstrm.com/video/5ba6ba8a2a61eb56787a8316.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 21 SEPTIEMBRE
-https://mdstrm.com/video/5ba58c775f5c4e561d4d69b8.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 14 SEPTIEMBRE
-https://mdstrm.com/video/5b9c4b2f82daae42d5bd4625.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 08 SEPTIEMBRE 
-https://mdstrm.com/video/5b9440b8f794a4077ae67e7e.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 07 SEPTIEMBRE 
-https://mdstrm.com/video/5b958265f794a4077ae6932b.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 01 SEPTIEMBRE 
-https://mdstrm.com/video/5b8b33ab9ff52d0770a0f500.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 25 AGOSTO
-https://mdstrm.com/video/5b8207991d8ccc256bbfae42.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 24 AGOSTO
-https://mdstrm.com/video/5b80c7bd613e53482aace03d.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 18 AGOSTO
-https://mdstrm.com/video/5b789be01984a37b947a2f09.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 17 AGOSTO
-https://mdstrm.com/video/5b778c6066cb157bcc471dac.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 11 AGOSTO
-https://mdstrm.com/video/5b6f881c93cafb2468c1e0b9.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - VIERNES 10 AGOSTO
-https://mdstrm.com/video/5b6e4ae31a5c6e597545027b.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - SABADO 04 AGOSTO
-https://mdstrm.com/video/5b66540f27ef5008c93c4010.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - viernes 03 AGOSTO
-https://mdstrm.com/video/5b652821daaebe785192e9e0.m3u8
-#EXTINF:-0 tvg-logo="http://static-mega.mdstrm.com/morande/images/avatar.png" group-title="MCC",MCC - viernes 11 MAYO
-https://mdstrm.com/video/5af6622642533535c6ff8771.m3u8
+
+#EXTINF:0,-EL REEMPLAZANTE-
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X01
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122325.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X02
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122340.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X03
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122344.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X04
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122358.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X05
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122410.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X06
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122425.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X07
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122434.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X08
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122820.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X09
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122443.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X10
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122451.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X11
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122508.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 1X12
+https://www.cntv.cl/cntv/site/mm/20180129/mmedia/multimedia_video120180129122520.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X01
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141537.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X02
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141631.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X03
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141641.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X04
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141715.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X05
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141729.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X06
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141743.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X07
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141757.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X08
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141813.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X09
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141827.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X10
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141838.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X11
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927141847.mp4
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/SI3Cp.jpg" group-title="EL REEMPLAZANTE",El reemplazante 2X12
+https://www.cntv.cl/cntv/site/mm/20170927/mmedia/multimedia_video120170927142003.mp4
 
 #EXTINF:0,-LA CACERIA-
 
