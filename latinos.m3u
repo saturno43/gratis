@@ -570,6 +570,8 @@ http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w148823118
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Paraguay_flag_b_300.PNG" group-title="PARAGUAY" ,-----PARAGUAY-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="PARAGUAY",RPC
+http://174.138.118.252/live/canal13stream_src.m3u8
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ef/Unicanal-logo.png/revision/latest?cb=20140115100336" group-title="PARAGUAY",Unicanal
 http://strm.unicanal.com.py/live/unicanal.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/9a/Telefuturo_py.png/revision/latest?cb=20120513205927" group-title="PARAGUAY",Telefuturo
