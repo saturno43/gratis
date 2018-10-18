@@ -756,6 +756,8 @@ http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/do.png" group-title="DOMINICAN REP" ,-----DOMINICAN REP-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest?cb=20160827154743" group-title="DOMINICAN REP",Teleantillas
+http://ss1.domint.net:2126/ta2_str/teleantillas/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" group-title="DOMINICAN REP",Orbit Tv
 http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logowow.net/logos/lsapbgqyO.png" group-title="DOMINICAN REP",Teve Dominicana
