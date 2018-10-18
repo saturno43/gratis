@@ -1,36 +1,9 @@
 #EXTM3U 
                         
-#EXTINF:0,-IPTV-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/duKiLWY.png" group-title="IPTV",LATIN TV - W SU - VEOPLAY - NOUS TV - LISTAS GRATUITAS
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.klankekapperjolle.co.za/wp-content/uploads/2018/04/gratis_button_rot.png" group-title="IPTV",LISTA GRATUITA
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/611Dum5zrEL.png" group-title="IPTV",WISEPLAY (RECOMENDADO)
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.luckystreaming.tv/wp-content/uploads/2018/01/gsesmartiptv.png" group-title="IPTV",GSE SMART IPTV (RECOMENDADO)
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SUxgG7s.png" group-title="IPTV",LATIN TV
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OvLORC.png" group-title="IPTV",W-SU HD
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6cC497I.png" group-title="IPTV",IPTV5REGION
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CVPoxpy.png" group-title="IPTV",VEOPLAY
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE SEPTIEMBRE
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
 #EXTINF:0,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://futbol.radioformula.com.mx/wp-content/uploads/2018/10/mexico-chile-en-vivo-390x220.jpg" group-title="DEPORTES",CHILEVISION HD
-http://tv.nousiptv.com:25462/live/erwiniptv/12345/2147.ts
-#EXTINF:-1 tvg-logo="https://futbol.radioformula.com.mx/wp-content/uploads/2018/10/mexico-chile-en-vivo-390x220.jpg" group-title="DEPORTES",CHILEVISION
-http://tv.nousiptv.com:25462/live/erwiniptv/12345/3591.ts
-
 #EXTINF:-1 tvg-logo="http://blog.universaldeidiomas.com/wp-content/uploads/2016/08/Enriquece-tu-vocabulario-disfrutando-de-actividades-deportivas-en-ingl%C3%A9s.png" group-title="DEPORTES",Eventos Deportivos
 http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_1296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
