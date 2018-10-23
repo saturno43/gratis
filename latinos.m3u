@@ -906,6 +906,8 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1792px-Logo_TVE-2.svg.png" group-title="SPAIN",La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+#EXTINF:-1  tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="SPAIN",Antena 3
+https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:-1  tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="SPAIN",Antena 3 Internacional
 http://livepull1.secure.footprint.net/antena3mpp/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://www.nacionpirata.com/wp-content/uploads/2016/07/cuatro_logo_500.png" group-title="SPAIN",Cuatro
