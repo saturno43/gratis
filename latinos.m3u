@@ -288,6 +288,7 @@ https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
 https://593b04c4c5670.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ctn2B3v.png" group-title="CHILE",31 Tendencias Prime
 https://v3.tustreaming.cl/tendenciastv/live1/index.m3u8
+https://v3.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CHILE",Tv Pop HD
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
@@ -1883,6 +1884,10 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/pLkFEEmay3IAHKJCA_ckxOZQ5BZZ47MODJ3tgAFIj4pDg0I6G8AmZlpYwuhCWM0Grv8=w300" group-title="MUSICA",Virgin TV Live
 http://tv.105.net:1935/live/virgin1/chunklist_w620779835.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",CMC 
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",CMC USA
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 tvg-logo="http://fs1.tv/typo3temp/pics/e506ab8c9d.jpeg" group-title="MUSICA",FS1
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-logo="http://tukpop.com/wp-content/uploads/2016/10/logo-kpop-toldos-plegables-personalizados.png" group-title="MUSICA",K-Pop 
@@ -2250,7 +2255,7 @@ https://unlimited6-cl.dps.live/tvu2/tvu2.smil/playlist.m3u8
 http://evo.eltelon.com:1935/live/tv4-television/chunklist_w236013474.m3u8
 #EXTINF:-1 tvg-logo="http://rtvcanal.cl/wp-content/uploads/2017/09/LOGO-RTV-2-300x135.png" group-title="REGIONALES",CANAL 2 RENAICO
 http://servicioamerica.com:1935/8410/8410/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.noticiascorraleras.cl/imagenes/logo_autonomatv.png" group-title="REGIONALES",Universidad Autonoma Temuco
+#EXTINF:-1 tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png" group-title="REGIONALES",Universidad Autonoma Temuco
 http://v3.tustreaming.cl/tvautonoma/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal33.cl/assets/images/logo.png" group-title="REGIONALES",Canal 33 Temuco
 http://190.107.176.55:1935/live/canal-33/playlist.m3u8
