@@ -2089,7 +2089,7 @@ http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8?iptvgratis?chile.m3
 #EXTINF:-1 tvg-logo="http://files.csvrenca.webnode.cl/200001127-92f9593f5c/Radio-Cooperativa.jpg" group-title="RADIOTV", Radio Cooperativa Tv 
 http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1  tvg-logo="http://iptvchile.xyz/Logos/TeVe/Tele13_Radio_zpspn4m8raf.png" group-title="RADIOTV", Tele13 Radio Tv
-http://cdn.ztreaming.com/t13radio/mobile.m3u8?iptvgratis?chile.m3u8
+https://t13-radio-live.cdn.nedmedia.io/index_3.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/uploads/media/4199/poster_300x300-2.jpg" group-title="RADIOTV",Radio Polar Tv
 http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png" group-title="RADIOTV",Radio Camila Tv
