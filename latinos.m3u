@@ -119,6 +119,8 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?xtreamiptv.
 
 #EXTINF:-1 tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="INFANTILES" ,-----INFANTILES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Tacho_Pistacho.png" group-title="INFANTILES",Tacho Pistacho
+https://rcnhd.cdn.net.co/live03/tacho_480p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ed7ad1eba9a90a746e35484d07c25168o.png" group-title="INFANTILES",Neox
@@ -447,6 +449,8 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg" group-title="COLOMBIA" ,-----COLOMBIA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/RCN_HD2_2016-0.png/revision/latest?cb=20170424012010",RCN2 HD
+https://rcnhd.cdn.net.co/live02/rcnhd2_720p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://pbs.twimg.com/profile_images/836722107446878212/tlEjfQIe.jpg",Red Mas
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canal_Capital_%28Bogot%C3%A1%29_logo.svg/180px-Canal_Capital_%28Bogot%C3%A1%29_logo.svg.png",Canal Capital HD
