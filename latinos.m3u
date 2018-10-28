@@ -456,9 +456,7 @@ http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canal_Capital_%28Bogot%C3%A1%29_logo.svg/180px-Canal_Capital_%28Bogot%C3%A1%29_logo.svg.png",Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-logo="http://revistacorrientes.com/wp-content/uploads/2015/09/2vwy3yo-RCN-Televisi%C3%B3n.png" group-title="COLOMBIA",RCN
-http://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?ref=www.canalrcn.com
-#EXTINF:-1 tvg-logo="http://revistacorrientes.com/wp-content/uploads/2015/09/2vwy3yo-RCN-Televisi%C3%B3n.png" group-title="COLOMBIA",RCN
-http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="COLOMBIA",Canal 13
 http://cdn.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/SENAL_COLOMBIA_COLOR-01_web.png" group-title="COLOMBIA",Senal Colombia
