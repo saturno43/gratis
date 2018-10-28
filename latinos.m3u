@@ -351,7 +351,7 @@ https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ushuaiavision.com.ar/images/canales/magazine.png" group-title="ARGENTINA",Magazine
 https://g4.proy-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="ARGENTINA",13 Max HD
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/07/Canal9-Litoral-Logo-300x300.jpg" group-title="ARGENTINA",Canal 9 Litoral
 http://streaming.arcast.com.ar:1935/canal9webok/ngrp:canal9webok_all/chunklist_w2059913345_b800768.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h.jpg" group-title="ARGENTINA",Canal 4 Jujuy
