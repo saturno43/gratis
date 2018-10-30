@@ -149,6 +149,8 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chu
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://www.thematelevision.cl/wp-content/uploads/2016/02/LOGO1.png" group-title="REGIONALES",Thema La Serena
+https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso HD
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O82YpXFWCbo/hqdefault_live.jpg" group-title="REGIONALES",Marga Marga TV
@@ -156,7 +158,7 @@ http://edge1.cl.grupoz.cl/margamargatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="REGIONALES",Canal 5 Linares
 http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-2-television-san-antonio.jpg?170413035848" group-title="REGIONALES",Canal 2 San Antonio
-http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8?iptvgratis?chile.m3u8
+http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://quintatv.cl/wp-content/uploads/2017/05/logo-negro.png" group-title="REGIONALES",Quinta Tv
 https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/LOGO_GIROVISUAL.jpg" group-title="REGIONALES",Giro Visual Quinta Region
@@ -165,8 +167,6 @@ http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/pl
 http://v2.tustreaming.cl/tustreaming/live4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8
-#EXTINF:-1 tvg-logo="http://tvcordillera.cl/wp-content/uploads/2018/06/cropped-logo.jpg" group-title="REGIONALES",Tv Cordillera 45
-http://stmv6.srvstm.com/tvcordillera/tvcordillera/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sitios.upla.cl/contenidos/wp-content/uploads/2010/06/logo-canal-tv-2.jpg" group-title="REGIONALES",UES TV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-isb-iglesia-san-bernardo.jpg?160315114433" group-title="REGIONALES", ISB San Bernardo Santiago 
@@ -219,7 +219,7 @@ https://unlimited6-cl.dps.live/tvu2/tvu2.smil/playlist.m3u8
 http://evo.eltelon.com:1935/live/tv4-television/chunklist_w236013474.m3u8
 #EXTINF:-1 tvg-logo="http://rtvcanal.cl/wp-content/uploads/2017/09/LOGO-RTV-2-300x135.png" group-title="REGIONALES",CANAL 2 RENAICO
 http://servicioamerica.com:1935/8410/8410/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.noticiascorraleras.cl/imagenes/logo_autonomatv.png" group-title="REGIONALES",Universidad Autonoma Temuco
+#EXTINF:-1 tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png" group-title="REGIONALES",Universidad Autonoma Temuco
 http://v3.tustreaming.cl/tvautonoma/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal33.cl/assets/images/logo.png" group-title="REGIONALES",Canal 33 Temuco
 http://190.107.176.55:1935/live/canal-33/playlist.m3u8
@@ -243,8 +243,6 @@ http://api.new.livestream.com/accounts/6107228/events/6490843/live.m3u8
 http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="REGIONALES",Canal 54 Latino La Union
 http://video.crearchile.info:8080/live/mp4:latina.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.interradio1.net/wp-content/uploads/2018/07/LOGO2018-2.png" group-title="REGIONALES",Interradio Tv Llanquihue
-https://590c5dc5c3271.streamlock.net/jose28/jose28/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Vision Tv Frutillar
 http://stmv3.srvstm.com/visiontv/visiontv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NuXOWo.png" group-title="REGIONALES",Canal 5 Tv Puerto Montt
