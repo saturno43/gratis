@@ -387,7 +387,7 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="ARGENTINA",Multivision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/535477002505945088/tBZUI9Iu_400x400.png" group-title="ARGENTINA",TEC Tv
-http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
+http://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc.jpg" group-title="ARGENTINA",Uniteve Villa Amria
 http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=1242977139
 #EXTINF:-1 tvg-logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png" group-title="ARGENTINA",TVC Tornquist
@@ -451,6 +451,8 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/RCN_HD2_2016-0.png/revision/latest?cb=20170424012010",RCN2 HD
 https://rcnhd.cdn.net.co/live02/rcnhd2_720p.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i.imgur.com/fzsER.png",NTN24
+https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://pbs.twimg.com/profile_images/836722107446878212/tlEjfQIe.jpg",Red Mas
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canal_Capital_%28Bogot%C3%A1%29_logo.svg/180px-Canal_Capital_%28Bogot%C3%A1%29_logo.svg.png",Canal Capital HD
