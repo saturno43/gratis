@@ -2329,18 +2329,10 @@ http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.ucc.edu.co/prensa/2015/PublishingImages/Paginas/estandarizacion-de-suministros-y-economia-por-volumen-con-CADENA-S-A/logo-cadena.png",Cadena Salvacion
 https://593b04c4c5670.streamlock.net/8160/8160/playlist.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="http://ftv.com.sv/wp-content/uploads/2017/03/logo_header2.png",FTV Television Familiar
-http://mediacp.live:1935/8450/8450/chunklist_w1878501717.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://mitvstatic.com/channels/ar_canal-luz_m.png",Canal Luz
-http://prepublish.f.qaotic.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://sonlifetv.com/images/logo.png",SBN
 http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch51/ch51.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="http://images.eltelon.com/cache/media/4932/square_150x150-2.jpg",Tele Evangelica
-http://play.streaminghd.cl/hernan210/hernan210/chunklist_w214013255.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png",Cristovision
 http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="http://es.live-tv-channels.net/pt-data/uploads/logo/tvca_39_sv.png",TvCa
-http://streamserver3.us:1935/tvcaelsalvador/live/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://cdn-radiotime-logos.tunein.com/s116672q.png",RTV Vida
 http://178.32.53.254/radiovida/mobile/chunklist_w1681702694.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ghtelevision.com/images/gh_television_logo_sm.png",GH Television
@@ -2355,26 +2347,16 @@ http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://www.tnetv.cl/img/logo.jpg" group-title="RELIGION",TNE Tv
 http://video.crearchile.info:8080/live/tnetv1/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvreino.com/uploads/4/0/8/2/40820027/____3236261_orig.png" group-title="RELIGION",Reino Tv
-http://streaming.omeganet.org:1935/reinotv/envivo/chunklist_w29851567.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://elmesias.es/img/el-mesias-logo-1424452598.jpg" group-title="RELIGION",El Mesias Tv
 http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://radiocadenacret.com/wp-content/uploads/LOGO-CRET-NEW-2.png" group-title="RELIGION",Tv Cret
 http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/NuevoTiempo-Logo.jpg" group-title="RELIGION",Nuevo Tiempo 
-http://movilstream.digitalproserver.com/ntiempo/ntiempovivo/ntiempo.smil/chunklist-b448000.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://televida.org.do/live/logo.png" group-title="RELIGION",Televida
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png" group-title="RELIGION",Cristovision
 http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://www.bonaresdigital.es/wp-content/uploads/2011/02/condavision1-1024x246.png" group-title="RELIGION",Condavision
-http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/enlace.png" group-title="RELIGION", Enlace
 http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/enlace%20juvenil.png" group-title="RELIGION", Enlace Juvenil
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/ondaluzsierra.png" group-title="RELIGION", Ondaluz Sierra
-http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/esperanza%20tv.png" group-title="RELIGION", Esperanza TV
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.christianworldmedia.com/screencap1501" group-title="RELIGION", Teledunamis
@@ -2395,6 +2377,3 @@ http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/jLb5Zxa5XXtCU9DY9W06X0Uz5nAUEkqBWOR_apwg5KE-j59IhZdXX7VqltZtoU4KNQ=h310" group-title="RELIGION",RTV
 http://178.32.53.254/radiovida/mobile/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://f3-preview.runhosting.com/php-prubea.com/iglesia.png" group-title="RELIGION",Tabernaculo Bautista
-http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8?iptvgratis?chile.m3u8
-
