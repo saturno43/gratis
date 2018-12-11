@@ -536,6 +536,8 @@ http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/do.png" group-title="DOMINICAN REP" ,-----DOMINICAN REP-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://ouitv.net/images/oui_tv_logo_clear_med.png" group-title="DOMINICAN REP",OUI Tv
+http://ss8.domint.net:2102/oui_str/ouitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" group-title="DOMINICAN REP",Orbit Tv
 http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1rZDOlJ8yfoN8Pzxo2HSFXmNyF92weq-xhUr3SZKZGyCc74o" group-title="DOMINICAN REP",Tvrecuerdos 56
