@@ -494,6 +494,18 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/pa.png" group-title="PANAMA" ,-----PANAMA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/RPC_%282010%29.png/revision/latest?cb=20171029092054&path-prefix=es" group-title="PANAMA",RPC
+https://medcom-livechannel.akamaized.net/medcom-mobile-stream/rpc-livetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.quientvpanama.com/uploads/4/3/3/1/43310443/955642_orig.png" group-title="PANAMA",Telemetro
+https://medcom-livechannel.akamaized.net/medcom-mobile-stream/tm-livetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/MallTV_2017.png/revision/latest?cb=20170519130711" group-title="PANAMA",Mall TV
+https://medcom-livechannel.akamaized.net/medcom-mobile-stream/mall-livetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://lh3.ggpht.com/HUH652PhnzJiXPMzlgHPP6uarEzWdkRnnso8XInAcz_UsDsEGfcS-fubw36fiQRMbV1v" group-title="PANAMA",OYE
+https://medcom-livechannel.akamaized.net/medcom-mobile-stream/oye-livetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.logotypes101.com/logos/986/E653BF1A633082EAB4A25D4E9B24A805/cos.png" group-title="PANAMA",COS
+https://medcom-livechannel.akamaized.net/medcom-mobile-stream/cos-livetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.logotypes101.com/logos/986/E653BF1A633082EAB4A25D4E9B24A805/cos.png" group-title="PANAMA",COSFC
+https://medcom-livechannel.akamaized.net/medcom-mobile-stream/cosfc-livetv/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.ecotvpanama.com/site/templates/images/cos-generic.jpg" group-title="PANAMA",Eco TV
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
 #EXTINF:-1  tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="PANAMA",NexTV
