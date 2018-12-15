@@ -180,7 +180,7 @@ http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/master.m3u8|User-agent=iPhone&amp;Referer=http://d28d7tc1ojykcy.cloudfront.net
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red 
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-logo="https://www.tvmas.tv/wp-content/themes/tvmas/includes/img/logo.png" group-title="CHILE",tV+
+#EXTINF:-1 tvg-logo="https://www.tvmas.tv/wp-content/themes/tvmas/includes/img/logo.png" group-title="CHILE",TV+
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvmas.tv/wp-content/themes/tvmas/includes/img/logo.png" group-title="CHILE",TV+
 https://unlimited10-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream1/playlist.m3u8
@@ -1006,7 +1006,7 @@ http://pub2.diforfree.org:8000/di_classiceurodance_hi
 
 #EXTINF:-1 tvg-logo="http://www.logo.com.py/imagenes_db/GAL-6828621010_1390810510.jpg" group-title="REGIONALES" ,-----REGIONALES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://chilevisual.tv/radioonline/images/logo.png" group-title="REGIONALES",CHILEVISUAL
+#EXTINF:-1 tvg-logo="http://chilevisual.tv/radioonline/images/logo.png" group-title="REGIONALES",Chilevisual Tv
 http://v3.tustreaming.cl/chilevisual/live1/event-999999.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdaldia.com/wp-content/uploads/2018/01/puertanorte1.png" group-title="REGIONALES",Puerta Norte
 https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8
@@ -1109,7 +1109,7 @@ http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchileyelmundo.xyz/logos/Tec%20Tv.png" group-title="REGIONALES",TEC Television Temuco
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png" group-title="REGIONALES",Ufrovision Temuco
-http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+https://mdstrm.com/live-stream-playlist/5bf724ac8efba92d2668cb33.m3u8
 #EXTINF:-1,tvg-logo="http://3.bp.blogspot.com/-7OJ9rXYD8dM/Ubn_ZbWRfhI/AAAAAAAAEfE/vTcrZXM48Bs/s320/Temuco_Television_para_face.jpg" group-title="REGIONALES",Temuco Television
 http://v3.tustreaming.cl/temucotelevision/live1/event-999999.m3u8
 #EXTINF:-1 tvg-logo="http://anexos.ulagos.cl/castro/admin/tpl/ulagos/images/ULAGOS_LOGO.JPG" group-title="REGIONALES",Universidad de Los Lagos Tv
