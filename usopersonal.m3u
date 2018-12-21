@@ -704,8 +704,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cmc-tv.com/images/camuslogo.gif" group-title="MUSICA",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5812.1438688591.png" group-title="MUSICA",Virgin Radio
-http://fms.105.net:1935/live/virgin1/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4478/square_150x150-2.jpg" group-title="MUSICA",Pandero Music
 http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/7-Gfv3uIqfGm_gBKjVh1jVwNFz8hKZ94z2eEgVvmgwK7QSpzurYiITlqeR5PEher7A=w300" group-title="MUSICA",Dream Tv
@@ -714,14 +712,8 @@ http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chil
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/V5tg-A9mM5rfPTlOD8MVkLtIYyNYp5b7LThk_na9k82u77SzSJfxcD4MQioHXQ6iKgbI=w150" group-title="MUSICA",Melody Channel HD
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/119710/resized/180x172c/logo_toplatino_300x300.jpg" group-title="MUSICA", Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg" group-title="MUSICA", Virgin Music
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Muzzone.png" group-title="MUSICA", MZ Muzzone
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-xYcF4v_BkEI/T6tZOEVdMKI/AAAAAAAAAU0/_xXF1RBUaGg/s1600/freshtv_logo.png" group-title="MUSICA",Fresh Tv
-http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg" group-title="MUSICA",NRJ HITS TV Live
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="MUSICA",Xite
@@ -730,8 +722,6 @@ http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-1SwsirtQg_Q/U25qNoZtaOI/AAAAAAAABK4/H2MgOyHlA_w/s1600/Radio+105+tv.png" group-title="MUSICA",Radio 105 Tv
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/pLkFEEmay3IAHKJCA_ckxOZQ5BZZ47MODJ3tgAFIj4pDg0I6G8AmZlpYwuhCWM0Grv8=w300" group-title="MUSICA",Virgin TV Live
-http://tv.105.net:1935/live/virgin1/chunklist_w620779835.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",CMC 
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",CMC USA
@@ -762,12 +752,8 @@ http://www.djing.com/tv/live.m3u8
 http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSICA",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/drama/images/1/1f/Atk.jpg/revision/latest?cb=20131218005832&path-prefix=es" group-title="MUSICA",All the K-pop
-https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
 http://autopilot.myowntv.org/content/33816/index.m3u8
-#EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
-http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8?wowzasessionid=1466714871
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="MUSICA",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="MUSICA",Mezzo
