@@ -956,6 +956,8 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/chunklist_w1978127947_b1428000.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSICA",Music Top HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/i1MJYrbhLfwErktZjjue1a98T6n8yzU6sNo-3b_ihoQglxFGipTO4yfmqBBk4AC7lA=s180-rw" group-title="MUSICA",Frecuencia Musical Tv
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4479/square_150x150-2.jpg" group-title="MUSICA",Pandero Music Chile
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/862980988770635777/bAoheDLF_400x400.jpg" group-title="MUSICA",VOX Valparaiso
