@@ -4,8 +4,10 @@
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/image/journal/article?img_id=1443578&t=1542196284264" group-title="DEPORTES",Liga de Campeones
-http://eplser0.azureedge.net/live/t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.ilmionapoli.it/wp-content/uploads/2017/08/premier-verde-ilmionapoli-730x480.jpg" group-title="DEPORTES",Premier League 1
+http://cdn-hw.aliez.me/hls/streama79484/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ilmionapoli.it/wp-content/uploads/2017/08/premier-verde-ilmionapoli-730x480.jpg" group-title="DEPORTES",Premier League 2
+http://cdn-hw.aliez.me/hls/streama79485/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-SAgcQ3nEqZHCXG_f7DY_b6n1abxJXEyM4Bh4Efu1LgmkwpGkQ" group-title="DEPORTES" ,Todo Deportes
