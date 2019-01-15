@@ -701,6 +701,8 @@ http://movilstream.digitalproserver.com/vox/voxvivo/livestream2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",MTV USA
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.oldieshitscr.com/images/logooldieshits-u2505.png?crc=318951874" group-title="MUSICA",Oldies Hits
+http://inliveserver.com:1935/8012/8012/chunklist_w2106861196.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA",Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA", RetroTV
