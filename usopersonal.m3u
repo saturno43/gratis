@@ -664,6 +664,8 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN",Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="http://televisiones.lasteles.com/wp-content/uploads/2018/05/rtp-asturias.jpg" group-title="SPAIN",RTPA
+https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.liveonlinetv247.info/images/miamitv.png" group-title="SPAIN",Miami Tv españa
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/6fb358fa640c07279bfdad56844ba8ab" group-title="SPAIN",Canal Extremadura
