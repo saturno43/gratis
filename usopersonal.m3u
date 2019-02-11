@@ -95,7 +95,7 @@ http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",Cachupum! Tv
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PG7o0iT.png" group-title="INFANTILES",ACS Network Tv
-http://mediacp.live:1935/8468/8468/playlist.m3u8
+http://inliveserver.com:1935/8494/8494/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://locomotiondeculto.files.wordpress.com/2015/06/locomotion-animestation2.png" group-title="INFANTILES",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4477/square_150x150-2.jpg" group-title="INFANTILES",Trailer Tv Kids
