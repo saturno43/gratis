@@ -443,6 +443,8 @@ http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w148823118
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="PARAGUAY",RPC
 http://174.138.118.252/live/canal13stream_src.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3mGnhkccKB8/WW1Aq9WGBLI/AAAAAAAAAcc/wJuDijs2ThsrlNk2BTg6euAavBAflMfUgCK4BGAYYCw/s320/logo-tvs-encarnacion-televisora-del-sur-en-vivo-online.png" group-title="PARAGUAY",TVS 
+http://rds3.desdeparaguay.net/TV/tvs/playlist.m3u8
 
 #EXTINF:0,-MEXICO-
 
