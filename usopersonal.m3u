@@ -987,7 +987,7 @@ http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/2440/square_150x150-2.jpg" group-title="REGIONALES",AM Tv Antofagasta
 http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1487255043.png" group-title="REGIONALES",Antofagasta Tv Antofagasta
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1499498801_b1428000.m3u8
+https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua
