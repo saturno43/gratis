@@ -172,6 +172,8 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3
 
 #EXTINF:-1 tvg-logo="https://www.latinosyork.co.uk/s/misc/logo.png?t=1524221445" group-title="LATINOS" ,-----LATINOS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="LATINOS",Telemundo
+http://161.0.157.50/PLTV/88888888/224/3221226207/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="LATINOS",Estrella TV
 http://7645.000webhostapp.com/qn1h1UX01s/v1.php/estrellatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL.png" group-title="LATINOS",Latinos UP Tv
