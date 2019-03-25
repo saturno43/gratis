@@ -282,6 +282,10 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b18
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/reydddd/6mdp.jpg" group-title="ARGENTINA",Canal 6 Mar del Plata
 http://videostream.shockmedia.com.ar:1935/canal6mardelplata/canal6mardelplata/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="ARGENTINA", Multivisión Federal Salta HD 
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1202004290.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-44kPLvDzBdw/VGNbbtj5QKI/AAAAAAAAAck/aIw5BlkPirc/s1600/Logo%2Bnuevo%2Bcanal%2B7.jpg" group-title="ARGENTINA",Canal 7 Jujuy HD 
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w553371659_b1021952.m3u8
 #EXTINF:-1 tvg-logo="https://tvpublicafueguina.com.ar/wp-content/uploads/2018/03/cropped-HEADER-1920-X-480.jpg" group-title="ARGENTINA",Canal 11 Ushuaia 
 https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="ARGENTINA", Net Tv
@@ -360,6 +364,8 @@ https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 https://rcnhd.cdn.net.co/live02/rcnhd2_720p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i.imgur.com/fzsER.png",NTN24
 https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
+#EXTINF:-1 tvg-logo="http://www.suram.com.co/wp-content/uploads/2017/04/LOGO-SURAM.png" group-title="COLOMBIA",Suram TV 
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1810740705.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://pbs.twimg.com/profile_images/836722107446878212/tlEjfQIe.jpg",Red Mas
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canal_Capital_%28Bogot%C3%A1%29_logo.svg/180px-Canal_Capital_%28Bogot%C3%A1%29_logo.svg.png",Canal Capital HD
@@ -404,9 +410,9 @@ http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.intermedialatam.com/wp-content/uploads/2016/03/Bandera_de_la_armada.jpg" group-title="ECUADOR" ,-----ECUADOR-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",Oromar
-http://stream2.oromartv.com/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",Oromar
-http://stream.oromartv.com/hls/oromartv_hi/index.m3u8
+http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS
+https://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR",ECUAVISA SD
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR",ECUAVISA HD
