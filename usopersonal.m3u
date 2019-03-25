@@ -707,7 +707,8 @@ http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/862980988770635777/bAoheDLF_400x400.jpg" group-title="MUSICA",VOX Valparaiso
 http://movilstream.digitalproserver.com/vox/voxvivo/livestream2/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.zerounotv.it/wp-content/uploads/2018/08/Logo-con-motto-Zerouno-TV.png" group-title="MUSICA",Zerouno Tv
+https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",MTV USA
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.oldieshitscr.com/images/logooldieshits-u2505.png?crc=318951874" group-title="MUSICA",Oldies Hits
