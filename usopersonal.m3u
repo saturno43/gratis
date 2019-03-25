@@ -32,8 +32,8 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="DEPORTES",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?xtreamiptv.m3u8
-
-
+#EXTINF:-1, tvg-logo="http://www.egypttoday.com/siteimages/Larg/15272.jpg" group-title="DEPORTES",Onsports
+http://185.27.116.54:1935/livestream/sno/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.ringtv.com/wp-content/uploads/2016/01/FS1.png" group-title="DEPORTES",FOX Sports 1 (Estados Unidos)
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="DEPORTES",FOX Sports 2 (Estados Unidos)
