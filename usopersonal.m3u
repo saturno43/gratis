@@ -270,6 +270,18 @@ http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="ARGENTINA" ,-----ARGENTINA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA",Magazine
+http://163.172.141.34/magazine.php?c=argentina&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA",America
+http://163.172.141.34/americatv.php?c=argentina&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA",El Doce
+http://163.172.141.34/eldoce.php?c=argentina&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA",A24
+http://163.172.141.34/a24.php?c=argentina&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA",Cronica
+http://163.172.141.34/cronicatv.php?c=argentina&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA",El Nueve
+http://163.172.141.34/elnueve.php?c=argentina&f=.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America SD
