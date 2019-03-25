@@ -107,6 +107,8 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8?xtreamiptv.m3u8
 http://7645.000webhostapp.com/qn1h1UX01s/v1.php/moolttv/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/SorpresaN_Logo.png" group-title="INFANTILES",Sorpresa
 http://7645.000webhostapp.com/qn1h1UX01s/v2.php/sorpresa/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3799234_logo_gong_max.png" group-title="INFANTILES",Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4477/square_150x150-2.jpg" group-title="INFANTILES",Trailer Tv Kids
 http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8?xtreamiptv.m3u8
 
