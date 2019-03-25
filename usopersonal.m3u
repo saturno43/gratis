@@ -386,6 +386,12 @@ http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunkli
 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://antoniosanguino.co/wp-content/uploads/2017/12/logo-telecaribe-1.png" group-title="COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Ranchenato TV 
+http://66.240.236.25:1936/ranchenato...chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",TDI 
+http://190.159.199.86:8181/hls/tdicolombia.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",TVN GLOBAL 
+http://iptvcolombia.ddns.net/hls-liv.../canaltvn.m3u8
 
 #EXTINF:0,-BOLIVIA-
 
