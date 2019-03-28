@@ -933,7 +933,8 @@ http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
 http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
 http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.miradiols.cl/wp-content/uploads/2018/02/logo-ok-para-web-03-4001.png" group-title="RADIOTV",Mi radio La Serena
+https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RADIOTV",Musica 80
 https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://laserenadrone.cl/wp-content/uploads/2017/04/laserenadronelogo.png" group-title="RADIOTV",La Serena Drone
