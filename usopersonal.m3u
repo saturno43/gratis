@@ -558,6 +558,31 @@ http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://si.cultura.cr/sites/default/files/styles/ficha_full/public/super_cable4.jpg?itok=hlgS6lnw",Super 5
 http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 
+#EXTINF:0,-NICARAGUA-
+
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA",Canal 2 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA",Canal 4 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA", Canal 6 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA",Canal 8 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA",Canal 9 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA", Canal 10 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA",Canal 11 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA", Canal 12 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA", Canal 13 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA", Canal 23 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-23/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NICARAGUA", Canal 49 Nicaragua
+https://live.sundaystreams.net/SUNS7579mHZkvyUwJEvj/index.m3u8
+
 #EXTINF:0,-DOMINICAN REP-
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/do.png" group-title="DOMINICAN REP" ,-----DOMINICAN REP-----
