@@ -643,6 +643,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13*
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
+#EXTINF:-1 group-title="PUERTO RICO", Canal 13 
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 
 #EXTINF:0,-GUATEMALA-
 
