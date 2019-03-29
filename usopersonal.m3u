@@ -131,6 +131,12 @@ http://190.13.120.125/streams/cnnhln.m3u8
 http://190.13.120.125/streams/cnnint.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TCM
 http://190.13.120.125/streams/tcm.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX SPORTS 1 
+http://49.49.196.6:9981/stream/channelid/829494028?profile=pass
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX SPORTS 2 
+http://49.49.196.6:9981/stream/channelid/1625474533?profile=pass
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX SPORTS 3 
+http://49.49.196.6:9981/stream/channelid/77790517?profile=pass
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HBO 1
 ttp://134.255.58.66:9090/play/hbohd 
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HBO 2
