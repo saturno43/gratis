@@ -154,7 +154,7 @@ http://161.0.157.50/PLTV/88888888/224/3221226207/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="LATINOS",Estrella TV
 http://7645.000webhostapp.com/qn1h1UX01s/v1.php/estrellatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL.png" group-title="LATINOS",Latinos UP Tv
-https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w6042364.m3u8
+https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
 
 #EXTINF:0,-CHILE-
 
@@ -543,6 +543,8 @@ http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1rZDOlJ8yfoN8Pzxo2HSFXmNyF92weq-xhUr3SZKZGyCc74o" group-title="COSTA RICA",Canal 56
 http://media.az-streamingserver.com:1935/7230/7230/chunklist_w107238539.m3u8
+#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="COSTA RICA", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="COSTA RICA",Luna Tv
 http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="COSTA RICA",Microvision
