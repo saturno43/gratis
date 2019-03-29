@@ -21,52 +21,26 @@ https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_w40
 
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HISTORY
 http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TNT
-http://190.13.120.114/streams/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",SYFY
 http://190.13.120.113/streams/syfy.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FX
-http://190.13.120.114/streams/fx.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DisneyPH 
 http://190.13.120.115/streams/disneyph.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DisneyXD 
 http://190.13.120.115/streams/disneyxd.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",NBC 
-http://190.13.120.115/streams/nbc.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",canal al aire libre 
 http://190.13.120.115/streams/outdoor.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TBS 
-http://190.13.120.115/streams /tbs.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BabyTV 
 http://190.13.120.114/streams/babytv.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BBCAmerica 
 http://190.13.120.114/streams/bbcamerica.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BBCWord 
 http://190.13.120.114/streams/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FX 
-http://190.13.120.114/streams/fx.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TNT
-http://190.13.120.114/streams/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Biografía 
 http://190.13.120.113/streams/biography.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HGTV 
-http://190.13.120.113/streams/ hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Historia 
 http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Estilo 
-http://190.13.120.113/streams/style.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Syfy 
 http://190.13.120.113/streams/syfy.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BVN 
-http://190.13.120.112/streams/bvn.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Bricolaje 
-http://190.13.120.112/streams/ diy.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Cocina
-http://190.13.120.112/streams/food.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",NL2 
-http://190.13.120.112/streams/nederland2.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HIT TV
-http://190.13.120.111/streams/hittv.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",AE
 http://190.13.120.113/streams/ae.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",ANIMAL PLANET
@@ -107,8 +81,6 @@ http://190.13.120.120/streams/canalfox.m3u8
 http://190.13.120.120/streams/cinecanal.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DISCOVERY TRAVEL
 http://190.13.120.120/streams/discoverytravel.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",INFINITO
-http://190.13.120.120/streams/infinito.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",ISAT
 http://190.13.120.120/streams/isat.m3u8
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",STUDIO UNIVERSAL
@@ -138,7 +110,7 @@ http://49.49.196.6:9981/stream/channelid/1625474533?profile=pass
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX SPORTS 3 
 http://49.49.196.6:9981/stream/channelid/77790517?profile=pass
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HBO 1
-ttp://134.255.58.66:9090/play/hbohd 
+http://134.255.58.66:9090/play/hbohd 
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HBO 2
 http://134.255.58.66:9090/play/hbo2hd 
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HBO 3
@@ -249,8 +221,6 @@ http://212.233.35.3:5577/play/a0ei
 http://212.233.35.3:5577/play/a0cj
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",0 HD
 http://212.233.35.3:5577/play/a0e4
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",M.MOTOGP HD
-http://212.233.35.3:5577/play/a0ee
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",M. SERIESXTRA
 http://212.233.35.3:5577/play/a0d9
 #EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TELEDEPORTE
