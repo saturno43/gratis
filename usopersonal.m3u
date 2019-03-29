@@ -257,7 +257,7 @@ https://prepublish.f.qaotic.net/epa/ngrp:vorterix_video1-20057_all/chunklist_b10
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1202004290.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-44kPLvDzBdw/VGNbbtj5QKI/AAAAAAAAAck/aIw5BlkPirc/s1600/Logo%2Bnuevo%2Bcanal%2B7.jpg" group-title="ARGENTINA",Canal 7 Jujuy HD 
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w553371659_b1021952.m3u8
-#EXTINF:-1 tvg-logo="https://tvpublicafueguina.com.ar/wp-content/uploads/2018/03/cropped-HEADER-1920-X-480.jpg" group-title="ARGENTINA",Canal 11 Ushuaia 
+#EXTINF:-1 tvg-logo="http://canal12misiones.com/cftvp/wp-content/uploads/2014/03/logo-canal-11-ushuaia.png" group-title="ARGENTINA",Canal 11 Ushuaia 
 https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="ARGENTINA", Net Tv
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -273,7 +273,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="ARGENTINA",Canal 2 Telpin Tv
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://www.futbolenvivoargentina.com/fotos/20140902052928-Senyal-provincial-telered.png" group-title="ARGENTINA",Canal Provincial
+#EXTINF:-1 tvg-logo="http://www.josecuello.com.ar/logo%20provincial.jpg" group-title="ARGENTINA",Canal Provincial
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="ARGENTINA",Litus Tv
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
