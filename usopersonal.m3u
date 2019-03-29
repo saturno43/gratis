@@ -506,9 +506,9 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/pa.png" group-title="PANAMA" ,-----PANAMA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PANAMA", TVN Panama
+#EXTINF:-1 tvg-logo="https://img3.androidappsapk.co/300/8/b/d/com.tvn.app.mobile.TVNNoticias.png" group-title="PANAMA", TVN Panama
 http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
-#EXTINF:-1 group-title="PANAMA", TVMax
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/640px-Logo_tvmax.png" group-title="PANAMA", TVMax
 http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/RPC_%282010%29.png/revision/latest?cb=20171029092054&path-prefix=es" group-title="PANAMA",RPC
 https://medcom-livechannel.akamaized.net/medcom-mobile-stream/rpc-livetv/playlist.m3u8
