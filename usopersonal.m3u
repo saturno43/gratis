@@ -20,6 +20,121 @@ https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_w40
 #EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR SD
 https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_w406483283_b800000_slesp.m3u8
 
+#EXTINF:0,-PREMIUM-
+
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HISTORY
+http://190.13.120.113/streams/history.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TNT
+http://190.13.120.114/streams/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",SYFY
+http://190.13.120.113/streams/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FX
+http://190.13.120.114/streams/fx.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DisneyPH 
+http://190.13.120.115/streams/disneyph.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DisneyXD 
+http://190.13.120.115/streams/disneyxd.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",NBC 
+http://190.13.120.115/streams/nbc.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",canal al aire libre 
+http://190.13.120.115/streams/outdoor.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TBS 
+http://190.13.120.115/streams /tbs.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BabyTV 
+http://190.13.120.114/streams/babytv.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BBCAmerica 
+http://190.13.120.114/streams/bbcamerica.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BBCWord 
+http://190.13.120.114/streams/bbcworld.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FX 
+http://190.13.120.114/streams/fx.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TNT
+http://190.13.120.114/streams/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Biografía 
+http://190.13.120.113/streams/biography.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HGTV 
+http://190.13.120.113/streams/ hgtv.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Historia 
+http://190.13.120.113/streams/history.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Estilo 
+http://190.13.120.113/streams/style.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Syfy 
+http://190.13.120.113/streams/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BVN 
+http://190.13.120.112/streams/bvn.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Bricolaje 
+http://190.13.120.112/streams/ diy.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Cocina
+http://190.13.120.112/streams/food.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",NL2 
+http://190.13.120.112/streams/nederland2.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HIT TV
+http://190.13.120.111/streams/hittv.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",AE
+http://190.13.120.113/streams/ae.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",ANIMAL PLANET
+http://190.13.120.116/streams/animal.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BOOMERANG
+http://190.13.120.116/streams/boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",CARTOON NETWORK
+http://190.13.120.116/streams/cartoon.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DISCOVERY
+http://190.13.120.116/streams/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DICOVERY KIDS
+http://190.13.120.116/streams/discoverykids.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TOONCAST
+http://190.13.120.116/streams/tooncast.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DISCOVERY CIVILIZATION
+http://190.13.120.117/streams/discoverycivilization.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DICOVERY HOME
+http://190.13.120.117/streams/discoveryhome.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DISCOVERY SCIENCE
+http://190.13.120.117/streams/discoveryscience.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",MUCH MUSIC
+http://190.13.120.117/streams/muchmusic.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",NATGEO
+http://190.13.120.117/streams/natgeo.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",GLITZ
+http://190.13.120.119/streams/glitz.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",LIFETIME
+http://190.13.120.119/streams/lifetime.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",LIV
+http://190.13.120.119/streams/liv.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",PIX
+http://190.13.120.119/streams/pix.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",SPACE
+http://190.13.120.119/streams/space.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX
+http://190.13.120.120/streams/canalfox.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",CINECANAL
+http://190.13.120.120/streams/cinecanal.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DISCOVERY TRAVEL
+http://190.13.120.120/streams/discoverytravel.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",INFINITO
+http://190.13.120.120/streams/infinito.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",ISAT
+http://190.13.120.120/streams/isat.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",STUDIO UNIVERSAL
+http://190.13.120.121/streams/studiouniversal.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX HD
+http://190.13.120.122/streams/fox-hd.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DISCOVERY TURBO
+http://190.13.120.123/streams/discoveryturbo.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",ESPN 2
+http://190.13.120.123/streams/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX DEPORTES
+http://190.13.120.124/streams/foxdeportes.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",GOLF
+http://190.13.120.124/streams/golf-sd.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",SONY
+http://190.13.120.124/streams/sony.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",CNN INTERNACIONAL
+http://190.13.120.125/streams/cnnhln.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",CNN INTERNACIONAL
+http://190.13.120.125/streams/cnnint.m3u8
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TCM
+http://190.13.120.125/streams/tcm.m3u8
+
 #EXTINF:0,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
