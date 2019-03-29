@@ -290,17 +290,15 @@ http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=12429
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital TV Peru
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Panamericana_%282014-presente%29.png/revision/latest?cb=20161207225718" group-title="PERU", Panamericana TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina
-http://photocall.tv/latina.php/.m3u8
+#EXTINF:-1 tvg-logo="https://www.centraltvperu.com/site/images/2018/09/02/logo_pie_centraltvperu.png" group-title="PERU",Central TV Perú 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="PERU",Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Araquipa 
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-fDocFft2r.png" group-title="PERU",Canal RPP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",Canal RPP
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-M_SpHdt2qTU/Vqqfy6AkyKI/AAAAAAAABOA/RWsCcLEsrY4/s144-c/capital-tv-peru.png" group-title="PERU",Capital Tv
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8
@@ -312,10 +310,8 @@ http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.ovacion.pe/sites/default/files/publico/logo-ovacion_0.png" group-title="PERU",Ovacion
+#EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="PERU",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.centraltvperu.com/images/central.png" group-title="PERU",Central TV Perú 
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PERU",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1b/RBC_Television_%28Variante%29.jpg" group-title="PERU",RBC TV
