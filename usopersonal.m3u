@@ -449,7 +449,7 @@ http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO" ,Multimedios 
 http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/mx/OCHO.png" group-title="MEXICO" ,Ocho Tv
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/ochotv_mexico.jpg" group-title="MEXICO" ,Ocho Tv
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://jefedejefes.files.wordpress.com/2009/04/logo_teaser.jpg" group-title="MEXICO",Efekto Tv HD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8?iptvgratis?chile.m3u8
@@ -459,9 +459,9 @@ http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgr
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RcHaKDY.png" group-title="MEXICO",Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1  group-title="MEXICO", QuieroTV
+#EXTINF:-1  tvg-logo="https://quierotv.mx/imagenes/quiero.jpg"  group-title="MEXICO", QuieroTV
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MEXICO", Xti
+#EXTINF:-1  tvg-logo="http://xtitv.com/wp-content/uploads/2017/12/Logo-160-x-140.png" group-title="MEXICO", Xti Tv
 http://streamingcws10.com:1935/xtitv/videoxtitv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xr4EiV2.png" group-title="MEXICO",Canal del Congreso
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
@@ -481,8 +481,6 @@ http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 http://liveingesta118.cdnmedia.tv/tvmexicolive/tvmex.smil/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbtv_m.png" group-title="MEXICO", CBTV
 http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
-#EXTINF:-1 tvg-logo="" group-title="MEXICO", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Grupo Formula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="MEXICO",RCG 1 Saltillo
