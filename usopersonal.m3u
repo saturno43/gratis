@@ -17,33 +17,6 @@ https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_w40
 #EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR SD
 https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_w406483283_b800000_slesp.m3u8
 
-#EXTINF:0,-PREMIUM-
-
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HISTORY
-http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",SYFY
-http://190.13.120.113/streams/syfy.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BabyTV 
-http://190.13.120.114/streams/babytv.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",CARTOON NETWORK
-http://190.13.120.116/streams/cartoon.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",SPACE
-http://190.13.120.119/streams/space.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",ESPN 2
-http://190.13.120.123/streams/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX DEPORTES
-http://190.13.120.124/streams/foxdeportes.m3u8
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX SPORTS 1 
-http://49.49.196.6:9981/stream/channelid/829494028?profile=pass
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX SPORTS 2 
-http://49.49.196.6:9981/stream/channelid/1625474533?profile=pass
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FOX SPORTS 3 
-http://49.49.196.6:9981/stream/channelid/77790517?profile=pass
-#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HBO 1
-
-
-
-
 
 #EXTINF:0,-DEPORTES-
 
