@@ -505,6 +505,8 @@ http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/3orwGcy.png" group-title="MEXICO",Telemar Campeche
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO", TVP Los Mochis
+https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578529085_b978000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://corporativo.sipse.com/wp-content/uploads/revslider/corporativo-sipse/gsipse-logo-medium.png" group-title="MEXICO",SipseTv Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
@@ -695,6 +697,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
 #EXTINF:-1 group-title="SPAIN", La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+#EXTINF:-1 group-title="SPAIN", La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 #EXTINF:-1  tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="SPAIN",Antena 3
 https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:-1  tvg-logo="http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg" group-title="SPAIN",8 Tv
