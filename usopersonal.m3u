@@ -324,6 +324,8 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg" group-title="COLOMBIA" ,-----COLOMBIA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i46.tinypic.com/2vwy3yo.png",RCN
+https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i46.tinypic.com/2vwy3yo.png",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/RCN_HD2_2016-0.png/revision/latest?cb=20170424012010",RCN2 HD
 https://rcnhd.cdn.net.co/live02/rcnhd2_720p.m3u8
@@ -335,8 +337,6 @@ https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1810740705.m3u8
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canal_Capital_%28Bogot%C3%A1%29_logo.svg/180px-Canal_Capital_%28Bogot%C3%A1%29_logo.svg.png",Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 tvg-logo="http://revistacorrientes.com/wp-content/uploads/2015/09/2vwy3yo-RCN-Televisi%C3%B3n.png" group-title="COLOMBIA",RCN
-https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 #EXTINF:-1 tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/SENAL_COLOMBIA_COLOR-01_web.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/fdd1b1_ea866a37c0114866acf8472c1f42000d~mv2.png" group-title="COLOMBIA",Telemedellin
@@ -347,13 +347,13 @@ http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunkli
 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://antoniosanguino.co/wp-content/uploads/2017/12/logo-telecaribe-1.png" group-title="COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Ranchenato TV 
+#EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="COLOMBIA",Ranchenato TV 
 http://66.240.236.25:1936/ranchenato...chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",TDI 
+#EXTINF:-1 tvg-logo="https://www.tdicolombia.com.co/wp-content/uploads/2019/01/TDI-LAS-20-MAS-PEGADAS.png" group-title="COLOMBIA",TDI 
 http://190.159.199.86:8181/hls/tdicolombia.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",TVN GLOBAL 
+#EXTINF:-1 tvg-logo="https://tvnglobal.tv/wp-content/uploads/2017/10/tvnglob.png" group-title="COLOMBIA",TVN GLOBAL 
 http://iptvcolombia.ddns.net/hls-liv.../canaltvn.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COLOMBIA", CNC 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDzHYaQtUf7VyrI5is6MTT9nvU5SXVvSMBv7EKsOLvlZaMe8A" group-title="COLOMBIA", CNC 
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
 
 #EXTINF:0,-BOLIVIA-
