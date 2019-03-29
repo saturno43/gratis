@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-logo="http://alimsports.com/wp-content/uploads/2017/02/%C2%A1Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Deporte en Vivo 
+#EXTINF:-1 tvg-logo="https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png?x59193" group-title="DEPORTES",Deportes en Vivo 
 https://storage.tumarcador.xyz/288/live.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
@@ -60,15 +60,15 @@ http://adtv.ercdn.net/adsport2/adsport2.m3u8?xtreamiptv.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="DEPORTES",Al Kass Sports
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="DEPORTES",Al Kass Sports 2
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="DEPORTES",Al Kass Sports 3
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="DEPORTES",Al Kass Sports 4
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="DEPORTES",Al Kass Sports 5
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-INFANTILES-
