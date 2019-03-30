@@ -10,12 +10,13 @@ https://lollachilecl.04.cl.cdnz.cl/lollachile1/smil:lollalive.smil/chunklist_w10
 https://lollachilecl.04.cl.cdnz.cl/lollachile1/smil:lollalive.smil/chunklist_w1016358939_b1800000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://static.puntoticket.com/especiales/lollapalooza2019/lanzamiento/img/main-tit.png" group-title="LOLLAPALOOZA",Stage Principal SD
 https://lollachilecl.04.cl.cdnz.cl/lollachile1/smil:lollalive.smil/chunklist_w1016358939_b800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR FHD 
-https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_w406483283_b4500000_slesp.m3u8
+#EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR FHD
+https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_b4500000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR HD
-https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_w406483283_b1800000_slesp.m3u8
+https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR SD
-https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_w406483283_b800000_slesp.m3u8
+https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_b800000_slesp.m3u8
+
 
 
 #EXTINF:0,-DEPORTES-
