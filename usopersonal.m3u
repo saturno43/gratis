@@ -775,6 +775,8 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/862980988770635777/bAoheDLF_400x400.jpg" group-title="MUSICA",VOX Valparaiso
 http://movilstream.digitalproserver.com/vox/voxvivo/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv Estados Unidos
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv España
