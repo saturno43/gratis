@@ -1,26 +1,116 @@
 #EXTM3U 
 
-#EXTINF:0,-LOLLAPALOOZA-
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/entradas-lollapalooza-2019-abono-general-3-dias-D_NQ_NP_775060-MLC29309484119_022019-F.jpg" group-title="LOLLAPALOOZA" ,-----LOLLAPALOOZA-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://static.puntoticket.com/especiales/lollapalooza2019/lanzamiento/img/main-tit.png" group-title="LOLLAPALOOZA",Stage Principal Adaptable
-https://lollachilecl.04.cl.cdnz.cl/lollachile1/smil:lollalive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.puntoticket.com/especiales/lollapalooza2019/lanzamiento/img/main-tit.png" group-title="LOLLAPALOOZA",Stage Principal FHD
-https://lollachilecl.04.cl.cdnz.cl/lollachile1/smil:lollalive.smil/chunklist_b4500000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://static.puntoticket.com/especiales/lollapalooza2019/lanzamiento/img/main-tit.png" group-title="LOLLAPALOOZA",Stage Principal HD
-https://lollachilecl.04.cl.cdnz.cl/lollachile1/smil:lollalive.smil/chunklist_b1800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://static.puntoticket.com/especiales/lollapalooza2019/lanzamiento/img/main-tit.png" group-title="LOLLAPALOOZA",Stage Principal SD
-https://lollachilecl.04.cl.cdnz.cl/lollachile1/smil:lollalive.smil/chunklist_b800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR Adaptable
-https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR FHD
-https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_b4500000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR HD
-https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_b1800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://vtreslollacl.cl/assets/img/vtr-lollapalooza.png" group-title="LOLLAPALOOZA",Stage VTR SD
-https://lollachilecl.04.cl.cdnz.cl/lollachile2/smil:lollalive.smil/chunklist_b800000_slesp.m3u8
-
+#EXTINF:0,-PREMIUM- 
+ 
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",A&E Mundo
+http://186.148.190.51:9981/stream/channelid/545499570
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",AzCorazon
+http://186.148.190.51:9981/stream/channelid/17748355
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Azmundo
+http://186.148.190.51:9981/stream/channelid/1439074537
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",BabyTV
+http://186.148.190.51:9981/stream/channelid/1058687467
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Bethel
+http://186.148.190.51:9981/stream/channelid/2029113897
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/1086560345
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/1797297930
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/1794607752
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/1250210201
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/966200179
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/2018110780
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/51478733
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/411938083
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/59146933
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/424451659
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Satellite TV
+http://186.148.190.51:9981/stream/channelid/811864455
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Caracol TV
+http://186.148.190.51:9981/stream/channelid/1850365010
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",CCTV
+http://186.148.190.51:9981/stream/channelid/655218349
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",CineSatellite TV
+http://186.148.190.51:9981/stream/channelid/645748399
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DisneyXD
+http://186.148.190.51:9981/stream/channelid/1636845820
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",DW
+http://186.148.190.51:9981/stream/channelid/405359643
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",E! Entertainment
+http://186.148.190.51:9981/stream/channelid/1619532952
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Enlace
+http://186.148.190.51:9981/stream/channelid/986606920
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Enlace Juvenil
+http://186.148.190.51:9981/stream/channelid/1177876725
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",EWTN
+http://186.148.190.51:9981/stream/channelid/1592431429
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Fox Series
+http://186.148.190.51:9981/stream/channelid/237570065
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Fox Sports 3
+http://186.148.190.51:9981/stream/channelid/202424436
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Fox Sports 3
+http://186.148.190.51:9981/stream/channelid/1334806858
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",FX Movies
+http://186.148.190.51:9981/stream/channelid/970812662
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",History Channel
+http://186.148.190.51:9981/stream/channelid/963458692
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",HogarTV
+http://186.148.190.51:9981/stream/channelid/541437561
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",La Kalle
+http://186.148.190.51:9981/stream/channelid/190070420
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",La Kalle
+http://186.148.190.51:9981/stream/channelid/1811329856
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Nat Geo Wild
+http://186.148.190.51:9981/stream/channelid/1144164602
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",NTN24
+http://186.148.190.51:9981/stream/channelid/1419845058
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",NTN24
+http://186.148.190.51:9981/stream/channelid/1634648566
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",NTN24
+http://186.148.190.51:9981/stream/channelid/1733485816
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",RCN TV
+http://186.148.190.51:9981/stream/channelid/1500716653
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",RT Español
+http://186.148.190.51:9981/stream/channelid/385092511
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",RumbaTV
+http://186.148.190.51:9981/stream/channelid/2032428221
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Señal Colombia
+http://186.148.190.51:9981/stream/channelid/1886442594
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",SiFy
+http://186.148.190.51:9981/stream/channelid/2089265300
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Tacho Pistacho
+http://186.148.190.51:9981/stream/channelid/944671489
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Tele Cafe
+http://186.148.190.51:9981/stream/channelid/1844320749
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Teleantioquia
+http://186.148.190.51:9981/stream/channelid/591931142
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TeleCaribe
+http://186.148.190.51:9981/stream/channelid/1093788402
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Telemedellin
+http://186.148.190.51:9981/stream/channelid/41075665
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Telenostalgia
+http://186.148.190.51:9981/stream/channelid/1798123180
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Telenostalgia
+http://186.148.190.51:9981/stream/channelid/1827112749
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TelePacifico
+http://186.148.190.51:9981/stream/channelid/1271717499
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Tooncast
+http://186.148.190.51:9981/stream/channelid/980545036
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",TV Agto
+http://186.148.190.51:9981/stream/channelid/942532015
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Universal Channel
+http://186.148.190.51:9981/stream/channelid/412763759
+#EXTINF:-1 tvg-logo="https://livetvglobal.com/wp-content/uploads/2018/05/iptv-premium-logo-200.png" group-title="PREMIUM",Winsports
+http://186.148.190.51:9981/stream/channelid/1718977797
+ 
 
 
 #EXTINF:0,-DEPORTES-
