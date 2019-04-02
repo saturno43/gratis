@@ -1138,23 +1138,6 @@ https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
 
-
-#EXTINF:0,-RADIOS-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Dhamaka_Project.jpg" group-title="RADIOS" ,-----RADIOS-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://wildcat-radio.fi/img/Logo.png" group-title="RADIOS",Gothique - WildCat
-http://144.217.253.136:8535/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="RADIOS",Radio Pop
-http://s6.jcwebnew.com:7320/stream
-#EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/3/2/6/7/32679.png" group-title="RADIOS",Radio PortalFoxMix 
-http://167.114.119.122:9934/;
-#EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIOS",Hotmixradio 80´S
-http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
-#EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIOS",Classic EuroDance
-http://pub2.diforfree.org:8000/di_classiceurodance_hi
-
-
 #EXTINF:0,-REGIONALES-
 
 #EXTINF:-1 tvg-logo="http://www.logo.com.py/imagenes_db/GAL-6828621010_1390810510.jpg" group-title="REGIONALES" ,-----REGIONALES-----
@@ -1383,6 +1366,16 @@ http://178.32.53.254/radiovida/mobile/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeiconspng.com/img/17103" group-title="RADIOS ONLINE" ,-----RADIOS ONLINE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://wildcat-radio.fi/img/Logo.png" group-title="RADIOS ONLINE",Gothique - WildCat
+http://144.217.253.136:8535/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="RADIOS ONLINE",Radio Pop
+http://s6.jcwebnew.com:7320/stream
+#EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/3/2/6/7/32679.png" group-title="RADIOS ONLINE",Radio PortalFoxMix 
+http://167.114.119.122:9934/;
+#EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIOS ONLINE",Hotmixradio 80´S
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+#EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIOS ONLINE",Classic EuroDance
+http://pub2.diforfree.org:8000/di_classiceurodance_hi
 #EXTINF:-1,  tvg-logo="SUh388e.jpg" group-title="RADIOS ONLINE", Imagina (88.1 FM)
 http://14073.live.streamtheworld.com/IMAGINAAAC.aac
 
