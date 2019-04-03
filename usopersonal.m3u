@@ -267,6 +267,8 @@ https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGHKzseXcAEiMIL.jpg" group-title="ARGENTINA",CN3 Pinamar
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA",GenTV 
+http://video1.veemesoft.com.ar:1935/8652/8652/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot_400x400.jpg" group-title="ARGENTINA",Tv 10 San Rafael
 http://mediacp.live:1935/8676/8676/chunklist_w984186871.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16365/logo_canal%209%20nueve%20salta4.png" group-title="ARGENTINA",Canal 9 Salta
@@ -1068,7 +1070,7 @@ http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-2-television-san-antonio.jpg?170413035848" group-title="REGIONALES",Canal 2 San Antonio
 http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://quintatv.cl/wp-content/uploads/2017/05/logo-negro.png" group-title="REGIONALES",Quinta Tv
-https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8
+https://5c64355d4b57c.streamlock.net:1936/arabtv/arabtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/LOGO_GIROVISUAL.jpg" group-title="REGIONALES",Giro Visual Quinta Region
 http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
