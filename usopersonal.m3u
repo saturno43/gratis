@@ -18,6 +18,8 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="DEPORTES",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xE8pgIv.png" group-title="DEPORTES",Chelsea TV
+http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 #EXTINF:-1, tvg-logo="http://www.egypttoday.com/siteimages/Larg/15272.jpg" group-title="DEPORTES",Onsports
 http://185.27.116.54:1935/livestream/sno/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.ringtv.com/wp-content/uploads/2016/01/FS1.png" group-title="DEPORTES",FOX Sports 1 (Estados Unidos)
