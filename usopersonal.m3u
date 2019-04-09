@@ -8,6 +8,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega HD
 https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega HD
+https://5b799b7429657.streamlock.net/mega/test/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",Mega Plus HD
 https://5b799b7429657.streamlock.net/megaplus/megaplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision HD
