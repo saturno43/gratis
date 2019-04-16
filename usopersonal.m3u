@@ -775,6 +775,24 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/862980988770635777/bAoheDLF_400x400.jpg" group-title="MUSICA",VOX Valparaiso
 http://movilstream.digitalproserver.com/vox/voxvivo/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM POP
+https://livelist01.yowi.tv/lista/e254a962539d318dca0a948fdb484e90eb649b4e/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM DANCE
+https://livelist01.yowi.tv/lista/a636df582c762a380b1eb1673f79e50489365e28/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM BALADAS
+https://livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM ROCK
+https://livelist01.yowi.tv/lista/baad6b53816641b85a08541261199f6613d111d4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM HIP-HOP
+https://livelist01.yowi.tv/lista/385bdb9ae50740e41f3b370220c6b02e821f0131/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM LATIN
+https://livelist01.yowi.tv/lista/beb3dc68b9581e926f166d498fa18fceac8eb346/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM ARABIC
+https://livelist01.yowi.tv/lista/085621509a36c91822a2066f4f3fa8a5795b27fa/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",LATIN HITS
+https://cdn01.yowi.tv/RABDUNMFW5/live-1000.m3u8
+CANAL ANDALUCIA FLAMENCO
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w483945155.m3u8
 #EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace URBAN
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace Africa
