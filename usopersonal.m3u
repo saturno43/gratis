@@ -317,6 +317,10 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b18
 
 #EXTINF:-1 tvg-logo="http://too.by/webimage/countrys/samerica/peru/pepics/symbolspics/Flag_of_Peru.png" group-title="PERU" ,-----PERU-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="PERU",ATV HD 
+https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU",ATV+ 
+https://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital TV Peru
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.centraltvperu.com/site/images/2018/09/02/logo_pie_centraltvperu.png" group-title="PERU",Central TV Perú 
