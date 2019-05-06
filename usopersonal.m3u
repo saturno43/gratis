@@ -15,23 +15,19 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA HD
 https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA HD
-https://5b799b7429657.streamlock.net/mega/test/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",Mega Plus HD
-https://5b799b7429657.streamlock.net/megaplus/megaplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV
-http://mdstrm.com/live-stream-playlist-v/5988625542916c5029e26e36.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV HD
+http://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV HD
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 HD
 http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED HD
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/master.m3u8|User-agent=iPhone&amp;Referer=http://d28d7tc1ojykcy.cloudfront.net
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED HD
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-logo="https://www.tvmas.tv/wp-content/themes/tvmas/includes/img/logo.png" group-title="CHILE",TV+
+#EXTINF:-1 tvg-logo="https://www.tvmas.tv/wp-content/themes/tvmas/includes/img/logo.png" group-title="CHILE",TV+ HD
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvmas.tv/wp-content/themes/tvmas/includes/img/logo.png" group-title="CHILE",TV+
+#EXTINF:-1 tvg-logo="https://www.tvmas.tv/wp-content/themes/tvmas/includes/img/logo.png" group-title="CHILE",TV+ HD
 https://unlimited10-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXwpqm.png" group-title="CHILE",UCV 3
 http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
