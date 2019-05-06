@@ -11,6 +11,12 @@ https://live.sundaystreams.net/SUNS7579mHZkvyUwJEvj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN Full HD
+https://tvn-1-live.nedmedia.io/v1/manifest/072bde06d732942b3508fe16db5d996d70b21ce7/TVN-1-Backup/7266c5a3-0cbb-4c62-b656-7ac8c5fbc702/3.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN HD
+https://tvn-1-live.nedmedia.io/v1/manifest/072bde06d732942b3508fe16db5d996d70b21ce7/TVN-1-Backup/7266c5a3-0cbb-4c62-b656-7ac8c5fbc702/0.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN SD
+https://tvn-1-live.nedmedia.io/v1/manifest/072bde06d732942b3508fe16db5d996d70b21ce7/TVN-1-Backup/7266c5a3-0cbb-4c62-b656-7ac8c5fbc702/1.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN HD
 https://tvn-1-live.nedmedia.io/live.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN HD
