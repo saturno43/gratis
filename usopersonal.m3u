@@ -1,5 +1,12 @@
 #EXTM3U 
 
+#EXTINF:0,-EVENTOS-
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV" ,-----PPV-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/949809398267961346/q6107tOD_400x400.jpg" group-title="PPV", Pixel Channel
+https://live.sundaystreams.net/SUNS7579mHZkvyUwJEvj/index.m3u8
+
 #EXTINF:0,-CHILE-
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
