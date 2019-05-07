@@ -100,6 +100,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 https://storage.tumarcador.xyz/288/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 http://stream.tvpor-internet.net/manifest/04/fox-sports-premium.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Bein la liga
+https://accesorioscoche.club/t1/t1.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/420577_300x300" group-title="DEPORTES",Gol Tv
 http://185.243.139.5:5070/GolTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/640px-Tve_teledeporte.png" group-title="DEPORTES",Teledeporte
