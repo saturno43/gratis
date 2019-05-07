@@ -96,22 +96,12 @@ http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png?x59193" group-title="DEPORTES",Deportes en Vivo 
-https://storage.tumarcador.xyz/288/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Futbol Argentino Full HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_superliga.png" group-title="DEPORTES",Futbol Argentino HD
 https://nahuelweb.000webhostapp.com/arg/supercopa-1.php
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Futbol Argentino Full HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_superliga.png" group-title="DEPORTES",Futbol Argentino HD
 https://nahuelweb.000webhostapp.com/arg/supercopa-2.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 http://stream.tvpor-internet.net/manifest/04/fox-sports-premium.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Bein la liga
-https://accesorioscoche.club/t1/t1.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/420577_300x300" group-title="DEPORTES",Gol Tv
-http://185.243.139.5:5070/GolTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/640px-Tve_teledeporte.png" group-title="DEPORTES",Teledeporte
-http://185.243.139.5:5070/Teledeporte/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/800px-Eurosport_Logo_2015.png" group-title="DEPORTES",Eurosport
-http://185.243.139.5:5070/Eurosport/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
