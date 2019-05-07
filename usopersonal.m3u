@@ -4,6 +4,26 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV" ,-----PPV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",FOX SPORTS 1 HD
+http://162.220.164.62/extract.php?n=FOX%20SPORTS%201%20HD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",FOX SPORTS 2 HD
+http://162.220.164.62/extract.php?n=FOX%20SPORTS%202%20HD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",FOX SPORTS 3 HD
+http://162.220.164.62/extract.php?n=FOX%20SPORTS%203%20HD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",,FOX SPORTS 1 MX HD
+http://162.220.164.62/extract.php?n=FOX%20SPORTS%201%20MX%20HD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",FOX SPORTS 2 MX HD
+http://162.220.164.62/extract.php?n=FOX%20SPORTS%202%20MX%20HD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",FOX SPORTS 3 MX HD
+http://162.220.164.62/extract.php?n=FOX%20SPORTS%203%20MX%20HD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",ESPN 1 HD
+http://162.220.164.62/extract.php?n=ESPN%201%20HD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",ESPN 2 HD
+http://162.220.164.62/extract.php?n=ESPN%202%20HD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",ESPN 3 HD
+http://162.220.164.62/extract.php?n=ESPN%203%20HD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV",ESPN PLUS HD
+http://162.220.164.62/extract.php?n=ESPN%20PLUS%20HD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/949809398267961346/q6107tOD_400x400.jpg" group-title="PPV", Pixel Channel
 https://live.sundaystreams.net/SUNS7579mHZkvyUwJEvj/index.m3u8
 
@@ -100,6 +120,10 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 https://nahuelweb.000webhostapp.com/arg/supercopa-1.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_superliga.png" group-title="DEPORTES",Futbol Argentino HD
 https://nahuelweb.000webhostapp.com/arg/supercopa-2.php
+#EXTINF: -1 group-title="DEPORTES", Bein Sports Español HD
+http://stream.tvpor-internet.net/manifest/04/bein-n-sports.m3u8
+#EXTINF: -1 group-title="DEPORTES", Bein Sports La liga HD
+http://stream.tvpor-internet.net/manifest/04/bein-sports-la-liga.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 http://stream.tvpor-internet.net/manifest/04/fox-sports-premium.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
