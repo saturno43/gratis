@@ -96,10 +96,6 @@ http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_superliga.png" group-title="DEPORTES",Futbol Argentino HD
-https://nahuelweb.000webhostapp.com/arg/supercopa-1.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_superliga.png" group-title="DEPORTES",Futbol Argentino HD
-https://nahuelweb.000webhostapp.com/arg/supercopa-2.php
 #EXTINF: -1 group-title="DEPORTES", Bein Sports Español HD
 http://stream.tvpor-internet.net/manifest/04/bein-n-sports.m3u8
 #EXTINF: -1 group-title="DEPORTES", Bein Sports La liga HD
