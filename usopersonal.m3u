@@ -98,6 +98,10 @@ http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png?x59193" group-title="DEPORTES",Deportes en Vivo 
 https://storage.tumarcador.xyz/288/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Futbol Argentino Full HD
+https://nahuelweb.000webhostapp.com/arg/supercopa-1.php
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Futbol Argentino Full HD
+https://nahuelweb.000webhostapp.com/arg/supercopa-2.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 http://stream.tvpor-internet.net/manifest/04/fox-sports-premium.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",Bein la liga
