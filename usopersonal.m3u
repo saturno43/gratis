@@ -850,6 +850,8 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w152373056_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png" group-title="MUSICA",Ocko star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-quF_76l-K1A/UnKvQIO-BxI/AAAAAAAAATA/b1C08WiQoT4/s1600/HYPE+TV+NEW+LOGO+2+small.jpg" group-title="MUSICA",Hype Tv!
+http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/987.gif" group-title="MUSICA",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://www.zerounotv.it/wp-content/uploads/2018/08/Logo-con-motto-Zerouno-TV.png" group-title="MUSICA",Zerouno Tv
