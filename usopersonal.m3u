@@ -16,18 +16,88 @@ http://stream.tvpor-internet.net/manifest/01/espn.m3u8
 http://stream.tvpor-internet.net/manifest/06/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",espn3 HD
 http://stream.tvpor-internet.net/manifest/06/espn3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",directv sports
-http://stream.tvpor-internet.net/manifest/04/directv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",tyc sports
-http://stream.tvpor-internet.net/manifest/04/tyc-sports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",TDN
-http://stream.tvpor-internet.net/manifest/04/univision-tdn.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV1
 http://134.209.54.174/hls/veopartidos.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV2
 http://159.65.253.88/hls/veopartidos.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV3
 https://live.sundaystreams.net/SUNS7579mHZkvyUwJEvj/index.m3u8
+
+#EXTINF:0,-PREMIUM-
+
+#EXTINF:-1 tvg-logo="http://apartamentoslareservanoja.es/wp-content/uploads/2015/05/logo-premium.png" group-title="PREMIUM" ,-----PREMIUM-----
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",AE
+http://stream.tvpor-internet.net/manifest/02/aehd.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",AMC
+http://stream.tvpor-internet.net/manifest/06/amc.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Animal Planet
+http://stream.tvpor-internet.net/manifest/01/anim_planet.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Cinecanal
+http://stream.tvpor-internet.net/manifest/03/cinecanal.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",FOX Channel
+http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",History
+http://stream.tvpor-internet.net/manifest/01/history.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Studio Universal
+http://stream.tvpor-internet.net/manifest/03/stdio_univ.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",TNT
+http://stream.tvpor-internet.net/manifest/03/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Cinemax
+http://stream.tvpor-internet.net/manifest/03/c1nemax.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Discovery
+http://stream.tvpor-internet.net/manifest/01/disc_ch.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Discovery science
+http://stream.tvpor-internet.net/manifest/01/disc_science.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Discovery Kids
+http://stream.tvpor-internet.net/manifest/06/disc_kids.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Golden
+http://stream.tvpor-internet.net/manifest/06/golden.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",HBO
+http://stream.tvpor-internet.net/manifest/06/hb0hd.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Syfy
+http://stream.tvpor-internet.net/manifest/02/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Space
+http://stream.tvpor-internet.net/manifest/03/space.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Fox Series
+http://stream.tvpor-internet.net/manifest/02/f0x_series.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Caracol
+http://stream.tvpor-internet.net/manifest/05/caracol.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",America TV
+http://stream.tvpor-internet.net/manifest/05/america-tv.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Uruguay VTV
+http://stream.tvpor-internet.net/manifest/05/vtv.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",latina
+http://stream.tvpor-internet.net/manifest/05/latina.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",BEIN la liga
+http://stream.tvpor-internet.net/manifest/04/bein-sports-la-liga.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM", Bein Sports Español HD
+http://stream.tvpor-internet.net/manifest/04/bein-n-sports.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",FOX SPORTS
+http://stream.tvpor-internet.net/manifest/01/f0xsports.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",FOX SPORTS 2
+http://stream.tvpor-internet.net/manifest/01/f0xsports2.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",FOX SPORTS 3
+http://stream.tvpor-internet.net/manifest/01/f0xsports3.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",FOX SPORTS PREMIUM
+http://stream.tvpor-internet.net/manifest/04/fox-sports-premium.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",SPORTS
+http://stream.tvpor-internet.net/manifest/04/-sports-la-.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",CMD
+http://stream.tvpor-internet.net/manifest/05/fox-sports-2.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",espn HD
+http://stream.tvpor-internet.net/manifest/01/espn.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",espn2 HD
+http://stream.tvpor-internet.net/manifest/06/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",espn3 HD
+http://stream.tvpor-internet.net/manifest/06/espn3.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",directv sports
+http://stream.tvpor-internet.net/manifest/04/directv.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",tyc sports
+http://stream.tvpor-internet.net/manifest/04/tyc-sports.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",TDN
+http://stream.tvpor-internet.net/manifest/04/univision-tdn.m3u8
 
 #EXTINF:0,-CHILE-
 
@@ -126,12 +196,6 @@ http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF: -1 group-title="DEPORTES", Bein Sports Español HD
-http://stream.tvpor-internet.net/manifest/04/bein-n-sports.m3u8
-#EXTINF: -1 group-title="DEPORTES", Bein Sports La liga HD
-http://stream.tvpor-internet.net/manifest/04/bein-sports-la-liga.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-http://stream.tvpor-internet.net/manifest/04/fox-sports-premium.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
