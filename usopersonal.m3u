@@ -8,15 +8,10 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://stream.tvpor-internet.net/manifest/01/f0xsports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",FOX SPORTS 2
 http://stream.tvpor-internet.net/manifest/01/f0xsports2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",FOX SPORTS 3
-http://stream.tvpor-internet.net/manifest/01/f0xsports3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",espn HD
 http://stream.tvpor-internet.net/manifest/01/espn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",espn2 HD
 http://stream.tvpor-internet.net/manifest/06/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",espn3 HD
-http://stream.tvpor-internet.net/manifest/06/espn3.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV1
 http://134.209.54.174/hls/veopartidos.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV2
@@ -27,7 +22,7 @@ https://live.sundaystreams.net/SUNS7579mHZkvyUwJEvj/index.m3u8
 #EXTINF:0,-PREMIUM-
 
 #EXTINF:-1 tvg-logo="http://apartamentoslareservanoja.es/wp-content/uploads/2015/05/logo-premium.png" group-title="PREMIUM" ,-----PREMIUM-----
-
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",AE
 http://stream.tvpor-internet.net/manifest/02/aehd.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",AMC
