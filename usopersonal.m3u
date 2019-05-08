@@ -1346,17 +1346,23 @@ http://178.32.53.254/radiovida/mobile/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41KvG0oIgSL.png" group-title="RADIOS ONLINE" ,-----RADIOS ONLINE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://wildcat-radio.fi/img/Logo.png" group-title="RADIOS ONLINE",Gothique - WildCat
-http://144.217.253.136:8535/stream
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lsKhU3cM2AI/maxresdefault.jpg" group-title="RADIOS ONLINE",Dj Pinky
+http://167.114.58.197:9304
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="RADIOS ONLINE",Radio Pop
 http://s6.jcwebnew.com:7320/stream
 #EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/3/2/6/7/32679.png" group-title="RADIOS ONLINE",Radio PortalFoxMix 
 http://167.114.119.122:9934/;
+#EXTINF:-1,  tvg-logo="https://envivo.radioactiva.cl/build/assets/radioactivachile/img/logo.png" group-title="RADIOS ONLINE", Radioactiva
+http://18233.live.streamtheworld.com/ACTIVAAAC.aac
+#EXTINF:-1,  tvg-logo="http://3.bp.blogspot.com/-AkECb3Mb2Yc/TwDZ4YViNhI/AAAAAAAAAdk/X4wZdhnGMVA/s1600/radio+carolina.png" group-title="RADIOS ONLINE", Radio Carolina
+https://redirector.dps.live/carolinafm/aac/icecast.audio
 #EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIOS ONLINE",Hotmixradio 80´S
 http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 #EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIOS ONLINE",Classic EuroDance
 http://pub2.diforfree.org:8000/di_classiceurodance_hi
+#EXTINF:-1 tvg-logo="https://wildcat-radio.fi/img/Logo.png" group-title="RADIOS ONLINE",Gothique - WildCat
+http://144.217.253.136:8535/stream
+
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Imagina (88.1 FM)
 http://14073.live.streamtheworld.com/IMAGINAAAC.aac
 
@@ -1434,9 +1440,6 @@ http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Sur (92.1 FM Los Angeles)
 http://ww3.radiosur.cl:5074/rsur
-
-#EXTINF:-1,  tvg-logo="Jbc9KX8.jpg" group-title="RADIOS ONLINE", Radioactiva (92.5 FM)
-http://18233.live.streamtheworld.com/ACTIVAAAC.aac
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Romina (92.5 FM Antofagasta)
 http://198.50.154.235:10246/;
