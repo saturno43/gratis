@@ -98,6 +98,50 @@ http://stream.tvpor-internet.net/manifest/04/directv.m3u8
 http://stream.tvpor-internet.net/manifest/04/tyc-sports.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",TDN
 http://stream.tvpor-internet.net/manifest/04/univision-tdn.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Fox Series
+http://stream.tvpor-internet.net/manifest/02/f0x_series.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Fox Channel
+http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Fox Action
+http://stream.tvpor-internet.net/manifest/02/f0x_action.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Cine Canal
+http://stream.tvpor-internet.net/manifest/03/cinecanal.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Cinemax
+http://stream.tvpor-internet.net/manifest/03/c1nemax.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Space
+http://stream.tvpor-internet.net/manifest/03/space.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",AMC
+http://stream.tvpor-internet.net/manifest/06/amc.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",A&E HD
+http://stream.tvpor-internet.net/manifest/02/aehd.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Studio Universal HD
+http://stream.tvpor-internet.net/manifest/03/stdio_univ.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM", TNT
+http://stream.tvpor-internet.net/manifest/03/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Golden HD
+http://stream.tvpor-internet.net/manifest/06/golden.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",HBO HD
+http://stream.tvpor-internet.net/manifest/06/hb0hd.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM", Caracol
+http://stream.tvpor-internet.net/manifest/05/caracol.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Discovery Channel
+http://stream.tvpor-internet.net/manifest/01/disc_ch.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM", Discovery Science
+http://stream.tvpor-internet.net/manifest/01/disc_science.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM", América Tv
+http://stream.tvpor-internet.net/manifest/05/america-tv.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Latina HD
+http://stream.tvpor-internet.net/manifest/05/latina.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Canal De las estrellas HD
+http://stream.tvpor-internet.net/manifest/02/estrellas_latam.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM", Canal 5 HD
+http://stream.tvpor-internet.net/manifest/04/canal-cinco.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Discovery Kids HD
+http://stream.tvpor-internet.net/manifest/06/disc_kids.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM", Disney HD
+http://stream.tvpor-internet.net/manifest/03/d1sney.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Animal Plenet
+http://stream.tvpor-internet.net/manifest/01/anim_planet.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Las Estrellas
 http://38.18.238.20:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",HBO Family
