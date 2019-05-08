@@ -23,6 +23,8 @@ https://live.sundaystreams.net/SUNS7579mHZkvyUwJEvj/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://apartamentoslareservanoja.es/wp-content/uploads/2015/05/logo-premium.png" group-title="PREMIUM" ,-----PREMIUM-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",VTV
+http://stream.tvpor-internet.net/manifest/05/vtv.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",AE
 http://stream.tvpor-internet.net/manifest/02/aehd.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",AMC
