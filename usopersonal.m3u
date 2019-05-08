@@ -59,8 +59,6 @@ http://stream.tvpor-internet.net/manifest/03/space.m3u8
 http://stream.tvpor-internet.net/manifest/02/f0x_series.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Caracol
 http://stream.tvpor-internet.net/manifest/05/caracol.m3u8
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",America TV
-http://stream.tvpor-internet.net/manifest/05/america-tv.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Uruguay VTV
 http://stream.tvpor-internet.net/manifest/05/vtv.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",latina
@@ -123,8 +121,6 @@ http://stream.tvpor-internet.net/manifest/05/caracol.m3u8
 http://stream.tvpor-internet.net/manifest/01/disc_ch.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM", Discovery Science
 http://stream.tvpor-internet.net/manifest/01/disc_science.m3u8
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM", América Tv
-http://stream.tvpor-internet.net/manifest/05/america-tv.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Latina HD
 http://stream.tvpor-internet.net/manifest/05/latina.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Canal De las estrellas HD
