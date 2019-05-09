@@ -1195,6 +1195,8 @@ http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?iptvgrati
 http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo-zero-light_zpstwvtq006.png" group-title="RADIOTV", Radio Zero Tv 
 http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.cl/bio-bio-chile-tv-la-radio-bbtv-en-vivo.jpg?190418055241" group-title="RADIOTV",Radio BioBio Tv
+https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/mqdefault_zpsdijxexti.jpg" group-title="RADIOTV", Radio La Clave Tv
 http://unlimited5-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.adnradio.cl/im/logo100.gif" group-title="RADIOTV", Radio ADN Tv
@@ -1243,10 +1245,8 @@ https://v3.tustreaming.cl/mbrhls/armonia/s1/index.m3u8
 https://v3.tustreaming.cl/rvidanueva/live1/index.m3u8
 #EXTINF:-1 group-title="RADIOTV",CULTOS EN VIVO RADIO VIDA NUEVA
 https://v3.tustreaming.cl/mvidanueva/live1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logod.png" group-title="RADIOTV",Antena Uno Ecuador
 https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
 
@@ -1342,7 +1342,6 @@ https://593b04c4c5670.streamlock.net/tvdaniel/tvdaniel/chunklist_w687739368.m3u8
 http://v3.tustreaming.cl/canal21chillan/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="REGIONALES",Canal 11 Cabrero
 http://play.streaminghd.cl/claudio441/claudio441/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.televida.cl/images/nuevo_logotelevida.png" group-title="REGIONALES",Televida Chillan
 http://evo.eltelon.com:1935/live/televida/chunklist_w1191743482.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/206897428/logo_c9r_400x400.jpg" group-title="REGIONALES",Canal 9 Bio Bio Concepcion HD
