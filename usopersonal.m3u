@@ -1085,12 +1085,12 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
 http://autopilot.myowntv.org/content/33816/index.m3u8
-#EXTINF:-1 tvg-logo="https://statics.yowi.tv/files/3e2e24d983a300883a36ff45cf7afb3d5d40004b" group-title="MUSICA",HQM ROCK
-https://livelist01.yowi.tv/lista/baad6b53816641b85a08541261199f6613d111d4/index-v1-a1.m3u8
+#EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
+http://v1.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",MTV Rocks
 https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0026)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.venicequeen.it/cms/images/stories/rock_tv_nero.gif" group-title="MUSICA",Rock TV
-http://v1.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1 tvg-logo="https://statics.yowi.tv/files/3e2e24d983a300883a36ff45cf7afb3d5d40004b" group-title="MUSICA",HQM ROCK
+https://livelist01.yowi.tv/lista/baad6b53816641b85a08541261199f6613d111d4/index-v1-a1.m3u8
 
 #EXTINF:0,-VIDEOMIX-
 
