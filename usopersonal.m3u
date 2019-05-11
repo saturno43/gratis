@@ -18,6 +18,8 @@ http://157.230.219.19/hls/veopartidos.m3u8
 http://134.209.54.174/hls/veopartidos.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV3
 http://159.65.253.88/hls/veopartidos.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV4
+http://live.fcnlb.click/hls/pc360/index.m3u8
 
 #EXTINF:0,-PREMIUM-
 
