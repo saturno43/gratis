@@ -18,8 +18,6 @@ http://157.230.219.19/hls/veopartidos.m3u8
 http://134.209.54.174/hls/veopartidos.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV3
 http://159.65.253.88/hls/veopartidos.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",CDF Wiseplay - XMTV
-http://live.fcnlb.click/hls/pc360/index.m3u8
 
 #EXTINF:0,-PREMIUM-
 
@@ -249,6 +247,8 @@ http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYnmobZ.png" group-title="DEPORTES",CDF con Wiseplay
+http://live.fcnlb.click/hls/pc360/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
