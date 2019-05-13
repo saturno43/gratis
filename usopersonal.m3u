@@ -156,6 +156,33 @@ http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 http://38.18.238.20:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",FOX
 http://tvmicine.tk/entretenimiento/fox.php
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",TNT
+http://stream.tvpor-internet.net/manifest/03/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s321c39a3f87b9cc6/image/ia71b749ac6c5e4d6/version/1429699917/image.png" group-title="PREMIUM",Space
+http://stream.tvpor-internet.net/manifest/03/space.m3u8
+
+#EXTINF:-1   tvg-logo="noimg.jpg" group-title="PREMIUM", Fox Movies HD
+http://tvplay.xyz/stream-live.php/video.m3u8?url=128049&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1  tvg-logo="noimg.jpg" group-title="PREMIUM", Fox Sports 3
+http://tvplay.xyz/stream-live.php/video.m3u8?url=128042&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1  tvg-logo="noimg.jpg" group-title="PREMIUM", Az Mundo
+http://tvplay.xyz/stream-live.php/video.m3u8?url=128020&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1   tvg-logo="noimg.jpg" group-title="PREMIUM", AXN HD
+http://tvplay.xyz/stream-live.php/video.m3u8?url=128005&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1  tvg-logo="noimg.jpg" group-title="PREMIUM", Nicktoons
+http://tvplay.xyz/stream-live.php/video.m3u8?url=127995&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1  tvg-logo="noimg.jpg" group-title="PREMIUM", Baby First
+http://tvplay.xyz/stream-live.php/video.m3u8?url=127994&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1  tvg-logo="noimg.jpg" group-title="PREMIUM", Animal Planet HD
+http://tvplay.xyz/stream-live.php/video.m3u8?url=127967&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1  tvg-logo="noimg.jpg" group-title="PREMIUM", NatGeo Wild HD
+http://tvplay.xyz/stream-live.php/video.m3u8?url=127964&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1   tvg-logo="noimg.jpg" group-title="PREMIUM", Bandamax
+http://tvplay.xyz/stream-live.php/video.m3u8?url=127956&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1  tvg-logo="noimg.jpg" group-title="PREMIUM", Telehit HD
+http://tvplay.xyz/stream-live.php/video.m3u8?url=127950&line=Demostracion.m3u&user=all&pass=all
+#EXTINF:-1  tvg-logo="noimg.jpg" group-title="PREMIUM", Canal 5
+http://tvplay.xyz/stream-live.php/video.m3u8?url=127935&line=Demostracion.m3u&user=all&pass=all
 
 #EXTINF:0,-CHILE-
 
