@@ -2841,7 +2841,7 @@ http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:impacto mortal
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
 
-#EXTINF-1,espia Por accidente
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",espia Por accidente
 http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?disco
 
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",JEEPERS CREEPERS 3
@@ -2899,12 +2899,6 @@ http://cecegeek@goo.gl/vTWRDV
 
 #EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LA MOMIA
 http://cecegeek@goo.gl/5wTGRK
-
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",TODO TODO
-http://ow.ly/tlKB30eS9pK
-
-#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",STRIPTEASE
-http://ow.ly/R9AG30eXNAI
 
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ALICIA EN EL PAIS DE LAS MARAVILLAS
 http://cecegeek@goo.gl/QupTmL
@@ -3020,26 +3014,11 @@ https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ELLA EN MI CUERPO Y EL EN EL MIO
 https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755" group-title="PELICULAS", Alien Covenant (2017)
-http://ow.ly/SgXZ30eXN93?CONEXION?null=
-
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Pitufos 3: La Aldea Perdida
 https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_AQC.mkv
 
 #EXTINF:-1 tvg-logo="http://www.powerrangers.movie/images/posters/powerrangers_poster_international_3_600x925.jpg" group-title="PELICULAS", Los Power Rangers
 http://bit.ly/2gbHp2p
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3KUzeQT.jpg" group-title="PELICULAS", Un Saco De Canicas
-http://ow.ly/v7hc30eVA0P
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VCHmkz8.jpg" group-title="PELICULAS", Huye
-http://ow.ly/3a9530eXgFk
-
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Alien Covenant
-http://ow.ly/SgXZ30eXN93
-
-#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2017/04/colossal-poster.jpg" group-title="PELICULAS",Colossal
-http://ow.ly/FXZ930eWtrs
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vZdp7Y5MFgBvH3YYUoNvSRMlLSL.jpg"  group-title="PELICULAS",#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
 
