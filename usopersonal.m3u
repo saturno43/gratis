@@ -2666,8 +2666,6 @@ https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2451&authkey=!AIe
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Sacrificio
 http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
 
-#EXTINF:-1tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",resaca mortal
-http://discontrol@ia601508.us.archive.org/12/items/7H3.HUN6/7H3.HUN60V39.64M35-ES-720.mp4?disco
 
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Fiesta-de-bodas
 http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?
@@ -2800,7 +2798,6 @@ http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Espia Por accidente
 http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?
 
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
 
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:Asesino de La Carretera
 http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
@@ -3020,7 +3017,8 @@ https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_A
 #EXTINF:-1 tvg-logo="http://www.powerrangers.movie/images/posters/powerrangers_poster_international_3_600x925.jpg" group-title="PELICULAS", Los Power Rangers
 http://bit.ly/2gbHp2p
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vZdp7Y5MFgBvH3YYUoNvSRMlLSL.jpg"  group-title="PELICULAS",#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
+EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",
+http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vJjtHYHQe6I/TVsDNFvhzKI/AAAAAAAAAXg/SknModlwHnU/s1600/el-dia-del-apocalipsis.jpg"  group-title="PELICULAS",El dia del apocalipsis
 http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
