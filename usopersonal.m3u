@@ -2232,4 +2232,1292 @@ http://176.31.241.17:8399/stream
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", JapanNext Radio
 http://perseus.shoutca.st:8803/stream
 
+#EXTINF:0,-PELICULAS-
 
+#EXTINF:-1 tvg-logo="http://download.seaicons.com/icons/wwalczyszyn/android-style-honeycomb/256/Movie-Studio-icon.png" group-title="PELICULAS" ,-----PELICULAS-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/280x4207084784401031604472.jpg" group-title="PELICULAS",Por Encima Del Suelo|DHTV
+http://198.27.75.154/cosmeticos/FullHD/ABOVE%20GROUND%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM/ABOVE%20GROUND%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-562028856518489431349..jpg" group-title="PELICULAS",Una Vista Mortal|DHTV
+http://198.27.75.154/cosmeticos/FullHD/A%20DEADLY%20VIEW%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM/A%20DEADLY%20VIEW%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-674162609634956671404..jpg" group-title="PELICULAS",Un Demonio Dentro|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/A%20DEMON%20WITHIN%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM/A%20DEMON%20WITHIN%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-772573551294088564029..jpg" group-title="PELICULAS",A Dog's Why Home|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/A%20DOGS%20WAY%20HOME%20MKV%20DUAL%201080P/A%20Dogs%20Way%20Home(2019)%20WEB-DL%201080p%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/unnamed-106947349277192324526..jpg" group-title="PELICULAS",Age Of Summer|DHTV
+http://198.27.75.154/cosmeticos/FullHD/AGE%20OF%20SUMMER%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM/AGE%20OF%20SUMMER%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",A Kid Like Jake|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/A%20KID%20LIKE%20JAKE%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM/A%20KID%20LIKE%20JAKE%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/mv5bnwviownlzjqtmzjlni00otg0ltg3n2qtywu0nmixogu2odk4xkeyxkfqcgdeqxvyndk0ndc0nzk40348810837155579068..jpg" group-title="PELICULAS",Alien Warfare|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/ALIEN%20WARFARE%202019%20MKV%201080P%20LATINO%20FTP%20PREMIUM/ALIEN%20WARFARE%202019%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-795129188773399520410..jpg" group-title="PELICULAS",Amanda Y Jake|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/AMANDA%20AND%20JACK%20GO%20GLAMPING%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM/AMANDA%20AND%20JACK%20GO%20GLAMPING%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-803696525502997716568..jpg" group-title="PELICULAS",Andrés Lee|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/ANDRES%20LEE%20I%20ESCRIBE%202016%20MKV%201080P%20LATINO%20FTP%20PREMIUM/ANDRES%20LEE%20I%20ESCRIBE%202016%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-818652263370762862297..jpg" group-title="PELICULAS",Una Intervencion Con Dios|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/AN%20INTERVIEW%20WITH%20GOD%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM/AN%20INTERVIEW%20WITH%20GOD%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-825082755225215878129..jpg" group-title="PELICULAS",AQUAMAN |DHTV 
+http://198.27.75.154/cosmeticos/FullHD/AQUAMAN%202018%20IMAX%20MKV%201080P%20LATINO%20FTP%20PREMIUM/AQUAMAN%202018%20IMAX%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/mv5bmdk0mdjiytgtnjqyny00mzrklweyntutyta0ogvmngu2zwi1l2ltywdlxkeyxkfqcgdeqxvymzi4mzkxnty401396855392197198551..jpg" group-title="PELICULAS",A Royal Winter|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/A%20ROYAL%20WINTER%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM/A%20ROYAL%20WINTER%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-833910329296444407089..jpg" group-title="PELICULAS",Assassination Nation|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/ASSASSINATION%20NATION%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM/ASSASSINATION%20NATION%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-84162417708437934226..jpg" group-title="PELICULAS",Nace Una Estrella|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/A%20STAR%20IS%20BORN%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM/A%20STAR%20IS%20BORN%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-856038859048814710650..jpg" group-title="PELICULAS",Backsatbbin For Begins|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/BACKSTABBING%20FOR%20BEGINNERS%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM/BACKSTABBING%20FOR%20BEGINNERS%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-866653689044594954523..jpg" group-title="PELICULAS",Back To Burgundy|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/BACK%20TO%20BURGUNDY%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM/BACK%20TO%20BURGUNDY%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-872581395137250248942..jpg" group-title="PELICULAS",Bayoneta|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/BAYONETA%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM/BAYONETA%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-884684468845159614052..jpg" group-title="PELICULAS",Beyond The Edge|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/BEYOND%20THE%20EDGE%20(2018)%20MKV%201080P%20DUAL%20AUDIO/Beyond%20the%20edge%20(2018)%201080p.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images881439549215409861.jpeg" group-title="PELICULAS",Bob The Matchine|DHTV 
+http://198.27.75.154/cosmeticos/FullHD/BOB%20THE%20BUILDER%20MEGA%20MACHINES%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM/BOB%20THE%20BUILDER%20MEGA%20MACHINES%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/descarga4841288603559924537.jpeg" group-title="PELICULAS",Born
+http://198.27.75.154/cosmeticos/FullHD/BORN%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM/BORN%202017%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+#EXTINF:-1 tvg-logo="https://pedstv.files.wordpress.com/2019/04/images-14297226487249392431..jpg" group-title="PELICULAS",Budapest
+http://198.27.75.154/cosmeticos/FullHD/BUDAPEST%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM/BUDAPEST%202018%20MKV%201080P%20LATINO%20FTP%20PREMIUM.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",a CHICOS IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Interstellar
+https://archive.org/download/Interstellar20014PelixMax/Interstellar%20(2014).mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Vendedora de Rosas (1998)
+https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Striptease (1996)
+https://ia601508.us.archive.org/14/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Casper (1995)
+https://ia601508.us.archive.org/22/items/casper_201709/casper.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Sometimes They Come Back (1991)
+https://ia801504.us.archive.org/8/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Child's Play 2 (1990)
+https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Rodrigo D - No futuro (1990)
+https://archive.org/download/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/[1080p]%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20(sin%20censura%20en%20FULL%20HD)%20(1080p_30fps_H264-128kbit_AAC).mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Back to the Future Part II (1989)
+https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Child's Play (1988)
+https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Mansion de Araucaima (1986)
+https://archive.org/download/LaMansionDeAraucaima1986PeliculaRestauradaEnFULHD/La%20Mansión%20de%20Araucaima%201986%20-%20Pelicula%20Restaurada%20en%20FUL%20HD.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Porky's Revenge (1985)
+https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Children of the Corn (1984)
+https://ia801503.us.archive.org/23/items/LosNinosDelMaiz/Los%20ni%C3%B1os%20del%20maiz.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Vacaciones en Acapulco (1977)
+https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Presidenta Municipal (1975)
+https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Caperucita y Pulgarcito Contra los Monstruos (1960)
+https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El Dolor de Pagar la Renta (1960)
+https://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Macario (1960)
+https://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Angelitos del Trapecio (1959)
+https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Yo Soy Muy Macho (1953)
+https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El Bello Durmiente (1952)
+https://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Aca las Tortas (1951)
+https://ia801500.us.archive.org/22/items/AcaLasTortas/aca%20las%20tortas.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Alice in Wonderland (1951)
+https://ia601508.us.archive.org/33/items/MilOchoMil001/MilOchoMil_001.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Simbad el Mareado (1950)
+https://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Familia Perez (1949)
+https://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Una Familia de Tantas (1949)
+https://ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA%20FAMILIA%20DE%20TANTAS.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Los Tres Huastecos (1948)
+https://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Nosotros - los Pobres (1948)
+https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Si Adelita se Fuera con Otro (1948)
+https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ustedes - los Ricos (1948)
+https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Bambi (1942)
+https://ia601509.us.archive.org/9/items/MilOchoMil004/MilOchoMil_004.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El Libro de Piedra (1969)
+https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
+
+#EXTINF:-1 tvg-logo="http://cecegeek@i.imgur.com/9XkoCL5.jpg"  group-title="PELICULAS", Striptease
+http://cecegeek@goo.gl/XcmKwC
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", LA LEYENDA DE LA NAHUALA
+https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",a CHICOS IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Interstellar
+https://archive.org/download/Interstellar20014PelixMax/Interstellar%20(2014).mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Vendedora de Rosas (1998)
+https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Striptease (1996)
+https://ia601508.us.archive.org/14/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Casper (1995)
+https://ia601508.us.archive.org/22/items/casper_201709/casper.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Sometimes They Come Back (1991)
+https://ia801504.us.archive.org/8/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Child's Play 2 (1990)
+https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Rodrigo D - No futuro (1990)
+https://archive.org/download/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/[1080p]%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20(sin%20censura%20en%20FULL%20HD)%20(1080p_30fps_H264-128kbit_AAC).mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Back to the Future Part II (1989)
+https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Child's Play (1988)
+https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Mansion de Araucaima (1986)
+https://archive.org/download/LaMansionDeAraucaima1986PeliculaRestauradaEnFULHD/La%20Mansión%20de%20Araucaima%201986%20-%20Pelicula%20Restaurada%20en%20FUL%20HD.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Porky's Revenge (1985)
+https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Children of the Corn (1984)
+https://ia801503.us.archive.org/23/items/LosNinosDelMaiz/Los%20ni%C3%B1os%20del%20maiz.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Vacaciones en Acapulco (1977)
+https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Presidenta Municipal (1975)
+https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Caperucita y Pulgarcito Contra los Monstruos (1960)
+https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El Dolor de Pagar la Renta (1960)
+https://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Macario (1960)
+https://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Angelitos del Trapecio (1959)
+https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Yo Soy Muy Macho (1953)
+https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El Bello Durmiente (1952)
+https://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Aca las Tortas (1951)
+https://ia801500.us.archive.org/22/items/AcaLasTortas/aca%20las%20tortas.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Alice in Wonderland (1951)
+https://ia601508.us.archive.org/33/items/MilOchoMil001/MilOchoMil_001.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Simbad el Mareado (1950)
+https://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Familia Perez (1949)
+https://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Una Familia de Tantas (1949)
+https://ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA%20FAMILIA%20DE%20TANTAS.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Los Tres Huastecos (1948)
+https://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Nosotros - los Pobres (1948)
+https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Si Adelita se Fuera con Otro (1948)
+https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ustedes - los Ricos (1948)
+https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Bambi (1942)
+https://ia601509.us.archive.org/9/items/MilOchoMil004/MilOchoMil_004.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El Libro de Piedra (1969)
+https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",EL MAL DENTRO (2017)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",CHUCKY EL MU?ECO DIABOLICO (1988)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",CHUCKY EL MU?ECO DIABOLICO 2 (1990)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",CHUCKY EL MU?ECO DIABOLICO 3 (1991)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",???? PELICULAS1
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",???? PELICULAS2
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",???? PELICULAS3
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Guardianes de la Galaxia 2
+https://ia800800.us.archive.org/20/items/GuardianesDeLaGalaxia22017Online/Guardianes%20de%20la%20Galaxia%202%20%282017%29%20Online.MP4
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Mi Villano Favorito 3 HD
+https://ia601504.us.archive.org/14/items/VillanoTercero2017/Villano%20Tercero%202017.mp4?PelixMax1.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",SAHARA (2017)
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LA MINA (2017)
+https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",PelixMax 1: Castillo de Arena (2017)
+https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mkv
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Chucky El Mu?eco Diabolico (TERROR)
+https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Chucky El Mu?eco Diabolico II (TERROR)
+https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",IT (Eso) 2017 Cam/Cine
+https://ia601504.us.archive.org/25/items/ItPelixMax12017CAMLatino1/ItPelixMax1.mp4
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",City of Angels (1998)
+https://lh3.googleusercontent.com/MweLhRyKTuAKLL6tBSUki2vJK07lhs893cVUl3QOoUnupyqSVs5E6j_s5oO5ki68KguDrT9FK08QBRpTBsDwWJaBGZBz0m2zixDTcnxaJZLjJBCWcGXJShHA_WhLcv-9yb1Ke7MC2Q=m22
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ANGRY BIRDS
+https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4?Pelixmax1.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",la llegada
+http://cecegeek@goo.gl/rI3sYc
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",JackReacher 2
+http://cecegeek@goo.gl/g7Uyn3
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Animales Fantasticos Y Donde Encontrarlos
+http://cecegeek@goo.gl/9Q5k0N
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Locos Dementes
+http://cecegeek@goo.gl/r5ZyVO
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Chica Del Tren
+http://cecegeek@goo.gl/XwRB1y
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Spectral
+http://cecegeek@goo.gl/5OmWvs
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Nerve Un Juego Sin Reglas
+http://cecegeek@goo.gl/X0GnJe
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Me Estas Matando Susana
+http://cecegeek@goo.gl/xteVRW
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Un Cadaver Para Sobrevivir
+http://cecegeek@goo.gl/1Xtz1F
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Meet The Black (Parodia La Purga)
+http://cecegeek@goo.gl/rnQpuu
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El Contador
+http://cecegeek@goo.gl/WaJk1k
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Yo Antes De Ti
+http://cecegeek@goo.gl/0lsCnS
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Buenos Vecinos 2
+http://cecegeek@goo.gl/0xnnee
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Cigue?as
+http://cecegeek@goo.gl/9ppZRC
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Escuadron Suicida
+http://cecegeek@goo.gl/fdhMNg
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Mi Amigo El Dragon
+http://cecegeek@goo.gl/6aY9yF
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",No Manches Frida
+http://cecegeek@goo.gl/7dEAxG
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Al Final Del Tunel
+http://cecegeek@goo.gl/7G2ckp
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ben-Hur
+http://cecegeek@goo.gl/96X3yP
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Cubo Y las Dos Cuerdas Magicas
+http://cecegeek@goo.gl/NOiCDF
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Juego De Armas
+http://cecegeek@goo.gl/RBNfYt
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Mike Y Dave Los Busca Novias
+http://cecegeek@goo.gl/cZEQGB
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Yo Soy Furia
+http://cecegeek@goo.gl/1jMnyd
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ant Man
+http://cecegeek@goo.gl/ZgnwY5
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Horas Contadas
+http://cecegeek@goo.gl/SyvNCX
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Los Ilusionistas 2 Nada es lo que parece
+http://cecegeek@goo.gl/SFH0my
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Pixels
+http://cecegeek@goo.gl/x46RQL
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Siniestro
+http://cecegeek@goo.gl/F5NCPj
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Mi Abuelo Es un Peligro
+http://cecegeek@goo.gl/KYCQoX
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Maldicion El Inico Del Fin
+http://cecegeek@goo.gl/gWJEZq
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",En El Corazon Del Mar
+http://cecegeek@goo.gl/4BqODN
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Guardianes De La Galaxia
+http://cecegeek@goo.gl/sFaEVq
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Chica Danesa
+http://cecegeek@goo.gl/nQXbQ5
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",007 Espectro
+http://cecegeek@goo.gl/qKyjeS
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Accion
+http://cecegeek@goo.gl/HXNsSz
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Drama Romance
+http://cecegeek@goo.gl/mpcsSW
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Infantiles
+http://cecegeek@goo.gl/z3HuR4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Bella Y La Bestia
+http://cecegeek@goo.gl/65yzGX
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Capitan America El primer Vengador
+https://www.dropbox.com/s/h63arfizmbx8iwq/Capitan%20America%20-%20El%20Primer%20Vengador%20%282011%29%20HD%201080p%20Latino.mp4.mp4?dl=1
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Iron Man
+https://www.dropbox.com/s/16y6ly5k7zg3dzp/Iron%20Man%20%282008%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Iron Man 2
+https://www.dropbox.com/s/fb7qtfowggycmzc/Iron%20Man%202%20%282010%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Thor
+https://www.dropbox.com/s/icoljz4tqndttxu/Thor%20%282011%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Iron Man 3
+https://www.dropbox.com/s/3tvfy4naw95nr1s/Iron%20Man%203%20%282013%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Thor: El mundo Obscuro
+https://www.dropbox.com/s/kefjn68mi37vnuk/Thor%20Un%20Mundo%20Oscuro%20%282013%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0a/57/ca/0a57ca21247b2036b43d91eb8c487acf.jpg" group-title="PELICULAS",Guardianes de la Galaxia
+https://www.dropbox.com/s/ov3z6rn2ig6rg24/Guardianes%20De%20La%20Galaxia%20%282014%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Los Vengadores: La Era de Ultron
+https://www.dropbox.com/s/t7cl3ie8ne21whf/The%20Avengers%20Age%20Of%20Ultron%20%282015%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ant-man
+https://www.dropbox.com/s/dx61bsxucwktvff/Ant-Man%20%282015%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Doctor Strange
+https://www.dropbox.com/s/pfx40u08wmndg3r/Doctor%20Strange%20-%20Hechicero%20Supremo%20%282016%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="PELICULAS", Western 
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="PELICULAS", Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="PELICULAS",Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="PELICULAS", Showtime HD
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 PELICULAS 1
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 PELICULAS 2
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 PELICULAS 3
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 PELICULAS 4
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo y Blue Demon en el Mundo de los Muertos 1970
+https://archive.org/download/sanmumu70/sanmumu70.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo contra los Cazadores de Cabezas 1971
+https://archive.org/download/sancaz71/sancaz71.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo en la Mision Suicida 1971
+https://archive.org/download/sancaz71/sanmis71.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo contra la Hija de Frankestein 1971
+https://archive.org/download/sanhifran71/sanhifran71.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo contra la Mafia del Vicio 1971
+https://archive.org/download/sanhifran71/sanmavi71.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo y la Venganza de las Mujeres Vampiro 1970
+https://archive.org/download/sanmumu70/sanvevam70.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo contra los Jinetes del Terror 1970
+https://archive.org/download/sanca69/sanjite70.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo y Blue Demon contra los Monstruos 1969
+https://archive.org/download/sanca69/sanblumon69.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo y el Tesoro de Moctezuma 1968
+https://archive.org/download/sanbabra67/santemo68.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo contra Blue Demon en la Atlantida 1969
+https://archive.org/download/sanbabra67/sanbluat69.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo en la Operacion 67 1967
+https://archive.org/download/saneses66/sanop67.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo contra el Espectro del Estrangulador 1966
+https://archive.org/download/saneses66/saneses66.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo y Blue Demon contra el Poder Satanico 1964
+https://archive.org/download/sanbru64/sanposat64.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo en el Ataque de las Brujas 1964
+https://archive.org/download/sanbru64/sanbru64.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo en el Museo de Cera 1963
+https://archive.org/download/sanmuce63/sanmuce63.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo contra las Momias de Guanajuato 1972
+https://archive.org/download/sanmog72/sanmog72.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo en el Hotel de la Muerte 1963
+https://archive.org/download/sanhom63/sanhom63.avi
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo frente a la muerte 1969
+https://archive.org/download/sanmu69/sanmu69.avi
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Dragon Ball Z: La batalla de los dioses
+https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!222&authkey=!ABUIkpW0XEW_U5I&ithint=file%2cmkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LLUVIA DE HAMBURGUESAS  (2009) 720P hd
+https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!156&authkey=!AHAyK3QJsa_-BdE&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LLUVIA DE HAMBURGUESAS 2  (2013) 720P hd
+https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!159&authkey=!APj4EGHc-XQul1g&ithint=video%2cmp4
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",madagascar 1
+https://discontrol@ia601509.us.archive.org/4/items/alt_M4D4/M4D4645C49-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",madagascar 2
+https://discontrol@ia601509.us.archive.org/4/items/alt_M4D4/M4D4645C49.2-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",madagascar 3
+https://discontrol@ia601508.us.archive.org/29/items/M4D46/M4D4645C49.3-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",pinguinos de madagascar
+https://ia601508.us.archive.org/26/items/93N6UIN5/93N6UIN5.0F.M4D4645C49-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",MADAGASCAR 3 DE MARCHA POR EUROPA (2012) 720P hd
+https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!160&authkey=!AAyqqNCYvuDt9qk&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Star wars 1
+https://discontrol@ia801503.us.archive.org/5/items/5W3.I-II/5W3.I-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Star wars 2
+https://discontrol@ia801503.us.archive.org/5/items/5W3.I-II/5W3.II-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Star wars3
+https://discontrol@ia801508.us.archive.org/7/items/5W3.III-IV/5W3.III-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Star wars 4
+https://discontrol@ia601508.us.archive.org/7/items/5W3.III-IV/5W3.IV-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Star wars 5
+https://discontrol@ia801508.us.archive.org/23/items/5W3.V-VI/5W3.V-ES-720.mp4?
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",transformer
+http://discontrol@ia801509.us.archive.org/29/items/794N5F09M_5166/794N5F09M395-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",transformers la venganza de los caidos
+http://ia801503.us.archive.org/2/items/794N5F09M/794N5F09M395.93V3N63.0F.7H3.F4113N-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",transformers dark of the moon
+http://discontrol@ia801509.us.archive.org/21/items/794N5F0/794N5F09M395.D49K.0F.TH3.M00N-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",transformers age of extincion
+http://discontrol@ia601504.us.archive.org/23/items/794N5F_2546/794N5F09M395.4G3.0F.EX7INC7I0N-ES-720.mp4?disco
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",volver al futuro 1
+https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",volver al futuro 2
+https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",volver al futuro 3
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",noche en el museo
+http://discontrol@ia801508.us.archive.org/22/items/NI6H7.47.7/NI6H7.47.7H3.MU53UM-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",noche en el museo la batalla de Smithsonian
+http://discontrol@ia601500.us.archive.org/11/items/NI6H7.4/NI6H7.47.7H3.MU53UM.847713.0F.7H3.5MI7H50NI4N-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",noche en el museo el secreto del faraon
+http://discontrol@ia601500.us.archive.org/11/items/NI6H7.4/NI6H7.47.7H3.MU53UM.53C937.0F.7H3.70M8-ES-720.mp4?disco
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",los juegos del hambre
+http://discontrol@ia601509.us.archive.org/6/items/7H3.HU/7H3.HUN639.64M3-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",los juegos del hambre mockingjay 1
+http://discontrol@ia601509.us.archive.org/6/items/7H3.HU/7H3.HUN639.64M3.M0CKIN6J4Y.P497.1-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",los juegos del hambre en llamas
+https://discontrol@ia801509.us.archive.org/6/items/7H3.HU/7H3.HUN639.64M3.C4TCHIN6.FI93-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El conjuro
+https://discontrol@ia601505.us.archive.org/0/items/37.COZLU9O/37.COZLU9O.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",anabelle
+https://ia801508.us.archive.org/35/items/H39CU/4N483113-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Caminando entre tumbas
+https://discontrol@ia801507.us.archive.org/10/items/4.W41K/4.W41K.4M0N6.7H3.70M8570N35-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Libranos del mal
+https://discontrol@ia801507.us.archive.org/3/items/D3VI139/D3VI139.U5.F90M.3VI1-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ouija
+https://ia801501.us.archive.org/2/items/0UIJ4/0UIJ4-ES-720.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",En el bosque
+https://discontrol@ia601506.us.archive.org/23/items/IN70.7H3/IN70.7H3.W00D5-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La noche de las bestias
+http://discontrol@ia601506.us.archive.org/10/items/7H3.P9/7H3.PU963.4N49CHY-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La marca de la bestia
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El dia del apocalipsis
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Resucitados [ Dual ]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!283&authkey=!AHnvu6c3-ihLIjw&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",hallowen
+http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",la horca
+https://discontrol@ia801505.us.archive.org/13/items/7H3.463.0F/7H3.64110W5-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",el rito
+http://discontrol@ia601307.us.archive.org/29/items/7H39I7/7H3-9I73-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Infernal
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2451&authkey=!AIepExCIehamN4A&ithint=video%2cmp4
+
+#EXTINF:-1tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La ultima Casa a la Izquierda
+https://onedrive.live.com/download.aspx?resid=caf520a146e23e24!359&authkey=!ALZuPW4pa0r619Y&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Apartamento_5
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!111&authkey=!AL7faVmgfFj5a3I&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",AVISO_DE_MUERTE
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!132&authkey=!AKO3BNFSsULyEJM&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Sacrificio
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
+
+#EXTINF:-1tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",resaca mortal
+http://discontrol@ia601508.us.archive.org/12/items/7H3.HUN6/7H3.HUN60V39.64M35-ES-720.mp4?disco
+
+
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Noche Del Demonio
+https://onedrive.live.com/download.aspx?resid=caf520a146e23e24!354&authkey=!AK2Ny_b-LZRKE5Y&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Noche Del Demonio 2
+https://onedrive.live.com/download.aspx?resid=caf520a146e23e24!358&authkey=!AJOWjkIyhwa19ao&ithint=file%2cmkv
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Exorcismo En El Vaticano
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1008&authkey=!APTbXvMQA5MxSzg&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",The Exorcism of Molly Hartley
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!435&authkey=!AAfEmKos2YvjGwQ&ithint=video%2cavi
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Jeepers Creepers
+https://onedrive.live.com/download.aspx?resid=caf520a146e23e24!355&authkey=!ABDQyD1cn4hoO3M&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Jeepers Creepers 2
+https://onedrive.live.com/download.aspx?resid=caf520a146e23e24!356&authkey=!AAh5i5kEjlLOvEI&ithint=file%2cmkv
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El Cuarto Contacto
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!175&authkey=!AKXyRZbeVHorkbk&ithint=video%2cavi
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Paranormal Activity: Los Señalados
+https://onedrive.live.com/download.aspx?resid=caf520a146e23e24!362&authkey=!AHsbkD_hD5enr-A&ithint=file%2cmkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",13 Fantasmas
+https://onedrive.live.com/download.aspx?resid=caf520a146e23e24!360&authkey=!AMvnGTXh8_fIWsg&ithint=file%2cmkv
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Fiesta-de-bodas
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Hermanos grimm
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ilusionista
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Espia Por accidente
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El club de la pelea
+https://discontrol@ia601509.us.archive.org/26/items/37.C7V8.63.74.P3734/37.C7V8.63.74.P3734.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Hombres de honor
+https://discontrol@ia801507.us.archive.org/4/items/HOW8935.63.HOZO9/HOW8935.63.HOZO9.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Intensamente
+https://discontrol@ia601509.us.archive.org/8/items/IN5ID3.0/IN5ID3.0U7-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Kunfu panda 1
+https://discontrol@ia801501.us.archive.org/25/items/KVZFV.P4Z64/KVZFV.P4Z64.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El libro dela vida
+https://discontrol@ia801503.us.archive.org/35/items/L4.V194.35.83774/37.7189O.63.74.U164.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Perdida
+https://ia601300.us.archive.org/14/items/60N3.6I/60N3.6I91-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El sequito
+https://discontrol@ia601501.us.archive.org/19/items/3N70U9463/3N70U9463-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Hercules
+https://discontrol@ia801508.us.archive.org/35/items/H39CU/H39CU135-ES-720.mp4
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Chappie
+https://discontrol@ia601500.us.archive.org/3/items/CH4PPI3/CH4PPI3-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",22 jump street
+https://ia801500.us.archive.org/3/items/22.JUMP/22.JUMP.579337-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",No llores vuela
+https://discontrol@ia601501.us.archive.org/27/items/410F7/410F7-ES-720.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La ladrona de libros
+https://discontrol@ia601506.us.archive.org/13/items/7H3.800K/7H3.800K.7HI3F-ES-720.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Tomorrow land
+http://discontrol@ia801508.us.archive.org/32/items/70M09/70M0990W14ND-ES-720.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ciudad de papel
+http://discontrol@ia601508.us.archive.org/9/items/P4P39.70/P4P39.70WN5-ES-720.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Life behind
+http://discontrol@ia601505.us.archive.org/8/items/13F7.83HIN/13F7.83HIND-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Alexander un dia terrible
+http://discontrol@ia601503.us.archive.org/18/items/413X4ND3/413X4ND39.4.7.7.H.N.G.V.B.D-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Elisium
+http://discontrol@ia801509.us.archive.org/2/items/31I5IUM/31I5IUM-ES-720.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",El lobo de wall street
+https://discontrol@ia601507.us.archive.org/18/items/7H3.W091D/7H3.W01F.0F.W411.579337-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Bienvenidos al fin del mundo
+https://discontrol@ia601507.us.archive.org/18/items/7H3.W091D/7H3.W091D.3ND-ES-720.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Vacaciones
+https://discontrol@ia801507.us.archive.org/14/items/U4C4C1OZ35/U4C4C1OZ35.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Heroe De Centro Comercial 2
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!120&authkey=!AI69kIiLDce2CrQ&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",fiesta-de-bodas
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",hermanos grimm
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ilusionista
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?disco
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",espia Por accidente
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",el club de la pelea
+https://discontrol@ia601509.us.archive.org/26/items/37.C7V8.63.74.P3734/37.C7V8.63.74.P3734.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",hombres de honor
+https://discontrol@ia801507.us.archive.org/4/items/HOW8935.63.HOZO9/HOW8935.63.HOZO9.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Intensamente
+https://discontrol@ia601509.us.archive.org/8/items/IN5ID3.0/IN5ID3.0U7-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",bienvenidos al fin del mundo
+https://discontrol@ia601507.us.archive.org/18/items/7H3.W091D/7H3.W091D.3ND-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",que paso ayer1
+https://discontrol@ia601500.us.archive.org/33/items/7H3.H4N60V39./7H3.H4N60V39.I-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",que paso ayer2
+http://discontrol@ia601500.us.archive.org/33/items/7H3.H4N60V39./7H3.H4N60V39.II-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",que paso ayer3
+http://discontrol@ia601505.us.archive.org/18/items/7H3.H4N60V39.I/7H3.H4N60V39.III-ES-720.mp4?disco
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Un Mundo Oscuro  thor
+http://discontrol@ia601506.us.archive.org/27/items/16_7H09/7H09.TH3.D49K.W091D-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",THOR - The King Of Asgard Wallpaper
+http://discontrol@ia601506.us.archive.org/27/items/16_7H09/7H09-ES-720.mp4?disco
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",hacker
+http://discontrol@ia801507.us.archive.org/15/items/814CKH4/814CKH47-ES-720.mp4?disco
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Guardianes_de_la_galaxia_Sub_y_3D
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2455&authkey=!ACj3KPjTneKwMnY&ithint=file%2cmkv
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hD6D7rwyrbI/T8GpYlkl2wI/AAAAAAAAAbE/lW9onkroT6o/s1600/El+Gran+Robo.jpg" group-title="PELICULAS", VOD FREE. EL GRAN ROBO
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", UN VUELO DE LOCURA
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",VOD FREE: EL DIA DEL APOCALIPSIS
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G98R2WReTKs/maxresdefault.jpg" group-title="PELICULAS", VOD FREE: MATRIX
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+
+#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="PELICULAS", VOD FREE: SAHARA
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Jumanji: Bienvenidos a la jungla
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2569.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LA MONJA (2018)
+http://descarga.hopto.org/TERROR/La%20Monja-2018.mp4.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Maze Runner The Death Cure
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2573.MP4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Deadpool 2
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2783.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Jurassic World: El reino caído (2018)
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2820.mkv
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24hrs Para Sobrevivir
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2787.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Avengers Inifinity War
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2764.mkv
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Black Panther
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2808.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Titanes Del Pacifico
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/3445.mkv
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",The Sandmand
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2559.MP4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ready Player One
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2772.avi
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Braven
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2635.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Anon
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2663.mkv
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Bordercross
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2769.mkv
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Cargo
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2788.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Brawll In Cell Block 99
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2537.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", ROBOCOP
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",el mal dentro (2017)
+http://bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1 tvg-logo="http://bit.ly/PORTH1" group-title="PELICULAS", Harry Potter Y La Piedra Filosofal
+http://bit.ly/HARRYP1
+
+#EXTINF:-1 tvg-logo="http://bit.ly/PORTTHARRY4" group-title="PELICULAS", Harry Potter Y El Caliz De Fuego
+http://bit.ly/HARRYP4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Chucky El Muñeco Diabolico (TERROR)
+http://bit.ly/MRAQCCHUCK
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Chucky El Muñeco Diabolico II (TERROR)
+http://bit.ly/MRAQCCHUK2
+
+#EXTINF:-1 tvg-logo="http://bit.ly/PBELLA" group-title="PELICULAS", La Bella Y La Bestia (INFANTIL)
+http://bit.ly/MRAQCBELLA
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Volver al futuro 3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Fiesta-de-bodas
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Hermanos grimm
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Ilusionista
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Espia Por accidente
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:Asesino de La Carretera
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:un vuelo de locura
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:volver al futuro 3
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:robocop defensor del futuro
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:la pantera rosa
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:alto impacto
+http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:el gran robo
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:el senor de la guerra
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:un perdedor sin suerte
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:zona de miedo
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:la marca de la bestia
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:el dia del apocalipsis
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",.:impacto mortal
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+
+#EXTINF-1,espia Por accidente
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",JEEPERS CREEPERS 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",VALERIAN Y LA CIUDAD DE MIL PLANETAS
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ATOMICA
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",CARS 2
+https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4?earMy.mp4
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LOS POWER RANGERS
+http://bit.ly/2gbHp2p?JoCaRoMovie
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",HUYE
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",SOBRENATURAL (2007)
+https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ESTACION ZOMBIE (2016)
+https://ia601501.us.archive.org/29/items/discotqa_gmail_1.0/TiroLoco.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",MELANIE APOCALIPSIS ZOMBYE | Android-Latino
+https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",FRAGILES
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ZOMBIOLOGY
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LA NOCHE DE BRUJA
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",MIVILLANO FAVORITO 3
+http://cecegeek@goo.gl/MLYHNw
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",UN SACO DE CANICAS
+http://cecegeek@goo.gl/CFEVMB
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ALIEN COVENANT
+http://cecegeek@goo.gl/2P4LRV
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",HUYE GET OUT
+http://cecegeek@goo.gl/vTWRDV
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LA MOMIA
+http://cecegeek@goo.gl/5wTGRK
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",TODO TODO
+http://ow.ly/tlKB30eS9pK
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",STRIPTEASE
+http://ow.ly/R9AG30eXNAI
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ALICIA EN EL PAIS DE LAS MARAVILLAS
+http://cecegeek@goo.gl/QupTmL
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",BAMBI 2
+http://cecegeek@goo.gl/hfgaAx
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",BAMBI
+http://cecegeek@goo.gl/6PpjEq
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ALTO IMPACTO
+http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", ASESINO DE LA CATTETERA
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", EL SENHOR DE LA GUERRA
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", ESPIA POR ACCIDENTE
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", FISTA DE BODAS
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", HERMANOS GRIMM
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", ILUCIONISTA
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", IMPACTO MORTAL
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?
+
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", LA MARCA DE LA BESTIA
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", LA PANTERA ROSA
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", ROBOCOP DEFENSOR DEL FUTURO
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", UN VUELO DE LOCURA
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", ZONA DE MIEDO
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",COLOSSAL (2016)
+http://bit.ly/2w5zZIw
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",DANIEL EL TRAVIESO (CLASICA)
+https://goo.gl/NH6e4m
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",EL NINHO DE LA PIJAMA A RAYAS
+https://goo.gl/hclbHa
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",RETURN TO HORROR HIGH (TERROR)
+http://bit.ly/ReturntoHorrorHigh
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",SPECTRE
+https://goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",EL CAZADOR Y LA REINA DEL HIELO
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",EL DIARIO DE BRIGDGETT  2016
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",EN EL CORAZON DEL MAR
+https://goo.gl/4BqODN
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",HORAS CONTADAS
+https://goo.gl/SyvNCX
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LA CHICA DANESA
+https://goo.gl/nQXbQ5
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",LA MALDICION EL INICIO DEL FIN
+https://goo.gl/gWJEZq
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",MI ABUELO ES UN PELIGRO
+https://goo.gl/KYCQoX
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",PIXEL
+https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",SINIESTRO
+https://goo.gl/F5NCPj
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",UN VUELO DE LOCURA
+http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ELLOS SIEMPRE REGRESAN
+https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ELLA EN MI CUERPO Y EL EN EL MIO
+https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755" group-title="PELICULAS", Alien Covenant (2017)
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Pitufos 3: La Aldea Perdida
+https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_AQC.mkv
+
+#EXTINF:-1 tvg-logo="http://www.powerrangers.movie/images/posters/powerrangers_poster_international_3_600x925.jpg" group-title="PELICULAS", Los Power Rangers
+http://bit.ly/2gbHp2p
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KUzeQT.jpg" group-title="PELICULAS", Un Saco De Canicas
+http://ow.ly/v7hc30eVA0P
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCHmkz8.jpg" group-title="PELICULAS", Huye
+http://ow.ly/3a9530eXgFk
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Alien Covenant
+http://ow.ly/SgXZ30eXN93
+
+#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2017/04/colossal-poster.jpg" group-title="PELICULAS",Colossal
+http://ow.ly/FXZ930eWtrs
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vZdp7Y5MFgBvH3YYUoNvSRMlLSL.jpg"  group-title="PELICULAS",#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vJjtHYHQe6I/TVsDNFvhzKI/AAAAAAAAAXg/SknModlwHnU/s1600/el-dia-del-apocalipsis.jpg"  group-title="PELICULAS",El dia del apocalipsis
+http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
+
+#EXTINF:0 tvg-name="La Momia" tvg-logo="https://4.bp.blogspot.com/-BV5kC9hw0BA/Wvu8odxsdEI/AAAAAAAACCY/FoqFUw5uo_4JDFRhwTyqsJV6Mj4ZUIFTQCLcBGAs/s320/La%2BMomia.jpg" group-title="PELICULAS", La Momia Dual
+https://dl.dropboxusercontent.com/s/o5epcehqf3etbw8/The.mummy.2017.1080p-dual-lat-r.mp4?dl=0
+
+#EXTINF:0 tvg-name="La peor semana" tvg-logo="https://3.bp.blogspot.com/-yncsVX8M_WA/Wu04_Or8NiI/AAAAAAAAB84/QvXHC2LSk9wzcAehN83kDyTHnWsuOaxfgCLcBGAs/s320/La%2Bpeor%2Bsemana.jpg" group-title="PELICULAS", La pero semana
+https://dl.dropboxusercontent.com/s/ffyl1akz6dppm9c/TheWeek.mp4?dl=0
+
+#EXTINF:0 tvg-name="xXx Reactivado" tvg-logo="https://2.bp.blogspot.com/-lnByzoAyknU/WvPGyJ1LGmI/AAAAAAAAB-U/zLSujunmu-Q_E2A7PpRjhmJbewfznAavACLcBGAs/s320/XXX.jpg" group-title="PELICULAS", xXx Reactivado
+https://dl.dropboxusercontent.com/s/7267ji4i8535dwk/SalynPM-4.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",PELICULAS:CeceGeek
+https://goo.gl/QKaQA7
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",PELICULAS:Locos Dementes
+https://goo.gl/r5ZyVO
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",PELICULAS:Un Cadaver Para Sobrevivir
+https://goo.gl/1Xtz1F
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",PELICULAS:No Manches Frida
+https://goo.gl/7dEAxG
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",PELICULAS:Ant Man
+https://goo.gl/ZgnwY5
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",PELICULAS:Pixels
+https://goo.gl/x46RQL
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",PELICULAS:007 Espectro
+https://goo.gl/qKyjeS
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Cars 2
+https://ia800801.us.archive.org/30/items/MilOchoMil005/MilOchoMil_005.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Alicia En El Pais de Las Maravillas
+https://ia800809.us.archive.org/16/items/MilOchoMil001/MilOchoMil_001.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",VALERIAN Y LA CIUDAD DE MIL PLANETAS
+https://ia800803.us.archive.org/21/items/ValeSRREGIO/ValeSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",ATOMICA
+https://ia800101.us.archive.org/27/items/AtoSRRegio/AtoSRRegio.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Bambi
+https://ia800804.us.archive.org/12/items/MilOchoMil003/MilOchoMil_003.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",IMPACTO MORTAL
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/mc74itm3ibvi3ef/robocop.jpg" group-title="PELICULAS",ROBOCOP DEFENSOR DEL FUTURO
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ajlzgd3c8t4ai2w/zona%20de%20miedo.jpg" group-title="PELICULAS", ZONA DE MIEDO
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg" group-title="PELICULAS",Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
+
+#EXTINF:-1 tvg-logo="https://lasentinel.net/wp-content/uploads/sites/5/2017/11/ENT-Mudbound_IMG-2.jpg", Mudbound 
+http://srregio.xyz/mudbound
+
+#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg", Terror en la Oscuridad CAST 
+http://srregio.xyz/insidecast
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1", The Cured 
+http://srregio.xyz/thecure
+
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/66/99/88/20350578.jpg", Los Extranos 
+http://regiotv.xyz/losextranos
+
+#EXTINF:-1 tvg-logo="https://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-5857152831507565202.jpg", Hasta Pronto Christoper Robin 
+http://regiotv.xyz/christoperrobin
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/21/14/19828283.jpg", Talento De Barrio 
+http://regiotv.xyz/talentodebarrio
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad SUB 
+http://regiotv.xyz/momanddad
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad 
+http://regiotv.xyz/momanddadLAT
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/24_horas_para_vivir.jpg", 24hrs Para Sobrevivir SUB 
+http://regiotv.xyz/24hrssobrevivir
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", Pesadilla Siniestra 
+http://regiotv.xyz/pesadillasiniestra
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Todo Poderoso 
+https://bit.ly/2GajoTS
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg", American Pie 
+https://bit.ly/2KS5ucG
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg", La Leyenda de la Nahuala 
+https://bit.ly/2wBzaYz
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg", Que Culpa Tiene el Nino 
+https://bit.ly/2wBG4x8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1", 3 idiotas 
+http://srregio.xyz/regioflix/3idiotas
+
+#EXTINF:-1 tvg-logo="http://www.cailegdl.com/wp-content/uploads/2018/03/red_sparrow_poster.jpg", Operacion Red Sparrow 
+http://regiotv.xyz/regioflix/redsparrow
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg", Anon 
+http://srregio.xyz/regioflix/anon
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", Samson 
+http://srregio.xyz/regioflix/samson
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg", 15:17 Tren a Paris 
+http://srregio.xyz/regioflix/trenaparis
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles 
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", The Cloverfield Paradox 
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus 
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool 
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", Intensamente 
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII 
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://larryfire.files.wordpress.com/2016/09/18.jpg", Doctor Strange 
+https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina 
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",SAW VIII SUBTITULADO 
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Quija 
+https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://static.emol.cl/emol50/Fotos/2017/06/08/file_20170608100532.jpg"group-title="PELICULAS",La Momia 2017
+http://ow.ly/rSYw30eS9p5
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM2ZTU5M2ItYzU2My00NGE1LWFmNzEtNTM3M2M5Y2ZlZTdlXkEyXkFqcGdeQXVyMzQyMjU3MjI@._V1_.jpg", Eres mi Pasion 
+https://archive.org/download/3rSRREGIOd/3rSRREGIOd.mp4
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/8/81/Bad_Cat_movie_poster.jpg/revision/latest?cb=20170501140634&path-prefix=es", Bad Cat 
+https://archive.org/download/k0tSRR3610/k0tSRR3610.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen 
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+
+#EXTINF:0 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls 
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", Todo El Dinero Del Mundo 
+http://regiotv.xyz/todoeldinerodelmundo
+
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion 
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+
+#EXTINF:0 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos 
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS", La Forma del Agua SUBTITULADO 
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
