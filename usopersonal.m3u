@@ -2626,15 +2626,6 @@ http://cecegeek@goo.gl/nQXbQ5
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",007 Espectro
 http://cecegeek@goo.gl/qKyjeS
 
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Accion
-http://cecegeek@goo.gl/HXNsSz
-
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Drama Romance
-http://cecegeek@goo.gl/mpcsSW
-
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Infantiles
-http://cecegeek@goo.gl/z3HuR4
-
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",La Bella Y La Bestia
 http://cecegeek@goo.gl/65yzGX
 
@@ -2661,40 +2652,6 @@ https://www.dropbox.com/s/dx61bsxucwktvff/Ant-Man%20%282015%29%20HD%201080p%20La
 
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Doctor Strange
 https://www.dropbox.com/s/pfx40u08wmndg3r/Doctor%20Strange%20-%20Hechicero%20Supremo%20%282016%29%20HD%201080p%20Latino%20-%20UltraPeliculasHD.mp4.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="PELICULAS", Western 
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="PELICULAS", Black Cinema
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="PELICULAS",Pop
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="PELICULAS", Showtime HD
-http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 Hollywood PELICULAS 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 PELICULAS 1
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 PELICULAS 2
-http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 PELICULAS 3
-http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
-#EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",24/7 PELICULAS 4
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 
 #EXTINF:-1 tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png" group-title="PELICULAS",Santo y Blue Demon en el Mundo de los Muertos 1970
 https://archive.org/download/sanmumu70/sanmumu70.avi
