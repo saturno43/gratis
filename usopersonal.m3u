@@ -377,8 +377,8 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",Cachupum! Tv
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://locomotiondeculto.files.wordpress.com/2015/06/locomotion-animestation2.png" group-title="INFANTILES",Locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="INFANTILES",Animax Tv
+https://5790d294af2dc.streamlock.net/8232/8232/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i-moolt.com/wp-content/uploads/2017/12/mult_5.jpg" group-title="INFANTILES",Moolt
 http://7645.000webhostapp.com/qn1h1UX01s/v1.php/moolttv/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/SorpresaN_Logo.png" group-title="INFANTILES",Sorpresa
