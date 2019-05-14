@@ -226,6 +226,8 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
 #EXTINF:-1 tvg-logo="https://jackieviteri.files.wordpress.com/2013/05/logo-salud-tv-final.jpg" group-title="CHILE", TV Salud 
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/970759288292601857/HoluiY0F_400x400.jpg" group-title="CHILE",Tendencias Prime
+https://v3.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 1 HD 
