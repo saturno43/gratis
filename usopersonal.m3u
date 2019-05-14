@@ -367,12 +367,6 @@ http://hd.chileservidores.cl:8080/inicial/zonaplay/playlist.m3u8
 https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE Y SERIES",Maxima Tv HD 
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/8JlopAB.png" group-title="CINE Y SERIES",Tv Pop
-http://v3.tustreaming.cl/tvpop/live1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE Y SERIES", FmHot Movies+
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CINE Y SERIES",VC Online HD
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
 #EXTINF:0,-INFANTILES-
 
@@ -998,6 +992,8 @@ http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/cont
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/i1MJYrbhLfwErktZjjue1a98T6n8yzU6sNo-3b_ihoQglxFGipTO4yfmqBBk4AC7lA=s180-rw" group-title="MUSICA",Frecuencia Musical Tv
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="MUSICA",VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4479/square_150x150-2.jpg" group-title="MUSICA",Pandero Music Chile
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/862980988770635777/bAoheDLF_400x400.jpg" group-title="MUSICA",VOX Valparaiso
