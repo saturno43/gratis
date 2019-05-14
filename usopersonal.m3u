@@ -553,6 +553,8 @@ https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/RCN_HD2_2016-0.png/revision/latest?cb=20170424012010",RCN2 HD
 https://rcnhd.cdn.net.co/live02/rcnhd2_720p.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-tr3ce_m.png",Canal 13
+https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i.imgur.com/fzsER.png",NTN24
 https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.suram.com.co/wp-content/uploads/2017/04/LOGO-SURAM.png" group-title="COLOMBIA",Suram TV 
