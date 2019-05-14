@@ -224,7 +224,7 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BvIDfdb.png" group-title="CHILE",Canal 13 Movil HD 
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
-#EXTINF:-1 tvg-logo="https://jackieviteri.files.wordpress.com/2013/05/logo-salud-tv-final.jpg" group-title="CHILE", TV Salud 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKDG166.png" group-title="CHILE", TV Salud 
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/970759288292601857/HoluiY0F_400x400.jpg" group-title="CHILE",Tendencias Prime
 https://v3.tustreaming.cl/tendenciastv/live1/index.m3u8
