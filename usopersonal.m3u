@@ -585,6 +585,8 @@ http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolivia_330_army.png/300px-Bolivia_330_army.png" group-title="BOLIVIA" ,-----BOLIVIA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png" group-title="BOLIVIA",ATB
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat
 http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat Santa Cruz 
