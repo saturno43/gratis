@@ -570,13 +570,12 @@ http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.
 #EXTINF:-1 tvg-logo="https://antoniosanguino.co/wp-content/uploads/2017/12/logo-telecaribe-1.png" group-title="COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="COLOMBIA",Ranchenato TV 
-http://66.240.236.25:1936/ranchenato...chunklist.m3u8
+http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tdicolombia.com.co/wp-content/uploads/2019/01/TDI-LAS-20-MAS-PEGADAS.png" group-title="COLOMBIA",TDI 
 http://190.159.199.86:8181/hls/tdicolombia.m3u8
-#EXTINF:-1 tvg-logo="https://tvnglobal.tv/wp-content/uploads/2017/10/tvnglob.png" group-title="COLOMBIA",TVN GLOBAL 
-http://iptvcolombia.ddns.net/hls-liv.../canaltvn.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDzHYaQtUf7VyrI5is6MTT9nvU5SXVvSMBv7EKsOLvlZaMe8A" group-title="COLOMBIA", CNC 
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+
 
 #EXTINF:0,-BOLIVIA-
 
