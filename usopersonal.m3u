@@ -3645,34 +3645,7 @@ http://m3ukodi.com/iptv/google_play.php?v=1yiwEo7MT7HN1E7ILYVnACrkoTfK-IgVgmg
 http://m3ukodi.com/iptv/google_play.php?v=1F5aHKDgxc7W62waz3JCZuLRGbYNegngj-A
 
 
-#EXTM3U 
 
-#EXTINF:0,-IPTV-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnEyN.png" group-title="IPTV",CREADA POR ERWIN ANDRADE
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.concursosdigitales.com/wp/wp-content/uploads/2017/03/LogoGratis.png" group-title="IPTV",LISTA GRATUITA
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://www.reitzentrum-schwandorf.de/images/facebook.png" group-title="IPTV",PREMIER IPTV 
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PtUD3Id.png" group-title="IPTV",LISTAS GRATIS Y DE PAGO
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SUxgG7s.png" group-title="IPTV",LATIN TV
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7aJzyyd.png" group-title="IPTV",MEGA TV
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ITRCYCu.png" group-title="IPTV",+IPTV
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OvLORC.png" group-title="IPTV",W-SU HD
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6cC497I.png" group-title="IPTV",IPTV5REGION
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CVPoxpy.png" group-title="IPTV",VEOPLAY
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE ABRIL
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:0,-SERIES-
 
 #EXTINF:-0 tvg-logo="https://vignette.wikia.nocookie.net/ideas/images/6/6d/Looney_Tunes_Logo.png/revision/latest?cb=20140507001605" group-title="SERIES", el coyote y el correcaminos
 https://ia801504.us.archive.org/14/items/15.ElCoyoteYElCorrecaminos_201803/15.El%20coyote%20y%20el%20Correcaminos.mp4
