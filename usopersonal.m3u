@@ -2245,7 +2245,7 @@ http://perseus.shoutca.st:8803/stream
 #EXTINF:-1 tvg-logo="http://download.seaicons.com/icons/wwalczyszyn/android-style-honeycomb/256/Movie-Studio-icon.png" group-title="PELICULAS" ,-----PELICULAS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
-#EXTINF:-1 Acusada 2018" Acusada 2018"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Acusada 2018 
+EXTINF:-1 Acusada 2018" Acusada 2018"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Acusada 2018 
 http://m3ukodi.com/iptv/google_play.php?v=1XaKb_3ukrJZ7yonVDhAbaRy0I3FsDVcv 
 #EXTINF:-1 Alien-1 El Octavo Pasajero" Alien-1 El Octavo Pasajero"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Alien-1 El Octavo Pasajero 
 http://m3ukodi.com/iptv/mega_play.php?v=!VThSFKqB!ovYBGg6nE_UhwTkLipvmR2PtQyswy6OohEzpKTtQFDo 
@@ -2263,35 +2263,35 @@ http://m3ukodi.com/iptv/mega_play.php?v=!9WBynKbI!U2QvxBH1LAOJLMEPtXM_8L8jAhRdLp
 http://m3ukodi.com/iptv/mega_play.php?v=!IKJ22IJA!tB6J9fU4_LpYv8Q8kKr8dNZp_QfCKjlFgsfWvvkIMM4 
 #EXTINF:-1 Alien-8 Covenant" Alien-8 Covenant"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Alien-8 Covenant 
 http://m3ukodi.com/iptv/mega_play.php?v=!QfJw3QaJ!KtYQ8HKM94W5D4eCVY04-wTGmJzyhaE6oDOiIZ85v3c 
-#EXTINF:-1 Ant-Man y la Avispa" Ant-Man y la Avispa"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Ant-Man y la Avispa 
+#EXTINF:-1 Ant-Man y la Avispa" Ant-Man y la Avispa"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Ant-Man y la Avispa 
 http://m3ukodi.com/iptv/google_play.php?v=1tykwhsLPRFXG8ITrA27n09b5WHFV3DhV 
-#EXTINF:-1 Ant-Man" Ant-Man"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Ant-Man 
+#EXTINF:-1 Ant-Man" Ant-Man"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Ant-Man 
 http://m3ukodi.com/iptv/google_play.php?v=1p41z8eRXcEWPTl5tTWYhCcRN_U_LXCa1 
 #EXTINF:-1 A ti te queria encontrar 2018" A ti te queria encontrar 2018"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",A ti te queria encontrar 2018 
 http://m3ukodi.com/iptv/google_play.php?v=1-t_-1wzVR8IorrQQVf18NVWcTOKyPXWL 
-#EXTINF:-1 Avengers End Game TC HD 1080p" Avengers End Game TC HD 1080p"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Avengers End Game TC HD 1080p 
+#EXTINF:-1 Avengers End Game TC HD 1080p" Avengers End Game TC HD 1080p"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Avengers End Game TC HD 1080p 
 http://m3ukodi.com/iptv/google_play.php?v=1OLaDNdPQSr3zB23iZ2G2RNT-j01-dRs1 
 #EXTINF:-1   tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Avengers End Game 
 https://storage.googleapis.com/eastern-bridge-234916.appspot.com/654987234/ed1e91ed9c61b4319f59112a240c882a90e2686b030888de97ac2491e6e716e9-ZOwoIZXTfyExMNYeDy9M.mp4 
-#EXTINF:-1 Avengers Era de Ultron" Avengers Era de Ultron"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Avengers Era de Ultron 
+#EXTINF:-1 Avengers Era de Ultron" Avengers Era de Ultron"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Avengers Era de Ultron 
 http://m3ukodi.com/iptv/google_play.php?v=1hFd5KrztZAYuXI2j6C_eDL3N6GR5GwkV 
-#EXTINF:-1 Avengers Infinity War" Avengers Infinity War"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Avengers Infinity War 
+#EXTINF:-1 Avengers Infinity War" Avengers Infinity War"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Avengers Infinity War 
 http://m3ukodi.com/iptv/google_play.php?v=1dpwVJ9ziHbg6Ae8kCEd1xvx-D0PEcBjy 
-#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Black Panter Pantera Negra 1080p 60fps 
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Black Panter Pantera Negra 1080p 60fps 
 http://m3ukodi.com/iptv/google_play.php?v=1tCHU-tAQ_jpLajcvVfaUELm48FgXC0cY 
-#EXTINF:-1 Capitana Marvel TC HD 1080p" Capitana Marvel TC HD 1080p"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Capitana Marvel TC HD 1080p 
+#EXTINF:-1 Capitana PELICULAS TC HD 1080p" Capitana PELICULAS TC HD 1080p"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Capitana PELICULAS TC HD 1080p 
 http://m3ukodi.com/iptv/google_play.php?v=1g03TfWKRDKvvaDtfEh1e_C_GKvqtDzSH 
-#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Capitan marvel 
-https://storage.googleapis.com/modular-botany-230021.appspot.com/mkv/Captain.Marvel.xmdx.Latino.screener.mp4 
-#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Capitán América 1 Capitán América:El Primer Vengador 
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Capitan PELICULAS 
+https://storage.googleapis.com/modular-botany-230021.appspot.com/mkv/Captain.PELICULAS.xmdx.Latino.screener.mp4 
+#EXTINF:-1  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Capitán América 1 Capitán América:El Primer Vengador 
 http://m3ukodi.com/iptv/google_play.php?v=1tvCbIlotRjDK1v0zpPnU0Hks_49du_4T 
-#EXTINF:-1   tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Capitán América 2 Capitán América: El Soldado del Invierno 
+#EXTINF:-1   tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Capitán América 2 Capitán América: El Soldado del Invierno 
 http://m3ukodi.com/iptv/google_play.php?v=1L68_oc0_zgom1fhNhfVEc2c084vkTCp3 
-#EXTINF:-1   tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Capitán América 3 Capitán América: Civil War 
+#EXTINF:-1   tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Capitán América 3 Capitán América: Civil War 
 http://m3ukodi.com/iptv/google_play.php?v=1UwxXw723fwL1dmBe3O83Mz_6n8nv1_J4 
 #EXTINF:-1 Cementerio Maldito 2019" Cementerio Maldito 2019"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Cementerio Maldito 2019 
 https://storage.googleapis.com/eastern-bridge-234916.appspot.com/654987234/448b9d1bc0e086966682c88af726d1036d26834eb1d66cda07337b2c97950ace-JZRPvptneG9pFLVXdMYH.mp4 
-#EXTINF:-1 Doctor Strange" Doctor Strange"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Doctor Strange 
+#EXTINF:-1 Doctor Strange" Doctor Strange"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Doctor Strange 
 http://m3ukodi.com/iptv/google_play.php?v=119-Xf4nH7CHg06qcRw7PDe_8Fpi_nl05 
 #EXTINF:-1 Dont.breathe (2016)" Dont.breathe (2016)"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Dont.breathe (2016) 
 http://m3ukodi.com/iptv/mega_play.php?v=!ZhchDApZ!HdDD4mbtLR3VoqdqHvfX-Bkdh5WcXn5BpDcvdcIIOdA 
@@ -2311,11 +2311,11 @@ http://m3ukodi.com/iptv/google_play.php?v=15Tn61JA2F__mi2W4sxmxKnCzbtBEunWL
 https://openload.co/stream/qo7DYhxwZoQ~1557262304~152.166.0.0~45kzU_ja?mime=true 
 #EXTINF:-1 Glass (2019)" Glass (2019)"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Glass (2019) 
 http://m3ukodi.com/iptv/mega_play.php?v=!SnZVWChJ!F90p2gssVZewRM3DQB0hx7UK-eioRpYsAooTuawOR6I 
-#EXTINF:-1 Guardianes de la Galaxia Vol.2" Guardianes de la Galaxia Vol.2"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Guardianes de la Galaxia Vol.2 
+#EXTINF:-1 Guardianes de la Galaxia Vol.2" Guardianes de la Galaxia Vol.2"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Guardianes de la Galaxia Vol.2 
 http://m3ukodi.com/iptv/google_play.php?v=1htAtsOpy3PfD0X0YSiw2OwSRdDfbGRiN 
-#EXTINF:-1 Guardianes de la Galaxia vol.1" Guardianes de la Galaxia vol.1"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Guardianes de la Galaxia vol.1 
+#EXTINF:-1 Guardianes de la Galaxia vol.1" Guardianes de la Galaxia vol.1"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Guardianes de la Galaxia vol.1 
 http://m3ukodi.com/iptv/google_play.php?v=1MpYF4pddNFfMBxX6wf5eW8KJNJWB8Lk3 
-#EXTINF:-1 Hulk" Hulk"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Hulk h
+#EXTINF:-1 Hulk" Hulk"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Hulk h
 ttp://m3ukodi.com/iptv/google_play.php?v=1jM_rYgySCRxIrY1dxfy7cXTBRlpKuMSx 
 #EXTINF:-1 Insidious 1" Insidious 1"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Insidious 1 
 http://m3ukodi.com/iptv/google_play.php?v=1qKVamcntAiQLESqFI3DeHaLyXxdoBsKf 
@@ -2325,11 +2325,11 @@ http://m3ukodi.com/iptv/google_play.php?v=1iRvsCAeSnEhoa1QQSLvI5YjNI6pbK9Bx
 http://m3ukodi.com/iptv/google_play.php?v=16VulXCmPhz6sOFmRwwB1j5ZEarMXjWo1 
 #EXTINF:-1 Insidious 4" Insidious 4"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Insidious 4 
 http://m3ukodi.com/iptv/google_play.php?v=1b4-qLtGt-nSvDmsQbu8RtaM1AYQ4JFsF 
-#EXTINF:-1 Iron Man 1" Iron Man 1"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Iron Man 1 
+#EXTINF:-1 Iron Man 1" Iron Man 1"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Iron Man 1 
 http://m3ukodi.com/iptv/google_play.php?v=1rJRtPrlxXz_YJQQkWWgrUl738h1ItNm_ 
-#EXTINF:-1 Iron Man 2" Iron Man 2"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Iron Man 2 
+#EXTINF:-1 Iron Man 2" Iron Man 2"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Iron Man 2 
 http://m3ukodi.com/iptv/google_play.php?v=1J7J562uMjD9EiDgr5FYUR2BhmDvfHRJg 
-#EXTINF:-1 Iron Man 3" Iron Man 3"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Iron Man 3 
+#EXTINF:-1 Iron Man 3" Iron Man 3"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Iron Man 3 
 http://m3ukodi.com/iptv/google_play.php?v=1ljTXStQTkWj4Q1BOLmNSldxQ_YXWeOi- 
 #EXTINF:-1 Jefa Por Accidente (2018)" Jefa Por Accidente (2018)"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Jefa Por Accidente (2018) 
 http://m3ukodi.com/iptv/mega_play.php?v=!Df5yzCQQ!Umxt7INhXulW9zGSPwu9Z3O5N7MTFqrthShuQT8xo5E 
@@ -2403,19 +2403,19 @@ http://m3ukodi.com/iptv/google_play.php?v=1hWGXVYc7JNU-Kb6asNeQNTlbHU4lDntj
 http://m3ukodi.com/iptv/google_play.php?v=1m7w5pwkMgA66vQt5lWCZhKuzduekjHd_ 
 #EXTINF:-1 Shazam (2019)" Shazam (2019)"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Shazam (2019) 
 http://m3ukodi.com/iptv/google_play.php?v=1_GkRPIgLlhBXhM7ZFnvd41Otkr4YmXtF 
-#EXTINF:-1   tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Spiderman de Vuelta a Casa 
+#EXTINF:-1   tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Spiderman de Vuelta a Casa 
 http://m3ukodi.com/iptv/google_play.php?v=1XvmL_c7WAkOSscHBDMdQ9Dsf91B3CJe8 
 #EXTINF:-1 The.Final.Wish.2018" The.Final.Wish.2018"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",The.Final.Wish.2018 
 http://m3ukodi.com/iptv/mega_play.php?v=!P2Zw2KgD!gWKVeWbSrWT-FSHqlHAemqsLnX9sUjCBnRBa-EIlxM0 
 #EXTINF:-1 The.Queen.of.Sin.2018" The.Queen.of.Sin.2018"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",The.Queen.of.Sin.2018 
 http://m3ukodi.com/iptv/mega_play.php?v=!qo0nzKhC!xXVShvq5GSJsZ40VYsU9hgSyMugoWQ5vB8KD8MhOobU 
-#EXTINF:-1 The Avengers" The Avengers"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",The Avengers 
+#EXTINF:-1 The Avengers" The Avengers"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",The Avengers 
 http://m3ukodi.com/iptv/google_play.php?v=1qSnI-6G7muCefoy06bSkzJvC4YLy8e0Q 
-#EXTINF:-1 Thor 1" Thor 1"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Thor 1 
+#EXTINF:-1 Thor 1" Thor 1"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Thor 1 
 http://m3ukodi.com/iptv/google_play.php?v=1IIhyOji7h42byxfaKK2StvphQlVVhjJj 
-#EXTINF:-1 Thor 2 Un Mundo Oscuro" Thor 2 Un Mundo Oscuro"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Thor 2 Un Mundo Oscuro 
+#EXTINF:-1 Thor 2 Un Mundo Oscuro" Thor 2 Un Mundo Oscuro"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Thor 2 Un Mundo Oscuro 
 http://m3ukodi.com/iptv/google_play.php?v=1zVdRTPI10A3eBn_IHj5h_KSjjoilMTIl 
-#EXTINF:-1 Thor 3 Ragnarok" Thor 3 Ragnarok"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="MARVEL",Thor 3 Ragnarok 
+#EXTINF:-1 Thor 3 Ragnarok" Thor 3 Ragnarok"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Thor 3 Ragnarok 
 http://m3ukodi.com/iptv/google_play.php?v=1jXEKIuwoVCL2q4MAcpibsUm98i9h4oO6 
 #EXTINF:-1 Ultra PELICULASma 4k" Ultra PELICULASma 4k"  tvg-logo="http://athensmoviepalace.com/wp-content/uploads/2014/07/FilmReel.png"  group-title="PELICULAS",Ultra PELICULASma 4k 
 http://85.112.114.12:8080/ch799/index.m3u8 
