@@ -131,6 +131,8 @@ http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV SD
 http://mi.chv.cl/playlist/stream.m3u8?s=sd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV (prueba)
+https://mdstrm.com/live-stream-playlist/5c928b7f6d6f41084bdae898.m3u8?&dnt=true&access_token=TL8erVBuB7v50Ep1xZzUm0arA3NP7umylgTwxdxSE3wUliQfIXbVtN6KSOCGJPz61LYqg5mkpbR&ref=http%3A%2F%2Fwww.chilevision.cl%2Fsenal-online%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 HD
 http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 SD
