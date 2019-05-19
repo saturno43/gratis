@@ -107,6 +107,7 @@ http://stream.tvpor-internet.net/manifest/03/space.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN HD
 http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA HD
@@ -180,6 +181,10 @@ http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF
+http://streams.estreems.com/CHI-CDF/video.m3u8?token=qGDhXW5-W3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF
+http://streams.estreems.com/CHI-CDFPREMIUN/video.m3u8?token=qGDhXW5-W3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF (usar Wiseplay)
 http://live.fcnlb.click/hls/pc360/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-l4537Y5xzEc/VffTW_-cx_I/AAAAAAAACIQ/5bwcXrTklpU/s1600/77.png" group-title="DEPORTES",Liga Mexicana
@@ -283,6 +288,8 @@ http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamip
 
 #EXTINF:-1 tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="INFANTILES" ,-----INFANTILES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="INFANTILES",ETC
+http://streams.estreems.com/CHI-ETCTV/video.m3u8?token=qGDhXW5-W3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="INFANTILES",Tateti
 http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
