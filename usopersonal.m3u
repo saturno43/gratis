@@ -488,6 +488,16 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg" group-title="COLOMBIA" ,-----COLOMBIA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 group-title="COLOMBIA",CARACOL
+http://streams.estreems.com/COL-CARACOLINT/video.m3u8?token=qGDhXW5-W3
+#EXTINF:-1 group-title="COLOMBIA",CITY TV
+http://streams.estreems.com/COL-CITYTV/video.m3u8?token=qGDhXW5-W3
+#EXTINF:-1 group-title="COLOMBIA",RCN
+http://streams.estreems.com/COL-RCN/video.m3u8?token=qGDhXW5-W3
+#EXTINF:-1 group-title="COLOMBIA",RCN NOVELAS
+http://streams.estreems.com/COL-RCNNOVELAS/video.m3u8?token=qGDhXW5-W3
+#EXTINF:-1 group-title="COLOMBIA",WIN SPORTS
+http://streams.estreems.com/COL-WINSPORTS/video.m3u8?token=qGDhXW5-W3
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i46.tinypic.com/2vwy3yo.png",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i46.tinypic.com/2vwy3yo.png",RCN
