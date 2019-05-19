@@ -211,13 +211,12 @@ http://tv.nousiptv.com:25462/edi/12345/16137
 http://tv.nousiptv.com:25462/edi/12345/3586
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF HD 
 http://tv.nousiptv.com:25462/edi/12345/16138
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/370.png" group-title="DEPORTES", Fox Deportes
-https://fubolive.com/live/foxdeportes/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eb7DJL4.png" group-title="DEPORTES", TyC Sports Argentina HD
 https://nahuelweb.000webhostapp.com/arg/tyc.php
 #EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png" group-title="DEPORTES", Copa Superliga Argentina HD (Solo Eventos) 
-https://nahuelweb.000webhostapp.com/...erliga2019.php
-
+https://nahuelweb.000webhostapp.com/arg/copa-superliga2019.php
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/370.png" group-title="DEPORTES", Fox Deportes
+https://fubolive.com/live/foxdeportes/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN Deportes
 https://fubolive.com/live/espndeportes/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN 
