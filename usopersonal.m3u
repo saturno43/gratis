@@ -194,6 +194,14 @@ http://streams.estreems.com/CHI-CDF/video.m3u8?token=qGDhXW5-W3
 http://streams.estreems.com/CHI-CDFPREMIUN/video.m3u8?token=qGDhXW5-W3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF (usar Wiseplay)
 http://live.fcnlb.click/hls/pc360/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",ESTADIO CDF
+http://tv.nousiptv.com:25462/edi/12345/6979
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES", CDF HD 
+http://tv.nousiptv.com:25462/edi/12345/16137
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES", CDF HD 
+http://tv.nousiptv.com:25462/edi/12345/3586
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF HD 
+http://tv.nousiptv.com:25462/edi/12345/16138
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/370.png" group-title="DEPORTES", Fox Deportes
 https://fubolive.com/live/foxdeportes/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eb7DJL4.png" group-title="DEPORTES", TyC Sports Argentina HD
