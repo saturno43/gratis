@@ -107,7 +107,14 @@ http://stream.tvpor-internet.net/manifest/03/space.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 SIN GEO
+http://streams.estreems.com/CHI-CANAL13HD/video.m3u8?token=qGDhXW5-W3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV SIN GEO
+http://streams.estreems.com/CHI-CHV/video.m3u8?token=qGDhXW5-W3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA SIN GEO
+http://streams.estreems.com/CHI-MEGAHD/video.m3u8?token=qGDhXW5-W3
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN SIN GEO
+http://streams.estreems.com/CHI-TVNHD/video.m3u8?token=qGDhXW5-W3
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN HD
 http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA HD
