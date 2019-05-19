@@ -220,6 +220,10 @@ https://nahuelweb.000webhostapp.com/...erliga2019.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN Deportes
 https://fubolive.com/live/espndeportes/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN 
+https://fubolive.com/live/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN 2
+https://fubolive.com/live/espn2/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-l4537Y5xzEc/VffTW_-cx_I/AAAAAAAACIQ/5bwcXrTklpU/s1600/77.png" group-title="DEPORTES",Liga Mexicana
 https://tvsabldep-lh.akamaihd.net/i/c3n4dep01_1@141897/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
