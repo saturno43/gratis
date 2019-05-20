@@ -15,15 +15,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV1 
 http://188.166.3.223/hls/veopartidos.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",HBO
-http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",HBO
-http://stream.tvpor-internet.net/manifest/06/hb0hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",HBO 2
-http://stream.tvpor-internet.net/manifest/06/hb02.m3u8
-
 
 #EXTINF:0,-PREMIUM-
 
@@ -794,6 +785,8 @@ https://live.sundaystreams.net/SUNS7579mHZkvyUwJEvj/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/do.png" group-title="DOMINICAN REP" ,-----DOMINICAN REP-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title="DOMINICAN REP",TVS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ouitv.net/images/oui_tv_logo_clear_med.png" group-title="DOMINICAN REP",OUI Tv
 http://ss8.domint.net:2102/oui_str/ouitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" group-title="DOMINICAN REP",Orbit Tv
