@@ -920,6 +920,8 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="http://televisiones.lasteles.com/wp-content/uploads/2018/05/rtp-asturias.jpg" group-title="SPAIN",RTPA
 https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.lancelot.tv/images/logo.svg" group-title="SPAIN",Lancelot Tv
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:0 tvg-logo="http://www.liveonlinetv247.info/images/miamitv.png" group-title="SPAIN",Miami Tv españa
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/6fb358fa640c07279bfdad56844ba8ab" group-title="SPAIN",Canal Extremadura
