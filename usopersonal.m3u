@@ -122,6 +122,8 @@ https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",MEGA Plus HD
 http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV HD
+https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV HD
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV SD
 http://mi.chv.cl/playlist/stream.m3u8?s=sd
