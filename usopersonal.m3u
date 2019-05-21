@@ -295,14 +295,18 @@ http://51.254.59.155/hls/cantinflas.m3u8
 http://hd.chileservidores.cl:8080/inicial/zonaplay/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="CINE Y SERIES",A3 series
 https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/ayhGTTg.png" group-title="CINE Y SERIES",Life Tv
-http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE Y SERIES",Maxima Tv HD 
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE Y SERIES",Tv Pop HD
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE Y SERIES", FmHot HD
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ayhGTTg.png" group-title="CINE Y SERIES",Life Tv
+http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="MUSICA",Frecuencia Musical Tv
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="MUSICA",Frecuencia Musical Tv
+https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="CINE Y SERIES",Trailer Tv
 http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
 
@@ -955,10 +959,6 @@ https://vcp80.lorini.net/oxigenotv/oxigenotv/chunklist_w1474703473.m3u8
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/chunklist_w1978127947_b1428000.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSICA",Music Top HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/i1MJYrbhLfwErktZjjue1a98T6n8yzU6sNo-3b_ihoQglxFGipTO4yfmqBBk4AC7lA=s180-rw" group-title="MUSICA",Frecuencia Musical Tv
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/i1MJYrbhLfwErktZjjue1a98T6n8yzU6sNo-3b_ihoQglxFGipTO4yfmqBBk4AC7lA=s180-rw" group-title="MUSICA",Frecuencia Musical Tv
-https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="MUSICA",VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1 tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/musica/tvnmusica.png" group-title="MUSICA",TVN Musica
