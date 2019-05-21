@@ -17,16 +17,14 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://159.89.25.195/hls/veopartidos.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana 2
 http://174.138.14.105/hls/veopartidos.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana 3
 http://134.209.54.174/hls/veopartidos.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana 4
 http://178.128.12.151/hls/veopartidos1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana 5
 http://68.183.22.208/hls/veopartidos3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana 6
 http://204.48.29.197/hls/veopartidos3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV1 
-http://165.22.134.12/hls/veopartidos3.m3u8
 
 #EXTINF:0,-PREMIUM-
 
