@@ -489,12 +489,14 @@ https://d4nh68h7k2i2d.cloudfront.net/bo/bolivision/smil:bo.smil/playlist.m3u8
 https://d4nh68h7k2i2d.cloudfront.net/bo/santa_cruz/smil:bo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png" group-title="BOLIVIA",ATB
 http://stmv1.questreaming.com/atb/atb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" group-title="BOLIVIA", Bolivia TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat
 http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat Santa Cruz 
 http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" group-title="BOLIVIA", Bolivia TV 
-http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
+ 
+
 
 #EXTINF:0,-VENEZUELA-
 
