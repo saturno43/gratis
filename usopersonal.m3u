@@ -478,6 +478,10 @@ http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolivia_330_army.png/300px-Bolivia_330_army.png" group-title="BOLIVIA" ,-----BOLIVIA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-XQXMDso01EY/WYud1l7rqYI/AAAAAAAAAjU/sn5HJXzUx5s2EIZvCAIqO6aIP560a3gTQCLcBGAs/s1600/large.5756fc63a21af_Bolivisin.png.22d52252c181bd2448a3d3331d6c84e5.png" group-title="BOLIVIA",Bolivision La Paz
+https://d4nh68h7k2i2d.cloudfront.net/bo/bolivision/smil:bo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-XQXMDso01EY/WYud1l7rqYI/AAAAAAAAAjU/sn5HJXzUx5s2EIZvCAIqO6aIP560a3gTQCLcBGAs/s1600/large.5756fc63a21af_Bolivisin.png.22d52252c181bd2448a3d3331d6c84e5.png" group-title="BOLIVIA",Bolivision Santa Cruz
+https://d4nh68h7k2i2d.cloudfront.net/bo/santa_cruz/smil:bo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png" group-title="BOLIVIA",ATB
 http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat
