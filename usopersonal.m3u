@@ -147,9 +147,11 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/06/Betis-TV-e1498666063509.jpg" group-title="DEPORTES",Betis Tv
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Big Ten Network
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg" group-title="DEPORTES",Eleven Sports 2
+http://wc6.beeyooo.com/11sp.m3u8
+#EXTINF:-1 tvg-logo="https://icanadvertising.com/wp-content/uploads/2014/11/BTN_Logo-whiteback.png" group-title="DEPORTES",Big Ten Network
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Olimpic Channel HD
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180802/urc/kisspng-winter-olympic-games-logo-olympic-channel-internat-olympic-channel-tv-listings-guide-5b62bcf434d7d4.7575857815331975562165.jpg" group-title="DEPORTES",Olimpic Channel HD
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="DEPORTES",Bein Sports 1
 http://176.10.117.12:8081/aypitv/SportHD1/playlist.m3u8
