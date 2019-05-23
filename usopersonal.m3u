@@ -487,6 +487,8 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat Santa Cruz 
 http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
+#EXTINF:-1 tvg-logo="https://img9.androidappsapk.co/300/d/9/0/com.trunect2.rtp.png" group-title="BOLIVIA",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
  
 
 
