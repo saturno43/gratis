@@ -336,9 +336,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe
 https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1557532220~exp=1557708620~acl=/i/evento6hls_1@48399/*~hmac=f432348153483d39422e76505a80db2750e2efe3058ca2bfeff4b4689a7953e8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/El-doce-canal12cordoba-logo2017.png/revision/latest?cb=20170729083905" group-title="ARGENTINA",El 12
-https://vus-b4-p-e-a1a.cdn.mdstrm.com/live-stream/5aba9ca777ed89391543b607/publish/media_800.m3u8?dnt=true&ref=https%3A%2F%2Fwww.teledoce.com%2Fenvivo%2F&es=vus-b4-p-e-a1a.cdn.mdstrm.com&ote=1558657094587&ot=NLcA0oeYgTtVhOB1ulhiow&proto=https&pz=us
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/El-doce-canal12cordoba-logo2017.png/revision/latest?cb=20170729083905" group-title="ARGENTINA",El 12
-https://g4.proy-slo.transport.edge-access.net/b09/ngrp:el12_live01-100083_all/Playlist.m3u8?sense=true
+https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",Canal 26 2
