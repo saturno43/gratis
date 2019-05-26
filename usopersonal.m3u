@@ -1576,6 +1576,8 @@ https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream2/chunks.m3u8
 https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso HD
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/495744217402978304/t_gtKHQx_400x400.png" group-title="REGIONALES",Mas Television
+https://5580a424c4e9f.streamlock.net:8020/inicial/mastv.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O82YpXFWCbo/hqdefault_live.jpg" group-title="REGIONALES",Marga Marga TV
 http://edge1.cl.grupoz.cl/margamargatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="REGIONALES",Canal 5 Linares
