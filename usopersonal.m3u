@@ -14,13 +14,7 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV" ,-----PPV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana 1
-http://68.183.159.136/hls/veopartidos.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana 2
-http://159.65.200.35/hls/veopartidos.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana 3
-http://178.128.229.246/hls/veopartidos1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Sudamericana 4
-http://134.209.49.156/hls/veopartidos4.m3u8
+http://188.166.125.98/hls/veopartidos.m3u8
 
 
 #EXTINF:0,-CHILE-
