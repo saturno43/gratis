@@ -353,6 +353,19 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe
 https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1557532220~exp=1557708620~acl=/i/evento6hls_1@48399/*~hmac=f432348153483d39422e76505a80db2750e2efe3058ca2bfeff4b4689a7953e8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe Rosario 
+https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1559229693~exp=1559406093~acl=/i/canal5rosario_1@685724/*~hmac=27751e5e32718468848ad6efee90b9b01671eb1d0fa89cc5dc19934d3a78894f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe Córdoba 
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1559229873~exp=1559406273~acl=/i/canal8cordoba_1@685726/*~hmac=2c423466c74fca10329a0b49b129564f59eb184b6760fbb92f87fda9e8c61a14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe Neuquén
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1559230146~exp=1559406546~acl=/i/canal7neuquen_1@751158/*~hmac=b63be015fc958a32590dbde41004901751f777466d71a48b03b68a06609046e9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe Salta 
+https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1559229983~exp=1559406383~acl=/i/evento6hls_1@48399/*~hmac=797f7c21da1d89fc5f60b2e5bfa5a9105ba3af778faaf6e7b9b3c4d9b7e7a9ba
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe Santa Fe 
+https://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8?hdnea=st=1559230380~exp=1559406780~acl=/i/Canal13_SantaFe@399238/*~hmac=ff747a616dc022e71044f883cb498ebe20d2999d53137e9ac33514514fadf9c7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe Bahía Blanca 
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1559255663~exp=1559432063~acl=/I/canal9bahiablanca_1@685725/*~hmac=6c1d2e24ca4982911bf77b6ccac02b1c57bdd59c63c0097e77d98a1d7a21fd01
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/El-doce-canal12cordoba-logo2017.png/revision/latest?cb=20170729083905" group-title="ARGENTINA",El 12
 https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",Canal 26 1
@@ -379,10 +392,14 @@ http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARGENTINA",GenTV 
 http://video1.veemesoft.com.ar:1935/8652/8652/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_9_Litoral_%28Logo_2010%29.png" group-title="ARGENTINA",Canal 9 Litoral 
+https://59d52c5a5ce5e.streamlock.net:4443/canal9hd/ngrp:canal9hd_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png" group-title="ARGENTINA",Televida Canal 9 
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot_400x400.jpg" group-title="ARGENTINA",Tv 10 San Rafael
 http://mediacp.live:1935/8676/8676/chunklist_w984186871.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16365/logo_canal%209%20nueve%20salta4.png" group-title="ARGENTINA",Canal 9 Salta
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canal_10_Mar_del_Plata_%28Logo_2010%29.png" group-title="ARGENTINA",Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png" group-title="ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="ARGENTINA",Canal 2 Telpin Tv
