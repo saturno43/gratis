@@ -214,8 +214,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE Y SERIES" ,-----CINE Y SERIES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cantinflas-png-3.png" group-title="CINE Y SERIES",Cantinflas Tv
-http://51.254.59.155/hls/cantinflas.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="CINE Y SERIES",Zona Play
 http://hd.chileservidores.cl:8080/inicial/zonaplay/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="CINE Y SERIES",A3 series
