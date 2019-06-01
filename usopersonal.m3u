@@ -18,19 +18,10 @@ http://157.230.84.135/hls/veopartidos.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Champions League Fox Sports
 http://157.230.232.124/hls/veopartidos1.m3u8
 
-
 #EXTINF:0,-CHILE-
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 SIN GEO
-http://streams.estreems.com/CHI-CANAL13HD/video.m3u8?token=qGDhXW5-W3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV SIN GEO
-http://streams.estreems.com/CHI-CHV/video.m3u8?token=qGDhXW5-W3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA SIN GEO
-http://streams.estreems.com/CHI-MEGAHD/video.m3u8?token=qGDhXW5-W3
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN SIN GEO
-http://streams.estreems.com/CHI-TVNHD/video.m3u8?token=qGDhXW5-W3
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN HD
 http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA HD
@@ -106,10 +97,6 @@ http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF
-http://streams.estreems.com/CHI-CDF/video.m3u8?token=qGDhXW5-W3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF
-http://streams.estreems.com/CHI-CDFPREMIUN/video.m3u8?token=qGDhXW5-W3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF (usar Wiseplay)
 http://live.fcnlb.click/hls/pc360/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eb7DJL4.png" group-title="DEPORTES", TyC Sports Argentina HD
@@ -235,8 +222,6 @@ http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamip
 
 #EXTINF:-1 tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="INFANTILES" ,-----INFANTILES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="INFANTILES",ETC
-http://streams.estreems.com/CHI-ETCTV/video.m3u8?token=qGDhXW5-W3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="INFANTILES",Tateti
 http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
@@ -458,16 +443,6 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg" group-title="COLOMBIA" ,-----COLOMBIA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 group-title="COLOMBIA",CARACOL
-http://streams.estreems.com/COL-CARACOLINT/video.m3u8?token=qGDhXW5-W3
-#EXTINF:-1 group-title="COLOMBIA",CITY TV
-http://streams.estreems.com/COL-CITYTV/video.m3u8?token=qGDhXW5-W3
-#EXTINF:-1 group-title="COLOMBIA",RCN
-http://streams.estreems.com/COL-RCN/video.m3u8?token=qGDhXW5-W3
-#EXTINF:-1 group-title="COLOMBIA",RCN NOVELAS
-http://streams.estreems.com/COL-RCNNOVELAS/video.m3u8?token=qGDhXW5-W3
-#EXTINF:-1 group-title="COLOMBIA",WIN SPORTS
-http://streams.estreems.com/COL-WINSPORTS/video.m3u8?token=qGDhXW5-W3
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i46.tinypic.com/2vwy3yo.png",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i46.tinypic.com/2vwy3yo.png",RCN
