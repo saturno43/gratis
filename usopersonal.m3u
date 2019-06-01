@@ -23,7 +23,7 @@ http://157.230.232.124/hls/veopartidos1.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN HD
-http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?xtreamiptv.m3u8
+https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA HD
 https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",MEGA Plus HD
