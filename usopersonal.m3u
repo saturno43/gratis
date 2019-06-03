@@ -866,6 +866,8 @@ http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.lancelot.tv/images/logo.svg" group-title="SPAIN",Lancelot Tv
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1116762278462930944/O0IhsF9U_400x400.jpg" group-title="SPAIN",Canal 11 Tv
+http://178.132.6.97/11Madrid/index.m3u8
 #EXTINF:0 tvg-logo="https://www.mundoplus.tv/img/f9002545a050999f33bc4011ad160679" group-title="SPAIN",Dejate de historias
 https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
 #EXTINF:0 tvg-logo="http://www.liveonlinetv247.info/images/miamitv.png" group-title="SPAIN",Miami Tv españa
