@@ -205,6 +205,8 @@ http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE Y SERIES", FmHot HD
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://fibwi.com/img/logo-fibwifibaleares.png" group-title="CINE Y SERIES",Fibwi Tv
+http://178.132.6.97/fibwiLIVE1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ayhGTTg.png" group-title="CINE Y SERIES",Life Tv
 http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE Y SERIES",Frecuencia Musical Tv
