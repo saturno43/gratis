@@ -872,6 +872,8 @@ http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?ip
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 #EXTINF:-1  tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="SPAIN",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/img/a27ff062add51e0e914bcb7e97160294" group-title="SPAIN",Estepona TV
+https://5b38ce71f1f00.streamlock.net/8122/8122/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="SPAIN", EITB 1
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="SPAIN", EITB 2
