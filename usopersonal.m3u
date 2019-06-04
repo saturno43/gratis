@@ -322,6 +322,26 @@ https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="ARGENTINA" ,-----ARGENTINA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png",AMERICA
+http://132.255.200.250:80/hls/master-America.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://television.com.ar/wp-content/uploads/2017/07/cn23.jpg",CN23
+http://132.255.200.250/hls/master-CN23.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://www.antina.com.ar/img/grilla/america24.png",A24
+http://132.255.200.250/hls/master-A24.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://www.antina.com.ar/img/grilla/c5n.png",CN5
+http://132.255.200.250/hls/master-C5N.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://2.bp.blogspot.com/_zQntujzF-DA/SiaUOkDnNfI/AAAAAAAADtQ/6-XPZtBdhfw/w1200-h630-p-k-no-nu/cronicatv_2008.jpg",CRONICA TV
+http://132.255.200.250:80/hls/master-CronicaTV.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/tvp.jpg",TV PUBLICA
+http://132.255.200.250/hls/master-TVP.m3u8
+#EXTINF:-2 group-title="ARGENTINA" tvg-logo="http://www.diario26.com/images/canal26_poster.png",CANAL 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg",CANAL 9
+http://132.255.200.250:80/hls/master-Canal9HD.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://www.lanoticiawebciudad.com.ar/wp-content/uploads/2016/11/telefe-logo.jpg",TELEFE
+http://132.255.200.250:80/hls/master-Telefe.m3u8
+#EXTINF:-2 group-title="ARGENTINA" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/ec4b5-eltrece.jpg",EL TRECE
+http://132.255.200.250:80/hls/master-Canal13.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA",Tv Publica FHD
 https://chunks01.tvpublica.com.ar/video/BJQRNMF6b_1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA",Tv Publica HD
