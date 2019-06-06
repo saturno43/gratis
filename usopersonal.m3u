@@ -1268,7 +1268,7 @@ https://593b04c4c5670.streamlock.net/uta/uta/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://enfoquedigital.cl/wp-content/uploads/2018/08/LOGO-EDTV.png" group-title="REGIONALES",ED Enfoque Digital Atacama
 http://streaminglivehd.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://diarioelficticio.files.wordpress.com/2012/07/logo-atv.png" group-title="REGIONALES",Atacama TV 
-http://v2.tustreaming.cl/tustreaming/live2/chunklist.m3u8
+https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/2454/square_150x150-2.jpg" group-title="REGIONALES",Arica Tv
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w1256972144_b848000.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cap_zpsaosigst3.png" group-title="REGIONALES",Cappissima Multimedial Arica
@@ -1279,6 +1279,8 @@ http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/mono.m3u8
 https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OjHslhDbifk/XPiAUifac3I/AAAAAAAAfsI/FktoYpmRirA-g4IDrmBY7J834d42Ytd_gCLcBGAs/w140-h140-p/maray_logo.png" group-title="REGIONALES",Maray Tv
+https://590c5dc5c3271.streamlock.net/patricia881/patricia881/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua
