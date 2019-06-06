@@ -41,7 +41,7 @@ http://c13-live-1.cdn.nedmedia.io/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 SD
 http://c13-live-1.cdn.nedmedia.io/index_4.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED HD
-https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/master.m3u8|User-agent=iPhone&amp;Referer=http://d28d7tc1ojykcy.cloudfront.net
+https://d28d7tc1ojykcy.cloudfront.net/lared/lared.smil/.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED HD
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",Tv+
@@ -123,7 +123,12 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/06/Betis-TV-e1498666063509.jpg" group-title="DEPORTES",Betis Tv
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN USA
+http://espn.tmedia.me/cache/espn1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN 2 USA
+http://espn.tmedia.me/cache/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN NEWS
+http://espn.tmedia.me/cache/espnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="DEPORTES",Eleven Sports 1
 http://wc7.beeyooo.com/tv11.m3u8
 #EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg" group-title="DEPORTES",Eleven Sports 2
