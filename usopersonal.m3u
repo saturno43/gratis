@@ -13,8 +13,10 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV" ,-----PPV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://assets.mlk-festivals.com/rar/festival/1/logo/635d21a33f4b22d5530f63704a4c7678.png" group-title="PPV",Rock am Ring 2019
+#EXTINF:-1 tvg-logo="https://assets.mlk-festivals.com/rar/festival/1/logo/635d21a33f4b22d5530f63704a4c7678.png" group-title="PPV",Rock am Ring 2019 FHD
 https://streaming-magenta-music-360.akamaized.net:443/hls/live/573871/magentamusik2/magentamusik2_1/magentamusik2.m3u8
+#EXTINF:-1 tvg-logo="https://assets.mlk-festivals.com/rar/festival/1/logo/635d21a33f4b22d5530f63704a4c7678.png" group-title="PPV",Rock am Ring 2019 HD
+https://streaming-magenta-music-360.akamaized.net:443/hls/live/573871/magentamusik2/magentamusik2_2/magentamusik2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",Final Superliga
 http://104.248.217.42/hls/veopartidos.m3u8
 
