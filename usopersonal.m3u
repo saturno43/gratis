@@ -1012,6 +1012,8 @@ https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0132)/index.m3u8
 https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0109)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.oldieshitscr.com/images/logooldieshits-u2505.png?crc=318951874" group-title="MUSICA",Oldies Hits
 http://inliveserver.com:1935/8012/8012/chunklist_w2106861196.m3u8
+#EXTINF:-1 tvg-logo="http://theretrochannel.tv/img/theretrofb.jpg" group-title="MUSICA", Retro Channel
+http://198.24.183.198:1936/theretrochannel/stream/chunklist_w810372011.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA",Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA", RetroTV
