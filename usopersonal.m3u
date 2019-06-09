@@ -426,6 +426,8 @@ http://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/
 http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=1242977139
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="ARGENTINA",Tierra Mía 
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.elrural.com/wp-content/uploads/2016/05/cropped-favicon.png" group-title="ARGENTINA",Canal Rural
+https://g4.proy-hor.transport.edge-access.net/a10/ngrp:rural_live01-100083_all/rural_live01-100083_720p.m3u8
 
 #EXTINF:0,-PERU-
 
