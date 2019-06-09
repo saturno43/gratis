@@ -932,8 +932,6 @@ http://unlimited5-us.dps.live/karavanatv/livestream1/chunks.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA",La Mega Mundial HD
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HeiNetwork.jpg" group-title="MUSICA",HEI
-http://18.228.128.49:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/769765276489543680/cooEO7o2_400x400.jpg" group-title="MUSICA",Oxigeno Network Tv
 https://vcp80.lorini.net/oxigenotv/oxigenotv/chunklist_w1474703473.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.nosmagazine.cl/wp-content/uploads/2015/02/LOGO-CANAL-letra.jpg",Contivision Musica HD
@@ -986,8 +984,6 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv Estados Unidos
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
-#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv España
-https://59ec5453559f0.streamlock.net/miamitvspain/smil:miamitvspain/chunklist_w1460768736_b1596000.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv Colombia
@@ -1000,18 +996,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://www.zerounotv.it/wp-content/uploads/2018/08/Logo-con-motto-Zerouno-TV.png" group-title="MUSICA",Zerouno Tv
 https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png" group-title="MUSICA", ,MTV
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",MTV USA
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",(UA) MTV Hits
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0113)/index.m3u8
-#EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",(UA) MTV Live HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0078)/index.m3u8
-#EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",(UA) Music Box HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0132)/index.m3u8
-#EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",(UA) Music Box UA
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0109)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.oldieshitscr.com/images/logooldieshits-u2505.png?crc=318951874" group-title="MUSICA",Oldies Hits
 http://inliveserver.com:1935/8012/8012/chunklist_w2106861196.m3u8
 #EXTINF:-1 tvg-logo="http://theretrochannel.tv/img/theretrofb.jpg" group-title="MUSICA", Retro Channel
@@ -1024,24 +1010,16 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a.mktgcdn.com/p/dx3Atx8Hz7jeTQk6f-GwR75jdyMOECfesZLYF79O6DI/400x400.jpg" group-title="MUSICA",Radio Italia Vision
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cmc-tv.com/images/camuslogo.gif" group-title="MUSICA",California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4478/square_150x150-2.jpg" group-title="MUSICA",Pandero Music
 http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/7-Gfv3uIqfGm_gBKjVh1jVwNFz8hKZ94z2eEgVvmgwK7QSpzurYiITlqeR5PEher7A=w300" group-title="MUSICA",Dream Tv
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://www.hittv.es/images/logo.png" group-title="MUSICA",Hit Tv
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="http://sicilia.onderadio.net/Loghi/Radio/M2O2.jpg" group-title="MUSICA",M2o Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ajEVjQV.jpg" group-title="MUSICA",GO RT
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/V5tg-A9mM5rfPTlOD8MVkLtIYyNYp5b7LThk_na9k82u77SzSJfxcD4MQioHXQ6iKgbI=w150" group-title="MUSICA",Melody Channel HD
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Muzzone.png" group-title="MUSICA", MZ Muzzone
-http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg" group-title="MUSICA",NRJ HITS TV Live
-http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="MUSICA",Xite
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lattelecom.lv/media/upload/be47_chaula_tv.png" group-title="MUSICA",CHAU Tv
@@ -1050,8 +1028,6 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",CMC 
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",CMC USA
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 tvg-logo="http://fs1.tv/typo3temp/pics/e506ab8c9d.jpeg" group-title="MUSICA",FS1
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="MUSICA",RUTV
@@ -1096,8 +1072,6 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 http://autopilot.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
 http://v1.myowntv.org/content/33816/index.m3u8
-#EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",MTV Rocks
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0026)/index.m3u8
 #EXTINF:-1 tvg-logo="https://statics.yowi.tv/files/3e2e24d983a300883a36ff45cf7afb3d5d40004b" group-title="MUSICA",HQM ROCK
 https://livelist01.yowi.tv/lista/baad6b53816641b85a08541261199f6613d111d4/index-v1-a1.m3u8
 
@@ -1190,8 +1164,6 @@ http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/
 http://niutv.04.cl.cdnz.cl/niutv/smil:cdn.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.interradio1.net/wp-content/uploads/2018/07/LOGO2018-2.png" group-title="RADIOTV",Interradio Tv 
-https://590c5dc5c3271.streamlock.net/jose28/jose28/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
 http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOTV",AE Radio Tv 
@@ -1228,8 +1200,6 @@ http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?iptvgra
 http://movilstream.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4835/square_150x150-2.jpg" group-title="RADIOTV",Radio Agricultura Tv
 https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4900/square_150x150-2.jpg" group-title="RADIOTV",Radio Congreso Tv
-http://190.107.176.55:1935/live/archi-congreso/chunklist_w810766943.m3u8
 #EXTINF:0 tvg-logo="http://sitio.sindicatoescondida.cl/page/wp-content/uploads/2017/03/radioelconsquistador.png" group-title="RADIOTV",Radio El Conquistador
 http://eu1.servers10.com:1935/8282/8282/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.pauta.cl/pauta/site/artic/20180307/imag/foto_0000000420180307152149/logo2.png" group-title="RADIOTV",Pauta HD
@@ -1242,20 +1212,10 @@ http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist
 https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RADIOTV",Musica 80
 https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://laserenadrone.cl/wp-content/uploads/2017/04/laserenadronelogo.png" group-title="RADIOTV",La Serena Drone
-https://593b04c4c5670.streamlock.net/8058/8058/playlist.m3u8
-#EXTINF:-1 group-title="RADIOTV",RADIO VIDA CURICO
-https://v3.tustreaming.cl/radiovidacurico/live1/event-999999.m3u8
 #EXTINF:-1 group-title="RADIOTV",RADIO STEFANIA FM
 https://593b04c4c5670.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 group-title="RADIOTV",RADIO PRELUDIO
 https://593b04c4c5670.streamlock.net/8052/8052/playlist.m3u8
-#EXTINF:-1 group-title="RADIOTV",RADIO ARMONIA
-https://v3.tustreaming.cl/mbrhls/armonia/s1/index.m3u8
-#EXTINF:-1 group-title="RADIOTV",RADIO VIDA NUEVA
-https://v3.tustreaming.cl/rvidanueva/live1/index.m3u8
-#EXTINF:-1 group-title="RADIOTV",CULTOS EN VIVO RADIO VIDA NUEVA
-https://v3.tustreaming.cl/mvidanueva/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logod.png" group-title="RADIOTV",Antena Uno Ecuador
 https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
