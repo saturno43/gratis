@@ -1111,7 +1111,7 @@ https://590c5dc5c3271.streamlock.net/dante271/dante271/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/campus_zps8hgdc5lg.png" group-title="REGIONALES",Campus Tv Talca
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.diarioelcentro.cl//imagenes/logo-centrotv.png" group-title="REGIONALES", TV Centro Talca
-http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
+https://unlimited6-cl.dps.live/tvcentro/tvcentro.smil/tvcentro/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://vltv.cl/wp-content/uploads/2018/08/webok.png" group-title="REGIONALES",VLTV San Javier 
 https://593b04c4c5670.streamlock.net/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.datovision.cl/images/11111.png" group-title="REGIONALES", Datovision Cachapoal
