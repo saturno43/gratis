@@ -260,6 +260,8 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo-footer-t.png" group-title="NOTICIAS" ,-----NOTICIAS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="NOTICIAS",RT Español
+https://rt-esp.secure.footprint.net/1102-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="http://notired.hol.es/wp-content/uploads/2017/08/hispantv.png" group-title="NOTICIAS",HispanTV
 https://5a61de8ed719d.streamlock.net/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS", DW Latino
