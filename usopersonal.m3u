@@ -206,22 +206,16 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="CINE Y SERIES",Zona Play
 https://5c78737f1e572.streamlock.net/8248/8248/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="CINE Y SERIES",A3 series
-https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE Y SERIES",Maxima Tv HD 
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE Y SERIES",Tv Pop HD
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE Y SERIES", FmHot HD
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://fibwi.com/img/logo-fibwifibaleares.png" group-title="CINE Y SERIES",Fibwi Tv
-http://178.132.6.97/fibwiLIVE1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/ayhGTTg.png" group-title="CINE Y SERIES",Life Tv
-http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE Y SERIES",Frecuencia Musical Tv
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE Y SERIES",Frecuencia Musical Tv
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE Y SERIES", FmHot HD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE Y SERIES",Tv Pop HD
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="CINE Y SERIES",Trailer Tv
 http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
 
@@ -233,16 +227,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="INFANTILES",Peque Radio
-http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",Cachupum! Tv
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="INFANTILES",Animax Tv
-https://5790d294af2dc.streamlock.net/8232/8232/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i-moolt.com/wp-content/uploads/2017/12/mult_5.jpg" group-title="INFANTILES",Moolt
-http://7645.000webhostapp.com/qn1h1UX01s/v1.php/moolttv/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/SorpresaN_Logo.png" group-title="INFANTILES",Sorpresa
-http://7645.000webhostapp.com/qn1h1UX01s/v2.php/sorpresa/index.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3799234_logo_gong_max.png" group-title="INFANTILES",Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalsur.es/resources/archivos_offline/2016/10/5/1475662643049La_Banda_TV_310x226.svg" group-title="INFANTILES", La Banda Tv
@@ -274,8 +260,6 @@ https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="MODA", Fashion Tv
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ua/HDFL.png" group-title="MODA",HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-CULTURA-
 
@@ -289,22 +273,15 @@ https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
 https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/tbccoahuila/_/rsrc/1468008973631/c-logotipo-tbc/TBC.jpg" group-title="CULTURA",Tele Bachillerato
 https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8
-
 #EXTINF:-1 tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/spain/129-Canal-Andalucia-Turismo-2.jpg" group-title="CULTURA",Andalucia Turismo
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/640px-Travel_Channel_HD_Logo.png" group-title="CULTURA",Travel HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station 1
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station 2
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-NOTICIAS-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo-footer-t.png" group-title="NOTICIAS" ,-----NOTICIAS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="NOTICIAS",CNN Usa
-https://budgie.cdn.livenewschat.eu/hls/cnn_live/index.m3u8
 #EXTINF:-1 tvg-logo="http://notired.hol.es/wp-content/uploads/2017/08/hispantv.png" group-title="NOTICIAS",HispanTV
 https://5a61de8ed719d.streamlock.net/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS", DW Latino
@@ -322,8 +299,6 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="LATINOS",Telemundo
 http://161.0.157.50/PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="LATINOS",Estrella TV
-http://7645.000webhostapp.com/qn1h1UX01s/v1.php/estrellatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL.png" group-title="LATINOS",Latinos UP Tv
 https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
 
