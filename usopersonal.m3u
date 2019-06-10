@@ -1155,15 +1155,17 @@ https://5790d294af2dc.streamlock.net/8260/8260/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png" group-title="REGIONALES",Universidad Autonoma Temuco
 http://v3.tustreaming.cl/tvautonoma/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal33.cl/assets/images/logo.png" group-title="REGIONALES",Canal 33 Temuco
-http://190.107.176.55:1935/live/canal-33/playlist.m3u8
+https://590c5dc5c3271.streamlock.net/eduardo441/eduardo441/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchileyelmundo.xyz/logos/Tec%20Tv.png" group-title="REGIONALES",TEC Television Temuco
 http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchileyelmundo.xyz/logos/Tec%20Tv.png" group-title="REGIONALES",TEC Television Temuco
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png" group-title="REGIONALES",Ufrovision Temuco
-https://mdstrm.com/live-stream-playlist/5bf724ac8efba92d2668cb33.m3u8
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 #EXTINF:-1,tvg-logo="http://3.bp.blogspot.com/-7OJ9rXYD8dM/Ubn_ZbWRfhI/AAAAAAAAEfE/vTcrZXM48Bs/s320/Temuco_Television_para_face.jpg" group-title="REGIONALES",Temuco Television
 http://v3.tustreaming.cl/temucotelevision/live1/event-999999.m3u8
+#EXTINF:-1,tvg-logo="http://3.bp.blogspot.com/-7OJ9rXYD8dM/Ubn_ZbWRfhI/AAAAAAAAEfE/vTcrZXM48Bs/s320/Temuco_Television_para_face.jpg" group-title="REGIONALES",Temuco Television
+https://v2.tustreaming.cl/temucotelevision/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://anexos.ulagos.cl/castro/admin/tpl/ulagos/images/ULAGOS_LOGO.JPG" group-title="REGIONALES",Universidad de Los Lagos Tv
 http://uestv.02.cl.cdnz.cl/uloslagos/live/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/nacional/pucontv.png" group-title="REGIONALES",Pucon Tv
