@@ -46,8 +46,6 @@ http://c13-live-1.cdn.nedmedia.io/index_3.m3u8
 http://c13-live-1.cdn.nedmedia.io/index_4.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED HD
 https://d28d7tc1ojykcy.cloudfront.net/lared/lared.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED HD
-https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",Tv+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXwpqm.png" group-title="CHILE",UCV 3 HD
@@ -66,8 +64,6 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.
 https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKDG166.png" group-title="CHILE", TV Salud 
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/970759288292601857/HoluiY0F_400x400.jpg" group-title="CHILE",Tendencias Prime
-https://v3.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 1 HD 
@@ -99,20 +95,12 @@ http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5YCF0yo.jpg" group-title="DEPORTES",CDF (usar Wiseplay)
 http://live.fcnlb.click/hls/pc360/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eb7DJL4.png" group-title="DEPORTES", TyC Sports Argentina HD
-https://nahuelweb.000webhostapp.com/arg/tyc.php
-#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png" group-title="DEPORTES", Copa Superliga Argentina HD (Solo Eventos) 
-https://nahuelweb.000webhostapp.com/arg/copa-superliga2019.php
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/370.png" group-title="DEPORTES", Fox Deportes
 https://fubolive.com/live/foxdeportes/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN Deportes
 https://fubolive.com/live/espndeportes/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN 
 https://fubolive.com/live/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN 2
-https://fubolive.com/live/espn2/index.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-l4537Y5xzEc/VffTW_-cx_I/AAAAAAAACIQ/5bwcXrTklpU/s1600/77.png" group-title="DEPORTES",Liga Mexicana
-https://tvsabldep-lh.akamaihd.net/i/c3n4dep01_1@141897/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
@@ -141,20 +129,10 @@ http://wc6.beeyooo.com/11sp.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180802/urc/kisspng-winter-olympic-games-logo-olympic-channel-internat-olympic-channel-tv-listings-guide-5b62bcf434d7d4.7575857815331975562165.jpg" group-title="DEPORTES",Olimpic Channel HD
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="DEPORTES",Bein Sports 1
-http://176.10.117.12:8081/aypitv/SportHD1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="DEPORTES",Sky Sport Football
-https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xE8pgIv.png" group-title="DEPORTES",Chelsea TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 #EXTINF:-1, tvg-logo="http://www.egypttoday.com/siteimages/Larg/15272.jpg" group-title="DEPORTES",Onsports
 http://185.27.116.54:1935/livestream/sno/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.ringtv.com/wp-content/uploads/2016/01/FS1.png" group-title="DEPORTES",FOX Sports 1 (Estados Unidos)
-http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="DEPORTES",FOX Sports 2 (Estados Unidos)
-http://23.237.22.82:8086/udp/127.0.0.1:56047
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/russel/images/3/3f/ESPN_2_Logo.png/revision/latest?cb=20180812071744" group-title="DEPORTES" ,ESPN 2 USA
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png" group-title="DEPORTES" ,Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="DEPORTES",Stadium Sports Network
