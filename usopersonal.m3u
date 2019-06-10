@@ -1083,7 +1083,7 @@ https://5580a424c4e9f.streamlock.net:8020/inicial/mastv.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O82YpXFWCbo/hqdefault_live.jpg" group-title="REGIONALES",Marga Marga TV
 http://edge1.cl.grupoz.cl/margamargatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="REGIONALES",Canal 5 Linares
-http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8
+http://unlimited2-cl.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-2-television-san-antonio.jpg?170413035848" group-title="REGIONALES",Canal 2 San Antonio
 http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://quintatv.cl/wp-content/uploads/2017/05/logo-negro.png" group-title="REGIONALES",Quinta Tv
