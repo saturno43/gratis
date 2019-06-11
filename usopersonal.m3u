@@ -27,6 +27,8 @@ https://rcnhd.cdn.net.co/live02/rcnhd2_720p.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221226207/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Bolivia TV HD
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Teletica HD
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_UyUabZTtLvTqZZfwJAdQ0)/dm/3/x29e3wg/s/live-2.m3u8
 
 #EXTINF:0,-PPV-
 
@@ -563,6 +565,8 @@ https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/cr.png" group-title="COSTA RICA" ,-----COSTA RICA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="COSTA RICA",Teletica Tv
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_UyUabZTtLvTqZZfwJAdQ0)/dm/3/x29e3wg/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="COSTA RICA", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="COSTA RICA",Luna Tv
