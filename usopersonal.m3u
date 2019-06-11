@@ -13,12 +13,16 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WStnUmA.jpg" group-title="COPA AMERICA" ,-----COPA AMERICA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",TVN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",TVN HD
 https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Canal 13 HD
 http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Canal 13 SD
 http://c13-live-1.cdn.nedmedia.io/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",RCN HD
+https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",RCN2 HD
+https://rcnhd.cdn.net.co/live02/rcnhd2_720p.m3u8
 
 #EXTINF:0,-PPV-
 
