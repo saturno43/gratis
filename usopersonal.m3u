@@ -24,15 +24,15 @@ https://live.on4cdn.net/live/27835407/amlst:SUNS_7841sHPHBfywjuGS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.conmebol.com/sites/default/files/userimagnes/copaamerica19_rgb_on_dark_blue_0.jpg" group-title="COPA AMERICA" ,-----COPA AMERICA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="PPV",TVN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA",TVN 
 https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="PPV",CANAL 13 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA",CANAL 13 HD
 http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="PPV",CANAL 13 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA",CANAL 13 SD
 http://c13-live-1.cdn.nedmedia.io/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="PPV",CANAL 13 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA",CANAL 13 SD
 http://c13-live-1.cdn.nedmedia.io/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="PPV",CANAL 13 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/2019_Copa_Am%C3%A9rica_logo.svg/220px-2019_Copa_Am%C3%A9rica_logo.svg.png" group-title="COPA AMERICA",CANAL 13 SD
 http://c13-live-1.cdn.nedmedia.io/index_4.m3u8
 
 
