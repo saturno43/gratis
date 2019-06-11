@@ -140,6 +140,12 @@ http://espn.tmedia.me/cache/espn1.m3u8
 http://espn.tmedia.me/cache/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN NEWS
 http://espn.tmedia.me/cache/espnews.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" group-title="DEPORTES",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="DEPORTES",Action Sports
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="DEPORTES",Hard Knocks Fighting
+https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="DEPORTES",Eleven Sports 1
 http://wc7.beeyooo.com/tv11.m3u8
 #EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg" group-title="DEPORTES",Eleven Sports 2
