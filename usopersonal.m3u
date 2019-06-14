@@ -13,6 +13,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WStnUmA.jpg" group-title="COPA AMERICA" ,-----COPA AMERICA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Pixel Tv
+https://live.on4cdn.net/live/27835407/amlst:SUNS_7841sHPHBfywjuGS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",TVN HD
 https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Canal 13 HD
@@ -32,7 +34,7 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV" ,-----PPV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV Eventos
-https://live.on4cdn.net/live/27835407/amlst:SUNS_7841sHPHBfywjuGS/playlist.m3u8
+
 
 #EXTINF:0,-CHILE-
 
