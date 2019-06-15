@@ -13,6 +13,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WStnUmA.jpg" group-title="COPA AMERICA" ,-----COPA AMERICA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Direct Tv
+http://157.230.229.12/hls/veopartidos.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Pixel Tv
 https://live.on4cdn.net/live/27835407/amlst:SUNS_7841sHPHBfywjuGS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",TVN HD
