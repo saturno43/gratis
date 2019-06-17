@@ -1015,7 +1015,7 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv SD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1047325015908265985/rxjzDfKT_400x400.jpg" group-title="RADIOTV",BIG Radio
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/bigradio.jpg" group-title="RADIOTV",BIG Radio
 http://niutv.04.cl.cdnz.cl/niutv/smil:cdn.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
