@@ -432,6 +432,8 @@ http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDzHYaQtUf7VyrI5is6MTT9nvU5SXVvSMBv7EKsOLvlZaMe8A" group-title="COLOMBIA", CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://suram.com.co/wp-content/uploads/2017/04/LOGO-SURAM.png" group-title="COLOMBIA",Suram TV
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 
 
 #EXTINF:0,-BOLIVIA-
