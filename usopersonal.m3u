@@ -687,7 +687,9 @@ http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/gt.png" group-title="GUATEMALA" ,-----GUATEMALA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision Canal 25*
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/11_de_guatemala_teleonce-mediano.png" group-title="GUATEMALA",Teleonce
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision Canal 25
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIGT0009&mode=12
 
 #EXTINF:0,-HONDURAS-
