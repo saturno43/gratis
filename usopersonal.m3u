@@ -195,23 +195,25 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0,-CINE Y SERIES-
+#EXTINF:0,-CINE-
 
-#EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE Y SERIES" ,-----CINE Y SERIES-----
+#EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE" ,-----CINE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="CINE Y SERIES",Zona Play
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="CINE",Zona Play
 https://5c78737f1e572.streamlock.net/8248/8248/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE Y SERIES",Maxima Tv HD 
+#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Tv HD 
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE Y SERIES", FmHot HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE", FmHot HD
 http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE Y SERIES",Frecuencia Musical Tv
+#EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="CINE",Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
+#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE Y SERIES",Frecuencia Musical Tv
+#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE Y SERIES",Tv Pop HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE",Tv Pop HD
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="CINE Y SERIES",Trailer Tv
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="CINE",Trailer Tv
 http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-INFANTILES-
