@@ -471,6 +471,8 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/ve.png" group-title="VENEZUELA" ,-----VENEZUELA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/a/a0/Logo_TELET.png/revision/latest?cb=20161015185004&path-prefix=es" group-title="VENEZUELA",La tele tuya
+https://laputadetumadrextremostereo.lateletuya.com/servicio14/servicio14/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/200px-TeleSUR-Logo.svg.png" group-title="VENEZUELA",TeleSUR 
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/16516_logo_promar_tv6.png" group-title="VENEZUELA",Promar TV
@@ -522,6 +524,8 @@ http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w148823118
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.c9n.com.py/2018/v3/images/logo.png?v=1596268767" group-title="PARAGUAY",C9N
 https://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.snt.com.py/sites/common/img/logo_snt.png" group-title="PARAGUAY",SNT
+http://d5xwri0kqihsc.cloudfront.net/livesnt/livepy.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="PARAGUAY",RPC
 http://174.138.118.252/live/canal13stream.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1117859737855569921/Kl8-wB_X_400x400.png" group-title="PARAGUAY",unicanal
