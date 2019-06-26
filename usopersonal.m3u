@@ -211,6 +211,8 @@ https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE",Tv Pop HD
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="CINE",Trailer Tv
