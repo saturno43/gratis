@@ -521,6 +521,8 @@ http://rds3.desdeparaguay.net/TV/tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/mx.png" group-title="MEXICO" ,-----MEXICO-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:0 tvg-logo="http://www.mvs-marketing.com/wp-content/uploads/2019/05/Logo_MVS_TV_Color_sitio.png" group-title="MEXICO" ,MVS Tv
+https://content-ausc1.uplynk.com/channel/2db51574d3d64d749804f40c13e0dc12.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/266-2661220_live-milenio-tv-from-mexico-en-vivo-logo.png" group-title="MEXICO" ,Milenio Tv
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/180px-Logo_a%2B_%28canal%29.svg.png" group-title="MEXICO", Azteca Plus
