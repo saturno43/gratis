@@ -201,6 +201,10 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE" ,-----CINE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/studio-universal-logo-01.png" group-title="CINE",STUDIO UNIVERSAL
+https://1.ip2stream.icu/live/studio_universal/playlist.m3u8?ixtlaarreola.m3u8
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/paramount_channel_hd_latinoamerica-mediano.png" group-title="CINE",Paramount
+http://paramount.live.flumotion.com/live/playlist.m3u8?ixtlaarreola.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="CINE",Zona Play
 https://5c78737f1e572.streamlock.net/8248/8248/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Tv HD 
