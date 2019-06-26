@@ -276,6 +276,8 @@ https://wness103.neterra.tv/wness/wness.stream/playlist.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="MODA", Fashion Tv
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-uRLyPis-Z34/Vum6P5trdxI/AAAAAAAAILs/_CLGpko6wpkOah-WEkzCLMnX-nxqvoqjw/s1600/fashion-one-logo.png" group-title="MODA",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:0,-CULTURA-
 
