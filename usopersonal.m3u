@@ -213,6 +213,8 @@ https://5c78737f1e572.streamlock.net/8248/8248/playlist.m3u8
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE", FmHot HD
 http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE",Tv Pop HD
+http://v4.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="CINE",Distrito TV
@@ -223,8 +225,6 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE",Tv Pop HD
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="CINE",Trailer Tv
 http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
 
