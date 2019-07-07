@@ -8,30 +8,11 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://listaswiseplay.com/wp-content/themes/responsive/core/images/featured-image.png" group-title="SATURNO IPTV",Wiseplay
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:0,-COPA AMERICA-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WStnUmA.jpg" group-title="COPA AMERICA" ,-----COPA AMERICA-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",CDF (usar Wiseplay)
-http://live.fcnlb.click/hls/pc360/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Canal 13 HD
-http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Canal 13 SD
-http://c13-live-1.cdn.nedmedia.io/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",TVN HD
-https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",RPC HD
-http://174.138.118.252/live/canal13stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA",Pixel Tv HD
-https://live.on4cdn.net/live/27835407/amlst:SUNS_7841sHPHBfywjuGS/playlist.m3u8
-
 #EXTINF:0,-PPV-
 
 #EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV" ,-----PPV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV Eventos
-
 
 #EXTINF:0,-CHILE-
 
