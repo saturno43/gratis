@@ -629,6 +629,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Antena_7.png" group-title="DOMINICAN REP",Antena 7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="DOMINICAN REP",GH Television
+http://ss6.domint.net:2046/gh_str/tv10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Antena_21_1997.png/revision/latest?cb=20171109210801" group-title="DOMINICAN REP",Antena 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title="DOMINICAN REP",TVS
@@ -749,6 +751,14 @@ http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 Tv
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="SPAIN",Cosmo 
+ttp://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="SPAIN",La Sexta
+https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
+#EXTINF:-1  tvg-logo="http://www.antena3.com/static/images/logo_nova_rst.png" group-title="SPAIN",Nova
+http://91.126.138.140:1935/live/nova-Stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://tentv.es/wp-content/uploads/2016/05/ten.png" group-title="SPAIN",Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN",Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN",BeMad
