@@ -8,8 +8,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://listaswiseplay.com/wp-content/themes/responsive/core/images/featured-image.png" group-title="SATURNO IPTV",Wiseplay
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:0,-PPV-
 
+#EXTINF:0,-PPV-
 #EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV" ,-----PPV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV Eventos
@@ -628,9 +628,9 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="DOMINICAN REP",Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Antena_7.png" group-title="DOMINICAN REP",Antena 7
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Antena_21_1997.png/revision/latest?cb=20171109210801" group-title="DOMINICAN REP",Antena 21
-http://d3e6ki1290i3kk.cloudfront.net/do/canal_21.smil/playlist.m3u8
+https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title="DOMINICAN REP",TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ouitv.net/images/oui_tv_logo_clear_med.png" group-title="DOMINICAN REP",OUI Tv
