@@ -1080,6 +1080,8 @@ https://593b04c4c5670.streamlock.net/8052/8052/playlist.m3u8
 https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://static-co.radio.net/images/broadcasts/c4/32/10868/c300.png" group-title="RADIOTV",Radio Belllaemonella Tv
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
 
 #EXTINF:0,-REGIONALES-
 
@@ -1107,6 +1109,8 @@ http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile
 http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1487255043.png" group-title="REGIONALES",Antofagasta Tv Antofagasta
 https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.webme.com/pic/t/tv2choapa/10001.png" group-title="REGIONALES",Choapa Tv
+http://unlimited2-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OjHslhDbifk/XPiAUifac3I/AAAAAAAAfsI/FktoYpmRirA-g4IDrmBY7J834d42Ytd_gCLcBGAs/w140-h140-p/maray_logo.png" group-title="REGIONALES",Maray Tv
