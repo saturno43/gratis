@@ -774,6 +774,8 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.karavanatv.cl/wp-content/uploads/2019/04/LOGO-NEW-KARAVANA3-1.png" group-title="MUSICA",Karavana Tv HD
 http://unlimited5-us.dps.live/karavanatv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.alegriatv.cl/img/tv.png" group-title="MUSICA",Alegria TV
+https://5c78737f1e572.streamlock.net/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="MUSICA",PortalFoxMix Tv HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA",La Mega Mundial HD
