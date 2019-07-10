@@ -295,8 +295,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America SD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/El-doce-canal12cordoba-logo2017.png/revision/latest?cb=20170729083905" group-title="ARGENTINA",El 12
-https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:-2 group-title="ARGENTINA" tvg-logo="http://www.diario26.com/images/canal26_poster.png",CANAL 26
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",Canal 26 2
