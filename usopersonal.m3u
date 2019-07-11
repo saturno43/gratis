@@ -872,6 +872,8 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/987.gif" group-title="MUSICA",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/viva%20germany.png?m=1458730840" group-title="MUSICA",Viva Tv
+http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-1 tvg-logo="https://www.zerounotv.it/wp-content/uploads/2018/08/Logo-con-motto-Zerouno-TV.png" group-title="MUSICA",Zerouno Tv
 https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",MTV USA
