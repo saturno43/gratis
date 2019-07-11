@@ -180,16 +180,18 @@ http://v4.tustreaming.cl:80/tvpop/live1/index.m3u8
 https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0VJa61G.png" group-title="CINE",Conecta2 Tv
 https://5c78737f1e572.streamlock.net/8212/8212/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Tv HD 
+#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD 
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
+https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.pridechanneltv.com/images/Pride-Channel-TV-Logo.png" group-title="CINE",Pride Channel
+https://59c8647978660.streamlock.net/8158/8158/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="CINE",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo Tv
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
-https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="CINE",Trailer Tv
 http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
 
@@ -729,8 +731,6 @@ http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 Tv
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1  tvg-logo="http://www.pridechanneltv.com/images/Pride-Channel-TV-Logo.png" group-title="SPAIN",Pride Channel
-https://59c8647978660.streamlock.net/8158/8158/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="SPAIN",Cosmo 
 ttp://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="SPAIN",La Sexta
