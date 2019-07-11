@@ -584,6 +584,8 @@ http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 https://live.on4cdn.net/live/27835407/amlst:SUNS_7841sHPHBfywjuGS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/televicentro-canal-2-nicaragua-logo-82E5DB9EC0-seeklogo.com.png" group-title="NICARAGUA",Canal 2 Televicentro
 http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0LHVptm.png" group-title="NICARAGUA",Canal 10 
+https://ni-canal10-canal10-live-0-cdn-0.ned.media/canal10/canal10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WjL4f6u.png" group-title="NICARAGUA",Canal 4 
 http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryp5dos.png" group-title="NICARAGUA",Canal 6 
@@ -685,6 +687,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIGT0009&mode=12
 
 #EXTINF:-1 tvg-logo="http://www.worldcupbrazil.net/wp-content/uploads/2013/10/honduras.png" group-title="HONDURAS" ,-----HONDURAS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/e0/VTV-Honduras-logo-actual.png/revision/latest/scale-to-width-down/200?cb=20170617211843&path-prefix=es",VTV
+https://hn-vtv-vtv-live-0-cdn-0.ned.media/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/sercano.png",Sercano TV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png",TSi
