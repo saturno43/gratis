@@ -900,6 +900,8 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@653084/index_150_av-p.m3u8?sd=6&r
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="MUSICA",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sites.google.com/site/thesoundofmusic2017/_/rsrc/1483450613466/config/customLogo.gif?revision=2" group-title="MUSICA",Sound of Music
+https://assets.soundofmusic.net/live/smil:live/.m3u8
 #EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Animation
 http://www.djing.com/tv/animation.m3u8
 #EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Classic
