@@ -1026,6 +1026,10 @@ http://niutv.04.cl.cdnz.cl/niutv/smil:cdn.smil/master.m3u8
 https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://conectadoschile.pro/img/logo-radio.png" group-title="RADIOTV",Radio Conecta2
+https://5c78737f1e572.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Og9ySVC.png" group-title="RADIOTV",Radio Uni-K
+https://5c78737f1e572.streamlock.net/8142/8142/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
 http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOTV",AE Radio Tv 
