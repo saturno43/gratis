@@ -553,6 +553,14 @@ https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/cr.png" group-title="COSTA RICA" ,-----COSTA RICA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/1200px-Repretel_logo.svg.png" group-title="COSTA RICA",Repretel 11
+https://cr-repretel-canal11-live-0-cdn-0.ned.media/repretel/canal11/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/1200px-Repretel_logo.svg.png" group-title="COSTA RICA",Repretel 12
+https://cr-repretel-canal2-live-0-cdn-0.ned.media/repretel/canal2/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/1200px-Repretel_logo.svg.png" group-title="COSTA RICA",Repretel 14
+https://cr-repretel-canal4-live-0-cdn-0.ned.media/repretel/canal4/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/1200px-Repretel_logo.svg.png" group-title="COSTA RICA",Repretel 16
+https://cr-repretel-canal6-live-0-cdn-0.ned.media/repretel/canal6/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="COSTA RICA",Teletica Tv
 https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_UyUabZTtLvTqZZfwJAdQ0)/dm/3/x29e3wg/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="COSTA RICA", Extrema TV
@@ -612,11 +620,11 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="DOMINICAN REP",Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Antena_7.png" group-title="DOMINICAN REP",Antena 7
-https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8
+https://do-antena7-antena7-live-0-cdn-0.ned.media/antena7/antena7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="DOMINICAN REP",GH Television
 http://ss6.domint.net:2046/gh_str/tv10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Antena_21_1997.png/revision/latest?cb=20171109210801" group-title="DOMINICAN REP",Antena 21
-https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/playlist.m3u8
+https://do-antena7-canal21-live-0-cdn-0.ned.media/antena7/canal21.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title="DOMINICAN REP",TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ouitv.net/images/oui_tv_logo_clear_med.png" group-title="DOMINICAN REP",OUI Tv
@@ -655,7 +663,7 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="EL SALVADOR",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bE34KXc.png" group-title="EL SALVADOR",Canal 12
-http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/playlist.m3u8
+https://sv-canal12-canal12-live-0-cdn-0.ned.media/canal12/canal12.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V9G4N8L.png" group-title="EL SALVADOR",TVX
 https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fesalteme.org/wp-content/uploads/2015/10/Logo-canal-10-El-Salvador.jpg" group-title="EL SALVADOR",TvES
@@ -676,6 +684,12 @@ http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/gt.png" group-title="GUATEMALA" ,-----GUATEMALA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/tn23-mediano.png" group-title="GUATEMALA",TN23
+https://gt-chapintv-canal23-live-0-cdn-0.ned.media/chapintv/canal23.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://guateradios.com/wp-content/uploads/2018/06/canal7-televisiete.png" group-title="GUATEMALA",Televisiete
+https://gt-chapintv-canal7-live-0-cdn-0.ned.media/chapintv/canal7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-m_XTVCgioEQ/UUKvhUe9VSI/AAAAAAAAARs/RbGZX31CGrk/s1600/Logo+Canal+13.jpg" group-title="GUATEMALA",Canal 13
+https://gt-chapintv-canal3-live-0-cdn-0.ned.media/chapintv/canal3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/87c90468fc51f0112a9e0cf567e32eb5.png" group-title="GUATEMALA",Telecosta
 https://5a0b422785262.streamlock.net:1936/telecosta/telecosta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/11_de_guatemala_teleonce-mediano.png" group-title="GUATEMALA",Teleonce
