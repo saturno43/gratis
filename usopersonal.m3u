@@ -264,6 +264,8 @@ https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/640px-Travel_Channel_HD_Logo.png" group-title="CULTURA",Travel HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://crm.unwto.org/sites/crm.unwto.org/files/civicrm/custom/images/image/earthTV-Logo-light-surfaces-300x300.png" group-title="CULTURA",Earth Tv
+https://strm.yandex.ru/kal/worldlife/worldlife0.m3u8?vsid=0
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqxeHJVz8zU/UvGZPvj50oI/AAAAAAAAhME/MxMPhvkIw-M/s1600/Fish+Tv.png" group-title="CULTURA",Fish Tv
 http://live.planeta-online.tv:1935/public/channel_3/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://divan.tv/img/global_img/channel_website/ua_1093.png" group-title="CULTURA",Silence Tv
