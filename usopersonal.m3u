@@ -180,6 +180,10 @@ http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
 http://v4.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="CINE",Zona Play
 https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/qU54fGN.png" group-title="CINE",Conecta2 Tv
+https://5c78737f1e572.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Og9ySVC.png" group-title="CINE",Uni-K Tv
+https://5c78737f1e572.streamlock.net/8142/8142/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="CINE",Distrito TV
@@ -1026,10 +1030,6 @@ http://niutv.04.cl.cdnz.cl/niutv/smil:cdn.smil/master.m3u8
 https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://conectadoschile.pro/img/logo-radio.png" group-title="RADIOTV",Radio Conecta2
-https://5c78737f1e572.streamlock.net/8212/8212/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Og9ySVC.png" group-title="RADIOTV",Radio Uni-K
-https://5c78737f1e572.streamlock.net/8142/8142/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
 http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOTV",AE Radio Tv 
