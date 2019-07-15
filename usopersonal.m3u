@@ -85,6 +85,33 @@ http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png" group-title="CHILE",TVN SERVICIOS 4
 http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
 
+#EXTINF:0,-CINE-
+
+#EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE" ,-----CINE-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE", FmHot HD
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE",Tv Pop HD
+http://v4.tustreaming.cl:80/tvpop/live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="CINE",Zona Play
+https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0VJa61G.png" group-title="CINE",Conecta2 Tv
+https://5c78737f1e572.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD 
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
+https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.pridechanneltv.com/images/Pride-Channel-TV-Logo.png" group-title="CINE",Pride Channel
+https://59c8647978660.streamlock.net/8158/8158/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="CINE",Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
+#EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo Tv
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="CINE",Trailer Tv
+http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
+
 #EXTINF:0,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
@@ -171,33 +198,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-
-#EXTINF:0,-CINE-
-
-#EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE" ,-----CINE-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE", FmHot HD
-http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE",Tv Pop HD
-http://v4.tustreaming.cl:80/tvpop/live1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="CINE",Zona Play
-https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0VJa61G.png" group-title="CINE",Conecta2 Tv
-https://5c78737f1e572.streamlock.net/8212/8212/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD 
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
-https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.pridechanneltv.com/images/Pride-Channel-TV-Logo.png" group-title="CINE",Pride Channel
-https://59c8647978660.streamlock.net/8158/8158/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="CINE",Distrito TV
-https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
-#EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo Tv
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="CINE",Trailer Tv
-http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-INFANTILES-
 
