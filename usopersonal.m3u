@@ -514,6 +514,12 @@ http://rds3.desdeparaguay.net/TV/tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/mx.png" group-title="MEXICO" ,-----MEXICO-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2DilKLq.png" group-title="MEXICO",TV Cuatro 4.1
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U3L9WVY.png" group-title="MEXICO",TV Cuatro 4.2
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZLkq5f.png" group-title="MEXICO",TV Cuatro 4.3
+https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.mvs-marketing.com/wp-content/uploads/2019/05/Logo_MVS_TV_Color_sitio.png" group-title="MEXICO" ,MVS Tv
 https://content-ausc1.uplynk.com/channel/2db51574d3d64d749804f40c13e0dc12.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/266-2661220_live-milenio-tv-from-mexico-en-vivo-logo.png" group-title="MEXICO" ,Milenio Tv
