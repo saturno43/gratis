@@ -93,7 +93,7 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="CINE",Zona Play
 https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="CINE",Tv Pop HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xbPGL08.png" group-title="CINE",Tv Pop HD
 http://v2.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD 
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
