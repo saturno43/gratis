@@ -13,6 +13,12 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/art_lima2019_04.png" group-title="JUEGOS PANAMERICANOS" ,-----JUEGOS PANAMERICANOS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="JUEGOS PANAMERICANOS",CDO Basico
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="JUEGOS PANAMERICANOS",La tele tuya
+https://laputadetumadrextremostereo.lateletuya.com/servicio14/servicio14/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="JUEGOS PANAMERICANOS",CNN Chile
+http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="JUEGOS PANAMERICANOS",CHV HD
 https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="JUEGOS PANAMERICANOS",CHV HD
