@@ -2138,6 +2138,10 @@ http://perseus.shoutca.st:8803/stream
 
 #EXTINF:-1 tvg-logo="http://download.seaicons.com/icons/wwalczyszyn/android-style-honeycomb/256/Movie-Studio-icon.png" group-title="PELICULAS" ,-----PELICULAS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video113/v4/6e/47/f6/6e47f680-ac54-21ff-a37a-3aab1a9970b0/DIS_AV_ENDGAME_FINAL_ENGLISH_US_WW_WW_ARTWORK_EN_2000x3000_1OWPBJ00000GQ6.lsr/268x402.jpg" group-title="PELICULAS",Avengers EndGame
+https://drive.google.com/file/d/1P4-ZEAbgGWKxXtZ7DTgDJTO1W1mjpcab/view
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video113/v4/6e/47/f6/6e47f680-ac54-21ff-a37a-3aab1a9970b0/DIS_AV_ENDGAME_FINAL_ENGLISH_US_WW_WW_ARTWORK_EN_2000x3000_1OWPBJ00000GQ6.lsr/268x402.jpg" group-title="PELICULAS",Avengers EndGame
+https://www1773.hlsmp4.com/token=6nfNvFQLuH5LBN8dYfUKgg/1564341542/0.0.0.0/64/b/fc/967410fd795215bb4e0c0d78da57efcb-480p.mp4
 #EXTINF:-1 tvg-logo="https://www.covercaratulas.com/ode/mini_mini/carteles-29078.jpg" group-title="PELICULAS",Avengers Infinity War
 https://www.dropbox.com/sh/8lqy4xbjzavsopw/AACId90ktmjxMf9koTnmuDK3a/Avengers%20Infinity%20War%20%282018%29%20Latino%20HD%20WEB-DL%201080P%20latinomegahd.mkv?dl=0
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/black_panther-992613805-large.jpg" group-title="PELICULAS",Black Panther
