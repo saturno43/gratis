@@ -9,6 +9,15 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://listaswiseplay.com/wp-content/themes/responsive/core/images/featured-image.png" group-title="SATURNO IPTV",Wiseplay
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:0,-WACKEN 2019-
+
+#EXTINF:-1 tvg-logo="http://patagoniametaltours.com/wp/wp-content/uploads/2018/03/wacken-open-air.jpg" group-title="WACKEN 2019" ,----WACKEN 2019-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://ultimetal.free.fr/anglais/groupes/wacken/logo.gif" group-title="WACKEN 2019",Señal 1
+http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/index.m3u8
+#EXTINF:-1 tvg-logo="http://ultimetal.free.fr/anglais/groupes/wacken/logo.gif" group-title="WACKEN 2019",Señal 2
+http://streaming-magenta-music-360.akamaized.net/hls/live/504582/magentamusik2/index.m3u8
+
 #EXTINF:0,-JUEGOS PANAMERICANOS-
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/art_lima2019_04.png" group-title="JUEGOS PANAMERICANOS" ,-----JUEGOS PANAMERICANOS-----
