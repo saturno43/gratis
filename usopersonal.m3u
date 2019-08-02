@@ -149,6 +149,8 @@ http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Basico
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTES",Teletrak 
+http://unlimited5-cl.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8
+#EXTINF:0 tvg-logo="http://golpenoticias.cl/wp/wp-content/uploads/2016/11/MISS-DERBY-2017-VALPARA%C3%8DSO-SPORTING.jpg" group-title="DEPORTES",Valparaiso Sporting 
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTES",Teletrak 
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?xtreamiptv.m3u8
