@@ -284,6 +284,8 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/363px-TV_Cultura.svg.png" group-title="CULTURA" ,-----CULTURA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://www.tarot.es/img/tv-tarot/tarot-logo-television.png" group-title="CULTURA",Tarot Tv
+https://live2.tarotcanal.com/live/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L._SY355_.png" group-title="CULTURA",AKC Tv
 https://video.blivenyc.com/broadcast/prod/2061/22/file-429k.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisioneducativa.gob.mx/work/models/DGTVE/Template/resource/canales/img/ingenio.png" group-title="CULTURA",Ingenio TV
