@@ -1206,6 +1206,8 @@ http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/mono.m3u8
 https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/t/tv2choapa/10001.png" group-title="REGIONALES",Choapa Tv
 http://unlimited2-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="REGIONALES",Taltal TV
+https://inliveserver.com:1936/10018/10018/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OjHslhDbifk/XPiAUifac3I/AAAAAAAAfsI/FktoYpmRirA-g4IDrmBY7J834d42Ytd_gCLcBGAs/w140-h140-p/maray_logo.png" group-title="REGIONALES",Maray Tv
@@ -1250,6 +1252,8 @@ http://xcanal_cssx.api.channel.livestream.com/3.0/playlist.m3u8
 http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmaule.cl/1.png" group-title="REGIONALES",Tv Maule
 https://590c5dc5c3271.streamlock.net/dante271/dante271/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmaulinos.com/wp-content/uploads/2018/06/TVM2018-2.png" group-title="REGIONALES",Tv Maulinos
+https://590c5dc5c3271.streamlock.net/juancarlos407/juancarlos407/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/campus_zps8hgdc5lg.png" group-title="REGIONALES",Campus Tv Talca
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.diarioelcentro.cl//imagenes/logo-centrotv.png" group-title="REGIONALES", TV Centro Talca
