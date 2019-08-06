@@ -1326,6 +1326,8 @@ http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sossurf.com.au/surf/wp-content/uploads/2013/06/Religion-logo.png" group-title="RELIGION" ,-----RELIGION-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.betheltv.tv/btv_includes/img/profile/lburgos.png",Bethel TV
+http://api.new.livestream.com/accounts/16199200/events/4590066/live.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.ewtnmissionaries.com/images/resources/detail/order/order-special-resource-network-sticker.png",EWTN
 https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_480x270_350k.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://tbnespaña.es/wp-content/uploads/2017/01/logoWeb.png",TBN España
