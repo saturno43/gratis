@@ -512,12 +512,6 @@ http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",ALCARRIA TV [ES][576p]
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://static.azteca.com/imagenes/2018/48/logo-2274363.png" group-title="MEXICO",Azteca +
-https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://static.azteca.com/imagenes/2018/48/logo-2274363.png" group-title="MEXICO",Azteca +
-https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO",Azteca Mas
-https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",BBLACK | SD (MX)
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/4572.gifg" group-title="MEXICO",C7 Cultura
@@ -546,7 +540,7 @@ https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://cbtelevision.com.mx/wp-content/uploads/2018/10/logo_2x-copia_6af9e860c94fcdc7a5d9ed896a5b3f97.png" group-title="MEXICO",CBTV
 http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/330px-De_pelicula_logo.png" group-title="MEXICO",De Película
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Livebh Tv
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MEXICO",Foro
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
@@ -562,8 +556,6 @@ http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8?iptvgratis?
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",MONTE MARIA | SD (MX)
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MTV.es.png" group-title="MEXICO",MTV (Latinoamérica)
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/250px-Multimedios_Television.png" group-title="MEXICO",Multimedios
 http://mdstrm.com:80/live-stream-playlist/57b4db886338448314449cfa.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/250px-Multimedios_Television.png" group-title="MEXICO",Multimedios CDMX
