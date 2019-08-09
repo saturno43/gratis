@@ -81,8 +81,12 @@ https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
 https://593d7fe3c9b0d.streamlock.net/8102/8102/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD 
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="CINE",Taltal Tv
+https://5d49dd8a03159.streamlock.net:443/8050/8050/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.estaciontv.cl/site/templates/rt_callisto/images/logo/logo.png?5d378a60" group-title="CINE",Estacion Tv
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pixelchanneltv.online/wp-content/uploads/2019/07/pixel-channel-logo2.png" group-title="CINE",Pixel Channel
+https://live.on4cdn.net/live/27835407/amlst:SUNS_8039jbMSWpGmynKA/master.m3u8
 #EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.pridechanneltv.com/images/Pride-Channel-TV-Logo.png" group-title="CINE",Pride Channel
