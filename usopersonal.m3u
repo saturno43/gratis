@@ -1,5 +1,64 @@
 #EXTM3U 
 
+#EXTINF:0,-DISH-
+
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",AXN
+http://23.139.96.12:2095/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",TNT
+http://23.139.96.12:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",HBO
+http://23.139.96.12:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",HBO2
+http://23.139.96.12:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",CARTOON NETWORK
+http://23.139.96.12:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",DISCOVERY KIDS
+http://23.139.96.12:2095/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",DISNEY CHANNEL
+http://23.139.96.12:2095/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",DISNEY XD
+http://23.139.96.12:2095/304DisneyXDNorte/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",CLARO SPORTS
+http://23.139.96.12:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",TUDN
+http://23.139.96.12:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",UNICABLE
+http://23.139.96.12:2095/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",SPACE
+http://23.139.96.12:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",HISTORY
+http://23.139.96.12:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",H2
+http://23.139.96.12:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",WARNER
+http://23.139.96.12:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",ESTRELLAS
+http://23.139.96.12:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",MAX PRIME
+http://23.139.96.12:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",TNT SERIES
+http://23.139.96.12:2095/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",ESPN
+http://23.139.96.12:2095/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",ESPN2
+http://23.139.96.12:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",ESPN3
+http://23.139.96.12:2095/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",FOX
+http://23.139.96.12:2095/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",COMEDY
+http://23.139.96.12:2095/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",FOX SPORTS 1
+http://23.139.96.12:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",FOX SPORTS 2
+http://23.139.96.12:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",FOX SPORTS 3
+http://23.139.96.12:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",DISCOVERY CHANNEL 
+http://23.139.96.12:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",NICKELODEON
+http://23.139.96.12:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:0,-CHILE-
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
