@@ -1249,7 +1249,9 @@ http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/
 #EXTINF:0 tvg-logo="https://www.morfina.cl/images/logo_morfina.jpg" group-title="RADIOTV",Morfina Tv
 https://593b04c4c5670.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/bigradio.jpg" group-title="RADIOTV",BIG Radio
-http://niutv.04.cl.cdnz.cl/niutv/smil:cdn.smil/master.m3u8
+https://unlimited2-cl.dps.live/bigradio/bigradio.smil/bigradio/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/bigradio.jpg" group-title="RADIOTV",BIG Radio
+https://unlimited2-cl.dps.live/bigradio/bigradio.smil/bigradio/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3788384_logo_radio_zeta.png" group-title="RADIOTV",RadioZeta
 https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
