@@ -140,8 +140,10 @@ https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
 https://593d7fe3c9b0d.streamlock.net/8102/8102/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD 
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="CINE",Taltal Tv
-https://5c78737f1e572.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="CINE",Taltal Tv Peliculas
+https://5c78737f1e572.streamlock.net:443/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="CINE",Taltal Tv Documentales
+https://inliveserver.com:1936/10018/10018/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.estaciontv.cl/site/templates/rt_callisto/images/logo/logo.png?5d378a60" group-title="CINE",Estacion Tv
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pixelchanneltv.online/wp-content/uploads/2019/07/pixel-channel-logo2.png" group-title="CINE",Pixel Channel
@@ -256,6 +258,8 @@ http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181126162232476.png" group-title="INFANTILES",Cachupum! Tv
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://tvtaltal.cl/bienve1.jpg" group-title="INFANTILES" ,Taltal Tv Animacion
+https://5c78737f1e572.streamlock.net:443/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="INFANTILES",locomotion Tv
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3799234_logo_gong_max.png" group-title="INFANTILES",Gong Max
@@ -1335,10 +1339,6 @@ http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/mono.m3u8
 https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/t/tv2choapa/10001.png" group-title="REGIONALES",Choapa Tv
 http://unlimited2-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="REGIONALES",Taltal TV
-https://inliveserver.com:1936/10018/10018/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="REGIONALES",Taltal TV
-https://5d49dd8a03159.streamlock.net:443/8050/8050/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OjHslhDbifk/XPiAUifac3I/AAAAAAAAfsI/FktoYpmRirA-g4IDrmBY7J834d42Ytd_gCLcBGAs/w140-h140-p/maray_logo.png" group-title="REGIONALES",Maray Tv
