@@ -141,7 +141,7 @@ https://593d7fe3c9b0d.streamlock.net/8102/8102/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD 
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="CINE",Taltal Tv
-https://5d49dd8a03159.streamlock.net:443/8050/8050/playlist.m3u8
+https://5c78737f1e572.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.estaciontv.cl/site/templates/rt_callisto/images/logo/logo.png?5d378a60" group-title="CINE",Estacion Tv
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pixelchanneltv.online/wp-content/uploads/2019/07/pixel-channel-logo2.png" group-title="CINE",Pixel Channel
@@ -1337,6 +1337,8 @@ https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8
 http://unlimited2-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="REGIONALES",Taltal TV
 https://inliveserver.com:1936/10018/10018/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="REGIONALES",Taltal TV
+https://5d49dd8a03159.streamlock.net:443/8050/8050/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OjHslhDbifk/XPiAUifac3I/AAAAAAAAfsI/FktoYpmRirA-g4IDrmBY7J834d42Ytd_gCLcBGAs/w140-h140-p/maray_logo.png" group-title="REGIONALES",Maray Tv
