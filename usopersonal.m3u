@@ -283,15 +283,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/460798109979664384/GXeGjD-I_400x400.png" group-title="COCINA",Andalucia Cocina Tv
 https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
 
-#EXTINF:0,-FITNESS-
-
-#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1151/PNG/512/1486505266-dish-food-dome-dish-kitchen-restaurant_81412.png" group-title="FITNESS" ,-----FITNESS-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://fitnesshd.tv/wp-content/uploads/2016/11/logo.png" group-title="FITNESS",Fitness Tv
-https://v2.tustreaming.cl/fitnesstv/s1-1000k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/wness-tv-logo.png" group-title="FITNESS",Wness TV
-https://wness103.neterra.tv/wness/wness.stream/playlist.m3u8
-
 #EXTINF:0,-MODA-
 
 #EXTINF:-1 tvg-logo="https://modaw4.files.wordpress.com/2011/10/people-moda.jpg?w=474" group-title="MODA" ,-----MODA-----
@@ -360,8 +351,6 @@ https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="ARGENTINA" ,-----ARGENTINA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-2 group-title="ARGENTINA" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/17aee-elnuevenuevo.png",El Nueve HD
-https://ar-elnueve-elnueve-live-0-cdn-0.ned.media/elnueve/elnueve.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America SD
@@ -413,10 +402,6 @@ https://g4.proy-hor.transport.edge-access.net/a10/ngrp:rural_live01-100083_all/r
 
 #EXTINF:-1 tvg-logo="http://too.by/webimage/countrys/samerica/peru/pepics/symbolspics/Flag_of_Peru.png" group-title="PERU" ,-----PERU-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="PERU",ATV HD 
-https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU",ATV+ 
-https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.centraltvperu.com/site/images/2018/09/02/logo_pie_centraltvperu.png" group-title="PERU",Central TV Perú 
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="PERU",Cultura 24
@@ -539,10 +524,6 @@ http://37.187.7.106/hechostv/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/uy.png" group-title="URUGUAY" ,-----URUGUAY-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2018/06/logo-latele-2016-2-1-3.png" group-title="URUGUAY",TeleDoce
-http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_Canal_U_%28Uruguay%29.png" group-title="URUGUAY",Canal U
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6055/240/default.jpg" group-title="URUGUAY",Canal Once
 http://q.gs/9830047/onceuuruguaytodokodim3u8?iptvgratis?chile.m3u8
 #EXTINF:-1  tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="URUGUAY",Canal M
