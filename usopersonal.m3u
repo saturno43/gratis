@@ -73,18 +73,6 @@ https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV SD
 http://mi.chv.cl/playlist/stream.m3u8?s=sd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 HD
-http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 SD
-http://c13-live-1.cdn.nedmedia.io/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 SD
-http://c13-live-1.cdn.nedmedia.io/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 SD
-http://c13-live-1.cdn.nedmedia.io/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega (CL)
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED HD
-https://cl-lared-lared-live.ned.media/lared/smil:lared.smil/chunklist_b1000000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY3MDIzMzQ0LCJzZXNzaW9uIjoiMjA3LjI0OC4xOTMuMTE3Iiwid2hpdGVsaXN0IjpbIjIwNy4yNDguMTkzLjExNyJdfSwic2lnbmF0dXJlIjoiYTU1MTJmOWVmNWQyMzI2YWU3NjZiYzZkZDBiZTZmOTdlYWUwZDRiOCJ9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",Tv+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXwpqm.png" group-title="CHILE",UCV 3 HD
@@ -99,6 +87,12 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR HD
 https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsAaFD3.png" group-title="CHILE",CANAL 13 HD
+http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega (CL)
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED HD
+https://cl-lared-lared-live.ned.media/lared/smil:lared.smil/chunklist_b1000000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY3MDIzMzQ0LCJzZXNzaW9uIjoiMjA3LjI0OC4xOTMuMTE3Iiwid2hpdGVsaXN0IjpbIjIwNy4yNDguMTkzLjExNyJdfSwic2lnbmF0dXJlIjoiYTU1MTJmOWVmNWQyMzI2YWU3NjZiYzZkZDBiZTZmOTdlYWUwZDRiOCJ9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKDG166.png" group-title="CHILE", TV Salud 
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
