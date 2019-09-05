@@ -63,6 +63,54 @@ http://23.139.96.12:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",FM PLUS
+http://181.43.124.122:9981/stream/channelid/709879236
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",GoChannel
+http://181.43.124.122:9981/stream/channelid/1140872005
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",La Red HD/557.143MHz/{PMT:198}
+http://181.43.124.122:9981/stream/channelid/53229361
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",TaTeTi SD
+http://181.43.124.122:9981/stream/channelid/557550338
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",TVR
+http://181.43.124.122:9981/stream/channelid/714937555
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",TVR-2
+http://181.43.124.122:9981/stream/channelid/1597783691
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",UESTV
+http://181.43.124.122:9981/stream/channelid/1014187566
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",Chilevision HD
+http://181.43.124.122:9981/stream/channelid/620600617
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",chilevision sd
+http://181.43.124.122:9981/stream/channelid/1051187084
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",chilevision music
+http://181.43.124.122:9981/stream/channelid/1894364791
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",13 HD
+http://181.43.124.122:9981/stream/channelid/1795207455
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",13.2 HD
+http://181.43.124.122:9981/stream/channelid/1783503984
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",13 SD
+http://181.43.124.122:9981/stream/channelid/299348219
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",La Red HD
+http://181.43.124.122:9981/stream/channelid/1338830589
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",La Red SD
+http://181.43.124.122:9981/stream/channelid/2004792736
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",UCV 1seg
+http://181.43.124.122:9981/stream/channelid/529269206
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",UCV3 SD
+http://181.43.124.122:9981/stream/channelid/192497155
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",TV+ HD
+http://181.43.124.122:9981/stream/channelid/725910613
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",TVN HD
+http://181.43.124.122:9981/stream/channelid/1623424135
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",TVN HD
+http://181.43.124.122:9981/stream/channelid/1756028441
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",TVN HD
+http://181.43.124.122:9981/stream/channelid/1234956523
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",MEGA MOVIL
+http://181.43.124.122:9981/stream/channelid/737142584
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",MEGA HD
+http://181.43.124.122:9981/stream/channelid/1344454007
+
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",Tvn 
 http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="CHILE",Tv Chile
