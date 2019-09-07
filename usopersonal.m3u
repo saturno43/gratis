@@ -1042,8 +1042,6 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv SD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.morfina.cl/images/logo_morfina.jpg" group-title="RADIOTV",Morfina Tv
-https://593b04c4c5670.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/bigradio.jpg" group-title="RADIOTV",BIG Radio
 https://unlimited2-cl.dps.live/bigradio/bigradio.smil/bigradio/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/bigradio.jpg" group-title="RADIOTV",BIG Radio
@@ -1096,14 +1094,10 @@ http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playl
 http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.miradiols.cl/wp-content/uploads/2018/02/logo-ok-para-web-03-4001.png" group-title="RADIOTV",Mi radio La Serena
 https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="RADIOTV",Musica 80
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/da/6e/01da6e3e500303ff8b8cf95eb71f8469.png" group-title="RADIOTV",Musica 80
 https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
-#EXTINF:-1 group-title="RADIOTV",RADIO STEFANIA FM
+#EXTINF:-1 tvg-logo="http://radiostefania.com/wp-content/uploads/2013/02/cropped-logo-stefania-1.png" group-title="RADIOTV",RADIO STEFANIA FM
 https://593b04c4c5670.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 group-title="RADIOTV",RADIO PRELUDIO
-https://593b04c4c5670.streamlock.net/8052/8052/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logod.png" group-title="RADIOTV",Antena Uno Ecuador
-https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://static-co.radio.net/images/broadcasts/c4/32/10868/c300.png" group-title="RADIOTV",Radio Belllaemonella Tv
