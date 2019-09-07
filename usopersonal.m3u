@@ -1148,8 +1148,6 @@ https://5c64355d4b57c.streamlock.net:1936/8296/8296/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/LOGO_GIROVISUAL.jpg" group-title="REGIONALES",Giro Visual Quinta Region
 http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
-http://v2.tustreaming.cl/tustreaming/live4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="http://sitios.upla.cl/contenidos/wp-content/uploads/2010/06/logo-canal-tv-2.jpg" group-title="REGIONALES",UES TV
 http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
@@ -1159,38 +1157,22 @@ http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?iptvgrati
 http://edge1.cl.grupoz.cl/lapintana/live/chunklist_w1192466643.m3u8
 #EXTINF:-1 tvg-logo="http://www.rodeoenvivo.cl/portal/wp-content/uploads/2016/05/BANNER_CAMPO_ABIERTO_TV.png" group-title="REGIONALES",Campo Abierto TV  Huechuraba
 http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.canal57.cl/logocanal57web14.png" group-title="REGIONALES", Canal San Sebastian 57 Melipilla
-http://xcanal_cssx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://noticiascolchagua.cl/wp-content/uploads/2014/05/plastificado.png" group-title="REGIONALES", CNC Colchagua Santa Cruz
-http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvmaule.cl/1.png" group-title="REGIONALES",Tv Maule
-https://590c5dc5c3271.streamlock.net/dante271/dante271/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvmaulinos.com/wp-content/uploads/2018/06/TVM2018-2.png" group-title="REGIONALES",Tv Maulinos
 https://590c5dc5c3271.streamlock.net/juancarlos407/juancarlos407/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/campus_zps8hgdc5lg.png" group-title="REGIONALES",Campus Tv Talca
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.diarioelcentro.cl//imagenes/logo-centrotv.png" group-title="REGIONALES", TV Centro Talca
 https://unlimited6-cl.dps.live/tvcentro/tvcentro.smil/tvcentro/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://vltv.cl/wp-content/uploads/2018/08/webok.png" group-title="REGIONALES",VLTV San Javier 
-https://593b04c4c5670.streamlock.net/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.datovision.cl/images/11111.png" group-title="REGIONALES", Datovision Cachapoal
-http://tv.portalfoxmix.club:1935/dato33/dato33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png" group-title="REGIONALES",TVO San Vicente
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://www.utvsanclemente.cl/img/logo-utv-sc.png" group-title="REGIONALES",UTV San Clemente
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4909/square_150x150-2.jpg" group-title="REGIONALES",Romeral Tv 
-http://video.crearchile.info:8080/live/daemrome.mp4/chunklist_w78476331.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AJLlDp0clHA3g9C5FCCH4qTsDEvVIj-BVy-1KSR92A=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Sextavision Rancagua
-http://cl.streaminghd.cl/carlos132/carlos132/chunklist_w1205226236.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-U0-0d7OM5eU/ViFUXvTQ45I/AAAAAAAAREs/6QvvYLi_mkM/s1600/logo%2Bnegro.png" group-title="REGIONALES",Telecauquenes
-http://hd.chileservidores.cl:8080/inicial/telecau/playlist.m3u8
+https://590c5dc5c3271.streamlock.net/carlos107/carlos107/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.nosmagazine.cl/wp-content/uploads/2015/02/LOGO-CANAL-letra.jpg" group-title="REGIONALES",Contivision HD Constitucion 
 http://unlimited10-cl.dps.live/contivision/contivision.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mEW5hnh06kk/Wn9iDwBJ__I/AAAAAAAAgvs/bC-yY_Bj6tg4vkWwuxvb30Q4_rDt34TQwCK8BGAs/s225/2018-02-10.png" group-title="REGIONALES",Nuble Tv
-https://593b04c4c5670.streamlock.net/tvdaniel/tvdaniel/chunklist_w687739368.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="REGIONALES",Canal 21 Chillan
-http://v3.tustreaming.cl/canal21chillan/live1/playlist.m3u8
+https://tls.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="REGIONALES",Canal 11 Cabrero
 http://play.streaminghd.cl/claudio441/claudio441/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.televida.cl/images/nuevo_logotelevida.png" group-title="REGIONALES",Televida Chillan
