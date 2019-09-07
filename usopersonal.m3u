@@ -1,86 +1,10 @@
 #EXTM3U 
 
-#EXTINF:0,-DISH-
-
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",AXN
-http://23.139.96.12:2095/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",TNT
-http://23.139.96.12:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",HBO
-http://23.139.96.12:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",HBO2
-http://23.139.96.12:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",CARTOON NETWORK
-http://23.139.96.12:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",DISCOVERY KIDS
-http://23.139.96.12:2095/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",DISNEY CHANNEL
-http://23.139.96.12:2095/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",DISNEY XD
-http://23.139.96.12:2095/304DisneyXDNorte/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",CLARO SPORTS
-http://23.139.96.12:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",TUDN
-http://23.139.96.12:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",UNICABLE
-http://23.139.96.12:2095/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",SPACE
-http://23.139.96.12:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",HISTORY
-http://23.139.96.12:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",H2
-http://23.139.96.12:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",WARNER
-http://23.139.96.12:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",ESTRELLAS
-http://23.139.96.12:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",MAX PRIME
-http://23.139.96.12:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",TNT SERIES
-http://23.139.96.12:2095/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",ESPN
-http://23.139.96.12:2095/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",ESPN2
-http://23.139.96.12:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",ESPN3
-http://23.139.96.12:2095/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",FOX
-http://23.139.96.12:2095/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",COMEDY
-http://23.139.96.12:2095/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",FOX SPORTS 1
-http://23.139.96.12:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",FOX SPORTS 2
-http://23.139.96.12:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",FOX SPORTS 3
-http://23.139.96.12:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",DISCOVERY CHANNEL 
-http://23.139.96.12:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Dish-Network-Logo-PNG-Transparent-500x247.png" group-title="DISH",NICKELODEON
-http://23.139.96.12:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:0,-CHILE-
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,-----CHILE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",13 HD
-http://181.43.124.122:9981/stream/channelid/1795207455
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",13.2 HD
-http://181.43.124.122:9981/stream/channelid/1783503984
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",13 SD
-http://181.43.124.122:9981/stream/channelid/299348219
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",La Red HD
-http://181.43.124.122:9981/stream/channelid/1338830589
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",La Red SD
-http://181.43.124.122:9981/stream/channelid/2004792736
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",La Red HD
-http://181.43.124.122:9981/stream/channelid/53229361
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",MEGA MOVIL
-http://181.43.124.122:9981/stream/channelid/737142584
-#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/580b585b2edbce24c47b27f2.png" group-title="CHILE",MEGA HD
-http://181.43.124.122:9981/stream/channelid/1344454007
 
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",Tvn 
 http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
@@ -390,11 +314,7 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b18
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",Canal 26 3
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="ARGENTINA",Vorterix
-https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="ARGENTINA",Vorterix HD
-https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
-#EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="ARGENTINA",Vorterix SD
-https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+https://prepublish.f.qaotic.net/epa/ngrp:vorterix_video1-20057_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/reydddd/6mdp.jpg" group-title="ARGENTINA",Canal 6 Mar del Plata
 http://videostream.shockmedia.com.ar:1935/canal6mardelplata/canal6mardelplata/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="ARGENTINA", Multivisión Federal Salta HD 
@@ -1518,10 +1438,6 @@ https://wowzaprod161-i.akamaihd.net/hls/live/598486/f66ed1d9/f66ed1d9_1_1945600/
 https://593b04c4c5670.streamlock.net/8160/8160/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://sonlifetv.com/images/logo.png",SBN
 http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch51/ch51.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png",Cristovision
-http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="http://cdn-radiotime-logos.tunein.com/s116672q.png",RTV Vida
-http://178.32.53.254/radiovida/mobile/chunklist_w1681702694.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ghtelevision.com/images/gh_television_logo_sm.png",GH Television
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.iglesiadelcamino.org/images/logo.png",Iglesia del Camino
@@ -1570,10 +1486,7 @@ http://178.32.53.254/radiovida/mobile/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41KvG0oIgSL.png" group-title="RADIOS ONLINE" ,-----RADIOS ONLINE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lsKhU3cM2AI/maxresdefault.jpg" group-title="RADIOS ONLINE",Dj Pinky
-http://167.114.58.197:9304
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="RADIOS ONLINE",Radio Pop
-http://s6.jcwebnew.com:7320/stream
+
 #EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/3/2/6/7/32679.png" group-title="RADIOS ONLINE",Radio PortalFoxMix 
 http://167.114.119.122:9934/;
 #EXTINF:-1,  tvg-logo="https://envivo.radioactiva.cl/build/assets/radioactivachile/img/logo.png" group-title="RADIOS ONLINE", Radioactiva
@@ -1692,12 +1605,6 @@ http://www.magistralfm.cl:9110/galvarino
 #EXTINF:-1,  tvg-logo="4CGIlyX.jpg" group-title="RADIOS ONLINE", Rock and Pop (94.1 FM)
 http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Genesis (94.1 FM Andacollo)
-http://stream5.eltelon.com/genesis-andacollo.aac
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Rinconada (94.3 FM Mejillones)
-http://server4.radiostreaming.cl:8062/;
-
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Almeyda (94.3 FM Diego de Almagro)
 http://192.99.18.164:9974/stream
 
@@ -1724,12 +1631,6 @@ http://radio.udec.cl:8000/radioudec
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Candela FM (95.3 FM)
 http://unlimited11-cl.dps.live/candela/aac/icecast.audio
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Coyhaique (95.3 FM Coyhaique)
-http://stream5.eltelon.com/radio-coyhaique.aac
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Atractiva (FM 95.3 Concepcion)
-http://5.9.65.9:8062/atractiva
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", FM Tiempo (95.9 FM)
 http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
@@ -1956,12 +1857,6 @@ http://sonando.us.digitalproserver.com/ritoquefm_aac
 #EXTINF:-1,  tvg-logo="MhY3UEE.png" group-title="RADIOS ONLINE", UMAG TV señal 2 (Magallanes) 
 http://cl.origin.grupoz.cl:1935/itser4/tser4.sdp/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Musica de Campo 24/7
-https://593b04c4c5670.streamlock.net/8050/8050/playlist.m3u8
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Genial TV
-http://v3.tustreaming.cl/genialtv/live1/index.m3u8
-
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Kool London Radio | Online
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 
@@ -1983,12 +1878,6 @@ http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb
 #EXTINF:-1,  tvg-logo="71kcIC0.png" group-title="RADIOS ONLINE", Radio Francia Internacional
 http://live02.rfi.fr/rfienespagnol-64.mp3
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Festival de Viña del Mar | Online
-http://festival.cl:8000/;
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Caracola de Valparaíso | Online
-http://185.50.197.212:9322/
-
 #EXTINF:-1,  tvg-logo="2iTGhqI.jpg" group-title="RADIOS ONLINE", Radio Mas FM | Online
 http://us.listenlive.digital:7412/stream.mp3
 
@@ -1997,12 +1886,6 @@ http://144.217.129.213:8214/live
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Arriba FM
 http://198.50.158.92:8065/live
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", On Radio Friki
-http://185.105.4.100:8137/
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", On Radio K-Pop
-http://185.105.4.100:8133/
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Dominacion cl
 http://centova.audiostreaming.cl:8025/stream
@@ -2147,15 +2030,6 @@ http://14933.live.streamtheworld.com/LOS40_COLUMBIAAAC.aac
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Los 40 (Mexico) 
 http://18903.live.streamtheworld.com/LOS40_MEXICOAAC.aac
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", RNE Radio 3 (España)
-http://195.10.10.221/rtve/rtve-radio3.mp3
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Europa FM (España)
-https://audio-lh.akamaihd.net/i/auhls/geoeuropafm_1@673752/index_1_a-p.m3u8
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Onda Cero (España)
-https://audio-lh.akamaihd.net/i/auhls/ondacero_1@673723/index_1_a-b.m3u8
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Cadena COPE (España)
 https://flucast-b02-04.flumotion.com/cope/net1.mp3
