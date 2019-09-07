@@ -391,6 +391,10 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b18
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="ARGENTINA",Vorterix
 https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="ARGENTINA",Vorterix HD
+https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
+#EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="ARGENTINA",Vorterix SD
+https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/reydddd/6mdp.jpg" group-title="ARGENTINA",Canal 6 Mar del Plata
 http://videostream.shockmedia.com.ar:1935/canal6mardelplata/canal6mardelplata/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="ARGENTINA", Multivisión Federal Salta HD 
