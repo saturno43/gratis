@@ -1139,16 +1139,12 @@ https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream2/chunks.m3u8
 https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso HD
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/495744217402978304/t_gtKHQx_400x400.png" group-title="REGIONALES",Mas Television
-https://5580a424c4e9f.streamlock.net:8020/inicial/mastv.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O82YpXFWCbo/hqdefault_live.jpg" group-title="REGIONALES",Marga Marga TV
-http://edge1.cl.grupoz.cl/margamargatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="REGIONALES",Canal 5 Linares
 http://unlimited2-cl.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-2-television-san-antonio.jpg?170413035848" group-title="REGIONALES",Canal 2 San Antonio
 http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://quintatv.cl/wp-content/uploads/2017/05/logo-negro.png" group-title="REGIONALES",Quinta Tv
-https://5c64355d4b57c.streamlock.net:1936/arabtv/arabtv/playlist.m3u8
+https://5c64355d4b57c.streamlock.net:1936/8296/8296/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/LOGO_GIROVISUAL.jpg" group-title="REGIONALES",Giro Visual Quinta Region
 http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
