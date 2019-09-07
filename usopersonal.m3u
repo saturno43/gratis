@@ -119,8 +119,6 @@ https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" group-title="DEPORTES",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="DEPORTES",Action Sports
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://icanadvertising.com/wp-content/uploads/2014/11/BTN_Logo-whiteback.png" group-title="DEPORTES",Big Ten Network
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180802/urc/kisspng-winter-olympic-games-logo-olympic-channel-internat-olympic-channel-tv-listings-guide-5b62bcf434d7d4.7575857815331975562165.jpg" group-title="DEPORTES",Olimpic Channel HD
@@ -317,8 +315,6 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 http://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="ARGENTINA",Tierra Mía 
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.elrural.com/wp-content/uploads/2016/05/cropped-favicon.png" group-title="ARGENTINA",Canal Rural
-https://g4.proy-hor.transport.edge-access.net/a10/ngrp:rural_live01-100083_all/rural_live01-100083_720p.m3u8
 
 #EXTINF:0,-PERU-
 
@@ -516,8 +512,6 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",MX: TELEFORMULA NEW
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MEXICO",NUESTRA VISION NOTICIAS
-http://189.204.137.189:8888/canal6mobiles.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",PRESUMIENDO
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/calvillo/img/LOGOPMTV.png" group-title="MEXICO",Presumiendo Mexico
@@ -558,8 +552,6 @@ https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
 https://content-ausc1.uplynk.com/channel/2db51574d3d64d749804f40c13e0dc12.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/266-2661220_live-milenio-tv-from-mexico-en-vivo-logo.png" group-title="MEXICO" ,Milenio Tv
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/180px-Logo_a%2B_%28canal%29.svg.png" group-title="MEXICO", Azteca Plus
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO" ,Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO" ,Multimedios CDMX
@@ -570,8 +562,6 @@ http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO" ,Multimedios 
 http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="http://www.tlaxcalatelevision.tv/images/stock/img-varios/tlaxcala-television.png",Tlaxcala Television
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RcHaKDY.png" group-title="MEXICO",Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://xtitv.com/wp-content/uploads/2017/12/Logo-160-x-140.png" group-title="MEXICO", Xti Tv
@@ -588,18 +578,12 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="MEXICO",RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="MEXICO",RCG 3 Saltillo
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Bfbjgfo.png" group-title="MEXICO",RTG Guerrero
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="MEXICO",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/3orwGcy.png" group-title="MEXICO",Telemar Campeche
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/897819765565272065/7NlducTP_400x400.jpg" group-title="MEXICO", TMTV
 http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDvyrwLXYAR72CCSkc3UShGWMsquzc5iIYpsA=s900-mo-c-c0xffffffff-rj-k-no" group-title="MEXICO", TVP Los Mochis
-https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578529085_b978000_sleng.m3u8
 
 #EXTINF:0,-COSTA RICA-
 
@@ -651,8 +635,6 @@ http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/do.png" group-title="DOMINICAN REP" ,-----DOMINICAN REP-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="DOMINICAN REP",Ready TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buenatv.com/wp-content/uploads/2019/06/Captura.png" group-title="DOMINICAN REP",Buena Tv
 https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="DOMINICAN REP",GH Television
@@ -1072,8 +1054,6 @@ http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8?iptvgratis?chile.m3
 http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1  tvg-logo="http://iptvchile.xyz/Logos/TeVe/Tele13_Radio_zpspn4m8raf.png" group-title="RADIOTV", Tele13 Radio Tv
 https://t13-radio-live.cdn.nedmedia.io/index_3.m3u8
-#EXTINF:0 tvg-logo="http://images.eltelon.com/uploads/media/4199/poster_300x300-2.jpg" group-title="RADIOTV",Radio Polar Tv
-http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png" group-title="RADIOTV",Radio Camila Tv
 http://190.107.176.55:1935/live/archi-camila/chunklist_w555256191.m3u8
 #EXTINF:0 tvg-logo="http://www.radiohoy.cl/wp-content/uploads/2019/01/RadioHoy-Logo-Small.png" group-title="RADIOTV",Radio HOY
