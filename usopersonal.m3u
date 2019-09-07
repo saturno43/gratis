@@ -1206,7 +1206,7 @@ http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="REGIONALES",Canal 54 Latina La Union
 http://190.3.169.119:8080/inicial/latina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Vision Tv Frutillar
-http://stmv3.srvstm.com/visiontv/visiontv/playlist.m3u8?
+https://v2.tustreaming.cl/visiontv/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NuXOWo.png" group-title="REGIONALES",Canal 5 Tv Puerto Montt
 http://play.streaminghd.cl/luis251/luis251/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://conosur.tv/wp-content/uploads/2017/07/logo-1.png" group-title="REGIONALES",Conosur Tv
