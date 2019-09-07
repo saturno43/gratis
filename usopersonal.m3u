@@ -1107,22 +1107,16 @@ https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m
 
 #EXTINF:-1 tvg-logo="http://www.logo.com.py/imagenes_db/GAL-6828621010_1390810510.jpg" group-title="REGIONALES" ,-----REGIONALES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://www.morrovision.cl/logo.png" group-title="REGIONALES",Morrovision Arica
-http://video.crearchile.tv:8080/live/morrovision.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://chilevisual.tv/radioonline/images/logo.png" group-title="REGIONALES",Chilevisual Tv
 http://v3.tustreaming.cl/chilevisual/live1/event-999999.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdaldia.com/wp-content/uploads/2018/01/puertanorte1.png" group-title="REGIONALES",Puerta Norte
 https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3782557/logo_desierto%20de%20atacama%20tv.png" group-title="REGIONALES", Desierto de Atacama TV 
 http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/apEd49LOyxs/maxresdefault.jpg" group-title="REGIONALES",UTA RTV
-https://593b04c4c5670.streamlock.net/uta/uta/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://enfoquedigital.cl/wp-content/uploads/2018/08/LOGO-EDTV.png" group-title="REGIONALES",ED Enfoque Digital Atacama
 http://streaminglivehd.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://diarioelficticio.files.wordpress.com/2012/07/logo-atv.png" group-title="REGIONALES",Atacama TV 
 https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/2454/square_150x150-2.jpg" group-title="REGIONALES",Arica Tv
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w1256972144_b848000.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cap_zpsaosigst3.png" group-title="REGIONALES",Cappissima Multimedial Arica
 http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/2440/square_150x150-2.jpg" group-title="REGIONALES",AM Tv Antofagasta
