@@ -1221,8 +1221,10 @@ http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8
 https://v2.tustreaming.cl/canal11aysen/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv-hd.cl/soberania-tv-magallanes-y-antartica.jpg?170126082940" group-title="REGIONALES",Soberania Tv Punta Arenas 
 http://evo.eltelon.com:1935/live/soberania/chunklist_w1320335487.m3u8
-#EXTINF:-1 tvg-logo="http://www.itvpatagonia.com/joomla/images/FotosArticulos/Itv.png" group-title="REGIONALES",ITV Punta Arenas 
+#EXTINF:-1 tvg-logo="http://www.itvpatagonia.com/joomla/images/FotosArticulos/Itv.png" group-title="REGIONALES",ITV Punta Arenas HD 
 https://unlimited5-cl.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.itvpatagonia.com/joomla/images/FotosArticulos/Itv.png" group-title="REGIONALES",ITV Punta Arenas SD 
+https://unlimited5-cl.dps.live/itv/itv.smil/itv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WXhBnNv.png" group-title="REGIONALES",El Pinguino Tv Punta Arenas 
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://www.novasur.cl/sites/default/files/web_umag_tv.png" group-title="REGIONALES", UMAGTV Punta Arenas 
