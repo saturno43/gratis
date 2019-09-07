@@ -1313,12 +1313,8 @@ http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://www.tnetv.cl/img/logo.jpg" group-title="RELIGION",TNE Tv
 https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://elmesias.es/img/el-mesias-logo-1424452598.jpg" group-title="RELIGION",El Mesias Tv
-http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://radiocadenacret.com/wp-content/uploads/LOGO-CRET-NEW-2.png" group-title="RELIGION",Tv Cret
 http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png" group-title="RELIGION",Cristovision
-http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/enlace.png" group-title="RELIGION", Enlace
 http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/enlace%20juvenil.png" group-title="RELIGION", Enlace Juvenil
