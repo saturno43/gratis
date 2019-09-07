@@ -2210,15 +2210,6 @@ http://ic.imusicaradios.com.br:8000/brasil.stream.http
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Recreo AM
 http://s4.medionline.cl:8009/;stream.nsv
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Zona de Niños
-http://stream5.eltelon.com:8030/autodj
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Cuenta Cuentos
-http://50.7.53.202:8020/autodj
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Stgo Rock City
-http://stream5.eltelon.com:8040/stream
-
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE",Pequeradio
 http://emisorasmusicales.es:8030/pequeradio.mp3
 
@@ -2257,15 +2248,6 @@ http://musicbird.leanstream.co/JCB094-MP3?args=tunein_02
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Demente
 http://centova.crearchile.info:8098/;
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Blue Radio
-https://video.mediostream.cl/topradio/live1/tracks-v1a1/rewind-999999.m3u8
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Blue Radio (Alt)
-http://104.131.243.43:8095/;
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Zona X
-http://192.99.18.164:9376/;
 
 #EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Anime Para Ti (Chile)
 http://ample-zeno-06.radiojar.com/acnhrkt8c4duv
