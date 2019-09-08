@@ -260,7 +260,7 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3
 
 #EXTINF:0,-LATINOS-
 
-#EXTINF:-1 tvg-logo="https://www.latinosyork.co.uk/s/misc/logo.png?t=1524221445" group-title="LATINOS" ,-----LATINOS-----
+#EXTINF:-1 tvg-logo="https://medioenseriomedioenbroma.files.wordpress.com/2017/09/latino_logo1.png" group-title="LATINOS" ,-----LATINOS-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="LATINOS",Telemundo
 http://161.0.157.50/PLTV/88888888/224/3221226207/index.m3u8
@@ -390,7 +390,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
  
 #EXTINF:0,-VENEZUELA-
 
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/ve.png" group-title="VENEZUELA" ,-----VENEZUELA-----
+#EXTINF:-1 tvg-logo="https://cflvdg.avoz.es/default/2006/03/08/0012_1842743/Foto/g9p29f1.jpg" group-title="VENEZUELA" ,-----VENEZUELA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/a/a0/Logo_TELET.png/revision/latest?cb=20161015185004&path-prefix=es" group-title="VENEZUELA",La tele tuya
 https://laputadetumadrextremostereo.lateletuya.com/servicio14/servicio14/index.m3u8
@@ -401,7 +401,7 @@ http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
 
 #EXTINF:0,-ECUADOR-
 
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/ec.png" group-title="ECUADOR" ,-----ECUADOR-----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_the_Gran_Colombia.svg/220px-Flag_of_the_Gran_Colombia.svg.png" group-title="ECUADOR" ,-----ECUADOR-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ec-rtu.jpg" group-title="ECUADOR",RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
@@ -418,7 +418,7 @@ http://37.187.7.106/hechostv/live.m3u8
 
 #EXTINF:0,-URUGUAY-
 
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/uy.png" group-title="URUGUAY" ,-----URUGUAY-----
+#EXTINF:-1 tvg-logo="https://www.sitographics.com/enciclog/banderas/america/image_2012/Uruguay.gif" group-title="URUGUAY" ,-----URUGUAY-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6055/240/default.jpg" group-title="URUGUAY",Canal Once
 http://q.gs/9830047/onceuuruguaytodokodim3u8?iptvgratis?chile.m3u8
@@ -440,7 +440,7 @@ http://201.217.3.212/TV/tvs/chunklist_w1493272816.m3u8
 
 #EXTINF:0,-MEXICO-
 
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/mx.png" group-title="MEXICO" ,-----MEXICO-----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_Mexico_%28reverse%29.svg/220px-Flag_of_Mexico_%28reverse%29.svg.png" group-title="MEXICO" ,-----MEXICO-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MeaSmiv.jpg" group-title="MEXICO",15TV Sabinas
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
@@ -587,7 +587,7 @@ http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 
 #EXTINF:0,-COSTA RICA-
 
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/cr.png" group-title="COSTA RICA" ,-----COSTA RICA-----
+#EXTINF:-1 tvg-logo="https://fuentedevida-ecomitizellc.netdna-ssl.com/media/catalog/product/cache/image/700x560/e9c3970ab036de70892d86c6d221abfe/990024.jpg" group-title="COSTA RICA" ,-----COSTA RICA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="COSTA RICA", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -633,7 +633,7 @@ http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
 
 #EXTINF:0,-DOMINICAN REP-
 
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/do.png" group-title="DOMINICAN REP" ,-----DOMINICAN REP-----
+#EXTINF:-1 tvg-logo="https://www.banderas-mundo.es/data/flags/normal/do.png" group-title="DOMINICAN REP" ,-----DOMINICAN REP-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://buenatv.com/wp-content/uploads/2019/06/Captura.png" group-title="DOMINICAN REP",Buena Tv
 https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
@@ -713,7 +713,7 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
 #EXTINF:0,-CUBA-
 
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/cu.png" group-title="CUBA" ,-----CUBA-----
+#EXTINF:-1 tvg-logo="https://www.comprarbanderas.es/images/banderas/400/8-cuba_400px.jpg" group-title="CUBA" ,-----CUBA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://yusnaby.com/wp-content/uploads/tvmarti.jpg" group-title="CUBA", Tv Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
@@ -937,7 +937,7 @@ https://livelist01.yowi.tv/lista/baad6b53816641b85a08541261199f6613d111d4/index-
 
 #EXTINF:0,-VIDEOMIX-
 
-#EXTINF:-1 tvg-logo="http://viss.lv/dati/videomix/logo_liels.jpg" group-title="VIDEOMIX" ,-----VIDEOMIX-----
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7ANWcH3870g/WrLZ7thaeFI/AAAAAAAABr8/rMmiXlI-AhId04MH7DKa2hKfw3Qw6CXUwCPcBGAYYCw/s1600/vieo%2Bmix.png" group-title="VIDEOMIX" ,-----VIDEOMIX-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="VIDEOMIX",Classic Project 1 (70, 80, 90s Reloaded 2008)
 https://ia601503.us.archive.org/24/items/TheClassicProject1/The%20Classic%20Project%201.mp4
@@ -1014,7 +1014,7 @@ https://ia801508.us.archive.org/27/items/rapido_201511/PitchPerfection-SongsMash
 
 #EXTINF:0,-RADIOTV-
 
-#EXTINF:-1 tvg-logo="http://fotologimg.s3.amazonaws.com/photo/42/53/14/radiotvmazate/1242503738758_f.jpg" group-title="RADIOTV" ,-----RADIOTV-----
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s285622/images/logog.jpg?t=152518" group-title="RADIOTV" ,-----RADIOTV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
