@@ -936,6 +936,8 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 http://autopilot.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1 tvg-logo="https://statics.yowi.tv/files/3e2e24d983a300883a36ff45cf7afb3d5d40004b" group-title="MUSICA",HQM ROCK
 https://livelist01.yowi.tv/lista/baad6b53816641b85a08541261199f6613d111d4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogomix.com/files/imagecache/v3-logo-detail/HEAVY%20METAL.png" group-title="MUSICA",Heavy Metal
+http://70.166.99.9:1935/hmtv/myStream/playlist.m3u8
 
 #EXTINF:0,-VIDEOMIX-
 
