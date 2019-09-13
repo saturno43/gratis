@@ -1076,6 +1076,8 @@ http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
 http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-Antena-Abierta.jpg" group-title="RADIOTV",Radio Antena Abierta
 https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/8d6fe6030aeab53da01df184b7fe9ed4.jpg" group-title="RADIOTV",Radio Interamericana
+https://unlimited10-cl.dps.live/interamericanatv/interamericanatv.smil/interamericanatv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
 http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.miradiols.cl/wp-content/uploads/2018/02/logo-ok-para-web-03-4001.png" group-title="RADIOTV",Mi radio La Serena
