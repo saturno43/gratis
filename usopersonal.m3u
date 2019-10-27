@@ -1141,8 +1141,10 @@ http://v3.tustreaming.cl/graciatv/live1/index.m3u8
 http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-isb-iglesia-san-bernardo.jpg?160315114433" group-title="REGIONALES", ISB San Bernardo Santiago 
 http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83635_Estudio_TV.png" group-title="REGIONALES", Estudio TV
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83635_Estudio_TV.png" group-title="REGIONALES", Estudio Tv La Ligua
 http://inliveserver.com:1935/11022/11022/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/68737_STGO_TV.png" group-title="REGIONALES", Santiago Tv
+http://cdnapi.kaltura.com/p/2359831/sp/0/playManifest/entryId/1_3jx9rpfo/format/applehttp/protocol/http/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://www.pintanatv.cl/wp-content/uploads/2018/01/logo.png" group-title="REGIONALES",La Pintana Tv Santiago
 http://edge1.cl.grupoz.cl/lapintana/live/chunklist_w1192466643.m3u8
 #EXTINF:-1 tvg-logo="http://www.rodeoenvivo.cl/portal/wp-content/uploads/2016/05/BANNER_CAMPO_ABIERTO_TV.png" group-title="REGIONALES",Campo Abierto TV  Huechuraba
