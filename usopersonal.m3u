@@ -17,6 +17,8 @@ https://bit.ly/2m32r9X
 https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EqfxvtV.png" group-title="CHILE",Ahora Noticias HD
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE", Mega Plus
+http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV HD
 https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",CHV HD
@@ -95,12 +97,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="DEPORTES",CDF PREMIUM 
-http://lowiptv.com:8000/live/low/low/11.ts
-#EXTINF:-1 group-title="DEPORTES",CDF BASICO 
-http://lowiptv.com:8000/live/low/low/12.ts
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 1 
-http://lowiptv.com:8000/live/low/low/6.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES" ,Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
