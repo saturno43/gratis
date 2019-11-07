@@ -1209,6 +1209,8 @@ https://5580a424c4e9f.streamlock.net:8020/reseller/chiloe1/playlist.m3u8
 https://v2.tustreaming.cl/chiloered/live1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chilwe.cl/images/proyectos/min/proy_9.jpg" group-title="REGIONALES",Canal 2 Quellon
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/445976084186554368/Ch4aqZPR_400x400.jpeg" group-title="REGIONALES",Santa Maria TV Coyhaique
+https://unlimited5-cl.dps.live/smtv/smtv.smil/smtv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="REGIONALES",Rocco Tv Coyhaique
 http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/c11.png" group-title="REGIONALES",Canal 11 Aysen
