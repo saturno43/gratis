@@ -119,7 +119,7 @@ https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20121202034638/tvpedia/ru/images/2/23/FightBOX_HD.png" group-title="DEPORTES",Fight BoX 
 http://92.43.140.249/s86/04.m3u8 
-#EXTINF:-1 tvg-logo="http://www.fightsports.tv/wp-content/uploads/fightsports280.jpg",Fight SpOrTs 
+#EXTINF:-1 tvg-logo="http://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="DEPORTES",Fight Sports 
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png" group-title="DEPORTES",BTSport 1 
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
