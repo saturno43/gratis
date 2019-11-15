@@ -115,6 +115,12 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/06/Betis-TV-e1498666063509.jpg" group-title="DEPORTES",Betis Tv
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="DEPORTES",US SPORT Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="DEPORTES",US SPORT Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="DEPORTES",US SPORT Tennis Plus 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/211-2114811_in-july-2017-all-references-to-impact-wrestling.png" group-title="DEPORTES",Impact Wrestling HD USA 
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" group-title="DEPORTES",Edge Sports
