@@ -127,11 +127,11 @@ http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png" group-title="DEPORTES",Bein Sports 
 https://bit.ly/2OJPr5n
-EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="DEPORTES",US SPORT Tennis Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="DEPORTES",US SPORT Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="DEPORTES",US SPORT Tennis Plus 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="DEPORTES",US SPORT Tennis Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="DEPORTES",US SPORT Tennis Plus 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="DEPORTES",US SPORT Tennis Plus 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/211-2114811_in-july-2017-all-references-to-impact-wrestling.png" group-title="DEPORTES",Impact Wrestling HD USA 
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
