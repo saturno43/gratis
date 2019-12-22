@@ -80,6 +80,8 @@ https://video.mediostream.cl/vallemedia/live1/index.m3u8
 https://5cbe03422c876.streamlock.net:443/8194/8194/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0VJa61G.png" group-title="CINE",Conecta2 Tv
 https://inliveserver.com:1936/11502/11502/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://retroplustv.com/images/logo.png" group-title="CINE", Retroplus Tv
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo Tv
@@ -824,8 +826,10 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w10384273
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1 tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/musica/tvnmusica.png" group-title="MUSICA",TVN Musica
 http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4479/square_150x150-2.jpg" group-title="MUSICA",Pandero Music Chile
-http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45114_Pandero_CL.png"  group-title="MUSICA",Pandero CL
+http://190.107.176.55:1935/panderocl/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45115_Pandero_TOP.png"  group-title="MUSICA",Pandero TOP
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM POP
 https://livelist01.yowi.tv/lista/e254a962539d318dca0a948fdb484e90eb649b4e/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM DANCE
@@ -886,12 +890,8 @@ http://198.24.183.198:1936/theretrochannel/stream/chunklist_w810372011.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://retroplustv.com/images/logo.png" group-title="MUSICA", Retroplus Tv
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a.mktgcdn.com/p/dx3Atx8Hz7jeTQk6f-GwR75jdyMOECfesZLYF79O6DI/400x400.jpg" group-title="MUSICA",Radio Italia Vision
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4478/square_150x150-2.jpg" group-title="MUSICA",Pandero Music
-http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/7-Gfv3uIqfGm_gBKjVh1jVwNFz8hKZ94z2eEgVvmgwK7QSpzurYiITlqeR5PEher7A=w300" group-title="MUSICA",Dream Tv
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/4fun_TV.png/revision/latest?cb=20101219232246" group-title="MUSICA",4 Fun Tv
