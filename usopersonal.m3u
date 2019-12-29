@@ -1298,9 +1298,16 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgra
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41KvG0oIgSL.png" group-title="RADIOS ONLINE" ,-----RADIOS ONLINE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm_H8cjM5wPCR7BRXY0OyDaLpSZhDBBtnRIn5i90ps0FAs2b9W&s" group-title="RADIOS ONLINE",Radio Dj Pinky
+#EXTINF:-1,  tvg-logo="https://cdn-cms.f-static.com/uploads/1327491/400_5ce5feebde238.png" group-title="RADIOS ONLINE", Mix 24/7 Tropical
 http://167.114.126.56:9312/;
+#EXTINF:-1,  tvg-logo="https://cdn-cms.f-static.com/uploads/1327491/400_5ce5feebde238.png" group-title="RADIOS ONLINE",Mix 24/7 Pop
+http://167.114.126.56:9304/;
+#EXTINF:-1,  tvg-logo="https://cdn-cms.f-static.com/uploads/1327491/400_5ce5feebde238.png" group-title="RADIOS ONLINE",Mix 24/7 Retro
+http://167.114.126.56:9314/;
+#EXTINF:-1,  tvg-logo="https://cdn-cms.f-static.com/uploads/1327491/400_5ce5feebde238.png" group-title="RADIOS ONLINE",Mix 24/7 House Dance
+http://167.114.126.56:9310/;
+#EXTINF:-1,  tvg-logo="https://cdn-cms.f-static.com/uploads/1327491/400_5ce5feebde238.png" group-title="RADIOS ONLINE",Radio 24/7 Rock
+http://purorock.ml:8000/rock
 #EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/3/2/6/7/32679.png" group-title="RADIOS ONLINE",Radio PortalFoxMix 
 http://167.114.119.122:9934/;
 #EXTINF:-1,  tvg-logo="https://envivo.radioactiva.cl/build/assets/radioactivachile/img/logo.png" group-title="RADIOS ONLINE", Radioactiva
