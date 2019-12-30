@@ -896,6 +896,8 @@ http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/4fun_TV.png/revision/latest?cb=20101219232246" group-title="MUSICA",4 Fun Tv
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png" group-title="MUSICA",Mola Tv
+http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="http://sicilia.onderadio.net/Loghi/Radio/M2O2.jpg" group-title="MUSICA",M2o Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ajEVjQV.jpg" group-title="MUSICA",GO RT
