@@ -86,6 +86,8 @@ https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Tv Cauquenes
+https://5580a424c4e9f.streamlock.net:8020/profesional/cauquenes/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png" group-title="CINE", ZP TV
 https://5cc309e93b721.streamlock.net/8386/8386/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.estaciontv.cl/site/templates/rt_callisto/images/logo/logo.png?5d378a60" group-title="CINE",Estacion Tv
