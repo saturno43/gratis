@@ -204,8 +204,8 @@ http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181126162232476.png" group-title="INFANTILES",Cachupum! Tv
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ec305f194d2f6d721af7718c76e6ce97347ab5acb315d31dbc1da494800b9817.png" group-title="INFANTILES",ACS Network
-https://2-fss-2.streamhoster.com/pl_118/201906-1303170-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="INFANTILES",ACS Network
+https://stmv1.questreaming.com/acstv/acstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvtaltal.cl/bienve1.jpg" group-title="INFANTILES" ,Taltal Tv Animacion
 https://5cbe03422c876.streamlock.net/8196/8196/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="INFANTILES",locomotion Tv
