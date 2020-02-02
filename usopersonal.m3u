@@ -81,7 +81,7 @@ http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bqdWmgS.png" group-title="DEPORTES",CDF HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqdWmgS.png" group-title="DEPORTES",CDF SD
 https://usb1.ninacdn.com/ssh101/cpds5/cpds5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="DEPORTES",Bein Sports Ñ
 https://nahuelproweb.000webhostapp.com/bein.php
