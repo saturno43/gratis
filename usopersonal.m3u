@@ -178,6 +178,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
+http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8
 #EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181126162232476.png" group-title="INFANTILES",Cachupum! Tv
 http://23.236.180.26/11580409776/live/chunklist_w1772104537.m3u8
 #EXTINF:-1 tvg-logo="https://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="INFANTILES",ACS Network
@@ -644,6 +646,18 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&re
 
 #EXTINF:-1 tvg-logo="https://www.comprarbanderas.es/images/banderas/400/1075-espana-escudo-ii-republica_400px.jpg" group-title="SPAIN" ,-----SPAIN-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="SPAIN",Telecinco
+http://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8
+#EXTINF:-1  tvg-logo="http://socialocho.com/s8wp/wp-content/uploads/2015/11/CUATRO-LOGO.png" group-title="SPAIN",Cuatro Tv
+http://linear02-i.akamaihd.net/hls/live/837811/cuatro/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN",Divinity
+http://linear01-i.akamaihd.net/hls/live/837812/divinity/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="SPAIN",FDF
+http://linear02-i.akamaihd.net/hls/live/837813/fdf/master.m3u8
+#EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN",BeMad
+http://linear02-i.akamaihd.net/hls/live/837815/bemad/master.m3u8
+#EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN",Energy
+http://linear02-i.akamaihd.net/hls/live/837816/energy/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.rtvcyl.es/entorno/rtvcyl.png" group-title="SPAIN",RTVcyl
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="SPAIN",Paramount Tv
