@@ -180,15 +180,15 @@ http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8
-#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181126162232476.png" group-title="INFANTILES",Cachupum! Tv
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/OzK7RSGu1mI8gwe4BR6Fyx8plVZL8r33foHORgAiWB9S2hda0bYqm6y4KRdHBI4BmzMVUJYQXJLYEPcE5uv_" group-title="INFANTILES",Cachupum! Tv
 http://23.236.180.26/11580409776/live/chunklist_w1772104537.m3u8
 #EXTINF:-1 tvg-logo="https://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="INFANTILES",ACS Network
 https://stmv1.questreaming.com/acstv/acstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="INFANTILES",locomotion Tv
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3799234_logo_gong_max.png" group-title="INFANTILES",Gong Max
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/7/7a/Gong_max_logo.png/revision/latest/scale-to-width-down/340?cb=20160625145259&path-prefix=fr" group-title="INFANTILES",Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.canalsur.es/resources/archivos_offline/2016/10/5/1475662643049La_Banda_TV_310x226.svg" group-title="INFANTILES", La Banda Tv
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/CMkIfH7EXycjS7YYy6iAd-y3X_X9DjXSgKxH5Zeag7vC82acvTbGehF2GCgX09L7ryZLwtS3cERzqE-cfJXx4OI" group-title="INFANTILES", La Banda Tv
 https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/playlist.m3u8
 
 #EXTINF:0,-COCINA-
