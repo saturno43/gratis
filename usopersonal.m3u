@@ -35,8 +35,6 @@ https://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/playlist.m3
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR HD
 https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",LA RED HD
-https://cl-lared-lared-live.ned.media/lared/smil:lared.smil/chunklist_b1000000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY3MDIzMzQ0LCJzZXNzaW9uIjoiMjA3LjI0OC4xOTMuMTE3Iiwid2hpdGVsaXN0IjpbIjIwNy4yNDguMTkzLjExNyJdfSwic2lnbmF0dXJlIjoiYTU1MTJmOWVmNWQyMzI2YWU3NjZiYzZkZDBiZTZmOTdlYWUwZDRiOCJ9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKDG166.png" group-title="CHILE", TV Salud 
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
