@@ -60,8 +60,8 @@ https://streaming.ecn.cl/hls/vivohd_lo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE" ,-----CINE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE",FmHot HD
-http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD 
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0VJa61G.png" group-title="CINE",Conecta2 Tv
 https://inliveserver.com:1936/11502/11502/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/01/Retro-plus-Modificada.png" group-title="CINE", Retroplus Tv
@@ -78,8 +78,8 @@ http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD 
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE",FmHot HD
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
 
 #EXTINF:0,-DEPORTES-
 
