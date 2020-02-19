@@ -1,5 +1,976 @@
 #EXTM3U 
 
+#EXTINF:0,-PREMIUM-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHOu2eU.png" group-title="PREMIUM",La Liga TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=57&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3aOQsHb.png" group-title="PREMIUM",Atreseries
+http://claro2-pi-dns.herokuapp.com/master.php?id=41&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eeR3mzs.png" group-title="PREMIUM",Movistar Deportes (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=464&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eeR3mzs.png" group-title="PREMIUM"",Movistar Deportes (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=465&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghRbKpY.png" group-title="PREMIUM",A&E
+http://claro2-pi-dns.herokuapp.com/master.php?id=38&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YoW2Pt.png" group-title="PREMIUM",AMC (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=44&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="PREMIUM",Animal Planet
+http://claro2-pi-dns.herokuapp.com/master.php?id=45&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYDEkwE.png" group-title="PREMIUM",AXN
+http://claro2-pi-dns.herokuapp.com/master.php?id=47&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y18oSh6.png" group-title="PREMIUM",beIN Sports (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=56&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y18oSh6.png" group-title="PREMIUM",beIN Sports (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=274&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xF8jZoR.png" group-title="PREMIUM",Boomerang
+http://claro2-pi-dns.herokuapp.com/master.php?id=58&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="PREMIUM",Discovery Turbo
+http://claro2-pi-dns.herokuapp.com/master.php?id=80&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTOm3qi.png" group-title="PREMIUM",Discovery World (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=81&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38mmLIy.png" group-title="PREMIUM",Disney Channel
+http://claro2-pi-dns.herokuapp.com/master.php?id=82&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwQfZ7e.png" group-title="PREMIUM",Disney Junior
+http://claro2-pi-dns.herokuapp.com/master.php?id=83&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSUbSDi.png" group-title="PREMIUM",Disney XD
+http://claro2-pi-dns.herokuapp.com/master.php?id=84&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCXgzNr.png" group-title="PREMIUM",E!
+http://claro2-pi-dns.herokuapp.com/master.php?id=86&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="PREMIUM",ESPN (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=89&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="PREMIUM",ESPN 2 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=90&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcCH4E3.png" group-title="PREMIUM",ESPN 3
+http://claro2-pi-dns.herokuapp.com/master.php?id=91&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9bEnvf.png" group-title="PREMIUM",ESPN Deportes
+http://claro2-pi-dns.herokuapp.com/master.php?id=92&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOYhddA.png" group-title="PREMIUM",ESPN+
+http://claro2-pi-dns.herokuapp.com/master.php?id=93&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6W8u3W.png" group-title="PREMIUM",Estrella TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=94&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="PREMIUM",Food Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=95&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CpZI8H.png" group-title="PREMIUM",Fox Channel
+http://claro2-pi-dns.herokuapp.com/master.php?id=97&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WY2deTP.png" group-title="PREMIUM",Fox Life
+http://claro2-pi-dns.herokuapp.com/master.php?id=102&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZY7wVj.png" group-title="PREMIUM",Fox Premium Action
+http://claro2-pi-dns.herokuapp.com/master.php?id=98&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZY7wVj.png" group-title="PREMIUM",Fox Premium Cinema
+http://claro2-pi-dns.herokuapp.com/master.php?id=99&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZY7wVj.png" group-title="PREMIUM",Fox Premium Classics
+http://claro2-pi-dns.herokuapp.com/master.php?id=100&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZY7wVj.png" group-title="PREMIUM",Fox Premium Family (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=101&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZY7wVj.png" group-title="PREMIUM",Fox Premium Movies
+http://claro2-pi-dns.herokuapp.com/master.php?id=103&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZY7wVj.png" group-title="PREMIUM",Fox Premium Series
+http://claro2-pi-dns.herokuapp.com/master.php?id=104&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="PREMIUM",Fox Sports 1 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=105&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="PREMIUM",Fox Sports 2 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=106&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="PREMIUM",Fox Sports 3 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=107&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="PREMIUM",FX
+http://claro2-pi-dns.herokuapp.com/master.php?id=111&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YKVkp3m.png" group-title="PREMIUM",FXM
+http://claro2-pi-dns.herokuapp.com/master.php?id=112&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B3wrozQ.png" group-title="PREMIUM",Galavision
+http://claro2-pi-dns.herokuapp.com/master.php?id=284&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WdF74IP.png" group-title="PREMIUM",Glitz
+http://claro2-pi-dns.herokuapp.com/master.php?id=114&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNPq3RW.png" group-title="PREMIUM",Gol TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=115&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="PREMIUM",H2
+http://claro2-pi-dns.herokuapp.com/master.php?id=122&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="PREMIUM",HBO (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=118&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="PREMIUM",HBO (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=119&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epWB9se.png" group-title="PREMIUM",HBO+
+http://claro2-pi-dns.herokuapp.com/master.php?id=121&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiVphLn.png" group-title="PREMIUM",HBO Family
+http://claro2-pi-dns.herokuapp.com/master.php?id=120&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vvkB152.png" group-title="PREMIUM",HBO Xtreme
+http://claro2-pi-dns.herokuapp.com/master.php?id=128&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFB2bUw.png" group-title="PREMIUM",HBO Pop
+http://claro2-pi-dns.herokuapp.com/master.php?id=129&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kGvLJ7s.png" group-title="PREMIUM",History
+http://claro2-pi-dns.herokuapp.com/master.php?id=123&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3vlVuy.png" group-title="PREMIUM",Hola TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=124&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PREMIUMPFykB.png" group-title="PREMIUM",Lifetime
+http://claro2-pi-dns.herokuapp.com/master.php?id=126&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3NASzWx.png" group-title="PREMIUM",Mas Chic
+http://claro2-pi-dns.herokuapp.com/master.php?id=127&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="PREMIUM",MTV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=130&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUXoBNk.png" group-title="PREMIUM",Nat Geo Kids
+http://claro2-pi-dns.herokuapp.com/master.php?id=132&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PREMIUM",Nat Geo Wild
+http://claro2-pi-dns.herokuapp.com/master.php?id=134&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PREMIUM",National Geographic
+http://claro2-pi-dns.herokuapp.com/master.php?id=135&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VfstPZk.png" group-title="PREMIUM",NBC Golf
+http://claro2-pi-dns.herokuapp.com/master.php?id=39&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16UPuQk.png" group-title="PREMIUM",NBC Universo
+http://claro2-pi-dns.herokuapp.com/master.php?id=330&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbvvRC6.png" group-title="PREMIUM",Nick Jr.
+http://claro2-pi-dns.herokuapp.com/master.php?id=137&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqLoAs7.png" group-title="PREMIUM",Nickelodeon
+http://claro2-pi-dns.herokuapp.com/master.php?id=136&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0dcNJl.png" group-title="PREMIUM",Nicktoons
+http://claro2-pi-dns.herokuapp.com/master.php?id=138&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CCLS9nE.png" group-title="PREMIUM",Pasiones
+http://claro2-pi-dns.herokuapp.com/master.php?id=139&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAmV2zz.png" group-title="PREMIUM",Sony Channel
+http://claro2-pi-dns.herokuapp.com/master.php?id=143&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqBNmXD.png" group-title="PREMIUM",Space
+http://claro2-pi-dns.herokuapp.com/master.php?id=144&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkymCLo.png" group-title="PREMIUM",Starz
+http://claro2-pi-dns.herokuapp.com/master.php?id=145&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkymCLo.png" group-title="PREMIUM",Starz Cinema
+http://claro2-pi-dns.herokuapp.com/master.php?id=146&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEVGYuO.png" group-title="PREMIUM",Studio Universal
+http://claro2-pi-dns.herokuapp.com/master.php?id=147&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPhjM0l.png" group-title="PREMIUM",Sundance TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=148&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duiEJkV.png" group-title="PREMIUM",Syfy
+http://claro2-pi-dns.herokuapp.com/master.php?id=149&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BM2UtPp.png" group-title="PREMIUM",TBS (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=150&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BM2UtPp.png" group-title="PREMIUM",TBS (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=150&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5pfMG7.png" group-title="PREMIUM",Telemundo Int.
+http://claro2-pi-dns.herokuapp.com/master.php?id=154&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5pfMG7.png" group-title="PREMIUM",Telemundo (WNJU)
+http://claro2-pi-dns.herokuapp.com/master.php?id=364&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5pfMG7.png" group-title="PREMIUM",Telemundo (WSNS)
+http://claro2-pi-dns.herokuapp.com/master.php?id=365&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5pfMG7.png" group-title="PREMIUM",Telemundo (KVEA)
+http://claro2-pi-dns.herokuapp.com/master.php?id=366&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5pfMG7.png" group-title="PREMIUM",Telemundo (WSCV)
+http://claro2-pi-dns.herokuapp.com/master.php?id=367&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5pfMG7.png" group-title="PREMIUM",Telemundo (WKAQ)
+http://claro2-pi-dns.herokuapp.com/master.php?id=181&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="PREMIUM",TNT
+http://claro2-pi-dns.herokuapp.com/master.php?id=156&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E8bcRZt.png" group-title="PREMIUM",TNT Series
+http://claro2-pi-dns.herokuapp.com/master.php?id=157&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bc4b9uT.png" group-title="PREMIUM",Tooncast
+http://claro2-pi-dns.herokuapp.com/master.php?id=158&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9k3Anw7.png" group-title="PREMIUM",TruTV
+http://claro2-pi-dns.herokuapp.com/master.php?id=159&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qNxMg7L.png" group-title="PREMIUM",TUDN
+http://claro2-pi-dns.herokuapp.com/master.php?id=375&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sT7SuCz.png" group-title="PREMIUM",Ultra Cine
+http://claro2-pi-dns.herokuapp.com/master.php?id=164&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sT7SuCz.png" group-title="PREMIUM",Ultra Familia
+http://claro2-pi-dns.herokuapp.com/master.php?id=167&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sT7SuCz.png" group-title="PREMIUM",Ultra Fiesta
+http://claro2-pi-dns.herokuapp.com/master.php?id=168&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sT7SuCz.png" group-title="PREMIUM",Ultra Film
+http://claro2-pi-dns.herokuapp.com/master.php?id=169&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sT7SuCz.png" group-title="PREMIUM",Ultra Kids
+http://claro2-pi-dns.herokuapp.com/master.php?id=166&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sT7SuCz.png" group-title="PREMIUM",Ultra Macho
+http://claro2-pi-dns.herokuapp.com/master.php?id=170&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sT7SuCz.png" group-title="PREMIUM",Ultra Mex
+http://claro2-pi-dns.herokuapp.com/master.php?id=171&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sT7SuCz.png" group-title="PREMIUM",Ultra Tainment
+http://claro2-pi-dns.herokuapp.com/master.php?id=172&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQ2I6tI.png" group-title="PREMIUM",UniMas
+http://claro2-pi-dns.herokuapp.com/master.php?id=174&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Ydvrrr.png" group-title="PREMIUM",Universal TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=175&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ew4ASVE.png" group-title="PREMIUM",VH1
+http://claro2-pi-dns.herokuapp.com/master.php?id=176&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xz9PDQL.png" group-title="PREMIUM",VH1 Classic
+http://claro2-pi-dns.herokuapp.com/master.php?id=177&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IsMaTeG.png" group-title="PREMIUM",Warner TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=178&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pEj3hCA.png" group-title="PREMIUM",ADN 40 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=42&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VfstPZk.png" group-title="PREMIUM",AYM Sports
+http://claro2-pi-dns.herokuapp.com/master.php?id=49&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="PREMIUM",Azteca 7 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=54&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdgOYis.png" group-title="PREMIUM",Azteca Cinema
+http://claro2-pi-dns.herokuapp.com/master.php?id=50&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lj00pSJ.png" group-title="PREMIUM",Azteca Corazon
+http://claro2-pi-dns.herokuapp.com/master.php?id=51&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntzZ55m.png" group-title="PREMIUM",Azteca Mundo
+http://claro2-pi-dns.herokuapp.com/master.php?id=52&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="PREMIUM",Azteca Uno (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=53&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MVvkJ9P.png" group-title="PREMIUM",Bandamax
+http://claro2-pi-dns.herokuapp.com/master.php?id=55&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nAgsQWY.png" group-title="PREMIUM",Distrito Comedia
+http://claro2-pi-dns.herokuapp.com/master.php?id=85&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="PREMIUM",FOROtv (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=96&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K8ctVvr.png" group-title="PREMIUM",Golden Edge
+http://claro2-pi-dns.herokuapp.com/master.php?id=116&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLzkYgW.png" group-title="PREMIUM",Golden Plus
+http://claro2-pi-dns.herokuapp.com/master.php?id=117&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5cZe3Ef.png" group-title="PREMIUM",Golden Premier
+http://claro2-pi-dns.herokuapp.com/master.php?id=285&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19jq5dv.png" group-title="PREMIUM",Imagen TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=125&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="PREMIUM",Multimedios Monterrey (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=131&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71eynQ0.png" group-title="PREMIUM",Nu9ve
+http://claro2-pi-dns.herokuapp.com/master.php?id=113&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXJPqDn.png" group-title="PREMIUM",Teleformula (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=152&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGF8ben.png" group-title="PREMIUM",Telehit Plus
+http://claro2-pi-dns.herokuapp.com/master.php?id=153&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGF8ben.png" group-title="PREMIUM",Telehit Urbano
+http://claro2-pi-dns.herokuapp.com/master.php?id=141&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88kYkJ3.png" group-title="PREMIUM",Tlnovelas
+http://claro2-pi-dns.herokuapp.com/master.php?id=155&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qNxMg7L.png" group-title="PREMIUM",TUDN
+http://claro2-pi-dns.herokuapp.com/master.php?id=160&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBIGiz5.png" group-title="PREMIUM",TVC
+http://claro2-pi-dns.herokuapp.com/master.php?id=161&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2qiwwGz.png" group-title="PREMIUM",TVC Deportes
+http://claro2-pi-dns.herokuapp.com/master.php?id=162&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7sDb4z.png" group-title="PREMIUM",Unicable
+http://claro2-pi-dns.herokuapp.com/master.php?id=173&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9ViQVT.png" group-title="PREMIUM",El Gourmet
+http://claro2-pi-dns.herokuapp.com/master.php?id=88&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="PREMIUM",Garage TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=87&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NhY7wPT.png" group-title="PREMIUM",TyC Sports
+http://claro2-pi-dns.herokuapp.com/master.php?id=163&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="PREMIUM",Caracol (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=62&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="PREMIUM",RCN (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=140&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJIk7uz.png" group-title="PREMIUM",Win Sports (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=179&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPPlwWt.png" group-title="PREMIUM",America TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=459&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KnVYGq.png" group-title="PREMIUM",ATV
+http://claro2-pi-dns.herokuapp.com/master.php?id=460&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G3TWuRE.png" group-title="PREMIUM",GolPREMIUM (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=463&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUdPsMZ.png" group-title="PREMIUM",IPe (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=470&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zuyjMmk.png" group-title="PREMIUM",Latina
+http://claro2-pi-dns.herokuapp.com/master.php?id=461&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4NiVS6e.png" group-title="PREMIUM",Panamericana TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=462&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2lDtIuv.png" group-title="PREMIUM",PREMIUM Magico
+http://claro2-pi-dns.herokuapp.com/master.php?id=466&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4NiVS6e.png" group-title="PREMIUM",Panamericana TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=462&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2lDtIuv.png" group-title="PREMIUM",PREMIUM Magico
+http://claro2-pi-dns.herokuapp.com/master.php?id=466&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/50TYb45.png" group-title="PREMIUM",TV PREMIUM (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=468&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0THQOZn.png" group-title="PREMIUM",TVPREMIUM Noticias (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=469&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxXGZJ7.png" group-title="PREMIUM",Mega TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=180&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ReUIIpM.png" group-title="PREMIUM",Univision
+http://claro2-pi-dns.herokuapp.com/master.php?id=182&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LWOl5r.png" group-title="PREMIUM",WAPA
+http://claro2-pi-dns.herokuapp.com/master.php?id=183&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LWOl5r.png" group-title="PREMIUM",WAPA Repeticion
+http://claro2-pi-dns.herokuapp.com/master.php?id=184&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDCc36l.png" group-title="PREMIUM",WIPR TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=185&f=.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghRbKpY.png" group-title="PREMIUM",A&E
+http://claro2-pi-dns.herokuapp.com/master.php?id=195&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="PREMIUM",ABC (WPLG) (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=196&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="PREMIUM",ABC (KTRK)
+http://claro2-pi-dns.herokuapp.com/master.php?id=197&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="PREMIUM",ABC (WSB)
+http://claro2-pi-dns.herokuapp.com/master.php?id=198&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="PREMIUM",ABC (WFTS)
+http://claro2-pi-dns.herokuapp.com/master.php?id=199&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="PREMIUM",ABC (WWSB)
+http://claro2-pi-dns.herokuapp.com/master.php?id=202&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="PREMIUM",ABC (WFTV)
+http://claro2-pi-dns.herokuapp.com/master.php?id=205&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hLb5a7e.png" group-title="PREMIUM",ACC Network (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=207&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YoW2Pt.png" group-title="PREMIUM",AMC
+http://claro2-pi-dns.herokuapp.com/master.php?id=208&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8gHWcI.png" group-title="PREMIUM",American Heroes Channel
+http://claro2-pi-dns.herokuapp.com/master.php?id=209&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="PREMIUM",Animal Planet
+http://claro2-pi-dns.herokuapp.com/master.php?id=210&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KDKkRiv.png" group-title="PREMIUM",BBC America
+http://claro2-pi-dns.herokuapp.com/master.php?id=211&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y18oSh6.png" group-title="PREMIUM",beIN Sports
+http://claro2-pi-dns.herokuapp.com/master.php?id=212&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kXCzsoz.png" group-title="PREMIUM",BET
+http://claro2-pi-dns.herokuapp.com/master.php?id=213&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMLg4D0.png" group-title="PREMIUM",BET Her
+http://claro2-pi-dns.herokuapp.com/master.php?id=214&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzlGP4Z.png" group-title="PREMIUM",Big Ten Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=215&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xF8jZoR.png" group-title="PREMIUM",Boomerang
+http://claro2-pi-dns.herokuapp.com/master.php?id=216&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYWJITz.png" group-title="PREMIUM",Bravo
+http://claro2-pi-dns.herokuapp.com/master.php?id=217&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XEB5KYn.png" group-title="PREMIUM",Cartoon Network (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=218&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="PREMIUM",CBS (KYW-TV)
+http://claro2-pi-dns.herokuapp.com/master.php?id=219&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="PREMIUM",CBS (KYW-TV)
+http://claro2-pi-dns.herokuapp.com/master.php?id=226&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="PREMIUM",CBS (WTSP)
+http://claro2-pi-dns.herokuapp.com/master.php?id=220&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="PREMIUM",CBS (WBBM)
+http://claro2-pi-dns.herokuapp.com/master.php?id=223&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="PREMIUM",CBS (WPEC)
+http://claro2-pi-dns.herokuapp.com/master.php?id=224&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="PREMIUM",CBS (WFOR) (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=228&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="PREMIUM",CBS (WKMG)
+http://claro2-pi-dns.herokuapp.com/master.php?id=229&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="PREMIUM",CBS (WGCL)
+http://claro2-pi-dns.herokuapp.com/master.php?id=230&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eB5MFeN.png" group-title="PREMIUM",CBS Sports Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=231&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NqrExCC.png" group-title="PREMIUM",Cinemax
+http://claro2-pi-dns.herokuapp.com/master.php?id=233&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x7KFHzs.png" group-title="PREMIUM",CMT
+http://claro2-pi-dns.herokuapp.com/master.php?id=234&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="PREMIUM",CNBC (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=235&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="PREMIUM",CNN (Opt-1)
+http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="PREMIUM",CNN (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=236&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHDyBgO.png" group-title="PREMIUM",Comedy Central
+http://claro2-pi-dns.herokuapp.com/master.php?id=237&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkd8p6g.png" group-title="PREMIUM",Cooking Channel
+http://claro2-pi-dns.herokuapp.com/master.php?id=238&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VscD1s5.png" group-title="PREMIUM",Cozi TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=239&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UbJ32O4.png" group-title="PREMIUM",CW (WPIX)
+http://claro2-pi-dns.herokuapp.com/master.php?id=240&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUfn8Wl.png" group-title="PREMIUM",Destination America
+http://claro2-pi-dns.herokuapp.com/master.php?id=241&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7U3oxx9.png" group-title="PREMIUM",Discovery
+http://claro2-pi-dns.herokuapp.com/master.php?id=242&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvJumBD.png" group-title="PREMIUM",Discovery Family
+http://claro2-pi-dns.herokuapp.com/master.php?id=243&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K4X068n.png" group-title="PREMIUM",Discovery Life
+http://claro2-pi-dns.herokuapp.com/master.php?id=244&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ncMPREMIUMPR.png" group-title="PREMIUM",Discovery Science
+http://claro2-pi-dns.herokuapp.com/master.php?id=245&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38mmLIy.png" group-title="PREMIUM",Disney Channel (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=246&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwQfZ7e.png" group-title="PREMIUM",Disney Junior (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=247&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSUbSDi.png" group-title="PREMIUM",Disney XD
+http://claro2-pi-dns.herokuapp.com/master.php?id=248&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J1kJFRh.png" group-title="PREMIUM",DIY Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=249&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCXgzNr.png" group-title="PREMIUM",E!
+http://claro2-pi-dns.herokuapp.com/master.php?id=250&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L7M370R.png" group-title="PREMIUM",Eleven Sports
+http://claro2-pi-dns.herokuapp.com/master.php?id=251&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2d8t43.png" group-title="PREMIUM",Epix
+http://claro2-pi-dns.herokuapp.com/master.php?id=252&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqAv5vk.png" group-title="PREMIUM",Epix 2
+http://claro2-pi-dns.herokuapp.com/master.php?id=253&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X9Hj7z9.png" group-title="PREMIUM",Epix Hits
+http://claro2-pi-dns.herokuapp.com/master.php?id=254&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="PREMIUM",ESPN (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=255&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="PREMIUM",ESPN 2 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=256&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="PREMIUM",ESPN News (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=257&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PQbUGRO.png" group-title="PREMIUM",ESPN U (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=258&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xp4TTQd.png" group-title="PREMIUM",Fight Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=259&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXgS6Ss.png" group-title="PREMIUM",Food Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=260&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="PREMIUM",Fox (WNYW)
+http://claro2-pi-dns.herokuapp.com/master.php?id=261&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="PREMIUM",Fox (KTTV)
+http://claro2-pi-dns.herokuapp.com/master.php?id=262&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="PREMIUM",Fox (WTVT)
+http://claro2-pi-dns.herokuapp.com/master.php?id=263&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="PREMIUM",Fox (WTXF)
+http://claro2-pi-dns.herokuapp.com/master.php?id=265&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="PREMIUM",Fox (WRBW)
+http://claro2-pi-dns.herokuapp.com/master.php?id=267&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="PREMIUM",Fox (WAGA)
+http://claro2-pi-dns.herokuapp.com/master.php?id=269&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="PREMIUM",Fox (KTBC)
+http://claro2-pi-dns.herokuapp.com/master.php?id=271&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="PREMIUM",Fox (WJW)
+http://claro2-pi-dns.herokuapp.com/master.php?id=272&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryEd1N4.png" group-title="PREMIUM",Fox Business
+http://claro2-pi-dns.herokuapp.com/master.php?id=273&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBiCDLB.png" group-title="PREMIUM",Fox News Channel (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=275&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8DMgGh.png" group-title="PREMIUM",Fox Soccer Plus
+http://claro2-pi-dns.herokuapp.com/master.php?id=276&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNImgsj.png" group-title="PREMIUM",Fox Sports 1 (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=108&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNImgsj.png" group-title="PREMIUM",Fox Sports 1 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=489&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLI7jy5.png" group-title="PREMIUM",Fox Sports 2
+http://claro2-pi-dns.herokuapp.com/master.php?id=109&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oDWexD4.png" group-title="PREMIUM",Freeform
+http://claro2-pi-dns.herokuapp.com/master.php?id=277&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JbN2SU.png" group-title="PREMIUM",Fuse
+http://claro2-pi-dns.herokuapp.com/master.php?id=278&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="PREMIUM",FX
+http://claro2-pi-dns.herokuapp.com/master.php?id=280&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YKVkp3m.png" group-title="PREMIUM",FXM
+http://claro2-pi-dns.herokuapp.com/master.php?id=281&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HT7L1Za.png" group-title="PREMIUM",FXX
+http://claro2-pi-dns.herokuapp.com/master.php?id=282&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eCp4oPL.png" group-title="PREMIUM",FYI
+http://claro2-pi-dns.herokuapp.com/master.php?id=283&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DC3Fui3.png" group-title="PREMIUM",Game Show Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=286&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w12KdgA.png" group-title="PREMIUM",Hallmark Channel
+http://claro2-pi-dns.herokuapp.com/master.php?id=287&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaiFJvk.png" group-title="PREMIUM",Hallmark Drama
+http://claro2-pi-dns.herokuapp.com/master.php?id=288&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNU6NHC.png" group-title="PREMIUM",Hallmark Movies & Mysteries
+http://claro2-pi-dns.herokuapp.com/master.php?id=289&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="PREMIUM",HBO (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=290&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="PREMIUM",HBO (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=293&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiVphLn.png" group-title="PREMIUM",HBO Family
+http://claro2-pi-dns.herokuapp.com/master.php?id=291&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExW6L4C.png" group-title="PREMIUM",HBO Signature
+http://claro2-pi-dns.herokuapp.com/master.php?id=292&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zo24rFQ.png" group-title="PREMIUM",HGTV
+http://claro2-pi-dns.herokuapp.com/master.php?id=294&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kGvLJ7s.png" group-title="PREMIUM",History
+http://claro2-pi-dns.herokuapp.com/master.php?id=295&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1yPiUE.png" group-title="PREMIUM",HLN
+http://claro2-pi-dns.herokuapp.com/master.php?id=296&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDk92Zf.png" group-title="PREMIUM",IFC
+http://claro2-pi-dns.herokuapp.com/master.php?id=297&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mwfb0Nv.png" group-title="PREMIUM",Investigation Discovery
+http://claro2-pi-dns.herokuapp.com/master.php?id=299&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PREMIUMPFykB.png" group-title="PREMIUM",Lifetime
+http://claro2-pi-dns.herokuapp.com/master.php?id=300&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xiqHhFf.png" group-title="PREMIUM",LMN
+http://claro2-pi-dns.herokuapp.com/master.php?id=301&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8r9ZR7.png" group-title="PREMIUM",MLB Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=303&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nr33fOb.png" group-title="PREMIUM",Motor Trend
+http://claro2-pi-dns.herokuapp.com/master.php?id=382&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GpqFniE.png" group-title="PREMIUM",MSG
+http://claro2-pi-dns.herokuapp.com/master.php?id=304&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ph9DsqR.png" group-title="PREMIUM",MSG+
+http://claro2-pi-dns.herokuapp.com/master.php?id=305&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/apjLF1L.png" group-title="PREMIUM",MSNBC
+http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="PREMIUM",MTV
+http://claro2-pi-dns.herokuapp.com/master.php?id=307&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8X6uscS.png" group-title="PREMIUM",MTV 2 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=308&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PREMIUM",Nat Geo Wild
+http://claro2-pi-dns.herokuapp.com/master.php?id=311&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PREMIUM",National Geographic
+http://claro2-pi-dns.herokuapp.com/master.php?id=310&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2UmRbE.png" group-title="PREMIUM",NBA TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=312&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="PREMIUM",NBC (WGAL)
+http://claro2-pi-dns.herokuapp.com/master.php?id=313&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="PREMIUM",NBC (WCAU)
+http://claro2-pi-dns.herokuapp.com/master.php?id=314&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="PREMIUM",NBC (WBBH)
+http://claro2-pi-dns.herokuapp.com/master.php?id=315&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="PREMIUM",NBC (WESH)
+http://claro2-pi-dns.herokuapp.com/master.php?id=316&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="PREMIUM",NBC (KNBC)
+http://claro2-pi-dns.herokuapp.com/master.php?id=317&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="PREMIUM",NBC (WTVJ) (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=321&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VfstPZk.png" group-title="PREMIUM",NBC Golf (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ql0Z5BF.png" group-title="PREMIUM",NBC Sports Bay Area
+http://claro2-pi-dns.herokuapp.com/master.php?id=323&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ql0Z5BF.png" group-title="PREMIUM",NBC Sports Boston
+http://claro2-pi-dns.herokuapp.com/master.php?id=324&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ql0Z5BF.png" group-title="PREMIUM",NBC Sports California
+http://claro2-pi-dns.herokuapp.com/master.php?id=325&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ql0Z5BF.png" group-title="PREMIUM",NBC Sports Chicago
+http://claro2-pi-dns.herokuapp.com/master.php?id=326&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GsGZ4ed.png" group-title="PREMIUM",NBC Sports Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=331&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ql0Z5BF.png" group-title="PREMIUM",NBC Sports Northwest
+http://claro2-pi-dns.herokuapp.com/master.php?id=327&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ql0Z5BF.png" group-title="PREMIUM",NBC Sports Philadelphia
+http://claro2-pi-dns.herokuapp.com/master.php?id=328&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ql0Z5BF.png" group-title="PREMIUM",NBC Sports Washington
+http://claro2-pi-dns.herokuapp.com/master.php?id=329&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L5agHAa.png" group-title="PREMIUM",NFL Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=332&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqmG3pS.png" group-title="PREMIUM",NFL Red Zone
+http://claro2-pi-dns.herokuapp.com/master.php?id=333&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/koDqjYa.png" group-title="PREMIUM",NHL Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=334&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqLoAs7.png" group-title="PREMIUM",Nickelodeon
+http://claro2-pi-dns.herokuapp.com/master.php?id=335&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbvvRC6.png" group-title="PREMIUM",Nick Jr.
+http://claro2-pi-dns.herokuapp.com/master.php?id=336&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0dcNJl.png" group-title="PREMIUM",Nick Toons
+http://claro2-pi-dns.herokuapp.com/master.php?id=337&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poawe9g.png" group-title="PREMIUM",Oprah Winfrey Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=339&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tFUSEZ4.png" group-title="PREMIUM",Outdoor Channel (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=338&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXsyc1o.png" group-title="PREMIUM",Outside TV (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=194&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktcmjx8.png" group-title="PREMIUM",Oxygen
+http://claro2-pi-dns.herokuapp.com/master.php?id=340&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVbEeXq.png" group-title="PREMIUM",PAC-12 Mountain
+http://claro2-pi-dns.herokuapp.com/master.php?id=341&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVbEeXq.png" group-title="PREMIUM",PAC-12 Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=342&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVbEeXq.png" group-title="PREMIUM",PAC-12 Oregon
+http://claro2-pi-dns.herokuapp.com/master.php?id=343&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ctvYWi.png" group-title="PREMIUM",Paramount Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=344&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png" group-title="PREMIUM",Pop (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=346&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CWis50a.png" group-title="PREMIUM",SEC Network (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=347&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3Qc9jz.png" group-title="PREMIUM",Showtime
+http://claro2-pi-dns.herokuapp.com/master.php?id=348&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ciAHL46.png" group-title="PREMIUM",Showtime 2
+http://claro2-pi-dns.herokuapp.com/master.php?id=349&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m81MlcH.png" group-title="PREMIUM",Showtime Extreme
+http://claro2-pi-dns.herokuapp.com/master.php?id=350&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1NnGyED.png" group-title="PREMIUM",Showtime Showcase
+http://claro2-pi-dns.herokuapp.com/master.php?id=351&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a1sM8ny.png" group-title="PREMIUM",Smithsonian Channel (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=352&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3cJNZC.png" group-title="PREMIUM",Spectrum SportsNet
+http://claro2-pi-dns.herokuapp.com/master.php?id=354&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R0dVkVq.png" group-title="PREMIUM",SportsNet New York
+http://claro2-pi-dns.herokuapp.com/master.php?id=353&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkymCLo.png" group-title="PREMIUM",Starz
+http://claro2-pi-dns.herokuapp.com/master.php?id=356&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkymCLo.png" group-title="PREMIUM",Starz Edge
+http://claro2-pi-dns.herokuapp.com/master.php?id=357&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkymCLo.png" group-title="PREMIUM",Starz Encore
+http://claro2-pi-dns.herokuapp.com/master.php?id=359&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkymCLo.png" group-title="PREMIUM",Starz Westerns
+http://claro2-pi-dns.herokuapp.com/master.php?id=358&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPhjM0l.png" group-title="PREMIUM",Sundance TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=360&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duiEJkV.png" group-title="PREMIUM",Syfy
+http://claro2-pi-dns.herokuapp.com/master.php?id=361&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BM2UtPp.png" group-title="PREMIUM",TBS
+http://claro2-pi-dns.herokuapp.com/master.php?id=362&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6SLVM5.png" group-title="PREMIUM",TCM
+http://claro2-pi-dns.herokuapp.com/master.php?id=363&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="PREMIUM",Tennis Channel (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=369&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ub55Hh.png" group-title="PREMIUM",TLC
+http://claro2-pi-dns.herokuapp.com/master.php?id=371&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="PREMIUM",TNT (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=372&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="PREMIUM",TNT (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=18&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1XqS79.png" group-title="PREMIUM",Travel Channel
+http://claro2-pi-dns.herokuapp.com/master.php?id=373&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9k3Anw7.png" group-title="PREMIUM",truTV
+http://claro2-pi-dns.herokuapp.com/master.php?id=374&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j2henXQ.png" group-title="PREMIUM",TV Land
+http://claro2-pi-dns.herokuapp.com/master.php?id=376&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpZ7k1F.png" group-title="PREMIUM",TV One
+http://claro2-pi-dns.herokuapp.com/master.php?id=377&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVJFIcH.png" group-title="PREMIUM",TVG
+http://claro2-pi-dns.herokuapp.com/master.php?id=378&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jATanT.png" group-title="PREMIUM",UFC Fight Pass
+http://claro2-pi-dns.herokuapp.com/master.php?id=379&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FnqN6dO.png" group-title="PREMIUM",Universal Kids (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=380&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FnqN6dO.png" group-title="PREMIUM",Universal Kids (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=345&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VI7V1A.png" group-title="PREMIUM",PREMIUM Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=381&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J3mj3RG.png" group-title="PREMIUM",VH1 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=383&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XPEqSWW.png" group-title="PREMIUM",Vice
+http://claro2-pi-dns.herokuapp.com/master.php?id=384&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pWyzyup.png" group-title="PREMIUM",We TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=385&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpOQ6jj.png" group-title="PREMIUM",Weather Nation (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=370&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7wtlKGs.png" group-title="PREMIUM",WWE Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=388&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0TOS1k.png" group-title="PREMIUM",YES Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=389&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOx41cu.png" group-title="PREMIUM",WCCA TV Worcester (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=387&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6n1Bd68.png" group-title="PREMIUM",CTV 2
+http://claro2-pi-dns.herokuapp.com/master.php?id=309&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0zmuDh.png" group-title="PREMIUM",Sportsnet 1 (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=9&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0zmuDh.png" group-title="PREMIUM",Sportsnet 1 (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=10&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0zmuDh.png" group-title="PREMIUM",Sportsnet East
+http://claro2-pi-dns.herokuapp.com/master.php?id=8&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0zmuDh.png" group-title="PREMIUM",Sportsnet News
+http://claro2-pi-dns.herokuapp.com/master.php?id=110&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYuhhXB.png" group-title="PREMIUM",Sportsnet Ontario (Opt-1)
+http://claro2-pi-dns.herokuapp.com/master.php?id=11&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYuhhXB.png" group-title="PREMIUM",Sportsnet Ontario (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=11&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYuhhXB.png" group-title="PREMIUM",Sportsnet Ontario (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=12&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vRFzzo9.png" group-title="PREMIUM",TSN 1
+http://claro2-pi-dns.herokuapp.com/master.php?id=13&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vRFzzo9.png" group-title="PREMIUM",TSN 2
+http://claro2-pi-dns.herokuapp.com/master.php?id=14&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vRFzzo9.png" group-title="PREMIUM",TSN 3
+http://claro2-pi-dns.herokuapp.com/master.php?id=15&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vRFzzo9.png" group-title="PREMIUM",TSN 4
+http://claro2-pi-dns.herokuapp.com/master.php?id=16&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vRFzzo9.png" group-title="PREMIUM",TSN 5
+http://claro2-pi-dns.herokuapp.com/master.php?id=17&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d5cCydK.png" group-title="PREMIUM",World Fishing Network
+http://claro2-pi-dns.herokuapp.com/master.php?id=386&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sNND5Qu.png" group-title="PREMIUM",Box Nation
+http://claro2-pi-dns.herokuapp.com/master.php?id=186&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwMyL5R.png" group-title="PREMIUM",Sky Cinema Action
+http://claro2-pi-dns.herokuapp.com/master.php?id=477&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwMyL5R.png" group-title="PREMIUM",Sky Cinema Comedy
+http://claro2-pi-dns.herokuapp.com/master.php?id=478&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwMyL5R.png" group-title="PREMIUM",Sky Cinema Disney
+http://claro2-pi-dns.herokuapp.com/master.php?id=479&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwMyL5R.png" group-title="PREMIUM",Sky Cinema Valentine
+http://claro2-pi-dns.herokuapp.com/master.php?id=480&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwMyL5R.png" group-title="PREMIUM",Sky Cinema Adventure
+http://claro2-pi-dns.herokuapp.com/master.php?id=481&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwMyL5R.png" group-title="PREMIUM",Sky Cinema Greats
+http://claro2-pi-dns.herokuapp.com/master.php?id=482&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwMyL5R.png" group-title="PREMIUM",Sky Cinema Premier
+http://claro2-pi-dns.herokuapp.com/master.php?id=484&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwMyL5R.png" group-title="PREMIUM",Sky Cinema Sci-fi Horror
+http://claro2-pi-dns.herokuapp.com/master.php?id=485&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwMyL5R.png" group-title="PREMIUM",Sky Cinema Thriller
+http://claro2-pi-dns.herokuapp.com/master.php?id=486&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zWqFBfj.png" group-title="PREMIUM",Sky Sports Action (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=187&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88SnVWu.png" group-title="PREMIUM",Sky Sports Cricket (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=476&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Tzwo1x.png" group-title="PREMIUM",Sky Sports F1
+http://claro2-pi-dns.herokuapp.com/master.php?id=188&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTTsvvJ.png" group-title="PREMIUM",Sky Sports Golf (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=189&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rO1T4s.png" group-title="PREMIUM",Sky Sports Premier League (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=190&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rO1T4s.png" group-title="PREMIUM",Sky Sports Premier League (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=192&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZ8iPOE.png" group-title="PREMIUM",Sky Sports Mix
+http://claro2-pi-dns.herokuapp.com/master.php?id=191&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zWqFBfj.png" group-title="PREMIUM",Sky Sports Action (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=187&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88SnVWu.png" group-title="PREMIUM",Sky Sports Cricket (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=476&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Tzwo1x.png" group-title="PREMIUM",Sky Sports F1
+http://claro2-pi-dns.herokuapp.com/master.php?id=188&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTTsvvJ.png" group-title="PREMIUM",Sky Sports Golf (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=189&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rO1T4s.png" group-title="PREMIUM",Sky Sports Premier League (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=190&f=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rO1T4s.png" group-title="PREMIUM",Sky Sports Premier League (Opt-3)
+http://claro2-pi-dns.herokuapp.com/master.php?id=192&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZ8iPOE.png" group-title="PREMIUM",Sky Sports Mix
+http://claro2-pi-dns.herokuapp.com/master.php?id=191&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iCiRwiD.png" group-title="PREMIUM",ABC (Opt-2)
+http://claro2-pi-dns.herokuapp.com/master.php?id=193&f=.m3u8
 
 #EXTINF:0,-CHILE-
 
