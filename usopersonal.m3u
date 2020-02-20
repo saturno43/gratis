@@ -110,6 +110,38 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="DEPORTES",Bein Sports Turkia
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 2 
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN U 
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sport News 
+http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sport F1 
+http://95.170.215.120/hls/m3u8/Sky-Sports-F1-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sports Football HD 
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",SkySportAction  
+http://178.162.209.237/115-SSAction/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sports Premier League HD 
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sports Football HD 
+http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sports Main Event HD 
+http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",BT Sport 1HD 
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",CMore Football 
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",BT Sport 2HD 
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sports 1 
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sports 5 
+http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",CMORE Sport 
+http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GcJ0q63.png" group-title="DEPORTES",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/fight-sports.png" group-title="DEPORTES",Fight Sport 
