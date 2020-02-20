@@ -183,6 +183,16 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/CMkIfH7EXycjS7YYy6iAd-y3X_X9DjXSgKxH5Zeag7vC82acvTbGehF2GCgX09L7ryZLwtS3cERzqE-cfJXx4OI" group-title="INFANTILES", La Banda Tv
 https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.kindpng.com/picc/m/466-4666398_dibujos-tiernos-animales-de-la-granja-hd-png.png" group-title="INFANTILES", La asombrosa excursión
+http://recursos.pakapaka.gov.ar/repositorio/video/ver?file_id=22b9a41b-2aa4-4256-b12a-25d8fe23decf&rec_id=125072
+#EXTINF:-1  tvg-logo="https://www.kindpng.com/picc/m/466-4666398_dibujos-tiernos-animales-de-la-granja-hd-png.png" group-title="INFANTILES", La asombrosa excursión con músicos latinos
+http://recursos.pakapaka.gov.ar/repositorio/video/ver?file_id=58e40073-87ab-45b6-8b5f-472bb6ae790c&rec_id=125089
+#EXTINF:-1  tvg-logo="https://www.kindpng.com/picc/m/466-4666398_dibujos-tiernos-animales-de-la-granja-hd-png.png" group-title="INFANTILES", La asombrosa excursión conquista de América
+http://recursos.pakapaka.gov.ar/repositorio/video/ver?file_id=55955f67-fe32-4f41-9a57-f26d3262c218&rec_id=128066
+#EXTINF:-1  tvg-logo="https://www.kindpng.com/picc/m/466-4666398_dibujos-tiernos-animales-de-la-granja-hd-png.png" group-title="INFANTILES", La asombrosa excursión artistas latinos 
+http://recursos.pakapaka.gov.ar/repositorio/video/ver?file_id=07689c86-033f-45ee-8be0-1b52854a11d8&rec_id=125045
+#EXTINF:-1  tvg-logo="https://www.kindpng.com/picc/m/466-4666398_dibujos-tiernos-animales-de-la-granja-hd-png.png" group-title="INFANTILES", La asombrosa excursión amazonas
+http://recursos.pakapaka.gov.ar/repositorio/video/ver?file_id=b763908a-14aa-443b-9dec-3e223aab904b&rec_id=128098
 
 #EXTINF:0,-COCINA-
 
@@ -287,6 +297,53 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="ARGENTINA",Tierra Mía 
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Canal 9
+https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Tv pública 
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w38685927_b1264000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Telmax
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w38685927_b1264000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Music TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Canal Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",A24
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/61029231-c51a-49f3-b121-5fd85fbb99ff:CHS/variant/4b6475d14ee905150d7e1a8949241140/bandwidth/1500000.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Crónica Tv
+https://g3.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",NET TV
+https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",UnrioTv
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w1505381440.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",4 JUJUY
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",4 Río CUARTO
+https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/chunklist_w1835207009.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",4 TDC
+https://5d305ce2c243a.streamlock.net/tdconline/tdconline/chunklist_w249799893.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",C6Digital 
+https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",7 Chubut
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/chunklist_w1741889470.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Telecreativa Lanús 
+https://cdn2.zencast.tv:30443/telecreativa/live/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Telpin HD
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w2137420998_b1344100_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Acequia tv
+https://playback2.akamaized.net/streams/6450028_5813077_lsi887mn4750vc0m6rx_1/exp=1581613419~acl=%2f*~data=hdntl~hmac=8ebeb4101e75a36f65fec30a5ac36f647379cb3f9cac7b7421a0700c43c46170/media/6450028_5813077_lsi887mn4750vc0m6rx_1@678000pb.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",El 9 Buenos Aires
+https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/chunklist_b2200000.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",4 Misiones
+https://cdn2.zencast.tv:30443/misiones4/live/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",T5 SATELITAL
+https://playback2.akamaized.net/streams/20819504_8664197_lsiw6e8ag3jme48su43_1/exp=1581613822~acl=%2f*~data=hdntl~hmac=81c77762fe1a1f4e552ecb3980c3b4ab616792533f0aa85e6bf270ace094af37/media/20819504_8664197_lsiw6e8ag3jme48su43_1@2356000pb.m3u8
 
 #EXTINF:0,-PERU-
 
