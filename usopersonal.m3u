@@ -1156,6 +1156,16 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/4/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace Gospel
 https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE AFRICA HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_AFRICAHD_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE KITOKO HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_KITOKOHD_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE TROPICAL HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_TROPICALHD_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE TOCA HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_TOCAHD_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE NAIJA HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_NAIJAHD_720.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv Estados Unidos
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv México
