@@ -44,6 +44,8 @@ https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701144261.jpg" group-title="CHILE" , Campo Abierto 
 http://v3.tustreaming.cl/campoabierto/live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984897951024713729/HyC8AIMf.jpg" group-title="CHILE" ,Santiago Tv
+https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 1 HD 
@@ -1496,8 +1498,6 @@ http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
 http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83635_Estudio_TV.png" group-title="REGIONALES", Estudio Tv La Ligua
 http://inliveserver.com:1935/11022/11022/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/68737_STGO_TV.png" group-title="REGIONALES", Santiago Tv
-http://cdnapi.kaltura.com/p/2359831/sp/0/playManifest/entryId/1_3jx9rpfo/format/applehttp/protocol/http/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://www.pintanatv.cl/wp-content/uploads/2018/01/logo.png" group-title="REGIONALES",La Pintana Tv Santiago
 http://edge1.cl.grupoz.cl/lapintana/live/chunklist_w1192466643.m3u8
 #EXTINF:-1 tvg-logo="http://www.rodeoenvivo.cl/portal/wp-content/uploads/2016/05/BANNER_CAMPO_ABIERTO_TV.png" group-title="REGIONALES",Campo Abierto TV  Huechuraba
