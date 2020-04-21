@@ -1245,6 +1245,8 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w152373056_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png" group-title="MUSICA",Ocko star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-omQS0__XP3Y/XpaPAIUgKUI/AAAAAAAAx44/0NeiqUb_LHk4-Sffm0h1XASJZA9B3DRLwCK8BGAsYHg/s0/2020-04-14.png" group-title="MUSICA", Rewind TV
+https://593b04c4c5670.streamlock.net:443/8024/8024/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-quF_76l-K1A/UnKvQIO-BxI/AAAAAAAAATA/b1C08WiQoT4/s1600/HYPE+TV+NEW+LOGO+2+small.jpg" group-title="MUSICA",Hype Tv!
 http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/987.gif" group-title="MUSICA",Ocko Expres
@@ -1644,6 +1646,8 @@ http://hd.chileservidores.cl:8080/colina/colina/playlist.m3u8?PlaylistM3UCL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png" group-title="REGIONALES", HiperTV
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pPgoQgoAtTQ/Xpt4d9_ftzI/AAAAAAAAx_8/HS0gSRWlXngyTJ7ghBe1cfVlmaawNe4oQCK8BGAsYHg/s0/2020-04-18.png" group-title="REGIONALES", Telecanal Santa Cruz
+https://unlimited2-cl.dps.live/tcsc/tcsc.smil/tcsc/livestream1/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-isb-iglesia-san-bernardo.jpg?160315114433" group-title="REGIONALES", ISB San Bernardo Santiago 
 http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83635_Estudio_TV.png" group-title="REGIONALES", Estudio Tv La Ligua
@@ -1720,6 +1724,8 @@ http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/survision/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NuXOWo.png" group-title="REGIONALES",Canal 5 Tv Puerto Montt
 https://inliveserver.com:1936/10030/10030/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-osoDd4sx09s/XUIeRlfi0tI/AAAAAAAAqAE/YZ6Z8IrPlu0Lhq3dCWew1uls3PUV5M46ACK8BGAs/s0/2019-07-31.png"  group-title="REGIONALES", Canal 10 ARTV
+https://5d4a00b8a0738.streamlock.net:443/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-kGP6BVbNbyc/XilwKASDVvI/AAAAAAAAvYQ/KLUKkYVVHjEY-DB1Imur4YgS7r5Egfh4ACK8BGAsYHg/s0/2020-01-23.png" group-title="REGIONALES", Fresia TV
 https://inliveserver.com:1936/10018/10018/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://surstream.tv/wp-content/uploads/2016/10/Radio-Chiloe.png" group-title="REGIONALES",Radio Chiloe
@@ -1756,6 +1762,14 @@ http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sossurf.com.au/surf/wp-content/uploads/2013/06/Religion-logo.png" group-title="RELIGION" ,-----RELIGION-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gREYOoyEcVE/Xpz9QKwVe1I/AAAAAAAAyBw/Xn3vQu7pPhA62v6q1YqeqkMtx_mHCYqWACK8BGAsYHg/s0/2020-04-19.png" group-title="RELIGION", Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8FziFTjIuAc/Xp0H3lcJYsI/AAAAAAAAyCQ/FGN80U47Fiw0GwPBBcVtMfT5Ky0wKftqgCK8BGAsYHg/s0/2020-04-19.png" group-title="RELIGION", NCTV
+http://unlimited10-cl.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-W15RF9EVvig/Xp0DX11iM6I/AAAAAAAAyB8/3ToZ8-S00wcyYROTtslO_oh_VWwm99iCACK8BGAsYHg/s0/2020-04-19.png" group-title="RELIGION", RC Radio
+https://5d52c82b4a7e3.streamlock.net:1936/8054/8054/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1vka6r8W0mM/Wn9nbBlPjSI/AAAAAAAAgw8/FjO6TeBOhrY12r-DnLOawEFZpf89I5vEQCK8BGAs/s512/2018-02-10.png" group-title="RELIGION", Televida HD 
+https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701163111.jpg" group-title="RELIGION" , Enfoque Digital 
 https://595b85410a151.streamlock.net:443/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1570112846.png" group-title="REGIGION" , NCTV 
