@@ -110,6 +110,8 @@ http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/i
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/f6fbd-elgarage-2013.png" group-title="DEPORTES" ,Garage TV 
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4gdqGn04Bng/Xb9WF2WzB6I/AAAAAAAAr7A/tbeDeaQTuuMuHOka_gYv4trQHwAyzqKPQCK8BGAsYHg/s0/2019-11-03.png" group-title="DEPORTES", TV Turf Movil
+https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Basico
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Plus
@@ -1091,6 +1093,8 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&re
 
 #EXTINF:-1 tvg-logo="https://www.comprarbanderas.es/images/banderas/400/1075-espana-escudo-ii-republica_400px.jpg" group-title="SPAIN" ,-----SPAIN-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png"  group-title="SPAIN", Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701167871.jpg" group-title="SPAIN" , 24h Rtve (ES) 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="SPAIN",Telecinco
@@ -1193,6 +1197,8 @@ http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/cont
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="MUSICA",VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png" group-title="MUSICA", On Radio Kpop
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM POP
 https://livelist01.yowi.tv/lista/e254a962539d318dca0a948fdb484e90eb649b4e/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM HIP-HOP
@@ -1395,6 +1401,10 @@ https://ia801508.us.archive.org/27/items/rapido_201511/PitchPerfection-SongsMash
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="RADIOTV",La Popular TV
 https://593d7fe3c9b0d.streamlock.net:443/8124/8124/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png" group-title="RADIOTV", Radio Fiessta
+https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DVca8ADNsmg/XoPjmXbXCFI/AAAAAAAAxYc/UON93k0nR-o7HzAiVzx7GJWO43TcOcVtQCK8BGAsYHg/s0/2020-03-31.png"  group-title="RADIOTV", Radio Sabor Tropical
+https://v2.tustreaming.cl/sabortv/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv HD
@@ -1411,8 +1421,98 @@ https://unlimited2-cl.dps.live/bigradio/bigradio.smil/bigradio/livestream2/chunk
 https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
 http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Zkxwnf-bgX4/XoPOd4kOr7I/AAAAAAAAxX0/EWBlznUnmekBRjTn7B8n3ocfGe8bkITsQCK8BGAsYHg/s0/2020-03-31.png"  group-title="RADIOTV", Radio Zeta
+https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KZ5hF_e71jY/Xm70Txo7USI/AAAAAAAAw8I/Y6DKIiTDd7YJUOLYn2hO9gjvroZD4T5MACK8BGAsYHg/s0/2020-03-15.png" group-title="RADIOTV", Radio Actitud
+https://593b04c4c5670.streamlock.net/8020/8020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Cv39r3czF0w/XovwZlRIgyI/AAAAAAAAxhI/u9IUH1nGlX4XEJA-Pqc2wGXfJJrbjejgwCK8BGAsYHg/s0/2020-04-06.png" group-title="RADIOTV", ChocolateFM
+https://5d52c82b4a7e3.streamlock.net:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t_TztnOyFVE/XmsBBeYivqI/AAAAAAAAwyY/AiGUMO20vMcW9z6ipuNOk_WkgY_za1KrgCK8BGAsYHg/s512/2020-03-12.png" group-title="RADIOTV", CCP Radio
+http://hd.chileservidores.cl:8080/ccpradio/ccpradio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1146048604043456513/0tD_sq9__400x400.jpg" group-title="RADIOTV", Celula Radio
+https://593b04c4c5670.streamlock.net:443/8054/8054/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qotpEBjN3o0/Xmr5PYL7uPI/AAAAAAAAwx8/FwJJfi_LQjUoISTRZ0JhU4es2qWXDJeCACK8BGAsYHg/s0/2020-03-12.png" group-title="RADIOTV", Radio Touch
+https://593b04c4c5670.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-7XLo-eid_jI/Xm9iFNKwCYI/AAAAAAAAw8Y/TWJlVG10Ofc-nX2cNdUPKn7quq7hKWKBACK8BGAsYHg/s0/2020-03-16.png" group-title="RADIOTV", Mi Radio TV
+https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-PnlftgFahF0/XoThpbgVNeI/AAAAAAAAxZw/YFbXaFZUUikkGSKbQjxlOyxVMmJQBQMFACK8BGAsYHg/s0/2020-04-01.png" group-title="RADIOTV", FM Pulso
+https://www.tvpulso.online/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RB_Xl94irI4/XoTjte43NRI/AAAAAAAAxZ8/NMAAhYaLWj4rVQ8gDoHlEvGkpOD_3jt3gCK8BGAsYHg/s0/2020-04-01.png" group-title="RADIOTV", Radio Ritmo FM
+https://593d7fe3c9b0d.streamlock.net:443/8182/8182/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Oj60X_Fdylk/XoPge96i7aI/AAAAAAAAxYQ/zkPc_7Zajj04xQelUuWrShb7K68FDuVBgCK8BGAsYHg/s0/2020-03-31.png" group-title="RADIOTV", Orocoipo
+https://593b04c4c5670.streamlock.net:443/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/uploads/media/4199/poster_300x300-2.jpg" group-title="RADIOTV", Radio Polar
+http://video.mediostream.cl/radiopolar/live1/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tWify_nqCRw/XlwOcKK-yiI/AAAAAAAAwg0/mYcxi6LPzmYoZVTyTAOF0VFqInihTPbhgCK8BGAsYHg/s0/2020-03-01.png" group-title="RADIOTV", On Radio Chile
+https://tls.cdnz.cl/onradio3/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fMV8GEtxrKU/XjHFU3j0UwI/AAAAAAAAvfQ/XSHqM9gV-JE3ooLT5xm4dBFrwKJ9EhZWwCK8BGAsYHg/s0/2020-01-29.png" group-title="RADIOTV", Beat TV
+https://590c5dc5c3271.streamlock.net/sebastian870/sebastian870/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ic1t3OSwr1s/Xm4uK5OtvEI/AAAAAAAAw7M/thvv3_Tq2scaN8rICOFNwjRXmh0R-PDLACK8BGAsYHg/s0/2020-03-15.png" group-title="RADIOTV", Radio Cosmos
+https://inliveserver.com:1936/11536/11536/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.radioancoa.cl/wp-content/uploads/2018/08/Radio-Ancoa-LaRadioDeLinares.png" group-title="RADIOTV", AncoaTV
+http://v2.tustreaming.cl:80/radioancoa/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vFBzx3OHjvA/XmPSjVW5sMI/AAAAAAAAwp8/W0kgWc-NYfUkFdX3SZICQX3njfoFJP72QCK8BGAsYHg/s0/2020-03-07.png" group-title="RADIOTV", Radio Hoy
+https://593b04c4c5670.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dwHIA3qDBnE/XmPQVNGWG8I/AAAAAAAAwpk/lEVnfzQ8b1s7gjkedNxdk8G-foIlYgOAACK8BGAsYHg/s0/2020-03-07.png" group-title="RADIOTV", Preludio TV
+https://593d7fe3c9b0d.streamlock.net/8110/8110/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yAzYXd230b8/XmPQwQY849I/AAAAAAAAwps/fu7GMDaULwEgJYarzmR1Vo5w_BRoPg2eACK8BGAsYHg/s0/2020-03-07.png"group-title="RADIOTV" , Radio Las Nieves
+https://v2.tustreaming.cl/rln/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-saCz_yr38Uk/Xkyi5LSia7I/AAAAAAAAwH8/Bogw9jFmg_g3r85_Bo7gvOLhUFuFtgUcACK8BGAsYHg/s0/2020-02-18.png" group-title="RADIOTV", InterRadio Frutillar TV
+https://5cf4a2c2512a2.streamlock.net/interradiofrutillar/smil:interradiofrutillar.smil/chunklist_w148929822_b3200000_slen.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t2rtTbIA3oc/XmV-7wrFWHI/AAAAAAAAwr0/VH4k91ijqr4MbkR-DlS4n7o0HvCnjQfZACK8BGAsYHg/s0/2020-03-08.png" group-title="RADIOTV", Radio Presidente Ibañez
+https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-54Z5DhTKC1c/Xb15Fo4TY4I/AAAAAAAAr5E/DUQ3hbEGCasfUS_U3D1VbQopA91O4eXMACK8BGAsYHg/s0/2019-11-02.png" group-title="RADIOTV", En La Noticia Radio
+http://hd.chileservidores.cl:8080/reseller/chiloe3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-7Uf_S_1oEU8/XmV_Zz3S5cI/AAAAAAAAwsA/yYku6NdZFTk7c0a9AtwAOJBoh3a2UMnqQCK8BGAsYHg/s0/2020-03-08.png" group-title="RADIOTV", Radio Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-byzaiVj7LaA/XdyKPYtxdwI/AAAAAAAAsWo/80eR-amTNBsnAUPBFCPgHuL_hychB-b3wCK8BGAsYHg/s0/2019-11-25.png" group-title="RADIOTV", Pura Noticia
+https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4vm2B0L4t9Q/XkyoUZMcGbI/AAAAAAAAwIw/oRDnVQptJaEH_gQ9Cez9MWp6ArEbkivJQCK8BGAsYHg/s0/2020-02-18.png" group-title="RADIOTV", Interamericana TV
+https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-q3XnvDfKVpc/Xkba4X57uaI/AAAAAAAAwDI/8sCjKKC3QJ4WoPLBcOxgFmG0dic0ffPuQCK8BGAsYHg/s0/2020-02-14.png" group-title="RADIOTV", Radio Favorita
+https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mnnwudrynnE/XkbaoY35p6I/AAAAAAAAwDA/eHhkuRJcADsgzRX1Zfajo6FQ8wrGHRS0gCK8BGAsYHg/s0/2020-02-14.png" group-title="RADIOTV", Futura TV
+https://unlimited2-cl.dps.live/futuratv/futuratv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Z5RpepVd4T0/XkbaXURXxAI/AAAAAAAAwC4/SEU5uIM2uzUQQznq-Pgvi-uCe_fStzypwCK8BGAsYHg/s0/2020-02-14.png" group-title="RADIOTV", Radio Rancagua
+https://593d7fe3c9b0d.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nYwjW5gyOHs/Xm_wyxoQZ8I/AAAAAAAAw-M/UivKYmyy1tMPqn_zDoQtMGFrmivibOCLgCK8BGAsYHg/s0/2020-03-16.jpg" group-title="RADIOTV", Zona Play Radio
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jh94Rbk8AcI/Xhn2TnHLN4I/AAAAAAAAvKA/ba4TtDXpRYs7kQy_Z05DxdLm6wgXaHK7ACK8BGAsYHg/s0/2020-01-11.png" group-title="RADIOTV", Maulina FM
+https://v2.tustreaming.cl/maulinafm/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Og_BzHRC87Y/XmV97grMBPI/AAAAAAAAwro/iNVPM5Y_uYEjJ54KO0xIZCliowskz57SACK8BGAsYHg/s0/2020-03-08.png" group-title="RADIOTV" ,Radio X
+https://v2.tustreaming.cl/radiox/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-D1jcCdKwfIQ/Xk0n8t5lXlI/AAAAAAAAwJ0/fAAuuTj0WAY37teA-MDdlFAG1xVsZ8_bwCK8BGAsYHg/s0/2020-02-19.png" group-title="RADIOTV" ,El Conquistador TV
+http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eIr2RmGVfeg/XkbYVLkwo3I/AAAAAAAAwCs/F1Q11XV_JvgjR-wvfgNhKrGUmE7OldbqACK8BGAsYHg/s0/2020-02-14.png" group-title="RADIOTV" ,Radio Portales
+https://stream2.polarhost.cl/show/portales2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BZ4QVXPlxJU/Xk_PdNVd3KI/AAAAAAAAwVc/js3gvjxbBPoXr0EmRyQxl6MWeiYX6x7_gCK8BGAsYHg/s0/2020-02-21.png" group-title="RADIOTV", Radio Via Libre
+https://593b04c4c5670.streamlock.net/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-D2sQJ4h8YYg/XbCyAMGnnPI/AAAAAAAArk8/XM4uVbin26IdCbAHImeozQFEMHYOVjvhACK8BGAsYHg/s0/2019-10-23.png" group-title="RADIOTV", Bio Bio TV
+https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-z-9QvjvHZ5A/Xdsg1tqv4jI/AAAAAAAAsUw/f9g3MnniEdAxcMWqEsWK6vuikDlDz25iACK8BGAsYHg/s0/2019-11-24.png" group-title="RADIOTV" , Radio Cooperativa
+https://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png" group-title="RADIOTV" ,Radio Agricultura
+https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-H20emk-_gGE/Xb2CvlkCsVI/AAAAAAAAr6c/MvhdPSgNp4I1Q9QAGlqEvJp4QRnyorpkgCK8BGAsYHg/s0/2019-11-02.png" group-title="RADIOTV" ,  ADN 
+https://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DB74taQncQw/XbSnai__c5I/AAAAAAAArt0/jqsOckrCWRMdlGZoE1ecSjJrHivTgt_fQCK8BGAsYHg/s0/2019-10-26.png" group-title="RADIOTV", Pauta
+https://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TqRUvUttrA4/XdsjGIZU7gI/AAAAAAAAsVQ/iY1WIvJVyacBpEPk9xeM--USHFbyTkAQQCK8BGAsYHg/s0/2019-11-24.png" group-title="RADIOTV", Radio Infinita
+https://unlimited4-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Yg6X4T5JVDU/WoBORinr3kI/AAAAAAAAgyU/PoCyGXScfC0DPGIMp1SjuLFrvs3gPamwwCK8BGAs/s132/2018-02-11.png" group-title="RADIOTV" , Futuro TV
+https://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Bwhtvo1VyjY/XdsjcQcebDI/AAAAAAAAsVY/5bpcI_QjF2A3tgfcEaR_Y5sm9wzqul4zACK8BGAsYHg/s0/2019-11-24.png" group-title="RADIOTV", Radio Romantica
+https://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-IhfEcAvAbhQ/XlMvsYZuY2I/AAAAAAAAwbM/22HavWefBiokppiuKkTs6PWuiXO-haPQQCK8BGAsYHg/s0/2020-02-23.png" group-title="RADIOTV", Radio Candela
+https://unlimited6-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-j_3t6HSVxa8/XkbbBzVir0I/AAAAAAAAwDM/kVHViPIlEDs5ntK8W5yfVgaym95puVsLACK8BGAsYHg/s0/2020-02-14.png" group-title="RADIOTV", Pudahuel FM
+https://unlimited10-cl.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yl6dZt6XKzE/XdshRlQ88eI/AAAAAAAAsU4/KxB9KZBrShQzBIEQyGmDZ9a-vvI41GiQwCK8BGAsYHg/s0/2019-11-24.png" group-title="RADIOTV" , Radio Duna
+https://unlimited6-cl.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pG_O1wKWuUY/XlPedSivgtI/AAAAAAAAwbg/f7tHw2tx4kMuTwzpTSoJQeiprrvTMshuQCK8BGAsYHg/s0/2020-02-24.png" group-title="RADIOTV",  Radio Tiempo
+http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOTV",AE Radio Tv 
-http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
+https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701146321.jpg" group-title="RADIOTV" , Romántica TV 
 http://unlimited2-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521688260.jpg" group-title="RADIOTV" , Genial Tv 
@@ -1444,7 +1544,7 @@ https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="RADIOTV" , En la Noticia 
 http://hd.chileservidores.cl:8080/reseller/chiloe3/playlist.m3u8
 #EXTINF:0 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png" group-title="RADIOTV",Radio Camila Tv
-http://190.107.176.55:1935/live/archi-camila/chunklist_w555256191.m3u8
+https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="http://www.radiohoy.cl/wp-content/uploads/2019/01/RadioHoy-Logo-Small.png" group-title="RADIOTV",Radio HOY
 https://593b04c4c5670.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.romantica.cl/wp-content/themes/radio-romantica-2016/images/logo-romantica-solo.png" group-title="RADIOTV",Radio Romantica Tv
