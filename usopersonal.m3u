@@ -114,6 +114,8 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTES",Teletrak 
 http://unlimited5-cl.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jaB_dRi6CXw/XmW6AwVLJ_I/AAAAAAAAwtk/k2HR-UFy1bovWWFiWAgG7rxzMVUyFIlxgCK8BGAsYHg/s512/2020-03-08.png"  group-title="DEPORTES", Control.VG TV 
+https://unlimited10-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="http://golpenoticias.cl/wp/wp-content/uploads/2016/11/MISS-DERBY-2017-VALPARA%C3%8DSO-SPORTING.jpg" group-title="DEPORTES",Valparaiso Sporting 
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTES",Teletrak 
