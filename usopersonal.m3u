@@ -36,10 +36,14 @@ http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN Chile HD 
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15220774751.png" group-title="CHILE", Tendencias TV 
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR HD
 https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKDG166.png" group-title="CHILE", TV Salud 
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701144261.jpg" group-title="CHILE" , Campo Abierto 
+http://v3.tustreaming.cl/campoabierto/live1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 1 HD 
@@ -1360,6 +1364,8 @@ https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunk
 http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOTV",AE Radio Tv 
 http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701146321.jpg" group-title="RADIOTV" , Romántica TV 
+http://unlimited2-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/injuvfm.png" group-title="RADIOTV",Injuv Tv
 http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.icso.cl/wp-content/uploads/2015/10/logo_futuro2.png" group-title="RADIOTV",Radio Futuro Tv
@@ -1547,6 +1553,10 @@ http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sossurf.com.au/surf/wp-content/uploads/2013/06/Religion-logo.png" group-title="RELIGION" ,-----RELIGION-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1570112846.png" group-title="REGIGION" , NCTV 
+http://unlimited5-cl.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701143551.jpg" group-title="Chileiptv" , TNE 
+https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/EWTN_logo_2016.png/338px-EWTN_logo_2016.png" group-title="RELIGION",EWTN
 http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.betheltv.tv/btv_includes/img/profile/lburgos.png",Bethel TV
