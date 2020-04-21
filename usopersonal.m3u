@@ -1163,6 +1163,14 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://593d7fe3c9b0d.streamlock.net:443/8114/8114/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png" group-title="MUSICA", Alegria TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wkdCAz9KC-k/XkGOvlgV00I/AAAAAAAAv-Y/05JHKwPkkzoQeG9ajcGJ5gzxwijB7TtFwCK8BGAsYHg/s0/2020-02-10.png" group-title="MUSICA", Canal Costa Reggaeton
+https://srv3.zcast.com.br/canalcostatv/canalcostatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wkdCAz9KC-k/XkGOvlgV00I/AAAAAAAAv-Y/05JHKwPkkzoQeG9ajcGJ5gzxwijB7TtFwCK8BGAsYHg/s0/2020-02-10.png" group-title="MUSICA", Canal Costa TV
+https://srv3.zcast.com.br/canalcostaonline/canalcostaonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wkdCAz9KC-k/XkGOvlgV00I/AAAAAAAAv-Y/05JHKwPkkzoQeG9ajcGJ5gzxwijB7TtFwCK8BGAsYHg/s0/2020-02-10.png" group-title="MUSICA", Canal Costa Latinos
+https://srv3.zcast.com.br/latinos/latinos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wkdCAz9KC-k/XkGOvlgV00I/AAAAAAAAv-Y/05JHKwPkkzoQeG9ajcGJ5gzxwijB7TtFwCK8BGAsYHg/s0/2020-02-10.png" group-title="MUSICA", Canal Costa 80s
+https://srv3.zcast.com.br/canalcosta80/canalcosta80/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="MUSICA",PortalFoxMix Tv HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvSqpx0.jpg" group-title="MUSICA",Ruidos FM
@@ -1464,10 +1472,14 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://v3.tustreaming.cl/chilevisual/live1/event-999999.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdaldia.com/wp-content/uploads/2018/01/puertanorte1.png" group-title="REGIONALES",Puerta Norte
 https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3782557/logo_desierto%20de%20atacama%20tv.png" group-title="REGIONALES", Desierto de Atacama TV 
-http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8I3ALqJFO8U/Wn9iuwd_2jI/AAAAAAAAgv4/CGgV99apqosaMjAmYAWEYhxh279lzsyQQCK8BGAs/s220/2018-02-10.png" group-title="REGIONALES",   Arica TV 
+https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020-03-16.jpg" group-title="REGIONALES", Geovisión
+https://5975e06a1f292.streamlock.net:4443/agenciadomo/agenciadomo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1-BxJVuHwrg/Xb15Wbt0mmI/AAAAAAAAr5M/GZS6lj8lXfkuGQZ7jRY9AMS4BVpPoYyNQCK8BGAsYHg/s0/2019-11-02.png" group-title="REGIONALES", Desierto TV
+https://unlimited10-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://enfoquedigital.cl/wp-content/uploads/2018/08/LOGO-EDTV.png" group-title="REGIONALES",ED Enfoque Digital Atacama
-http://streaminglivehd.com:1935/8010/8010/playlist.m3u8
+http://srv.panelcast.net/edchileoficial/edchileoficial/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://diarioelficticio.files.wordpress.com/2012/07/logo-atv.png" group-title="REGIONALES",Atacama TV 
 https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cap_zpsaosigst3.png" group-title="REGIONALES",Cappissima Multimedial Arica
@@ -1504,6 +1516,12 @@ http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/pl
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="http://sitios.upla.cl/contenidos/wp-content/uploads/2010/06/logo-canal-tv-2.jpg" group-title="REGIONALES",UES TV
 http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png" group-title="REGIONALES, Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-25N61RT1aYg/XkymulbB_NI/AAAAAAAAwIk/CTy8bQmk5IkhF1wVO0B-b2Vz3Qp17u6NACK8BGAsYHg/s0/2020-02-18.png" group-title="REGIONALES, TecTV
+http://190.107.176.55:1935/live/tec-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cX3hRuQMFnw/XlBes3o55bI/AAAAAAAAwW8/yISIwzWQFGYWXLZzPPyz90qh_FxV2NQhwCK8BGAsYHg/s0/2020-02-21.png" group-title="REGIONALES", Arab TV
+https://livefocamundo.com:8081/8160/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DbKsidqGy6I/XlKnYHZVp9I/AAAAAAAAwY0/qY5Kav43ib8cqnDSANRGHj9y5CaF7JqtQCK8BGAsYHg/s0/2020-02-23.png" group-title="REGIONALES", VoxPopuli Chile
 https://unlimited10-cl.dps.live/vox/vox.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-J08Zxjh1sxs/Xig7pBsDHWI/AAAAAAAAvXY/M-atDfDj6zIuWnnVdiD42zIo2Jq1NR1UQCK8BGAsYHg/s0/2020-01-22.png" group-title="REGIONALES", TU Canal TV Colina
