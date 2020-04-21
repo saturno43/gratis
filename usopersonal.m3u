@@ -1079,6 +1079,10 @@ http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 Tv
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPAIN",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPAIN", Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1  tvg-logo="http://tentv.es/wp-content/uploads/2016/05/ten.png" group-title="SPAIN",Ten
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN",Energy
