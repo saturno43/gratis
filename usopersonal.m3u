@@ -70,7 +70,7 @@ https://edge1o.live.opencaster.com/caster/anoeBykiCgkC.m3u8
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/01/Retro-plus-Modificada.png" group-title="CINE", Retroplus Tv
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
-https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1585580391.png" group-title="CINE" , Bhtv 
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo Tv
@@ -1132,12 +1132,16 @@ http://haititivi.com:8088/haititv/tele6NY/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="MUSICA" ,-----MUSICA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="MUSICA" , Dj Pinky Tv 
+https://593d7fe3c9b0d.streamlock.net:443/8114/8114/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png" group-title="MUSICA", Alegria TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="MUSICA",PortalFoxMix Tv HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvSqpx0.jpg" group-title="MUSICA",Ruidos FM
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701149291.jpg" group-title="MUSICA" , Telemusica 
+https://5b464b69d264e.streamlock.net:443/live/smil:telemusica_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA",La Mega Mundial HD
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.nosmagazine.cl/wp-content/uploads/2015/02/LOGO-CANAL-letra.jpg",Contivision Musica HD
