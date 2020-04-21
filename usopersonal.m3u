@@ -1770,9 +1770,9 @@ http://unlimited10-cl.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
 https://5d52c82b4a7e3.streamlock.net:1936/8054/8054/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1vka6r8W0mM/Wn9nbBlPjSI/AAAAAAAAgw8/FjO6TeBOhrY12r-DnLOawEFZpf89I5vEQCK8BGAs/s512/2018-02-10.png" group-title="RELIGION", Televida HD 
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1570112846.png" group-title="REGIGION" , NCTV 
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1570112846.png" group-title="RELIGION" , NCTV 
 http://unlimited5-cl.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701143551.jpg" group-title="Chileiptv" , TNE 
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701143551.jpg" group-title="RELIGION" , TNE 
 https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/EWTN_logo_2016.png/338px-EWTN_logo_2016.png" group-title="RELIGION",EWTN
 http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
@@ -1790,7 +1790,7 @@ http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 http://streamingcontrol.com:1935/ectv/ectv/chunklist_w615405992.m3u8
 #EXTINF:-1  tvg-logo="https://k60.kn3.net/6/D/0/F/8/4/C5D.png" group-title="RELIGION",Enlace
 http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="RELIGION",Logos Tv
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="RELIGION",Logros Tv
 http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://www.anajnu.cl/2015/articulos/307/halcones-con-rama-2.png" group-title="RELIGION",Sobrenatural Tv
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
