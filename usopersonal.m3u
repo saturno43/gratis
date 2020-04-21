@@ -73,10 +73,16 @@ https://edge1o.live.opencaster.com/caster/anoeBykiCgkC.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="CINE", Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1585580391.png" group-title="CINE" , Bhtv 
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo Tv
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE", Pantalla Clasica
+https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg"  group-title="CINE", Mi TV Televisión Clásica
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="CINE" ,TAL TAL PELICULAS
@@ -221,6 +227,8 @@ https://usb.bozztv.com/ssh101/CanalJetix/CanalJetix/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="INFANTILES", TALTAL TV Animacion
 https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", Retro TV Palmares
+https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="INFANTILES",Tateti
 http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
@@ -1550,6 +1558,8 @@ http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
 http://190.3.169.119:8080/inicial/latina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Vision Tv Frutillar
 https://v2.tustreaming.cl/visiontv/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mt7LVY0X3kE/XlBdyl_hwFI/AAAAAAAAwW0/vqFU9wiyuawEn3E39ERyYaOkVZ3TVterACK8BGAsYHg/s0/2020-02-21.png" group-title="REGIONALES", U Los Lagos
+http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NuXOWo.png" group-title="REGIONALES",Canal 5 Tv Puerto Montt
 http://play.streaminghd.cl/luis251/luis251/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://surstream.tv/wp-content/uploads/2016/10/Radio-Chiloe.png" group-title="REGIONALES",Radio Chiloe
