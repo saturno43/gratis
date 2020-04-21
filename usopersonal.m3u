@@ -1145,6 +1145,8 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701149291.jpg" group-title="MUSICA" , Telemusica 
 https://5b464b69d264e.streamlock.net:443/live/smil:telemusica_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1532830938.png" group-title="MUSICA" , VC ONLINE HD 
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA",La Mega Mundial HD
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.nosmagazine.cl/wp-content/uploads/2015/02/LOGO-CANAL-letra.jpg",Contivision Musica HD
