@@ -1504,7 +1504,8 @@ http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/pl
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="http://sitios.upla.cl/contenidos/wp-content/uploads/2010/06/logo-canal-tv-2.jpg" group-title="REGIONALES",UES TV
 http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DbKsidqGy6I/XlKnYHZVp9I/AAAAAAAAwY0/qY5Kav43ib8cqnDSANRGHj9y5CaF7JqtQCK8BGAsYHg/s0/2020-02-23.png" group-title="REGIONALES", VoxPopuli Chile
+https://unlimited10-cl.dps.live/vox/vox.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-J08Zxjh1sxs/Xig7pBsDHWI/AAAAAAAAvXY/M-atDfDj6zIuWnnVdiD42zIo2Jq1NR1UQCK8BGAsYHg/s0/2020-01-22.png" group-title="REGIONALES", TU Canal TV Colina
 http://hd.chileservidores.cl:8080/colina/colina/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png" group-title="REGIONALES", Buin Somos Todos
