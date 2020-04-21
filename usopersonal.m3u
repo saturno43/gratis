@@ -106,6 +106,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="DEPORTES",Bein Sports Turkia
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Adventure Sports
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 2 
@@ -258,6 +260,8 @@ https://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/363px-TV_Cultura.svg.png" group-title="CULTURA" ,-----CULTURA-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",American Funnies Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L._SY355_.png" group-title="CULTURA",AKC Tv
 https://video.blivenyc.com/broadcast/prod/2061/22/file-429k.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisioneducativa.gob.mx/work/models/DGTVE/Template/resource/canales/img/ingenio.png" group-title="CULTURA",Ingenio TV
@@ -349,6 +353,9 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w38685927_b12
 
 #EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Music TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="ARGENTINA"litus santa fe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",Canal Mar del Plata
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
@@ -602,6 +609,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO",ADN 40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+#EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO",ADN 40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",ALCARRIA TV 
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",BBLACK 
