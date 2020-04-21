@@ -423,6 +423,9 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w1218548006.m3u8
 #EXTINF:-1 group-title="PERU",Antares TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1522637965.png" group-title="PERU" ,IPe 
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 group-title="PERU",BHTV (Opt-1)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 group-title="PERU",BHTV (Opt-2)
@@ -1370,10 +1373,14 @@ http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
 http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701146321.jpg" group-title="RADIOTV" , Romántica TV 
 http://unlimited2-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521688260.jpg" group-title="RADIOTV" , Genial Tv 
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/injuvfm.png" group-title="RADIOTV",Injuv Tv
 http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.icso.cl/wp-content/uploads/2015/10/logo_futuro2.png" group-title="RADIOTV",Radio Futuro Tv
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701153311.jpg" group-title="RADIOTV" , Sinfonia TV 
+https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/s98741q_zps0vnfywxj.png" group-title="RADIOTV", Radio Tiempo Tv 
 http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/84184_zpsd0gzhp6h.png" group-title="RADIOTV", Radio Duna Tv
