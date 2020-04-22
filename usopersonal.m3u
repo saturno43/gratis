@@ -547,8 +547,6 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 http://vbox2.cehis.net/live-teleislas/_definst_/mp4:teleislas/chunklist_w1846604063.m3u8
 #EXTINF:-1 group-title="COLOMBIA",UAO Play
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA",UAO Play +
-https://live-edge-sxb-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-1500/index.m3u8
 
 #EXTINF:0,-BOLIVIA-
 
@@ -558,10 +556,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" group-title="BOLIVIA", Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat
-http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Red_PAT_Logo_2016.png/revision/latest?cb=20161220195927" group-title="BOLIVIA", Red Pat Santa Cruz 
-http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
 #EXTINF:-1 tvg-logo="https://img9.androidappsapk.co/300/d/9/0/com.trunect2.rtp.png" group-title="BOLIVIA",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
  #EXTINF:-1 group-title="BOLIVIA",ATB (Opt-1)
@@ -570,14 +564,10 @@ http://186.121.206.197/live/daniel/index.m3u8
 http://stmv1.questreaming.com/atb/atb/playlist.m3u8?wowzasessionid=658130495
 #EXTINF:-1 group-title="BOLIVIA",Bolivia Deportes TV
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="BOLIVIA",Bolivia TV (New!)
-https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/chunklist.m3u8
 #EXTINF:-1 group-title="BOLIVIA",Bolivision
 http://136.243.3.70:1935/Bolivision/Bolivision/chunklist_w1258803449.m3u8
 #EXTINF:-1 group-title="BOLIVIA",Catolica TV
 http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
-#EXTINF:-1 group-title="BOLIVIA",Mega TV
-http://hdp2.imd.la:1935/megatv/megatv/playlist.m3u8
 #EXTINF:-1 group-title="BOLIVIA",Red Uno
 http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
 #EXTINF:-1 group-title="BOLIVIA",RTP
@@ -591,8 +581,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/16516_logo_promar_tv6.png" group-title="VENEZUELA",Promar TV
 http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
-#EXTINF:-1 group-title="VENEZUELA",Cadena Digital 100.7 FM Caracas
-http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist.m3u8
 #EXTINF:-1 group-title="VENEZUELA",Corazon Llanero
 http://5.189.191.70:1935/corazonllanerotvweb/corazonllanerotvweb/fluxustv.m3u8
 #EXTINF:-1 group-title="VENEZUELA",TeleSUR (Opt-1)
@@ -638,8 +626,6 @@ http://45.55.127.106/live/unicanal_src.m3u8
 http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:-1 group-title="PARAGUAY",RPC
 http://174.138.118.252/live/canal13stream_src.m3u8
-#EXTINF:-1 group-title="PARAGUAY",TVS Encarnacion
-http://201.217.3.212/TV/tvs/chunklist_w1493272816.m3u8
 
 #EXTINF:0,-MEXICO-
 
