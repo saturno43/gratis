@@ -1138,6 +1138,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://v2.tustreaming.cl/sabortv/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png" group-title="RADIOTV", Radio Fiesta
 https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fMV8GEtxrKU/XjHFU3j0UwI/AAAAAAAAvfQ/XSHqM9gV-JE3ooLT5xm4dBFrwKJ9EhZWwCK8BGAsYHg/s0/2020-01-29.png" group-title="RADIOTV", Beat TV
+https://590c5dc5c3271.streamlock.net/sebastian870/sebastian870/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="RADIOTV",La Popular TV
 https://593d7fe3c9b0d.streamlock.net:443/8124/8124/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
@@ -1180,8 +1182,6 @@ https://593b04c4c5670.streamlock.net:443/8076/8076/playlist.m3u8?PlaylistM3UCL
 http://video.mediostream.cl/radiopolar/live1/rewind-999999.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tWify_nqCRw/XlwOcKK-yiI/AAAAAAAAwg0/mYcxi6LPzmYoZVTyTAOF0VFqInihTPbhgCK8BGAsYHg/s0/2020-03-01.png" group-title="RADIOTV", On Radio Chile
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fMV8GEtxrKU/XjHFU3j0UwI/AAAAAAAAvfQ/XSHqM9gV-JE3ooLT5xm4dBFrwKJ9EhZWwCK8BGAsYHg/s0/2020-01-29.png" group-title="RADIOTV", Beat TV
-https://590c5dc5c3271.streamlock.net/sebastian870/sebastian870/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ic1t3OSwr1s/Xm4uK5OtvEI/AAAAAAAAw7M/thvv3_Tq2scaN8rICOFNwjRXmh0R-PDLACK8BGAsYHg/s0/2020-03-15.png" group-title="RADIOTV", Radio Cosmos
 https://inliveserver.com:1936/11536/11536/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.radioancoa.cl/wp-content/uploads/2018/08/Radio-Ancoa-LaRadioDeLinares.png" group-title="RADIOTV", AncoaTV
