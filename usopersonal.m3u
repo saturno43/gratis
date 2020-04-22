@@ -65,6 +65,8 @@ https://streaming.ecn.cl/hls/vivohd_lo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE" ,-----CINE-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE", Retro TV Palmares
+https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="CINE" ,TAL TAL PELICULAS
 https://usb.bozztv.com/ssh101/taltaltv/taltaltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/01/Retro-plus-Modificada.png" group-title="CINE", Retroplus Tv
@@ -187,24 +189,20 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.elcompositorhabla.com/corps/elcompositorhabla/data/resources/image/Quedate%20en%20casa/quedatencasa.png" group-title="INFANTILES",Tv Educa Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="INFANTILES", TALTAL TV Animacion
-https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", Retro TV Palmares
-https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="INFANTILES",Tateti
-http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/OzK7RSGu1mI8gwe4BR6Fyx8plVZL8r33foHORgAiWB9S2hda0bYqm6y4KRdHBI4BmzMVUJYQXJLYEPcE5uv_" group-title="INFANTILES",Cachupum! Tv
+http://23.236.180.26/11580409776/live/chunklist_w1772104537.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/OzK7RSGu1mI8gwe4BR6Fyx8plVZL8r33foHORgAiWB9S2hda0bYqm6y4KRdHBI4BmzMVUJYQXJLYEPcE5uv_" group-title="INFANTILES",Cachupum! Tv
-http://23.236.180.26/11580409776/live/chunklist_w1772104537.m3u8
+#EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="INFANTILES", TALTAL TV Animacion
+https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="INFANTILES",Tateti
+http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="INFANTILES",ACS Network
-https://stmv1.questreaming.com/acstv/acstv/playlist.m3u8
+https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="INFANTILES",locomotion Tv
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/jonnymesh/images/2/24/Jetix.png/revision/latest?cb=20170602003744&path-prefix=es" group-title="INFANTILES",Jetix Tv
-https://usb.bozztv.com/ssh101/CanalJetix/CanalJetix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/7/7a/Gong_max_logo.png/revision/latest/scale-to-width-down/340?cb=20160625145259&path-prefix=fr" group-title="INFANTILES",Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/CMkIfH7EXycjS7YYy6iAd-y3X_X9DjXSgKxH5Zeag7vC82acvTbGehF2GCgX09L7ryZLwtS3cERzqE-cfJXx4OI" group-title="INFANTILES", La Banda Tv
