@@ -1142,12 +1142,12 @@ https://ia801508.us.archive.org/27/items/rapido_201511/PitchPerfection-SongsMash
 
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s285622/images/logog.jpg?t=152518" group-title="RADIOTV" ,-----RADIOTV-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="RADIOTV",La Popular TV
-https://593d7fe3c9b0d.streamlock.net:443/8124/8124/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png" group-title="RADIOTV", Radio Fiessta
-https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DVca8ADNsmg/XoPjmXbXCFI/AAAAAAAAxYc/UON93k0nR-o7HzAiVzx7GJWO43TcOcVtQCK8BGAsYHg/s0/2020-03-31.png"  group-title="RADIOTV", Radio Sabor Tropical
 https://v2.tustreaming.cl/sabortv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png" group-title="RADIOTV", Radio Fiesta
+https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="RADIOTV",La Popular TV
+https://593d7fe3c9b0d.streamlock.net:443/8124/8124/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv HD
@@ -1310,8 +1310,6 @@ https://5cf4a2c2512a2.streamlock.net:443/interradiofrutillar/interradiofrutillar
 https://unlimited10-cl.dps.live/interamericanatv/interamericanatv.smil/interamericanatv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
 http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.todohobby.net/img/cms/powerhd_LOGO.gif" group-title="RADIOTV",Power HD Argentina
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://static-co.radio.net/images/broadcasts/c4/32/10868/c300.png" group-title="RADIOTV",Radio Belllaemonella Tv
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
 
