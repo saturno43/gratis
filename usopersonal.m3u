@@ -653,12 +653,6 @@ http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",ALCARRIA TV 
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MEXICO",BBLACK 
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/4572.gifg" group-title="MEXICO",C7 Cultura
-http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8
-#EXTINF:-1 tvg-logo="http://c7jalisco.com/images/logo.jpg" group-title="MEXICO",C7 Jalisco
-http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w1160890960.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",CANAL 10 CANCUN
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="MEXICO",Canal 10 Cancún
@@ -667,28 +661,16 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",CANAL 15 Zacatecas 
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO",Canal Iberoamericano
-http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PV6BVbi.png" group-title="MEXICO",Canal Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png" group-title="MEXICO",Canal Mundo+
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO",Canal Once 
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xeipn-canal-11_m.png" group-title="MEXICO",Canal Once
-https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 #EXTINF:-1 tvg-logo="https://prod-railsapp.s3.amazonaws.com/uploads/player/video_poster_image/165089/hfkEf2.png" group-title="MEXICO",Capital 21
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="https://cbtelevision.com.mx/wp-content/uploads/2018/10/logo_2x-copia_6af9e860c94fcdc7a5d9ed896a5b3f97.png" group-title="MEXICO",CBTV
-http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",Livebh Tv
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MEXICO",Foro
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QqDCsoS.png" group-title="MEXICO",FOROtv 
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QqDCsoS.png" group-title="MEXICO",FOROtv 
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://guapilestv.tk/wp-content/uploads/2017/11/cropped-n.png" group-title="MEXICO",Guapiles TV
 http://k4.usastreams.com/guapilestv/guapilestv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",MEXICO:Multimedios
@@ -717,24 +699,10 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",MX: TELEFORMULA NEW
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MEXICO",PRESUMIENDO
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/calvillo/img/LOGOPMTV.png" group-title="MEXICO",Presumiendo Mexico
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/rcgtv.png" group-title="MEXICO",RCG 1 TV
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NsPz9Tr.png" group-title="MEXICO",RCG SD
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MEXICO",ROCK | SD (MX)
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-155/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png/v1/fill/w_399,h_215,al_c,usm_0.66_1.00_0.01/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png" group-title="MEXICO",RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="MEXICO",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 tvg-logo="http://noticaribe.com.mx/wp/wp-content/uploads/2017/02/sqcsnuevo_-400x400.png" group-title="MEXICO",SQCS Chetumal
-http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FHiX8SL.png" group-title="MEXICO",Tele Yucatan
-http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",TELEMAR CAMPECHE
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gL3FIN.png" group-title="MEXICO",Teleritmo
@@ -743,8 +711,6 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_vacontigo_02.png" group-title="MEXICO",TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MEXICO",ULTRA TV PUEBLA
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Uno_tv.jpg/368px-Uno_tv.jpg" group-title="MEXICO",Uno TV
 http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DilKLq.png" group-title="MEXICO",TV Cuatro 4.1
@@ -775,8 +741,6 @@ http://streamingcws10.com:1935/xtitv/videoxtitv/playlist.m3u8
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbtv_m.png" group-title="MEXICO", CBTV
-http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO", Grupo Formula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="MEXICO",RCG 1 Saltillo
@@ -789,7 +753,6 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/897819765565272065/7NlducTP_400x400.jpg" group-title="MEXICO", TMTV
 http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
-
 #EXTINF:-1 group-title="MEXICO",Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO TV",Canal 6 Morelia
@@ -802,14 +765,10 @@ http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 15 Fresnillo
 http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal Catorce
-http://pontismmd.mmdlive.lldns.net/pontismmd/18c15984af7d4ec6ba1a3d13f2263608/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Capacita TV
-https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",CB TV Morelia
 http://streamingcws20.com:1935/cbtv/videocbtv/chunklist_w404614212.m3u8
 #EXTINF:-1 group-title="MEXICO",Ciudad TV (Opt-1)
@@ -818,20 +777,12 @@ http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
 http://23.227.189.81:80/ciudadtv/abr_ciudadtv/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",FOROtv (Opt-1)
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",FOROtv (Opt-2)
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",Hidalgo TV
 http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
-#EXTINF:-1 group-title="MEXICO",Ingenio TV
-https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",Justicia TV (Opt-1)
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Justicia TV (Opt-2)
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
-#EXTINF:-1 group-title="MEXICO",Irapuato TV
-http://streamingcws20.com:1935/irapuatotv/videoirapuatotv/chunklist_w1996003046_DVR.m3u8
-#EXTINF:-1 group-title="MEXICO",Mexiquense Toluca
-https://5ca9af4645e15.streamlock.net/mexiquense/videomexiquense/FluxusTV.m3u8
 #EXTINF:-1 group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 group-title="MEXICO",Multimedios Guadalajara
@@ -844,12 +795,6 @@ https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?fluxustv.m
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",MVM Noticias Oaxaca
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
-#EXTINF:-1 group-title="MEXICO",Nuestravision Michoacan
-http://189.204.137.189:8888/m3u8/canal6.m3u8
-#EXTINF:-1 group-title="MEXICO",Presumiendo Mexico
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",RCG 1 Saltillo
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",RCG 3 Saltillo
@@ -858,35 +803,20 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 group-title="MEXICO",Sipse TV Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",SQCS Chetumal
-http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Teleformula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Telemar Campeche
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Telemax Hermosillo
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:-1 group-title="MEXICO",Telebachillerato
-https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",Teleritmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="MEXICO",Telesecundaria
-https://srvstream01.televisioneducativa.gob.mx/hls/telesecundaria.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Telesecundaria Mas
-https://srvstream01.televisioneducativa.gob.mx/hls/telesecundariamas.m3u8
 #EXTINF:-1 group-title="MEXICO",Transmedia TV Morelia
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
-#EXTINF:-1 group-title="MEXICO",TRC TV Campeche
-http://video7.stream.mx:1935/8010/8010/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Ultra TV Puebla
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
-
 
 #EXTINF:0,-NICARAGUA-
 
-#EXTINF:-1 group-title="NICARAGUA",Canal 2 (Opt-1)
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1 group-title="NICARAGUA",Canal 2 (Opt-3)
+#EXTINF:-1 group-title="NICARAGUA",Canal 2 
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:0,-PANAMA-
@@ -902,8 +832,6 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="COSTA RICA", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="COSTA RICA",Luna Tv
-http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="COSTA RICA",Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1 tvg-logo="http://costarica.latv.info/canal-15-ucr-online.png" group-title="COSTA RICA",Canal UCR
@@ -943,26 +871,16 @@ http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.banderas-mundo.es/data/flags/normal/do.png" group-title="DOMINICAN REP" ,-----DOMINICAN REP-----
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://buenatv.com/wp-content/uploads/2019/06/Captura.png" group-title="DOMINICAN REP",Buena Tv
-https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="DOMINICAN REP",GH Television
 http://ss6.domint.net:2046/gh_str/tv10/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title="DOMINICAN REP",TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://ouitv.net/images/oui_tv_logo_clear_med.png" group-title="DOMINICAN REP",OUI Tv
-http://ss8.domint.net:2102/oui_str/ouitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" group-title="DOMINICAN REP",Orbit Tv
-http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="DOMINICAN REP",Luna Tv
-http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
 #EXTINF:-1 tvg-logo="http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg" group-title="DOMINICAN REP",Digital 15
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/Mia-Tv.jpg" group-title="DOMINICAN REP",Mia TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0031&mode=12
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="DOMINICAN REP",MicroVision Canal 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8yYq2Yd.jpg" group-title="DOMINICAN REP",Naranja TV
-http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.laromanabayahibenews.com/wp-content/uploads/2012/09/Romana-TV-canal-42-CLARO-TV-Wind-Telecom-Tricom-internet-republica-dominicana.jpg" group-title="DOMINICAN REP",Romana TV 42
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0034&mode=12
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5 
@@ -1082,13 +1000,6 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 #EXTINF:-1 group-title="HONDURAS",UTV UNAH
 https://live-utv.unah.edu.hn/web/salida.m3u8
 
-#EXTINF:0,-CUBA-
-
-#EXTINF:-1 tvg-logo="https://www.comprarbanderas.es/images/banderas/400/8-cuba_400px.jpg" group-title="CUBA" ,-----CUBA-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://yusnaby.com/wp-content/uploads/tvmarti.jpg" group-title="CUBA", Tv Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:0,-SPAIN-
 
 #EXTINF:-1 tvg-logo="https://www.comprarbanderas.es/images/banderas/400/1075-espana-escudo-ii-republica_400px.jpg" group-title="SPAIN" ,-----SPAIN-----
@@ -1199,44 +1110,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w10384273
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png" group-title="MUSICA", On Radio Kpop
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM POP
-https://livelist01.yowi.tv/lista/e254a962539d318dca0a948fdb484e90eb649b4e/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",HQM HIP-HOP
-https://livelist01.yowi.tv/lista/385bdb9ae50740e41f3b370220c6b02e821f0131/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",LATIN HITS
-https://cdn01.yowi.tv/RABDUNMFW5/live-1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",CANAL ANDALUCIA FLAMENCO
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w483945155.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace Africa FR
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/4/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE TROPICAL
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/4/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE KITOKO
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/4/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE LATINA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",Trace Gospel
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE AFRICA HD (720p)
-http://dmitry-tv.ru/his/CH_TRACE_AFRICAHD_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE KITOKO HD (720p)
-http://dmitry-tv.ru/his/CH_TRACE_KITOKOHD_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE TROPICAL HD (720p)
-http://dmitry-tv.ru/his/CH_TRACE_TROPICALHD_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE TOCA HD (720p)
-http://dmitry-tv.ru/his/CH_TRACE_TOCAHD_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="MUSICA",TRACE NAIJA HD (720p)
-http://dmitry-tv.ru/his/CH_TRACE_NAIJAHD_720.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv Estados Unidos
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="MUSICA",Miami Tv México
@@ -1251,12 +1126,8 @@ https://593b04c4c5670.streamlock.net:443/8024/8024/playlist.m3u8?PlaylistM3UCL
 http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/987.gif" group-title="MUSICA",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/viva%20germany.png?m=1458730840" group-title="MUSICA",Viva Tv
-http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",MTV USA
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-logo="http://theretrochannel.tv/img/theretrofb.jpg" group-title="MUSICA", Retro Channel
-http://198.24.183.198:1936/theretrochannel/stream/chunklist_w810372011.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA",Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA", RetroTV
