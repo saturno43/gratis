@@ -425,14 +425,24 @@ http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
 #EXTINF:-1 tvg-logo="https://antoniosanguino.co/wp-content/uploads/2017/12/logo-telecaribe-1.png" group-title="COLOMBIA",Telecaribe
 https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="COLOMBIA",Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="COLOMBIA",Canal CNC Pasto
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="COLOMBIA",Amordiscos TV
+https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/chunklist_w454440596_b1048000_slES.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="COLOMBIA",La Super TV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="COLOMBIA",Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="COLOMBIA",UAO Play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="COLOMBIA",Ranchenato TV 
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Suram TV
-https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
 #EXTINF:-1 group-title="COLOMBIA",Teleislas 
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA",UAO Play
-https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="COLOMBIA",Teleenvigado
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 
 #EXTINF:0,-BOLIVIA-
 
@@ -482,6 +492,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/UCSG-Televisi%C3%B3n.png" group-title="ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="ECUADOR",TV Manabita
+http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
 
 #EXTINF:0,-URUGUAY-
 
@@ -502,8 +514,6 @@ http://174.138.118.252/live/canal13stream.m3u8
 http://45.55.127.106/live/unicanal_src.m3u8
 #EXTINF:-1 group-title="PARAGUAY",Farra Play
 http://159.203.148.226/live/farra_low.m3u8
-#EXTINF:-1 group-title="PARAGUAY",RPC
-http://174.138.118.252/live/canal13stream_src.m3u8
 
 #EXTINF:0,-MEXICO-
 
@@ -685,6 +695,10 @@ http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://amp.protocolo.org/extfiles/PROTOCOLO2587-686866.jpg" group-title="PANAMA" ,•●★-- PANAMA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="PANAMA",NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="PANAMA",SerTV
+https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Telemetro_2010_logo.png/revision/latest?cb=20181013042937&path-prefix=es" group-title="PANAMA",Telemetro
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_01/RPC_(2010).png.4630b569f7c275038611229447482050.png" group-title="PANAMA",RPC
@@ -816,8 +830,6 @@ http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="EL SALVADOR",TVO Canal 23 (Opt-2)
 https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="EL SALVADOR",Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:0,-HONDURAS-
 
