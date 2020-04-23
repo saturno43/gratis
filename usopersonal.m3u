@@ -1192,10 +1192,6 @@ https://v2.tustreaming.cl/fantasiatv/live1/index.m3u8?PlaylistM3UCL
 https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4vm2B0L4t9Q/XkyoUZMcGbI/AAAAAAAAwIw/oRDnVQptJaEH_gQ9Cez9MWp6ArEbkivJQCK8BGAsYHg/s0/2020-02-18.png" group-title="RADIOTV", Interamericana TV
 https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/8d6fe6030aeab53da01df184b7fe9ed4.jpg" group-title="RADIOTV",Radio Interamericana
-https://unlimited10-cl.dps.live/interamericanatv/interamericanatv.smil/interamericanatv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701153311.jpg" group-title="RADIOTV" , Sinfonia TV 
-https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-q3XnvDfKVpc/Xkba4X57uaI/AAAAAAAAwDI/8sCjKKC3QJ4WoPLBcOxgFmG0dic0ffPuQCK8BGAsYHg/s0/2020-02-14.png" group-title="RADIOTV", Radio Favorita
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mnnwudrynnE/XkbaoY35p6I/AAAAAAAAwDA/eHhkuRJcADsgzRX1Zfajo6FQ8wrGHRS0gCK8BGAsYHg/s0/2020-02-14.png" group-title="RADIOTV", Futura TV
