@@ -1236,20 +1236,14 @@ https://unlimited6-cl.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
 http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOTV",AE Radio Tv 
 https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701146321.jpg" group-title="RADIOTV" , Romántica TV 
-http://unlimited2-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521688260.jpg" group-title="RADIOTV" , Genial Tv 
 http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/injuvfm.png" group-title="RADIOTV",Injuv Tv
 http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://www.icso.cl/wp-content/uploads/2015/10/logo_futuro2.png" group-title="RADIOTV",Radio Futuro Tv
-http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701153311.jpg" group-title="RADIOTV" , Sinfonia TV 
 https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/s98741q_zps0vnfywxj.png" group-title="RADIOTV", Radio Tiempo Tv 
 http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/84184_zpsd0gzhp6h.png" group-title="RADIOTV", Radio Duna Tv
-http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo-zero-light_zpstwvtq006.png" group-title="RADIOTV", Radio Zero Tv 
 http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/bio-bio-chile-tv-la-radio-bbtv-en-vivo.jpg?190418055241" group-title="RADIOTV",Radio BioBio Tv
