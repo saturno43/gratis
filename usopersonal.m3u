@@ -954,6 +954,8 @@ https://srv3.zcast.com.br/canalcosta80/canalcosta80/playlist.m3u8?PlaylistM3UCL
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvSqpx0.jpg" group-title="MUSICA",Ruidos FM
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701149291.jpg" group-title="MUSICA" ,Telemusica
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701149291.jpg" group-title="MUSICA" , Telemusica 
 https://5b464b69d264e.streamlock.net:443/live/smil:telemusica_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1532830938.png" group-title="MUSICA" , VC ONLINE HD 
