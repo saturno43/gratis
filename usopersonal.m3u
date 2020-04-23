@@ -1293,16 +1293,16 @@ http://unlimited2-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OjHslhDbifk/XPiAUifac3I/AAAAAAAAfsI/FktoYpmRirA-g4IDrmBY7J834d42Ytd_gCLcBGAs/w140-h140-p/maray_logo.png" group-title="REGIONALES",Maray Tv
 https://590c5dc5c3271.streamlock.net/patricia881/patricia881/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Los Andes - San Felipe
+https://unlimited5-cl.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso 
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thematelevision.cl/wp-content/uploads/2016/02/LOGO1.png" group-title="REGIONALES",Thema La Serena
 https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.thematelevision.cl/wp-content/uploads/2016/02/LOGO1.png" group-title="REGIONALES",Thema La Serena
 https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso HD
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tv_5_linear_chile.png" group-title="REGIONALES",Canal 5 Linares
 https://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-2-television-san-antonio.jpg?170413035848" group-title="REGIONALES",Canal 2 San Antonio
