@@ -98,7 +98,7 @@ https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 
 #EXTINF:0,-DEPORTES-
 
-#EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,▂ ▄ ▅ ▆  DEPORTES  ▆ ▅ ▄ ▂
+#EXTINF:-1 tvg-logo="https://desportes2017.files.wordpress.com/2017/11/cropped-pelotas1.png?w=532" group-title="DEPORTES" ,▂ ▄ ▅ ▆  DEPORTES  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTES",Claro Sports
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
@@ -607,7 +607,7 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO TV",Canal 6 Morelia
+#EXTINF:-1 group-title="MEXICO",Canal 6 Morelia
 http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -666,6 +666,8 @@ http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
 
 #EXTINF:0,-NICARAGUA-
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a9319c_a9d703d2ea9a4d86a266d71c77dc5b05.jpg" group-title="NICARAGUA" ,▂ ▄ ▅ ▆  NICARAGUA  ▆ ▅ ▄ ▂
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 group-title="NICARAGUA",Canal 2 
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 
@@ -680,7 +682,7 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 
 #EXTINF:0,-COSTA RICA-
 
-#EXTINF:-1 tvg-logo="https://fuentedevida-ecomitizellc.netdna-ssl.com/media/catalog/product/cache/image/700x560/e9c3970ab036de70892d86c6d221abfe/990024.jpg" group-title="COSTA RICA" ,▂ ▄ ▅ ▆  COSTA RICA  ▆ ▅ ▄ ▂
+#EXTINF:-1 tvg-logo="https://www.medicina.ufmg.br/proyectobid/wp-content/themes/projetobid/img/paises/costarica.jpg" group-title="COSTA RICA" ,▂ ▄ ▅ ▆  COSTA RICA  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="COSTA RICA", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -792,7 +794,7 @@ http://ss1.domint.net:2202/v3_str/v3000/chunklist_w223748530.m3u8
 
 #EXTINF:0,-EL SALVADOR-
 
-#EXTINF:-1 tvg-logo="http://enciclopedia.us.es/images/8/89/Bandera_de_El_Salvador.png" group-title="EL SALVADOR" ,▂ ▄ ▅ ▆  EL SALVADOR  ▆ ▅ ▄ ▂
+#EXTINF:-1 tvg-logo="https://conocelasbanderas.com/wp-content/uploads/2018/04/banderadeelsalvador-3.png" group-title="EL SALVADOR" ,▂ ▄ ▅ ▆  EL SALVADOR  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="EL SALVADOR",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
