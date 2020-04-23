@@ -1323,8 +1323,6 @@ http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
 https://livefocamundo.com:8081/8178/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png" group-title="REGIONALES, Natural TV
 http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-25N61RT1aYg/XkymulbB_NI/AAAAAAAAwIk/CTy8bQmk5IkhF1wVO0B-b2Vz3Qp17u6NACK8BGAsYHg/s0/2020-02-18.png" group-title="REGIONALES, TecTV
-http://190.107.176.55:1935/live/tec-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cX3hRuQMFnw/XlBes3o55bI/AAAAAAAAwW8/yISIwzWQFGYWXLZzPPyz90qh_FxV2NQhwCK8BGAsYHg/s0/2020-02-21.png" group-title="REGIONALES", Arab TV
 https://livefocamundo.com:8081/8160/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DbKsidqGy6I/XlKnYHZVp9I/AAAAAAAAwY0/qY5Kav43ib8cqnDSANRGHj9y5CaF7JqtQCK8BGAsYHg/s0/2020-02-23.png" group-title="REGIONALES", VoxPopuli Chile
