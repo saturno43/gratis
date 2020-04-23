@@ -266,6 +266,8 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL.png" group-title="LATINOS",Latinos UP Tv
 https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/megatv-2019.png" group-title="LATINOS",Mega Tv
+http://livestream.lamusica.com/megatvlive/megatvlive/playlist.m3u8
 
 #EXTINF:0,-ARGENTINA-
 
