@@ -492,7 +492,7 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/UCSG-Televisi%C3%B3n.png" group-title="ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="ECUADOR",TV Manabita
+#EXTINF:-1 tvg-logo="" group-title="ECUADOR",TV Manabita
 http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
 
 #EXTINF:0,-URUGUAY-
@@ -695,9 +695,9 @@ http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://amp.protocolo.org/extfiles/PROTOCOLO2587-686866.jpg" group-title="PANAMA" ,•●★-- PANAMA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="PANAMA",NexTV
+#EXTINF:-1 tvg-logo="" group-title="PANAMA",NexTV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="PANAMA",SerTV
+#EXTINF:-1 tvg-logo="" group-title="PANAMA",SerTV
 https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Telemetro_2010_logo.png/revision/latest?cb=20181013042937&path-prefix=es" group-title="PANAMA",Telemetro
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
