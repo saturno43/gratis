@@ -1,8 +1,8 @@
 #EXTM3U 
 
-#EXTINF:0,▂ ▄ ▅ ▆  CHILE  ▆ ▅ ▄ ▂
+#EXTINF:0,-CHILE-
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,•●★-- CHILE --★●•
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,▂ ▄ ▅ ▆  CHILE  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95386_13c.png" group-title="CHILE", 13c
 https://jimmy.zappingtv.com/13c/13c.smil/chunklist_b3628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTU2MCZ3b3d6YXRva2VuaGFzaD1rNDB0a21ERi1aZ2oyRlpHeXJSVkxGaFJMdjdMUmdTSVFUeENla1U4OVl3PQ==.m3u8
@@ -63,7 +63,7 @@ https://streaming.ecn.cl/hls/vivohd_lo/index.m3u8
 
 #EXTINF:0,-CINE-
 
-#EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE" ,-----CINE-----
+#EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE" ,▂ ▄ ▅ ▆  CINE  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
@@ -98,7 +98,7 @@ https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 
 #EXTINF:0,-DEPORTES-
 
-#EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,-----DEPORTES-----
+#EXTINF:-1 tvg-logo="http://www.humanidades.unach.mx/images/Imagenes/Centro/deportes.png" group-title="DEPORTES" ,▂ ▄ ▅ ▆  DEPORTES  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTES",Claro Sports
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
@@ -173,7 +173,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-INFANTILES-
 
-#EXTINF:-1 tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="INFANTILES" ,-----INFANTILES-----
+#EXTINF:-1 tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="INFANTILES" ,▂ ▄ ▅ ▆  INFANTILES  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.elcompositorhabla.com/corps/elcompositorhabla/data/resources/image/Quedate%20en%20casa/quedatencasa.png" group-title="INFANTILES",Tv Educa Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
@@ -208,14 +208,14 @@ http://recursos.pakapaka.gov.ar/repositorio/video/ver?file_id=b763908a-14aa-443b
 
 #EXTINF:0,-COCINA-
 
-#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1151/PNG/512/1486505266-dish-food-dome-dish-kitchen-restaurant_81412.png" group-title="COCINA" ,-----COCINA-----
+#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1151/PNG/512/1486505266-dish-food-dome-dish-kitchen-restaurant_81412.png" group-title="COCINA" ,▂ ▄ ▅ ▆  COCINA  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/460798109979664384/GXeGjD-I_400x400.png" group-title="COCINA",Andalucia Cocina Tv
 https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
 
 #EXTINF:0,-MODA-
 
-#EXTINF:-1 tvg-logo="https://modaw4.files.wordpress.com/2011/10/people-moda.jpg?w=474" group-title="MODA" ,-----MODA-----
+#EXTINF:-1 tvg-logo="https://modaw4.files.wordpress.com/2011/10/people-moda.jpg?w=474" group-title="MODA" ,▂ ▄ ▅ ▆  MODA  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="MODA",HD Fashion y Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
@@ -230,7 +230,7 @@ https://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v3a1/mono.m3u8
 
 #EXTINF:0,-CULTURA-
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/363px-TV_Cultura.svg.png" group-title="CULTURA" ,-----CULTURA-----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/363px-TV_Cultura.svg.png" group-title="CULTURA" ,▂ ▄ ▅ ▆  CULTURA  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CULTURA",American Funnies Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
@@ -247,7 +247,7 @@ https://strm.yandex.ru/kal/worldlife/worldlife0.m3u8?vsid=0
 
 #EXTINF:0,-NOTICIAS-
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo-footer-t.png" group-title="NOTICIAS" ,-----NOTICIAS-----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo-footer-t.png" group-title="NOTICIAS" ,▂ ▄ ▅ ▆  NOTICIAS  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS", DW Latino
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?xtreamiptv.m3u8
@@ -260,14 +260,14 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3
 
 #EXTINF:0,-LATINOS-
 
-#EXTINF:-1 tvg-logo="https://medioenseriomedioenbroma.files.wordpress.com/2017/09/latino_logo1.png" group-title="LATINOS" ,-----LATINOS-----
+#EXTINF:-1 tvg-logo="https://medioenseriomedioenbroma.files.wordpress.com/2017/09/latino_logo1.png" group-title="LATINOS" ,▂ ▄ ▅ ▆  LATINOS  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL.png" group-title="LATINOS",Latinos UP Tv
 https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
 
 #EXTINF:0,-ARGENTINA-
 
-#EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="ARGENTINA" ,-----ARGENTINA-----
+#EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="ARGENTINA" ,▂ ▄ ▅ ▆  ARGENTINA  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -330,7 +330,7 @@ https://cdn2.zencast.tv:30443/misiones4/live/chunks.m3u8
 
 #EXTINF:0,-PERU-
 
-#EXTINF:-1 tvg-logo="http://too.by/webimage/countrys/samerica/peru/pepics/symbolspics/Flag_of_Peru.png" group-title="PERU" ,-----PERU-----
+#EXTINF:-1 tvg-logo="http://too.by/webimage/countrys/samerica/peru/pepics/symbolspics/Flag_of_Peru.png" group-title="PERU" ,▂ ▄ ▅ ▆  PERU  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.centraltvperu.com/site/images/2018/09/02/logo_pie_centraltvperu.png" group-title="PERU",Central TV Perú 
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -391,7 +391,7 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:0,-COLOMBIA-
 
-#EXTINF:-1 tvg-logo="http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg" group-title="COLOMBIA" ,-----COLOMBIA-----
+#EXTINF:-1 tvg-logo="http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg" group-title="COLOMBIA" ,▂ ▄ ▅ ▆  COLOMBIA  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i46.tinypic.com/2vwy3yo.png",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
@@ -426,7 +426,7 @@ https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 
 #EXTINF:0,-BOLIVIA-
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolivia_330_army.png/300px-Bolivia_330_army.png" group-title="BOLIVIA" ,-----BOLIVIA-----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolivia_330_army.png/300px-Bolivia_330_army.png" group-title="BOLIVIA" ,▂ ▄ ▅ ▆  BOLIVIA  ▆ ▅ ▄ ▂
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png" group-title="BOLIVIA",ATB
 http://stmv1.questreaming.com/atb/atb/playlist.m3u8
