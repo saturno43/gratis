@@ -1192,6 +1192,10 @@ https://v2.tustreaming.cl/fantasiatv/live1/index.m3u8?PlaylistM3UCL
 https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4vm2B0L4t9Q/XkyoUZMcGbI/AAAAAAAAwIw/oRDnVQptJaEH_gQ9Cez9MWp6ArEbkivJQCK8BGAsYHg/s0/2020-02-18.png" group-title="RADIOTV", Interamericana TV
 https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/8d6fe6030aeab53da01df184b7fe9ed4.jpg" group-title="RADIOTV",Radio Interamericana
+https://unlimited10-cl.dps.live/interamericanatv/interamericanatv.smil/interamericanatv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701153311.jpg" group-title="RADIOTV" , Sinfonia TV 
+https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-q3XnvDfKVpc/Xkba4X57uaI/AAAAAAAAwDI/8sCjKKC3QJ4WoPLBcOxgFmG0dic0ffPuQCK8BGAsYHg/s0/2020-02-14.png" group-title="RADIOTV", Radio Favorita
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mnnwudrynnE/XkbaoY35p6I/AAAAAAAAwDA/eHhkuRJcADsgzRX1Zfajo6FQ8wrGHRS0gCK8BGAsYHg/s0/2020-02-14.png" group-title="RADIOTV", Futura TV
@@ -1240,49 +1244,19 @@ https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
 http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/injuvfm.png" group-title="RADIOTV",Injuv Tv
 http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701153311.jpg" group-title="RADIOTV" , Sinfonia TV 
-https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/s98741q_zps0vnfywxj.png" group-title="RADIOTV", Radio Tiempo Tv 
-http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo-zero-light_zpstwvtq006.png" group-title="RADIOTV", Radio Zero Tv 
 http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv-online.cl/bio-bio-chile-tv-la-radio-bbtv-en-vivo.jpg?190418055241" group-title="RADIOTV",Radio BioBio Tv
-https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/mqdefault_zpsdijxexti.jpg" group-title="RADIOTV", Radio La Clave Tv
 http://unlimited5-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.adnradio.cl/im/logo100.gif" group-title="RADIOTV", Radio ADN Tv
-http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://files.csvrenca.webnode.cl/200001127-92f9593f5c/Radio-Cooperativa.jpg" group-title="RADIOTV", Radio Cooperativa Tv 
-http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1  tvg-logo="http://iptvchile.xyz/Logos/TeVe/Tele13_Radio_zpspn4m8raf.png" group-title="RADIOTV", Tele13 Radio Tv
 https://t13-radio-live.cdn.nedmedia.io/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="RADIOTV" , TeleAngol Radio 
 https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="RADIOTV" , En la Noticia 
-http://hd.chileservidores.cl:8080/reseller/chiloe3/playlist.m3u8
 #EXTINF:0 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png" group-title="RADIOTV",Radio Camila Tv
 https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="http://www.radiohoy.cl/wp-content/uploads/2019/01/RadioHoy-Logo-Small.png" group-title="RADIOTV",Radio HOY
-https://593b04c4c5670.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.romantica.cl/wp-content/themes/radio-romantica-2016/images/logo-romantica-solo.png" group-title="RADIOTV",Radio Romantica Tv
-http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 tvg-logo="http://www.infinita.cl/wp-content/themes/infinita/img/logo.png" group-title="RADIOTV",Radio Infinita Tv
-http://movilstream.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4835/square_150x150-2.jpg" group-title="RADIOTV",Radio Agricultura Tv
-https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
-#EXTINF:0 tvg-logo="http://sitio.sindicatoescondida.cl/page/wp-content/uploads/2017/03/radioelconsquistador.png" group-title="RADIOTV",Radio El Conquistador
-http://eu1.servers10.com:1935/8282/8282/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.pauta.cl/pauta/site/artic/20180307/imag/foto_0000000420180307152149/logo2.png" group-title="RADIOTV",Pauta HD
-http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV LA SERENA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",Madero Tv La Serena
 http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-Antena-Abierta.jpg" group-title="RADIOTV",Radio Antena Abierta
-https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701156801.png" group-title="RADIOTV" , INTERRADIOTV 
-https://5cf4a2c2512a2.streamlock.net:443/interradiofrutillar/interradiofrutillar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/8d6fe6030aeab53da01df184b7fe9ed4.jpg" group-title="RADIOTV",Radio Interamericana
-https://unlimited10-cl.dps.live/interamericanatv/interamericanatv.smil/interamericanatv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",MADERO TV ANTOFAGASTA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",Madero Tv Antofagasta
 http://wow2.cl.digitalproserver.com/maderotv/maderotvvivo/maderotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-co.radio.net/images/broadcasts/c4/32/10868/c300.png" group-title="RADIOTV",Radio Belllaemonella Tv
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
