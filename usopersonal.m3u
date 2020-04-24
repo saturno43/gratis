@@ -468,6 +468,16 @@ http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
 #EXTINF:-1 group-title="BOLIVIA",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-p2YKUATdJqg/XoJ9bMUgCTI/AAAAAAAAxT8/_26DVdzzAxU_wyOn9qUBLli0OApA0dH-wCK8BGAsYHg/s0/2020-03-30.png", Red Uno Cochabamba
+http://200.58.64.234:1976/usa/reduno.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-v4jR4z9omU8/XoJ-Dz5RZrI/AAAAAAAAxUM/6bQg9xKKf4wZ6qNDSlGz3wug0AKp2jamQCK8BGAsYHg/s0/2020-03-30.png" group-title="BOLIVIA",  PAT La Paz
+http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-v4jR4z9omU8/XoJ-Dz5RZrI/AAAAAAAAxUM/6bQg9xKKf4wZ6qNDSlGz3wug0AKp2jamQCK8BGAsYHg/s0/2020-03-30.png" group-title="BOLIVIA",  PAT Santa Cruz
+http://192.99.38.174:1935/patbolivia/patsantacruz/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xklYhEnMoEQ/XoJ-S16WTVI/AAAAAAAAxUQ/cVvGCBICihAm8ruAArXJD7R8WKYUPcNUQCK8BGAsYHg/s0/2020-03-30.png" group-title="BOLIVIA",  Red AD Venir Internacional
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:0,-VENEZUELA-
 
