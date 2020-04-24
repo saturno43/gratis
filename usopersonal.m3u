@@ -183,6 +183,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/OzK7RSGu1mI8gwe4BR6Fyx8plVZL8r33foHORgAiWB9S2hda0bYqm6y4KRdHBI4BmzMVUJYQXJLYEPcE5uv_" group-title="INFANTILES",Cachupum! Tv
 http://23.236.180.26/11580409776/live/chunklist_w1772104537.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Infantil Tv
+http://23.236.180.26/11580409776/live/chunklist_w1091034897.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
