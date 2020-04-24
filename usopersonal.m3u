@@ -193,6 +193,8 @@ https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live
 https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="INFANTILES",Tateti
 http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", Recuerdo Infantil Tv 
+http://23.236.180.26/11580409776/live/chunklist_w23379799.m3u8
 #EXTINF:-1 tvg-logo="https://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="INFANTILES",ACS Network
 https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="INFANTILES",locomotion Tv
@@ -494,6 +496,10 @@ https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ECUADOR",TV Manabita
 http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ECUADOR", Canela Tv 
+http://inliveserver.com:1935/8074/8074/chunklist_w660369870.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ECUADOR", Ecotel Tv
+https://5b38ce71f1f00.streamlock.net/8344/8344/chunklist_w1099761496.m3u8
 
 #EXTINF:0,-URUGUAY-
 
