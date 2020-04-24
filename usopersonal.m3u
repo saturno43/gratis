@@ -497,6 +497,18 @@ http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w545582271.m3u8
 http://edge.wms28.lorini.net/tvepaco/tvepaco/playlist.m3u8
 #EXTINF:-1 group-title="VENEZUELA",Vepaco TV (Opt-2)
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bAPHheoyWLo/XnTRgvIb9XI/AAAAAAAAxCk/3yMYap565KEa9xrbD5fF7RKMxlEc7w58wCK8BGAsYHg/s0/2020-03-20.png"  group-title="VENEZUELA", VTV
+https://593fa17dec176.streamlock.net:443/vtvweb4/vtvweb4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GyvYnSZ4yfI/XjonouhQaBI/AAAAAAAAvl8/BSNqYDt496wFHlIjLw108ZZyHZ4nR_cBgCK8BGAsYHg/s0/2020-02-04.png"  group-title="VENEZUELA", Vepaco TV
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.reformatv.net/images/presets/preset1/logo.png"  group-title="VENEZUELA", Reforma TV
+https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-IomCVl4tRaU/XjonWCXibOI/AAAAAAAAvl0/QqWOnOcvdf8IasILIdsovPXF4HMvSCzjACK8BGAsYHg/s0/2020-02-04.png"  group-title="VENEZUELA", TVO
+http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lateletuya.com/wp-content/uploads/2019/09/logoTLT_horizontal_2019_blanco.png"  group-title="VENEZUELA", La Tele Tuya
+http://701081903.r.fdccdn.net/701081903/_definst_/13357/chunklist_w1151496328.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tves.png"  group-title="VENEZUELA", TVES
+http://5.189.181.203:1935/tves/tves/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-ECUADOR-
 
