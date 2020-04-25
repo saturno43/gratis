@@ -1334,8 +1334,6 @@ https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UC
 https://593b04c4c5670.streamlock.net/8020/8020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t_TztnOyFVE/XmsBBeYivqI/AAAAAAAAwyY/AiGUMO20vMcW9z6ipuNOk_WkgY_za1KrgCK8BGAsYHg/s512/2020-03-12.png" group-title="RADIOTV", CCP Radio
 http://hd.chileservidores.cl:8080/ccpradio/ccpradio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qotpEBjN3o0/Xmr5PYL7uPI/AAAAAAAAwx8/FwJJfi_LQjUoISTRZ0JhU4es2qWXDJeCACK8BGAsYHg/s0/2020-03-12.png" group-title="RADIOTV", Radio Touch
-https://593b04c4c5670.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-7XLo-eid_jI/Xm9iFNKwCYI/AAAAAAAAw8Y/TWJlVG10Ofc-nX2cNdUPKn7quq7hKWKBACK8BGAsYHg/s0/2020-03-16.png" group-title="RADIOTV", Mi Radio TV
 https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-PnlftgFahF0/XoThpbgVNeI/AAAAAAAAxZw/YFbXaFZUUikkGSKbQjxlOyxVMmJQBQMFACK8BGAsYHg/s0/2020-04-01.png" group-title="RADIOTV", FM Pulso
