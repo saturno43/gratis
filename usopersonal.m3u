@@ -75,8 +75,6 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg"  group-title="CINE", Mi TV Televisión Clásica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1585580391.png" group-title="CINE" , Bhtv 
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="CINE", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="CINE" ,TAL TAL PELICULAS
