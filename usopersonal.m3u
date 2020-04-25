@@ -65,32 +65,28 @@ https://streaming.ecn.cl/hls/vivohd_lo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.um.es/c/document_library/get_file?uuid=a0ce7307-2433-47fa-b4d0-e4c1bdd75588&groupId=1006770" group-title="CINE" ,•●★-- CINE --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-logo="http://www.estaciontv.cl/site/templates/rt_callisto/images/logo/logo.png?5d378a60" group-title="CINE",Estacion Tv
+http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/001/490/719/full/Maxima_TV.png?1530495499" group-title="CINE",Maxima Tv
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="CINE", Orbit Tv
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="CINE" ,Tal Tal Peliculas
+https://usb.bozztv.com/ssh101/taltaltv/taltaltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0VJa61G.png" group-title="CINE",Conecta2 Tv
+https://edge1o.live.opencaster.com/caster/anoeBykiCgkC.m3u8
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo Tv
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE", Retro TV Palmares
+https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="CINE", Pantalla Clasica
 https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg"  group-title="CINE", Mi TV Televisión Clásica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="CINE", Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="CINE" ,TAL TAL PELICULAS
-https://usb.bozztv.com/ssh101/taltaltv/taltaltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="CINE" , TALTAL TV DOCUMENTALES 
+#EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="CINE" , Tal Tal Documentales 
 http://inliveserver.com:1935/10018/10018/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/01/Retro-plus-Modificada.png" group-title="CINE", Retroplus Tv
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CINE", Retro TV Palmares
-https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://i.imgur.com/0VJa61G.png" group-title="CINE",Conecta2 Tv
-https://edge1o.live.opencaster.com/caster/anoeBykiCgkC.m3u8
-#EXTINF:0 tvg-logo="http://www.estaciontv.cl/site/templates/rt_callisto/images/logo/logo.png?5d378a60" group-title="CINE",Estacion Tv
-http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="CINE",Distrito TV
-https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv
@@ -1071,6 +1067,8 @@ http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPAIN", Emporda TV
 http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="SPAIN",Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
 #EXTINF:-1  tvg-logo="http://tentv.es/wp-content/uploads/2016/05/ten.png" group-title="SPAIN",Ten
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN",Energy
@@ -1169,6 +1167,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/01/Retro-plus-Modificada.png" group-title="MUSICA", Retroplus Tv
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a.mktgcdn.com/p/dx3Atx8Hz7jeTQk6f-GwR75jdyMOECfesZLYF79O6DI/400x400.jpg" group-title="MUSICA",Radio Italia Vision
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/7-Gfv3uIqfGm_gBKjVh1jVwNFz8hKZ94z2eEgVvmgwK7QSpzurYiITlqeR5PEher7A=w300" group-title="MUSICA",Dream Tv
