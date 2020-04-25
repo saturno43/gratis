@@ -79,9 +79,9 @@ https://edge1o.live.opencaster.com/caster/anoeBykiCgkC.m3u8
 https://593d7fe3c9b0d.streamlock.net:443/8124/8124/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo Tv
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CINE", Retro TV Palmares
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/OgPV3h1wdBVD6Evj0cDDlbVaTCu5x3NjrlaM_ZqRL3gPZ866mn6BmeBNtAq7SYzeWYNazSXnICXNF53dIy50atoozVnZBq4nQHJRsbAu221RsX6rrRfEUQUSXhXC1N-TF_0J" group-title="CINE", Retro TV Palmares
 https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="CINE", Pantalla Clasica
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/OgPV3h1wdBVD6Evj0cDDlbVaTCu5x3NjrlaM_ZqRL3gPZ866mn6BmeBNtAq7SYzeWYNazSXnICXNF53dIy50atoozVnZBq4nQHJRsbAu221RsX6rrRfEUQUSXhXC1N-TF_0J" group-title="CINE", Pantalla Clasica
 https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg"  group-title="CINE", Mi TV Televisión Clásica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
@@ -100,7 +100,7 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/R6BcVP8AfWm63cR1mkPyy1Ts9P1YHAeYYmsWsmx4BFWkzjhPVmCvttGKTVGtOyyVTcD9i-Ak-drgG-vgXpGffNiSU9pLteo8qx8lmVb7fZpJGh2xRznkMvEu_eG2kpf2DWgIYNiYYmmbrpyuWoRUshpijw" group-title="DEPORTES",DeporTV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/DEPORTV.png/revision/latest/scale-to-width-down/340?cb=20181231231353" group-title="DEPORTES",DeporTV
 https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master_960x540_1400k.m3u8
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/f6fbd-elgarage-2013.png" group-title="DEPORTES" ,Garage TV 
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
