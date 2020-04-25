@@ -1574,8 +1574,8 @@ https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png" group-title="REGIONALES",Ufrovision Temuco
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
-#EXTINF:-1 tvg-logo="http://anexos.ulagos.cl/castro/admin/tpl/ulagos/images/ULAGOS_LOGO.JPG" group-title="REGIONALES",Universidad de Los Lagos Tv
-http://uestv.02.cl.cdnz.cl/uloslagos/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mt7LVY0X3kE/XlBdyl_hwFI/AAAAAAAAwW0/vqFU9wiyuawEn3E39ERyYaOkVZ3TVterACK8BGAsYHg/s0/2020-02-21.png" group-title="REGIONALES", Universidad de Los Lagos
+http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RUJ4pr.png" group-title="REGIONALES",Primitivos Tv Valdivia
 http://api.new.livestream.com/accounts/6107228/events/6490843/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvinet.cl/template/images/logosn.png" group-title="REGIONALES",INET Osorno
@@ -1588,8 +1588,6 @@ https://unlimited5-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UC
 http://190.3.169.119:8080/inicial/latina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfE83qU5z4xLMCQL7S-FO98G_ZNf7Mml5x3zMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONALES",Vision Tv Frutillar
 https://v2.tustreaming.cl/visiontv/live1/tracks-v1a1/rewind-999999.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mt7LVY0X3kE/XlBdyl_hwFI/AAAAAAAAwW0/vqFU9wiyuawEn3E39ERyYaOkVZ3TVterACK8BGAsYHg/s0/2020-02-21.png" group-title="REGIONALES", U Los Lagos
-http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Kiv5Ktv3BEo/Xb1-X8u-CxI/AAAAAAAAr5s/GhIbG_a7q6AgLXn-a8YDhoGIw6SlZBEOACK8BGAsYHg/s0/2019-11-02.png" group-title="REGIONALES", Canal Survisión Alerce
 https://v2.tustreaming.cl/survision/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NuXOWo.png" group-title="REGIONALES",Canal 5 Tv Puerto Montt
