@@ -1437,10 +1437,6 @@ https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m
 
 #EXTINF:-1 tvg-logo="http://www.logo.com.py/imagenes_db/GAL-6828621010_1390810510.jpg" group-title="REGIONALES" ,•●★-- REGIONALES --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://chilevisual.tv/radioonline/images/logo.png" group-title="REGIONALES",Chilevisual Tv
-http://v3.tustreaming.cl/chilevisual/live1/event-999999.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvdaldia.com/wp-content/uploads/2018/01/puertanorte1.png" group-title="REGIONALES",Puerta Norte
-https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8I3ALqJFO8U/Wn9iuwd_2jI/AAAAAAAAgv4/CGgV99apqosaMjAmYAWEYhxh279lzsyQQCK8BGAs/s220/2018-02-10.png" group-title="REGIONALES",   Arica TV 
 https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020-03-16.jpg" group-title="REGIONALES", Geovisión
