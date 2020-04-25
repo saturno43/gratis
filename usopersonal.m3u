@@ -77,6 +77,8 @@ https://usb.bozztv.com/ssh101/taltaltv/taltaltv/playlist.m3u8?PlaylistM3UCL
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0VJa61G.png" group-title="CINE",Conecta2 Tv
 https://edge1o.live.opencaster.com/caster/anoeBykiCgkC.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="CINE",La Popular TV
+https://593d7fe3c9b0d.streamlock.net:443/8124/8124/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="CINE", Zee Mundo Tv
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CINE", Retro TV Palmares
@@ -185,7 +187,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="INFANTILES",Pakapaka
 https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
-#EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="INFANTILES", TALTAL TV Animacion
+#EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="INFANTILES", Tal Tal Animacion
 https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="INFANTILES",Tateti
 http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
@@ -333,55 +335,6 @@ https://cdn2.zencast.tv:30443/telecreativa/live/chunks.m3u8
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w2137420998_b1344100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="ARGENTINA",4 Misiones
 https://cdn2.zencast.tv:30443/misiones4/live/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Telediario Televisión
-http://31.220.61.253:8090/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="ARGENTINA", Net TV
-https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Aire de Santa Fe
-https://stmv4.srvstm.com/aire/aire/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", TV Publica Fueguina
-https://video.solumedia.com/hls/c11/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 13 San Luis
-https://59d52c5a5ce5e.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Telesol San Juan
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", El 10 TV Salta
-https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 7 Salta
-https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 6 Posadas
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 8 Tunuyan Mendoza
-https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 7 Jujuy
-https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Lapacho TV Canal 11
-https://5b3050bb1b2d8.streamlock.net:443/tvcanal11/tvcanal11/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 6 Entre Rios
-http://inliveserver.com:1935/8380/8380/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 9 Litoral
-https://59d52c5a5ce5e.streamlock.net:4443/canal9hd/canal9hd_med/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Elonce
-https://elonce.zapto.org/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", 9Link
-http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 4 Esquel
-https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 2 Dean Funes
-http://streaming.arcast.com.ar:1935/canal2deanfunes/canal2deanfunes/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Televisora Regional Unimar
-https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 79 Mar del Plata
-https://5d8c5887418ac.streamlock.net:1936/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Telecreativa
-https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 10 Mar del Plata
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 3 Las Flores Digital
-https://inliveserver.com:1936/8436/8436/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", El Eco TV
-https://5cbda9ff89c34.streamlock.net:443/elecotv/elecotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-54P_Unp-XTA/XnDDTRGbF6I/AAAAAAAAw_k/vmupSBg2KMwj6N33mQpe2-ZS0lsGqwooQCK8BGAsYHg/s0/2020-03-17.png" group-title="ARGENTINA", Somos Rosario
 http://s8.stweb.tv/chacra/rosario_abr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="ARGENTINA", Chacra TV
@@ -458,8 +411,54 @@ https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA", 5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-
-
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Telediario Televisión
+http://31.220.61.253:8090/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="ARGENTINA", Net TV
+https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Aire de Santa Fe
+https://stmv4.srvstm.com/aire/aire/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", TV Publica Fueguina
+https://video.solumedia.com/hls/c11/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 13 San Luis
+https://59d52c5a5ce5e.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Telesol San Juan
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", El 10 TV Salta
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 7 Salta
+https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 8 Tunuyan Mendoza
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 7 Jujuy
+https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Lapacho TV Canal 11
+https://5b3050bb1b2d8.streamlock.net:443/tvcanal11/tvcanal11/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 6 Entre Rios
+http://inliveserver.com:1935/8380/8380/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 9 Litoral
+https://59d52c5a5ce5e.streamlock.net:4443/canal9hd/canal9hd_med/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Elonce
+https://elonce.zapto.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", 9Link
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 4 Esquel
+https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 2 Dean Funes
+http://streaming.arcast.com.ar:1935/canal2deanfunes/canal2deanfunes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Televisora Regional Unimar
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 79 Mar del Plata
+https://5d8c5887418ac.streamlock.net:1936/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Telecreativa
+https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 3 Las Flores Digital
+https://inliveserver.com:1936/8436/8436/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", El Eco TV
+https://5cbda9ff89c34.streamlock.net:443/elecotv/elecotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-PERU-
 
@@ -1315,8 +1314,6 @@ https://v2.tustreaming.cl/sabortv/live1/index.m3u8?PlaylistM3UCL
 https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fMV8GEtxrKU/XjHFU3j0UwI/AAAAAAAAvfQ/XSHqM9gV-JE3ooLT5xm4dBFrwKJ9EhZWwCK8BGAsYHg/s0/2020-01-29.png" group-title="RADIOTV", Beat TV
 https://590c5dc5c3271.streamlock.net/sebastian870/sebastian870/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="RADIOTV",La Popular TV
-https://593d7fe3c9b0d.streamlock.net:443/8124/8124/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://www.radiomaxima.cl/wp-content/uploads/2019/10/LOGO-MAXIMA-MIO-ESTATICO-e1572548123359.png" group-title="RADIOTV",Radio Maxima
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOTV",Carolina Tv HD
@@ -1329,8 +1326,6 @@ http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/
 https://unlimited2-cl.dps.live/bigradio/bigradio.smil/bigradio/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/bigradio.jpg" group-title="RADIOTV",BIG Radio
 https://unlimited2-cl.dps.live/bigradio/bigradio.smil/bigradio/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3788384_logo_radio_zeta.png" group-title="RADIOTV",RadioZeta
-https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
 http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Zkxwnf-bgX4/XoPOd4kOr7I/AAAAAAAAxX0/EWBlznUnmekBRjTn7B8n3ocfGe8bkITsQCK8BGAsYHg/s0/2020-03-31.png"  group-title="RADIOTV", Radio Zeta
