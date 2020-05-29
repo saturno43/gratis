@@ -1273,6 +1273,8 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
 http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvficticia/images/d/d3/Rewind_chile_tvr.png/revision/latest?cb=20160406015016&path-prefix=es" group-title="MUSICA", Rewind TV
+https://5cf4a2c2512a2.streamlock.net:443/rewintv/rewintv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-VIDEOMIX-
 
