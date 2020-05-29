@@ -32,7 +32,10 @@ http://live.entel.cl/3394/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
 #EXTINF:-1 tvg-logo="" group-title="CHILE",13c HD
 http://live.entel.cl/2348/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal Talca
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal Talca
+https://unlimited2-cl.dps.live/tctc/tctc.smil/tctc/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95386_13c.png" group-title="CHILE", 13c
 https://jimmy.zappingtv.com/13c/13c.smil/chunklist_b3628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTU2MCZ3b3d6YXRva2VuaGFzaD1rNDB0a21ERi1aZ2oyRlpHeXJSVkxGaFJMdjdMUmdTSVFUeENla1U4OVl3PQ==.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95390_13i.png" group-title="CHILE", 13i
@@ -73,6 +76,8 @@ https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKDG166.png" group-title="CHILE", TV Salud 
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ceacuchile.cl/wp-content/uploads/2018/06/Logotipo-CEAC-y-OSNCh-Color.png" group-title="CHILE", Centro de Extensión Cultural de la Chile
+https://videostreaming.cloudserver.cl/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Teleton_Chile_Logo.svg/1200px-Teleton_Chile_Logo.svg.png" group-title="CHILE",Teleton Tv
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
@@ -228,6 +233,8 @@ https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live
 https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="INFANTILES",Tateti
 http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/e/ef/Jetix_2013_logo.png/revision/latest?cb=20130717230437" group-title="INFANTILES",Jetix Tv
+http://164.68.103.66:81/live/jetix/index.m3u8
 #EXTINF:-1 tvg-logo="https://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="INFANTILES",ACS Network
 https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="INFANTILES",locomotion Tv
