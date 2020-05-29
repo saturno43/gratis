@@ -1205,8 +1205,12 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w152373056_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png" group-title="MUSICA",Ocko star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-omQS0__XP3Y/XpaPAIUgKUI/AAAAAAAAx44/0NeiqUb_LHk4-Sffm0h1XASJZA9B3DRLwCK8BGAsYHg/s0/2020-04-14.png" group-title="MUSICA", Rewind TV
-https://593b04c4c5670.streamlock.net:443/8024/8024/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-GiAE7UsO2L0/XqiYIQEmAVI/AAAAAAAAyVE/jBf_01tHI1UbF9zhl16tKm_O6R7em-9pgCK8BGAsYHg/s0/2020-04-28.png" group-title="MUSICA", Trace Latina
+http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-urnLeq-bRYw/XqiYnB1Q5yI/AAAAAAAAyVM/DGAUDSjdy_YwIycw-AU7tVsyUkmjFRZrACK8BGAsYHg/s0/2020-04-28.png" group-title="MUSICA", Trace Urban
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-xdzH3_OBq68/XrNzWYnN90I/AAAAAAAA0cg/9e99d83rcyMLEVCHVLZGAfZo8IDM63djgCK8BGAsYHg/s0/2020-05-06.png" group-title="MUSICA", Trace Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-quF_76l-K1A/UnKvQIO-BxI/AAAAAAAAATA/b1C08WiQoT4/s1600/HYPE+TV+NEW+LOGO+2+small.jpg" group-title="MUSICA",Hype Tv!
 http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/987.gif" group-title="MUSICA",Ocko Expres
@@ -1479,6 +1483,8 @@ https://t13-radio-live.cdn.nedmedia.io/index_3.m3u8
 https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png" group-title="RADIOTV",Radio Camila Tv
 https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6ZgHMhVYTR8/Xq4KctWJEvI/AAAAAAAAyjs/f196PiFNtZIbaS-DC3im8_aX1tf5dVF8QCK8BGAsYHg/s0/2020-05-02.png" group-title="RADIOTV", TXS Radio
+https://unlimited10-cl.dps.live/txsradio/txsradio.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",Madero Tv La Serena
 http://wow2.cl.digitalproserver.com/maderotv2/maderotv2vivo/maderotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLH0RB2Hl6hCA8Ik4WQDms1m23u_aphH-cHhpP3oDvPl0cllP2" group-title="RADIOTV",Madero Tv Antofagasta
