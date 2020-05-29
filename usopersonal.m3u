@@ -1640,7 +1640,7 @@ https://inliveserver.com:1936/10018/10018/playlist.m3u8?PlaylistM3UCL
 https://5580a424c4e9f.streamlock.net:8020/reseller/chiloe1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalchilote.cl/ambar/empresa/archivos/imagen_nsr3oi.png"  group-title="REGIONALES", Canal Chilote
 http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-osoDd4sx09s/XUIeRlfi0tI/AAAAAAAAqAE/YZ6Z8IrPlu0Lhq3dCWew1uls3PUV5M46ACK8BGAs/s0/2019-07-31.png" group-title="REGIONALES", Canal 10 ARTV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-osoDd4sx09s/XUIeRlfi0tI/AAAAAAAAqAE/YZ6Z8IrPlu0Lhq3dCWew1uls3PUV5M46ACK8BGAs/s0/2019-07-31.png" group-title="REGIONALES", Canal 10 ARTV Quemchi
 https://5d4a00b8a0738.streamlock.net:443/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://chiloered25.cl/wp-content/uploads/2019/04/log_top_chiloe_red.png" group-title="REGIONALES",Chiloe Red 25
 https://v2.tustreaming.cl/chiloered/live1/tracks-v1a1/playlist.m3u8
