@@ -592,6 +592,8 @@ https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
 https://jimmy.zappingtv.com/rcn/rcn.smil/chunklist_b1596000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTg2MCZ3b3d6YXRva2VuaGFzaD1lcXd5ZS00bXlDOVBLUW5RdHFqN3ZYby1CTldad0lKcUN1cGlIdWlCZzhVPQ==.m3u8 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wOrd9cz30Mw/XmWM28JwydI/AAAAAAAAwtA/P-pKIhVi4zsSjQPlnJLftFHFfCFFHJxgACK8BGAsYHg/s0/2020-03-08.png"  group-title="COLOMBIA", RCN
 https://jimmy.zappingtv.com/rcn/rcn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2012-2016-logo-286AB7AB77-seeklogo.com.png",El Trece
+https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/chunklist.m3u8|Referer=https://player.cdnmedia.tv/embed/4fe9a81f
 #EXTINF:-1 tvg-logo="http://www.suram.com.co/wp-content/uploads/2017/04/LOGO-SURAM.png" group-title="COLOMBIA",Suram TV 
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1810740705.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/fdd1b1_ea866a37c0114866acf8472c1f42000d~mv2.png" group-title="COLOMBIA",Telemedellin
