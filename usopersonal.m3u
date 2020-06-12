@@ -477,6 +477,8 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="PERU",Exitosa Tv
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Lda3xv_LpuM/hqdefault.jpg" group-title="PERU",Antares TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title="PERU",Monterrico TV
@@ -1342,6 +1344,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://v2.tustreaming.cl/sabortv/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png" group-title="RADIOTV", Radio Fiesta
 https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i3.wp.com/radiokaribena.pe/wp-content/uploads/2020/04/00000001-11.png" group-title="RADIOTV",Kariveña Tv
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fMV8GEtxrKU/XjHFU3j0UwI/AAAAAAAAvfQ/XSHqM9gV-JE3ooLT5xm4dBFrwKJ9EhZWwCK8BGAsYHg/s0/2020-01-29.png" group-title="RADIOTV", Beat TV
 https://590c5dc5c3271.streamlock.net/sebastian870/sebastian870/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://www.radiomaxima.cl/wp-content/uploads/2019/10/LOGO-MAXIMA-MIO-ESTATICO-e1572548123359.png" group-title="RADIOTV",Radio Maxima
