@@ -4,42 +4,6 @@
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,•●★-- CHILE --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CHILE",Canal 24 Horas HD
-http://live.entel.cl/2294/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-
-#EXTINF:-1 tvg-logo="" group-title="CHILE",CNN Chile HD
-http://live.entel.cl/2285/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-
-#EXTINF:-1 tvg-logo="" group-title="CHILE",La Red HD
-http://live.entel.cl/2335/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-
-#EXTINF:-1 tvg-logo="" group-title="CHILE",TV+ HD
-http://live.entel.cl/2327/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-
-#EXTINF:-1 tvg-logo="" group-title="CHILE",TVN HD
-http://live.entel.cl/2283/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:-1 tvg-logo="" group-title="CHILE",Mega HD
-http://live.entel.cl/2326/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:-1 tvg-logo="" group-title="CHILE",Chilevision HD
-http://live.entel.cl/2321/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-
-#EXTINF:-1 tvg-logo="" group-title="CHILE",Canal 13 HD
-http://live.entel.cl/2293/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:-1 tvg-logo="" group-title="CHILE",REC 13
-http://live.entel.cl/3394/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-
-#EXTINF:-1 tvg-logo="" group-title="CHILE",13c HD
-http://live.entel.cl/2348/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal Talca
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal Talca
-https://unlimited2-cl.dps.live/tctc/tctc.smil/tctc/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95386_13c.png" group-title="CHILE", 13c
-https://jimmy.zappingtv.com/13c/13c.smil/chunklist_b3628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTU2MCZ3b3d6YXRva2VuaGFzaD1rNDB0a21ERi1aZ2oyRlpHeXJSVkxGaFJMdjdMUmdTSVFUeENla1U4OVl3PQ==.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95390_13i.png" group-title="CHILE", 13i
-https://jimmy.zappingtv.com/13i/13i.smil/chunklist_w864550285_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTc0MCZ3b3d6YXRva2VuaGFzaD1XVF9kaUJwRGtzcTNXdGVHcHFiTk0wX0RuWTJLV2lPeW96blZacHBUQnVJPQ==.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.imgur.com/ibvV8v0.png" group-title="CHILE",Tvn 
 http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="CHILE",Tv Chile
@@ -66,6 +30,10 @@ https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8
 http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXwpqm.png" group-title="CHILE",UCV 3 HD
 https://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal Talca
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal Talca
+https://unlimited2-cl.dps.live/tctc/tctc.smil/tctc/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN Chile HD 
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984897951024713729/HyC8AIMf.jpg" group-title="CHILE" ,Santiago Tv
@@ -132,10 +100,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://desportes2017.files.wordpress.com/2017/11/cropped-pelotas1.png?w=532" group-title="DEPORTES" ,•●★-- DEPORTES --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Teletrak HD
-http://live.entel.cl/2338/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="DEPORTES",CDF Premium
-http://live.entel.cl/2288/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTES",Claro Sports
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
@@ -582,10 +546,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1200px-RCN_Televisi%C3%B3n_logo.svg.png",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logocaracol.svg/1200px-Logocaracol.svg.png",Caracol 
-https://jimmy.zappingtv.com/caracol/caracol.smil/chunklist_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTkyMCZ3b3d6YXRva2VuaGFzaD11NS03VzZPMDF2Q0lpN3N5WkxFTFpGZlpZUDJkQTBaU09zZVU0VzJCYUkwPQ==.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4JQjgXPlDdQ/XmWML1GQe6I/AAAAAAAAws0/DnL0PB4c7SEKpodzoZsj7Q8uOo1gkN96wCK8BGAsYHg/s0/2020-03-08.png"  group-title="COLOMBIA", RCN Novelas
-https://jimmy.zappingtv.com/rcnnvl/rcnnvl.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://i.imgur.com/fzsER.png",NTN24
 https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1200px-RCN_Televisi%C3%B3n_logo.svg.png",RCN
